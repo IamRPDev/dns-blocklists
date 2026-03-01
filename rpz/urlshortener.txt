@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1772098980 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1772379960 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 26 Feb 2026 09:43 UTC
-; Version: 2026.0226.0943.45
+; Last modified: 01 Mar 2026 15:46 UTC
+; Version: 2026.0301.1546.18
 ; Syntax: RPZ
-; Number of entries: 19986
+; Number of entries: 19980
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -3123,8 +3123,6 @@ has.coffee CNAME .
 *.260web.com CNAME .
 2fear.com CNAME .
 *.2fear.com CNAME .
-grafana.2merkato.com CNAME .
-*.grafana.2merkato.com CNAME .
 t.2merkato.com CNAME .
 *.t.2merkato.com CNAME .
 2sap.com CNAME .
@@ -8739,8 +8737,6 @@ likes.fans CNAME .
 *.likes.fans CNAME .
 46.fi CNAME .
 *.46.fi CNAME .
-4e.fi CNAME .
-*.4e.fi CNAME .
 bot.fi CNAME .
 *.bot.fi CNAME .
 dy.fi CNAME .
@@ -15007,8 +15003,6 @@ redsto.ne CNAME .
 *.4alink.net CNAME .
 4h.net CNAME .
 *.4h.net CNAME .
-5url.net CNAME .
-*.5url.net CNAME .
 7or.net CNAME .
 *.7or.net CNAME .
 89bet69.net CNAME .

@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Feb 2026 09:43 UTC
-# Version: 2026.0226.0943.45
+# Last modified: 01 Mar 2026 15:46 UTC
+# Version: 2026.0301.1546.18
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9993
+# Number of entries: 9990
 #
 local=/0.gp/
 local=/00m.in/
@@ -179,7 +179,6 @@ local=/2link.cc/
 local=/2link.in/
 local=/2ly.link/
 local=/2m.is/
-local=/grafana.2merkato.com/
 local=/t.2merkato.com/
 local=/2my.info/
 local=/2no.co/
@@ -277,7 +276,6 @@ local=/4alink.net/
 local=/4b.is/
 local=/4bio.cc/
 local=/4d2.link/
-local=/4e.fi/
 local=/4eq.ir/
 local=/4etch.com/
 local=/4ev.link/
@@ -321,7 +319,6 @@ local=/5o.io/
 local=/5or.cc/
 local=/5qzr.com/
 local=/5rwv.info/
-local=/5url.net/
 local=/5v-v.com/
 local=/5w.fit/
 local=/5z8.info/

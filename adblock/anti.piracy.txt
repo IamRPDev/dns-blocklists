@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 01 Mar 2026 10:57 UTC
-! Version: 2026.0301.1057.03
+! Last modified: 01 Mar 2026 16:58 UTC
+! Version: 2026.0301.1658.33
 ! Syntax: AdBlock
-! Number of entries: 11648
+! Number of entries: 11646
 !
 ||tracker.guguan.000.pe^
 ||003396815.xyz^
@@ -250,7 +250,6 @@
 ||250412.xyz^
 ||2600.com^
 ||266528.xyz^
-||2anime.xyz^
 ||2bbit.com^
 ||2bcalvi.com^
 ||2ddl.it^
@@ -9398,7 +9397,6 @@
 ||tapecontent.net^
 ||tapedown.com^
 ||tapochek.net^
-||tarhex.com^
 ||taringa.net^
 ||tarjetaroja.me^
 ||tarjetarojaenvivo.me^

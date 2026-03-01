@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Feb 2026 09:43 UTC
-# Version: 2026.0226.0943.45
+# Last modified: 01 Mar 2026 15:46 UTC
+# Version: 2026.0301.1546.18
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 9993
+# Number of entries: 9990
 #
 *.0.gp
 *.00m.in
@@ -179,7 +179,6 @@
 *.2link.in
 *.2ly.link
 *.2m.is
-*.grafana.2merkato.com
 *.t.2merkato.com
 *.2my.info
 *.2no.co
@@ -277,7 +276,6 @@
 *.4b.is
 *.4bio.cc
 *.4d2.link
-*.4e.fi
 *.4eq.ir
 *.4etch.com
 *.4ev.link
@@ -321,7 +319,6 @@
 *.5or.cc
 *.5qzr.com
 *.5rwv.info
-*.5url.net
 *.5v-v.com
 *.5w.fit
 *.5z8.info
