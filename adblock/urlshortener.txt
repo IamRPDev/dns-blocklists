@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 01 Mar 2026 15:46 UTC
-! Version: 2026.0301.1546.18
+! Last modified: 01 Mar 2026 21:55 UTC
+! Version: 2026.0301.2155.29
 ! Syntax: AdBlock
-! Number of entries: 9990
+! Number of entries: 9989
 !
 ||0.gp^
 ||00m.in^
@@ -523,7 +523,6 @@
 ||adfly.be^
 ||adfly.cc^
 ||adflydsp.com^
-||adflyfly.com^
 ||adfoc.us^
 ||adfw2025.com^
 ||adialerts.com^

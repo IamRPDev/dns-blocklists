@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 27 Feb 2026 15:58 UTC
-# Version: 2026.0227.1558.43
+# Last modified: 01 Mar 2026 23:18 UTC
+# Version: 2026.0301.2318.12
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 16390
+# Number of entries: 16389
 #
 local=/000000555.xyz/
 local=/ss.0001.xyz/
@@ -598,7 +598,6 @@ local=/drgd.accesscam.org/
 local=/idkkilo.accesscam.org/
 local=/stellar.accesscam.org/
 local=/stellar1.accesscam.org/
-local=/thesealoftherighteye.accesscam.org/
 local=/totallyixlv10interstellar.accesscam.org/
 local=/totallyixlv10isthebest.accesscam.org/
 local=/vir.accesscam.org/

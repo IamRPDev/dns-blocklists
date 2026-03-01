@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Mar 2026 16:58 UTC
-# Version: 2026.0301.1658.33
+# Last modified: 01 Mar 2026 23:10 UTC
+# Version: 2026.0301.2310.55
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11646
+# Number of entries: 11645
 #
 local=/tracker.guguan.000.pe/
 local=/003396815.xyz/
@@ -347,7 +347,6 @@ local=/720pstream.me/
 local=/720pstream.nu/
 local=/720pstream.se/
 local=/72939229dww.com/
-local=/77help.ru/
 local=/786livetv.pro/
 local=/78964564.xyz/
 local=/7mag.net/

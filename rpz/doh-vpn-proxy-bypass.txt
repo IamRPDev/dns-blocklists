@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1772207880 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1772407080 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 27 Feb 2026 15:58 UTC
-; Version: 2026.0227.1558.43
+; Last modified: 01 Mar 2026 23:18 UTC
+; Version: 2026.0301.2318.12
 ; Syntax: RPZ
-; Number of entries: 32780
+; Number of entries: 32778
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -25645,8 +25645,6 @@ stellar.accesscam.org CNAME .
 *.stellar.accesscam.org CNAME .
 stellar1.accesscam.org CNAME .
 *.stellar1.accesscam.org CNAME .
-thesealoftherighteye.accesscam.org CNAME .
-*.thesealoftherighteye.accesscam.org CNAME .
 totallyixlv10interstellar.accesscam.org CNAME .
 *.totallyixlv10interstellar.accesscam.org CNAME .
 totallyixlv10isthebest.accesscam.org CNAME .
