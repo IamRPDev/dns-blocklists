@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Mar 2026 11:06 UTC
-# Version: 2026.0303.1106.55
+# Last modified: 03 Mar 2026 17:20 UTC
+# Version: 2026.0303.1720.09
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11636
+# Number of entries: 11631
 #
 local=/tracker.guguan.000.pe/
 local=/003396815.xyz/
@@ -4210,6 +4210,7 @@ local=/gettorrents.org/
 local=/getvideostream.com/
 local=/getwhisky.app/
 local=/gfxtra31.com/
+local=/gg666jj888.com/
 local=/ggbases.com/
 local=/ghatailonline.net/
 local=/sparkle.ghostchu-services.top/
@@ -5166,7 +5167,6 @@ local=/ns349743.ip-91-121-106.eu/
 local=/ip8ktv.com/
 local=/ipacrack.com/
 local=/ipalibrary.me/
-local=/ipboot.xyz/
 local=/tracker.iperson.xyz/
 local=/v2.iperson.xyz/
 local=/tracker.ipfsscan.io/
@@ -5279,7 +5279,6 @@ local=/japscan.ws/
 local=/javafooty.com/
 local=/javbus.com/
 local=/javfeed.com/
-local=/javjunkies.com/
 local=/javlibrary.com/
 local=/javmix.tv/
 local=/javtorrent.me/
@@ -5375,7 +5374,6 @@ local=/katcr.co/
 local=/katcr.to/
 local=/katdrama.net/
 local=/katfile.com/
-local=/kati3kat.tube/
 local=/katmoviehd.ac/
 local=/katmoviehd.fi/
 local=/katmoviehd.nl/
@@ -5419,7 +5417,6 @@ local=/khinsider.com/
 local=/khmermovie168.org/
 local=/khulnaflix.net/
 local=/kichkas.biz/
-local=/kickass.cm/
 local=/kickass.so/
 local=/kickass.to/
 local=/kickass.ws/
@@ -5483,7 +5480,6 @@ local=/kinol.pl/
 local=/kinomall.ru/
 local=/kinomavic.com/
 local=/kinomax.to/
-local=/kinomisto.com/
 local=/kinomob.com/
 local=/kinonadzor.net/
 local=/kinoplenka.top/
@@ -5541,7 +5537,6 @@ local=/kinox.cloud/
 local=/kinox.club/
 local=/kinox.codes/
 local=/kinox.cool/
-local=/kinox.day/
 local=/kinox.deals/
 local=/kinox.digital/
 local=/kinox.direct/
@@ -5567,7 +5562,6 @@ local=/kinox.my/
 local=/kinox.navy/
 local=/kinox.news/
 local=/kinox.parts/
-local=/kinox.prof/
 local=/kinox.ru/
 local=/kinox.run/
 local=/kinox.sh/
@@ -11307,6 +11301,7 @@ local=/xuyadong.sbs/
 local=/xwt-classics.net/
 local=/xx-xsx.top/
 local=/xx1.online/
+local=/xx333hh888.com/
 local=/00.xxtor.com/
 local=/open.xxtor.com/
 local=/xxx-torrent.net/

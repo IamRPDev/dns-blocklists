@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Mar 2026 03:48 UTC
-# Version: 2026.0303.0348.27
+# Last modified: 03 Mar 2026 16:03 UTC
+# Version: 2026.0303.1603.10
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9962
+# Number of entries: 9956
 #
 local=/0.gp/
 local=/00m.in/
@@ -3736,7 +3736,6 @@ local=/ishort.in/
 local=/ishortie.com/
 local=/ishortify.com/
 local=/ishortn.ink/
-local=/ishorturl.com/
 local=/ishorturl.net/
 local=/isinstance.com/
 local=/islam.qa/
@@ -3985,7 +3984,6 @@ local=/keremozgit.org/
 local=/kes.re/
 local=/ketli.net/
 local=/keyli.me/
-local=/keyshrink.com/
 local=/kf.org/
 local=/kfd.pl/
 local=/kfrc.co/
@@ -4104,7 +4102,6 @@ local=/krete.info/
 local=/kristal777.us/
 local=/kro.kr/
 local=/krohne.link/
-local=/krpcgvm.wiki/
 local=/krpp.me/
 local=/shorty.krystian.net/
 local=/kryvon.live/
@@ -4129,7 +4126,6 @@ local=/kurzelinks.de/
 local=/kuta.ir/
 local=/kutlink.com/
 local=/kutt.in/
-local=/kutt.it/
 local=/kuttify.com/
 local=/kuty.us/
 local=/kuxey.com/
@@ -4141,12 +4137,10 @@ local=/kwiklinks.in/
 local=/kwurl.com/
 local=/kwx.fyi/
 local=/kxb.me/
-local=/ky77.link/
 local=/kyaa.info/
 local=/kyb101.link/
 local=/kyk.it/
 local=/kylynk.com/
-local=/kyshort.xyz/
 local=/l.tl/
 local=/l-i-nk.me/
 local=/l-ink.me/

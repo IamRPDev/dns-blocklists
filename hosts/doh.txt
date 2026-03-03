@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Mar 2026 05:10 UTC
-# Version: 2026.0303.0510.49
+# Last modified: 03 Mar 2026 17:26 UTC
+# Version: 2026.0303.1726.17
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3946
+# Number of entries: 3940
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -2073,15 +2073,12 @@
 0.0.0.0 apidns.kwd.inkuai.com
 0.0.0.0 httpdns.kwd.inkuai.com
 0.0.0.0 ad.innet.id
-0.0.0.0 inoainoa.fun
-0.0.0.0 www.inoainoa.fun
 0.0.0.0 inpssh.online
 0.0.0.0 www.inpssh.online
 0.0.0.0 qlf-doh.inria.fr
 0.0.0.0 premiumtier-network.instadart.net
 0.0.0.0 intertop.link
 0.0.0.0 dns.invent.hr
-0.0.0.0 adb.intienquan.io.vn
 0.0.0.0 ion.pm
 0.0.0.0 dns.cloud.ionutl.ro
 0.0.0.0 iozoi.cn
@@ -2095,7 +2092,6 @@
 0.0.0.0 dns1.irumatech.com
 0.0.0.0 dns.is0mino.com
 0.0.0.0 mickedi.isgood.host
-0.0.0.0 dns.ishan.pw
 0.0.0.0 dns.islandnet.com
 0.0.0.0 dns.it-pa.net
 0.0.0.0 it-works4u.com
@@ -2132,7 +2128,6 @@
 0.0.0.0 adguard.jaydub.cloud
 0.0.0.0 aghome.jcconnell.com
 0.0.0.0 argus1.jcconnell.com
-0.0.0.0 dns.jcdn.site
 0.0.0.0 jcdns.fun
 0.0.0.0 dns.jd.com
 0.0.0.0 doh.jeroenhd.nl
@@ -2194,7 +2189,6 @@
 0.0.0.0 dns.jupitrdns.com
 0.0.0.0 jp01.just-a-web.com
 0.0.0.0 sgs02.just-a-web.com
-0.0.0.0 sgs03.just-a-web.com
 0.0.0.0 ad.justincounts.com
 0.0.0.0 dns.justinnetworkingsolutions.com
 0.0.0.0 adguard.k-likhachev.ru

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Mar 2026 05:10 UTC
-# Version: 2026.0303.0510.49
+# Last modified: 03 Mar 2026 17:26 UTC
+# Version: 2026.0303.1726.17
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3472
+# Number of entries: 3467
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -1763,13 +1763,11 @@ local=/ingenmannsland.online/
 local=/apidns.kwd.inkuai.com/
 local=/httpdns.kwd.inkuai.com/
 local=/ad.innet.id/
-local=/inoainoa.fun/
 local=/inpssh.online/
 local=/qlf-doh.inria.fr/
 local=/premiumtier-network.instadart.net/
 local=/intertop.link/
 local=/dns.invent.hr/
-local=/adb.intienquan.io.vn/
 local=/ion.pm/
 local=/dns.cloud.ionutl.ro/
 local=/iozoi.cn/
@@ -1783,7 +1781,6 @@ local=/dns.irumatech.com/
 local=/dns1.irumatech.com/
 local=/dns.is0mino.com/
 local=/mickedi.isgood.host/
-local=/dns.ishan.pw/
 local=/dns.islandnet.com/
 local=/dns.it-pa.net/
 local=/it-works4u.com/
@@ -1816,7 +1813,6 @@ local=/hk.jason666.top/
 local=/adguard.jaydub.cloud/
 local=/aghome.jcconnell.com/
 local=/argus1.jcconnell.com/
-local=/dns.jcdn.site/
 local=/jcdns.fun/
 local=/dns.jd.com/
 local=/doh.jeroenhd.nl/
@@ -1876,7 +1872,6 @@ local=/dns.jungle-im.ir/
 local=/dns.jupitrdns.com/
 local=/jp01.just-a-web.com/
 local=/sgs02.just-a-web.com/
-local=/sgs03.just-a-web.com/
 local=/ad.justincounts.com/
 local=/dns.justinnetworkingsolutions.com/
 local=/adguard.k-likhachev.ru/

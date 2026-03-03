@@ -1,6 +1,11 @@
 # Unblocking for relaxed and balanced lists (non-aggressive) only.
 
 # https://github.com/hagezi/dns-blocklists/issues/9285
+p16-ad-site-sign-sg.tiktokcdn.com
+p16-ad-site-sign-sg.tiktokcdn.com.edgesuite.net
+p19-ad-site-sign-sg.tiktokcdn.com
+sf16-ads-format-sign.tiktokcdn.com
+sf16-ads-format-sign.tiktokcdn.com.edgesuite.net
 sf19-ads-format-sign.tiktokcdn.com
 
 # Reportedly causes performance issues (Valorant/Riot Client), unconfirmed.

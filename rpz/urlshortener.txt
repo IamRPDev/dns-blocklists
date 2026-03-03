@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1772509680 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1772553780 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Mar 2026 03:48 UTC
-; Version: 2026.0303.0348.27
+; Last modified: 03 Mar 2026 16:03 UTC
+; Version: 2026.0303.1603.10
 ; Syntax: RPZ
-; Number of entries: 19924
+; Number of entries: 19912
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -4777,8 +4777,6 @@ ishortie.com CNAME .
 *.ishortie.com CNAME .
 ishortify.com CNAME .
 *.ishortify.com CNAME .
-ishorturl.com CNAME .
-*.ishorturl.com CNAME .
 isinstance.com CNAME .
 *.isinstance.com CNAME .
 isterratrk.com CNAME .
@@ -4893,8 +4891,6 @@ keckcntr.com CNAME .
 *.keckcntr.com CNAME .
 keetl.com CNAME .
 *.keetl.com CNAME .
-keyshrink.com CNAME .
-*.keyshrink.com CNAME .
 kinky-pipes.com CNAME .
 *.kinky-pipes.com CNAME .
 kirimlink.com CNAME .
@@ -11603,8 +11599,6 @@ jek.it CNAME .
 *.jek.it CNAME .
 kurly.it CNAME .
 *.kurly.it CNAME .
-kutt.it CNAME .
-*.kutt.it CNAME .
 kyk.it CNAME .
 *.kyk.it CNAME .
 l2l.it CNAME .
@@ -12703,8 +12697,6 @@ kisa.link CNAME .
 *.kisa.link CNAME .
 krohne.link CNAME .
 *.krohne.link CNAME .
-ky77.link CNAME .
-*.ky77.link CNAME .
 kyb101.link CNAME .
 *.kyb101.link CNAME .
 larindahooks.link CNAME .
@@ -19547,8 +19539,6 @@ sht.wf CNAME .
 *.sht.wf CNAME .
 davidbombal.wiki CNAME .
 *.davidbombal.wiki CNAME .
-krpcgvm.wiki CNAME .
-*.krpcgvm.wiki CNAME .
 shrtxtus.wiki CNAME .
 *.shrtxtus.wiki CNAME .
 tradie.wiki CNAME .
@@ -19791,8 +19781,6 @@ jepebanget.xyz CNAME .
 *.jepebanget.xyz CNAME .
 kingurl.xyz CNAME .
 *.kingurl.xyz CNAME .
-kyshort.xyz CNAME .
-*.kyshort.xyz CNAME .
 l6dh.xyz CNAME .
 *.l6dh.xyz CNAME .
 lillink.xyz CNAME .

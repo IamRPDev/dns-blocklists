@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 03 Mar 2026 03:48 UTC
-! Version: 2026.0303.0348.27
+! Last modified: 03 Mar 2026 16:03 UTC
+! Version: 2026.0303.1603.10
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -3703,7 +3703,6 @@
 @@||ishortie.com^
 @@||ishortify.com^
 @@||ishortn.ink^
-@@||ishorturl.com^
 @@||ishorturl.net^
 @@||isinstance.com^
 @@||islam.qa^
@@ -3948,7 +3947,6 @@
 @@||kes.re^
 @@||ketli.net^
 @@||keyli.me^
-@@||keyshrink.com^
 @@||kf.org^
 @@||kfd.pl^
 @@||kfrc.co^
@@ -4066,7 +4064,6 @@
 @@||kristal777.us^
 @@||kro.kr^
 @@||krohne.link^
-@@||krpcgvm.wiki^
 @@||krpp.me^
 @@||shorty.krystian.net^
 @@||kryvon.live^
@@ -4091,7 +4088,6 @@
 @@||kuta.ir^
 @@||kutlink.com^
 @@||kutt.in^
-@@||kutt.it^
 @@||kuttify.com^
 @@||kuty.us^
 @@||kuxey.com^
@@ -4103,12 +4099,10 @@
 @@||kwurl.com^
 @@||kwx.fyi^
 @@||kxb.me^
-@@||ky77.link^
 @@||kyaa.info^
 @@||kyb101.link^
 @@||kyk.it^
 @@||kylynk.com^
-@@||kyshort.xyz^
 @@||l.tl^
 @@||l-i-nk.me^
 @@||l-ink.me^

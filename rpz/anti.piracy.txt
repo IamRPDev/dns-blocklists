@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1772535960 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1772558400 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Mar 2026 11:06 UTC
-; Version: 2026.0303.1106.55
+; Last modified: 03 Mar 2026 17:20 UTC
+; Version: 2026.0303.1720.09
 ; Syntax: RPZ
-; Number of entries: 23272
+; Number of entries: 23262
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -2232,8 +2232,6 @@ dood.cm CNAME .
 *.dood.cm CNAME .
 hdmovie2.cm CNAME .
 *.hdmovie2.cm CNAME .
-kickass.cm CNAME .
-*.kickass.cm CNAME .
 motchill.cm CNAME .
 *.motchill.cm CNAME .
 send.cm CNAME .
@@ -4846,6 +4844,8 @@ getvideostream.com CNAME .
 *.getvideostream.com CNAME .
 gfxtra31.com CNAME .
 *.gfxtra31.com CNAME .
+gg666jj888.com CNAME .
+*.gg666jj888.com CNAME .
 ggbases.com CNAME .
 *.ggbases.com CNAME .
 media.ghurionline.com CNAME .
@@ -5274,8 +5274,6 @@ javbus.com CNAME .
 *.javbus.com CNAME .
 javfeed.com CNAME .
 *.javfeed.com CNAME .
-javjunkies.com CNAME .
-*.javjunkies.com CNAME .
 javlibrary.com CNAME .
 *.javlibrary.com CNAME .
 jetanimes.com CNAME .
@@ -5390,8 +5388,6 @@ kinogo-ua.com CNAME .
 *.kinogo-ua.com CNAME .
 kinomavic.com CNAME .
 *.kinomavic.com CNAME .
-kinomisto.com CNAME .
-*.kinomisto.com CNAME .
 kinomob.com CNAME .
 *.kinomob.com CNAME .
 kinorun.com CNAME .
@@ -8214,6 +8210,8 @@ xtvi.com CNAME .
 *.xtvi.com CNAME .
 xubster.com CNAME .
 *.xubster.com CNAME .
+xx333hh888.com CNAME .
+*.xx333hh888.com CNAME .
 00.xxtor.com CNAME .
 *.00.xxtor.com CNAME .
 open.xxtor.com CNAME .
@@ -8628,8 +8626,6 @@ vegamovies.dating CNAME .
 *.vegamovies.dating CNAME .
 altadefinizione.day CNAME .
 *.altadefinizione.day CNAME .
-kinox.day CNAME .
-*.kinox.day CNAME .
 popcdn.day CNAME .
 *.popcdn.day CNAME .
 shaid4u.day CNAME .
@@ -17814,8 +17810,6 @@ prmovies.productions CNAME .
 *.prmovies.productions CNAME .
 yomovies.productions CNAME .
 *.yomovies.productions CNAME .
-kinox.prof CNAME .
-*.kinox.prof CNAME .
 mkvcinemas.prof CNAME .
 *.mkvcinemas.prof CNAME .
 123movies.promo CNAME .
@@ -21118,8 +21112,6 @@ ilgeniodellostreaming.tube CNAME .
 *.ilgeniodellostreaming.tube CNAME .
 indoxxi.tube CNAME .
 *.indoxxi.tube CNAME .
-kati3kat.tube CNAME .
-*.kati3kat.tube CNAME .
 kinox.tube CNAME .
 *.kinox.tube CNAME .
 reboot.tube CNAME .
@@ -22994,8 +22986,6 @@ inattvgir-amp.xyz CNAME .
 *.inattvgir-amp.xyz CNAME .
 ind-unblock.xyz CNAME .
 *.ind-unblock.xyz CNAME .
-ipboot.xyz CNAME .
-*.ipboot.xyz CNAME .
 tracker.iperson.xyz CNAME .
 *.tracker.iperson.xyz CNAME .
 v2.iperson.xyz CNAME .

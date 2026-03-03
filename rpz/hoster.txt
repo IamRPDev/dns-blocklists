@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1772511660 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1772555760 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Mar 2026 04:21 UTC
-; Version: 2026.0303.0421.33
+; Last modified: 03 Mar 2026 16:36 UTC
+; Version: 2026.0303.1636.01
 ; Syntax: RPZ
-; Number of entries: 2558
+; Number of entries: 2554
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -2004,8 +2004,6 @@ kilu.net CNAME .
 *.kilu.net CNAME .
 kulichki.net CNAME .
 *.kulichki.net CNAME .
-l8n5kafm6l.net CNAME .
-*.l8n5kafm6l.net CNAME .
 megabyet.net CNAME .
 *.megabyet.net CNAME .
 mydiscussion.net CNAME .
@@ -2352,8 +2350,6 @@ surge.sh CNAME .
 *.surge.sh CNAME .
 downfall.shop CNAME .
 *.downfall.shop CNAME .
-kyoce.shop CNAME .
-*.kyoce.shop CNAME .
 onlineweb.shop CNAME .
 *.onlineweb.shop CNAME .
 pizzakeep.shop CNAME .

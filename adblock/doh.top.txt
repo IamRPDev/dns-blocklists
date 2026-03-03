@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 02 Mar 2026 11:19 UTC
-! Version: 2026.0302.1119.22
+! Last modified: 03 Mar 2026 17:26 UTC
+! Version: 2026.0303.1726.47
 ! Syntax: AdBlock
-! Number of entries: 1126
+! Number of entries: 1125
 !
 ||003153.xyz^
 ||ns.00dani.me^
@@ -594,7 +594,6 @@
 ||dns1.irumatech.com^
 ||dns.is0mino.com^
 ||mickedi.isgood.host^
-||dns.ishan.pw^
 ||it-works4u.com^
 ||it-works4u.nl^
 ||pdns.itxe.net^
