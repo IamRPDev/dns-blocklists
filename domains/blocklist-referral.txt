@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Mar 2026 09:43 UTC
-# Version: 2026.0302.0943.31
+# Last modified: 03 Mar 2026 09:37 UTC
+# Version: 2026.0303.0937.49
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1924
+# Number of entries: 1927
 #
 1-aclk.net
 1aurl.io
@@ -254,6 +254,7 @@ seu.cleverreach.com
 8437.seu.cleverreach.com
 8820.seu.cleverreach.com
 seu1.cleverreach.com
+170770.seu1.cleverreach.com
 94147.47223.seu1.cleverreach.com
 51128.seu1.cleverreach.com
 52586.seu1.cleverreach.com
@@ -450,6 +451,7 @@ convertkit.com
 convertkit-mail.com
 click.convertkit-mail.com
 1accc1c9.click.convertkit-mail.com
+c09f5da1.click.convertkit-mail.com
 el2.convertkit-mail.com
 open.convertkit-mail.com
 001881fb.open.convertkit-mail.com
@@ -662,7 +664,6 @@ api.elasticemail.com
 hs.eloqua.com
 profitshare.emag.ro
 list-unsubscribe.eservice.emarsys.net
-redirector.eservice.emarsys.net
 suite-dashboard.gservice.emarsys.net
 suite.emarsys.net
 suite1.emarsys.net
@@ -1320,6 +1321,7 @@ mkto-ab620045.com
 mkto-ab620126.com
 mkto-ab620130.com
 mkto-ab630019.com
+mkto-ab630033.com
 mkto-ab630144.com
 mkto-ab640193.com
 mkto-ab650006.com
@@ -1347,6 +1349,7 @@ mkto-h0084.com
 mkto-i0028.com
 mkto-j0126.com
 mkto-lon020055.com
+mkto-lon020062.com
 mkto-lon030291.com
 mkto-lon040152.com
 mkto-lon050143.com

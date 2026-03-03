@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Mar 2026 05:11 UTC
-# Version: 2026.0303.0511.47
+# Last modified: 03 Mar 2026 11:13 UTC
+# Version: 2026.0303.1113.44
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 16299
+# Number of entries: 16285
 #
 local=/000000555.xyz/
 local=/ss.0001.xyz/
@@ -6494,8 +6494,6 @@ local=/tytytyytytyt.gixiqpyp.top/
 local=/gizlen.net/
 local=/gizlibaglanti.com/
 local=/h.gjrick.tw/
-local=/solidreading.gkihalimun.org/
-local=/vcxsaprox.gkihalimun.org/
 local=/sdns22.gkonuralp.com/
 local=/gl33tch.pro/
 local=/glacius.top/
@@ -6547,7 +6545,6 @@ local=/qwertyuiop.gmsgroup.app/
 local=/rs.gmsgroup.app/
 local=/typeanything.gmsgroup.app/
 local=/wasdasd.gmsgroup.app/
-local=/gmsmedia.pics/
 local=/dns.gnb09.id/
 local=/moph.go.th/
 local=/roadesdyn.go.ro/
@@ -6693,7 +6690,6 @@ local=/61isbetter.graphicon.org/
 local=/67inthebig26.graphicon.ru/
 local=/aw.graphicon.ru/
 local=/blackpilmethodsarethegoat.graphicon.org/
-local=/brrbrrpatapim.graphicon.ru/
 local=/desmosmath.graphicon.ru/
 local=/rock.fern.graphicon.ru/
 local=/rocky.fern.graphicon.ru/
@@ -6732,7 +6728,6 @@ local=/dns.green-ping.lol/
 local=/adguard.green1052.com/
 local=/pleasework.greenaudio.ch/
 local=/theyhavehollowknight.greenaudio.ch/
-local=/c00lkiddtech.ut.greenaudio.ch/
 local=/anotheronehascome.greenfieldhk.org/
 local=/auth.greenfieldhk.org/
 local=/whyiswritingsobad.badgrade6741.greenfieldhk.org/
@@ -6750,7 +6745,6 @@ local=/terms.graph.greenmantools.com/
 local=/greenoptions.xyz/
 local=/greenproxy.net/
 local=/greenssh.com/
-local=/greenssh.org/
 local=/greenvpn.host/
 local=/greenvpn.rest/
 local=/greenwichps.org/
@@ -6779,7 +6773,6 @@ local=/grunwald-marc.de/
 local=/vps.grussenmeyer.com/
 local=/gscloud.cfd/
 local=/gscloud.icu/
-local=/wano.gscmec.com/
 local=/gamgasyoppakuteri-zenttodabi.gslb.info/
 local=/dns.gsmseti.net/
 local=/gsocket.io/
@@ -6866,7 +6859,6 @@ local=/adg-swe.h4nt3r.com/
 local=/adguard.h4nt3r.com/
 local=/hackkcah.com/
 local=/hackkcah.xyz/
-local=/c00lkiddtech.hackquest.com/
 local=/shuumai.hacrew.com/
 local=/clean.hadan-dns.de/
 local=/ns1.hadan-dns.de/
@@ -6945,7 +6937,6 @@ local=/hauxcore.de/
 local=/gw1.dns.haynetwork.id/
 local=/mb.hbmc.net/
 local=/hcfnf2loi5cd.online/
-local=/croscanbesmart.hclub.ar/
 local=/hcstemm.org/
 local=/mq.hd440.de/
 local=/s.hd440.de/
@@ -7131,7 +7122,6 @@ local=/codinggamesforkids.highdesertcoders.com/
 local=/educational2learn.highdesertcoders.com/
 local=/learn.highdesertcoders.com/
 local=/highwayadventures.site/
-local=/gov.highways.info/
 local=/higouji.com/
 local=/higta5.com/
 local=/hihainiu.com/
@@ -7213,7 +7203,6 @@ local=/hl-jsq.xyz/
 local=/hljsq.bond/
 local=/hljsq.shop/
 local=/dd.hlm.ovh/
-local=/message.hmail.us/
 local=/hmavpn.com/
 local=/hndaocaorenly.cn/
 local=/nirbytesovercloaked.ho-danone.id/
@@ -7498,7 +7487,6 @@ local=/iapure.com/
 local=/ib.systems/
 local=/dns-public.ibakerserver.pt/
 local=/ibdwcewgnkujqnzfsxxa.online/
-local=/novahistory.ibernoticias.com/
 local=/link-five.ibewlocalzero.com/
 local=/link-four.ibewlocalzero.com/
 local=/link-one.ibewlocalzero.com/
@@ -7549,7 +7537,6 @@ local=/home.fc.idv.tw/
 local=/tls.jackyhou.idv.tw/
 local=/adguard.shuting.idv.tw/
 local=/gitea.sukon.idv.tw/
-local=/support.idx.lol/
 local=/ie5qtzarpqymn.online/
 local=/ieatwaffles.xyz/
 local=/ieplcloud.net/
@@ -7577,7 +7564,6 @@ local=/geographystudyguide.ignorelist.com/
 local=/learningscience.ignorelist.com/
 local=/matematicasfacilygratis.ignorelist.com/
 local=/meeeow.ignorelist.com/
-local=/getepic.com.student.xyz.overcloaked.ls.tuff.nnango.ignorelist.com/
 local=/phhs66.ignorelist.com/
 local=/pleaseaddto.ignorelist.com/
 local=/salmon.ignorelist.com/

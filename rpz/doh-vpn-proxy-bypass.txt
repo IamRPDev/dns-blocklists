@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1772514660 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1772536380 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Mar 2026 05:11 UTC
-; Version: 2026.0303.0511.47
+; Last modified: 03 Mar 2026 11:13 UTC
+; Version: 2026.0303.1113.44
 ; Syntax: RPZ
-; Number of entries: 32598
+; Number of entries: 32570
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -535,8 +535,6 @@ supbro.handle.ar CNAME .
 *.supbro.handle.ar CNAME .
 topofthemorning.handle.ar CNAME .
 *.topofthemorning.handle.ar CNAME .
-croscanbesmart.hclub.ar CNAME .
-*.croscanbesmart.hclub.ar CNAME .
 kjlefsdklj.wkjdfls.algoliq.net.ar CNAME .
 *.kjlefsdklj.wkjdfls.algoliq.net.ar CNAME .
 login.i-ready.com.a.noviolencia.ar CNAME .
@@ -1975,8 +1973,6 @@ pleasework.greenaudio.ch CNAME .
 *.pleasework.greenaudio.ch CNAME .
 theyhavehollowknight.greenaudio.ch CNAME .
 *.theyhavehollowknight.greenaudio.ch CNAME .
-c00lkiddtech.ut.greenaudio.ch CNAME .
-*.c00lkiddtech.ut.greenaudio.ch CNAME .
 doh.immerda.ch CNAME .
 *.doh.immerda.ch CNAME .
 adg.jabertechnologies.ch CNAME .
@@ -8069,8 +8065,6 @@ secure-dns.gridlax.com CNAME .
 *.secure-dns.gridlax.com CNAME .
 vps.grussenmeyer.com CNAME .
 *.vps.grussenmeyer.com CNAME .
-wano.gscmec.com CNAME .
-*.wano.gscmec.com CNAME .
 gsougw.com CNAME .
 *.gsougw.com CNAME .
 gtkpw.com CNAME .
@@ -8127,8 +8121,6 @@ adguard.h4nt3r.com CNAME .
 *.adguard.h4nt3r.com CNAME .
 hackkcah.com CNAME .
 *.hackkcah.com CNAME .
-c00lkiddtech.hackquest.com CNAME .
-*.c00lkiddtech.hackquest.com CNAME .
 shuumai.hacrew.com CNAME .
 *.shuumai.hacrew.com CNAME .
 haffnetworkam.com CNAME .
@@ -8741,8 +8733,6 @@ iajee.com CNAME .
 *.iajee.com CNAME .
 iapure.com CNAME .
 *.iapure.com CNAME .
-novahistory.ibernoticias.com CNAME .
-*.novahistory.ibernoticias.com CNAME .
 link-five.ibewlocalzero.com CNAME .
 *.link-five.ibewlocalzero.com CNAME .
 link-four.ibewlocalzero.com CNAME .
@@ -8829,8 +8819,6 @@ matematicasfacilygratis.ignorelist.com CNAME .
 *.matematicasfacilygratis.ignorelist.com CNAME .
 meeeow.ignorelist.com CNAME .
 *.meeeow.ignorelist.com CNAME .
-getepic.com.student.xyz.overcloaked.ls.tuff.nnango.ignorelist.com CNAME .
-*.getepic.com.student.xyz.overcloaked.ls.tuff.nnango.ignorelist.com CNAME .
 phhs66.ignorelist.com CNAME .
 *.phhs66.ignorelist.com CNAME .
 pleaseaddto.ignorelist.com CNAME .
@@ -18359,8 +18347,6 @@ hideme101.info CNAME .
 *.hideme101.info CNAME .
 hidemyurl.info CNAME .
 *.hidemyurl.info CNAME .
-gov.highways.info CNAME .
-*.gov.highways.info CNAME .
 homemail.info CNAME .
 *.homemail.info CNAME .
 homevpn.info CNAME .
@@ -19859,8 +19845,6 @@ dns.green-ping.lol CNAME .
 *.dns.green-ping.lol CNAME .
 rt.http3.lol CNAME .
 *.rt.http3.lol CNAME .
-support.idx.lol CNAME .
-*.support.idx.lol CNAME .
 iproxy.lol CNAME .
 *.iproxy.lol CNAME .
 is-a-fag.lol CNAME .
@@ -26339,10 +26323,6 @@ gfwoff.org CNAME .
 *.gfwoff.org CNAME .
 dns.girino.org CNAME .
 *.dns.girino.org CNAME .
-solidreading.gkihalimun.org CNAME .
-*.solidreading.gkihalimun.org CNAME .
-vcxsaprox.gkihalimun.org CNAME .
-*.vcxsaprox.gkihalimun.org CNAME .
 glintapp.org CNAME .
 *.glintapp.org CNAME .
 dns.api.globus.org CNAME .
@@ -26405,8 +26385,6 @@ subscribe-vcsa.greenfieldhk.org CNAME .
 *.subscribe-vcsa.greenfieldhk.org CNAME .
 tree.greenfieldhk.org CNAME .
 *.tree.greenfieldhk.org CNAME .
-greenssh.org CNAME .
-*.greenssh.org CNAME .
 greenwichps.org CNAME .
 *.greenwichps.org CNAME .
 brave-soul-210.guesstheanimal.org CNAME .
@@ -27619,8 +27597,6 @@ defined.pics CNAME .
 *.defined.pics CNAME .
 endis.furryporn.pics CNAME .
 *.endis.furryporn.pics CNAME .
-gmsmedia.pics CNAME .
-*.gmsmedia.pics CNAME .
 hintz.pics CNAME .
 *.hintz.pics CNAME .
 mouse.pics CNAME .
@@ -28539,8 +28515,6 @@ waves.vseesa.gpu74.ru CNAME .
 *.67inthebig26.graphicon.ru CNAME .
 aw.graphicon.ru CNAME .
 *.aw.graphicon.ru CNAME .
-brrbrrpatapim.graphicon.ru CNAME .
-*.brrbrrpatapim.graphicon.ru CNAME .
 desmosmath.graphicon.ru CNAME .
 *.desmosmath.graphicon.ru CNAME .
 rock.fern.graphicon.ru CNAME .
@@ -30873,8 +30847,6 @@ haita.us CNAME .
 *.haita.us CNAME .
 hidebuzz.us CNAME .
 *.hidebuzz.us CNAME .
-message.hmail.us CNAME .
-*.message.hmail.us CNAME .
 huojian.us CNAME .
 *.huojian.us CNAME .
 science.internet-slackers.us CNAME .
