@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1772707680 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1772752680 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 05 Mar 2026 10:48 UTC
-; Version: 2026.0305.1048.35
+; Last modified: 05 Mar 2026 23:18 UTC
+; Version: 2026.0305.2318.56
 ; Syntax: RPZ
-; Number of entries: 82780
+; Number of entries: 82766
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -35554,8 +35554,6 @@ midforex.com CNAME .
 *.midforex.com CNAME .
 midnite.com CNAME .
 *.midnite.com CNAME .
-midstakespoker.com CNAME .
-*.midstakespoker.com CNAME .
 mifinity-casinos.com CNAME .
 *.mifinity-casinos.com CNAME .
 mightytips.com CNAME .
@@ -41242,8 +41240,6 @@ rightcasino.com CNAME .
 *.rightcasino.com CNAME .
 rigtheslots.com CNAME .
 *.rigtheslots.com CNAME .
-rikgame.com CNAME .
-*.rikgame.com CNAME .
 riksocasino.com CNAME .
 *.riksocasino.com CNAME .
 rimbajago.com CNAME .
@@ -48712,8 +48708,6 @@ yuka4d.com CNAME .
 *.yuka4d.com CNAME .
 yuki138.com CNAME .
 *.yuki138.com CNAME .
-yukiaibest.com CNAME .
-*.yukiaibest.com CNAME .
 yukon-gold-casino-canada1.com CNAME .
 *.yukon-gold-casino-canada1.com CNAME .
 yukongoldcasino-uk.com CNAME .
@@ -61572,8 +61566,6 @@ habetserviceqkb.online CNAME .
 *.habetserviceqkb.online CNAME .
 hao788.online CNAME .
 *.hao788.online CNAME .
-haruswin.online CNAME .
-*.haruswin.online CNAME .
 hellocasino.online CNAME .
 *.hellocasino.online CNAME .
 highest-slot-payout-uk-casinos.online CNAME .
@@ -61906,8 +61898,6 @@ microgamingcasino.online CNAME .
 *.microgamingcasino.online CNAME .
 midasluckcasinoreg.online CNAME .
 *.midasluckcasinoreg.online CNAME .
-mikigamiing.online CNAME .
-*.mikigamiing.online CNAME .
 mikigaming-gg.online CNAME .
 *.mikigaming-gg.online CNAME .
 miliarbetsite.online CNAME .
@@ -62146,8 +62136,6 @@ pokeruntung.online CNAME .
 *.pokeruntung.online CNAME .
 powbetapp.online CNAME .
 *.powbetapp.online CNAME .
-predictcuan.online CNAME .
-*.predictcuan.online CNAME .
 prediksibeb.online CNAME .
 *.prediksibeb.online CNAME .
 prismcasino.online CNAME .
@@ -62188,8 +62176,6 @@ rainbowriches-casino.online CNAME .
 *.rainbowriches-casino.online CNAME .
 rajagamer.online CNAME .
 *.rajagamer.online CNAME .
-ramalanjanji.online CNAME .
-*.ramalanjanji.online CNAME .
 rdr-slots.online CNAME .
 *.rdr-slots.online CNAME .
 readscholars.online CNAME .

@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 05 Mar 2026 09:36 UTC
-! Version: 2026.0305.0936.28
+! Last modified: 05 Mar 2026 22:05 UTC
+! Version: 2026.0305.2205.27
 ! Syntax: AdBlock
-! Number of entries: 9903
+! Number of entries: 9904
 !
 ||0.gp^
 ||00m.in^
@@ -959,6 +959,7 @@
 ||b2s.io^
 ||b2u.io^
 ||b33.fr^
+||b4y.net^
 ||b51.tw^
 ||b6e.cn^
 ||b7.tel^

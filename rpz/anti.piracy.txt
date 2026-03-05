@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1772707740 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1772752740 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 05 Mar 2026 10:49 UTC
-; Version: 2026.0305.1049.00
+; Last modified: 05 Mar 2026 23:19 UTC
+; Version: 2026.0305.2319.29
 ; Syntax: RPZ
-; Number of entries: 23170
+; Number of entries: 23180
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -162,6 +162,8 @@ bittorrent.am CNAME .
 *.bittorrent.am CNAME .
 boerse.am CNAME .
 *.boerse.am CNAME .
+cinecalidad.am CNAME .
+*.cinecalidad.am CNAME .
 cine.do.am CNAME .
 *.cine.do.am CNAME .
 kat.am CNAME .
@@ -1484,6 +1486,8 @@ tracker.h0me.cc CNAME .
 *.tracker.h0me.cc CNAME .
 haxmac.cc CNAME .
 *.haxmac.cc CNAME .
+hdfilme-tv.cc CNAME .
+*.hdfilme-tv.cc CNAME .
 hdfreaks.cc CNAME .
 *.hdfreaks.cc CNAME .
 hdmovie2.cc CNAME .
@@ -9890,6 +9894,8 @@ pelisplus.gratis CNAME .
 *.pelisplus.gratis CNAME .
 verfilmeshd.gratis CNAME .
 *.verfilmeshd.gratis CNAME .
+ygg.gratis CNAME .
+*.ygg.gratis CNAME .
 vegamovies.green CNAME .
 *.vegamovies.green CNAME .
 9kmovies.gripe CNAME .
@@ -17112,6 +17118,8 @@ torrent.parts CNAME .
 *.torrent.parts CNAME .
 tracker.ducks.party CNAME .
 *.tracker.ducks.party CNAME .
+hdfilme.party CNAME .
+*.hdfilme.party CNAME .
 ilgeniodellostreaming.party CNAME .
 *.ilgeniodellostreaming.party CNAME .
 tracker.moxing.party CNAME .
@@ -17244,6 +17252,8 @@ streamingcommunity.pink CNAME .
 *.streamingcommunity.pink CNAME .
 streamingcommunity.pizza CNAME .
 *.streamingcommunity.pizza CNAME .
+annas-archive.pk CNAME .
+*.annas-archive.pk CNAME .
 123movies.com.pk CNAME .
 *.123movies.com.pk CNAME .
 hdmovie2.com.pk CNAME .

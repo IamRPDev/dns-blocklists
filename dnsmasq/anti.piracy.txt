@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Mar 2026 10:49 UTC
-# Version: 2026.0305.1049.00
+# Last modified: 05 Mar 2026 23:19 UTC
+# Version: 2026.0305.2319.29
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11585
+# Number of entries: 11590
 #
 local=/tracker.guguan.000.pe/
 local=/003396815.xyz/
@@ -881,6 +881,7 @@ local=/ankeschwarz.net/
 local=/annas-archive.cc/
 local=/annas-archive.gs/
 local=/annas-archive.li/
+local=/annas-archive.pk/
 local=/anonboot.com/
 local=/anonsecurityteam.com/
 local=/private.anonseed.com/
@@ -1948,6 +1949,7 @@ local=/cineby.sbs/
 local=/cineby.shop/
 local=/cineby.wiki/
 local=/cineby.work/
+local=/cinecalidad.am/
 local=/cinecalidad.is/
 local=/cineez.com/
 local=/cineflix.rip/
@@ -4582,6 +4584,7 @@ local=/hdfilme.cloud/
 local=/hdfilme.cx/
 local=/hdfilme.food/
 local=/hdfilme.io/
+local=/hdfilme.party/
 local=/hdfilme.press/
 local=/hdfilme.ru/
 local=/hdfilme.to/
@@ -4590,6 +4593,7 @@ local=/hdfilme.tv/
 local=/hdfilme.uno/
 local=/hdfilme-to.my/
 local=/hdfilme-to.top/
+local=/hdfilme-tv.cc/
 local=/hdfreaks.cc/
 local=/hdfull.lv/
 local=/hdhome.org/
@@ -11338,6 +11342,7 @@ local=/yesmovies.zone/
 local=/yesnetcommunication.com/
 local=/yeyemo.info/
 local=/yflix.to/
+local=/ygg.gratis/
 local=/ygg.re/
 local=/yggleak.top/
 local=/yggtorrent.com/
