@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 Mar 2026 16:46 UTC
-# Version: 2026.0306.1646.44
+# Last modified: 06 Mar 2026 21:32 UTC
+# Version: 2026.0306.2132.29
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 9933
+# Number of entries: 9930
 #
 *.0.gp
 *.00m.in
@@ -1282,7 +1282,6 @@
 *.bnzs.io
 *.bo.st
 *.boa.la
-*.boarfishesquandangsunderdried.com
 *.boclinkvip.com
 *.boclinkvn.net
 *.bofh.us
@@ -6885,7 +6884,6 @@
 *.secreet.site
 *.secretdenergie.com
 *.secure-dentist.com
-*.securecloudtorrent.com
 *.securelink.live
 *.short.securityops.co
 *.securityportal.ro
@@ -7924,7 +7922,6 @@
 *.tagli.net
 *.tagly.us
 *.tailurl.com
-*.tairdalwaly.click
 *.taiwangov.com
 *.tak.to
 *.takenlink.eu

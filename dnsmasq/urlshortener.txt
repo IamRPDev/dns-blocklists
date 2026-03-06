@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 Mar 2026 16:46 UTC
-# Version: 2026.0306.1646.44
+# Last modified: 06 Mar 2026 21:32 UTC
+# Version: 2026.0306.2132.29
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9933
+# Number of entries: 9930
 #
 local=/0.gp/
 local=/00m.in/
@@ -1282,7 +1282,6 @@ local=/bnu.au/
 local=/bnzs.io/
 local=/bo.st/
 local=/boa.la/
-local=/boarfishesquandangsunderdried.com/
 local=/boclinkvip.com/
 local=/boclinkvn.net/
 local=/bofh.us/
@@ -6885,7 +6884,6 @@ local=/seby.io/
 local=/secreet.site/
 local=/secretdenergie.com/
 local=/secure-dentist.com/
-local=/securecloudtorrent.com/
 local=/securelink.live/
 local=/short.securityops.co/
 local=/securityportal.ro/
@@ -7924,7 +7922,6 @@ local=/app.tagii.io/
 local=/tagli.net/
 local=/tagly.us/
 local=/tailurl.com/
-local=/tairdalwaly.click/
 local=/taiwangov.com/
 local=/tak.to/
 local=/takenlink.eu/
