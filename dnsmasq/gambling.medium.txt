@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 Mar 2026 11:25 UTC
-# Version: 2026.0306.1125.30
+# Last modified: 06 Mar 2026 16:50 UTC
+# Version: 2026.0306.1650.43
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 87823
+# Number of entries: 87819
 #
 local=/0-bets.com/
 local=/0-bets.net/
@@ -8844,7 +8844,6 @@ local=/aciertopro.com/
 local=/acng.xyz/
 local=/acolourher.com/
 local=/acookiebeforedinner.com/
-local=/acoreo.org/
 local=/acornfun.com/
 local=/acornsbets.com/
 local=/acpokerplayer.com/
@@ -20173,6 +20172,7 @@ local=/casino-mastercard.ca/
 local=/casino-match.com/
 local=/casino-mate.com/
 local=/casino-mate-aus.net/
+local=/casino-mate-login.com/
 local=/casino-mate2.com/
 local=/casino-max.pro/
 local=/casino-max-betslot.top/
@@ -22377,6 +22377,7 @@ local=/casinoelitespin.net/
 local=/casinoellada.pro/
 local=/casinoemojino.ca/
 local=/casinoemotion.com/
+local=/casinoempire777nodeposit.click/
 local=/casinoempirefreespins.click/
 local=/casinoempirenodeposit.click/
 local=/casinoempireonline.com/
@@ -23269,6 +23270,7 @@ local=/casinolayoutspokerchipsplus.com/
 local=/casinolead.ca/
 local=/casinoleader.com/
 local=/casinoleadershub.com/
+local=/casinoleak.net/
 local=/casinoleaobet.com/
 local=/casinolegalfrancais.fr/
 local=/casinolegendary.com/
@@ -23432,6 +23434,7 @@ local=/casinolucki-uk.com/
 local=/casinolucky-be.com/
 local=/casinolucky-fr.com/
 local=/casinolucky-se.com/
+local=/casinolucky7even.com/
 local=/casinoluckybet.net/
 local=/casinoluckybet.org/
 local=/casinoluckybird.net/
@@ -27561,7 +27564,6 @@ local=/clashhacks.online/
 local=/class-777-casino-australia.com/
 local=/class-casino.ru/
 local=/classcasino.ru/
-local=/classic-bike-shop.com/
 local=/classic-casino.bet/
 local=/classic-casino.ca/
 local=/classic-casino.nz/
@@ -39603,7 +39605,6 @@ local=/garuda368.net/
 local=/garuda500.com/
 local=/garudaslotjack.xyz/
 local=/garudaslotjpt.xyz/
-local=/garutdinoland.com/
 local=/gasbro138id.info/
 local=/gashinzo.com/
 local=/gashousebets.com/
@@ -52187,7 +52188,6 @@ local=/lvonline.bid/
 local=/lvonline.boats/
 local=/lvonline.camp/
 local=/lvonline.cv/
-local=/lvonline.locker/
 local=/lvslot88l.info/
 local=/lvy.casino/
 local=/lwbet.com/
@@ -54853,7 +54853,6 @@ local=/memocasinos.online/
 local=/memocasinos-uk.com/
 local=/memocasinouk.org/
 local=/memoryslotstick.info/
-local=/memro2025.org/
 local=/menac-casino.cz/
 local=/menaccasino.cz/
 local=/menace.com/
@@ -67150,7 +67149,6 @@ local=/prediksi-raban09.lol/
 local=/prediksi-wla.xyz/
 local=/prediksi128.info/
 local=/prediksi2d.online/
-local=/prediksiangkatogel.vip/
 local=/prediksibeb.online/
 local=/prediksicuaca889besok.info/
 local=/prediksidisini.online/
@@ -69606,7 +69604,6 @@ local=/richardcasino.com/
 local=/richardcasino.ink/
 local=/richardcasino-au.com/
 local=/richardcasino-canada.org/
-local=/richardcasino-nz.bet/
 local=/richardcasino-nz.com/
 local=/richardcasino1.net/
 local=/richardcasino10.com/
@@ -77406,7 +77403,6 @@ local=/sultankece.xyz/
 local=/sultankingblackjack.sbs/
 local=/sultankoin88.com/
 local=/sultanmanis.xyz/
-local=/sultanplay777.com/
 local=/sultanpoker.site/
 local=/sultanroyal.com/
 local=/sultansakti.xyz/

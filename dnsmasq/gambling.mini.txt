@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 Mar 2026 11:26 UTC
-# Version: 2026.0306.1126.44
+# Last modified: 06 Mar 2026 16:51 UTC
+# Version: 2026.0306.1651.54
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 39575
+# Number of entries: 39568
 #
 local=/0-online-casino.us/
 local=/000-online-casino.com/
@@ -12709,7 +12709,6 @@ local=/clariki1.com/
 local=/clarity.casino/
 local=/claritycasino.ca/
 local=/clash.gg/
-local=/classic-bike-shop.com/
 local=/classic-casino-fr.com/
 local=/classic-slots-de.online/
 local=/classiccasino.sk/
@@ -18314,7 +18313,6 @@ local=/garuda138.com/
 local=/garuda368.net/
 local=/garudaslotjack.xyz/
 local=/garudaslotjpt.xyz/
-local=/garutdinoland.com/
 local=/gashinzo.com/
 local=/gashousebets.com/
 local=/gasmahjong1.com/
@@ -24209,7 +24207,6 @@ local=/lvonline.bid/
 local=/lvonline.boats/
 local=/lvonline.camp/
 local=/lvonline.cv/
-local=/lvonline.locker/
 local=/lvy.casino/
 local=/lwbet.com/
 local=/lwm.casino/
@@ -25220,7 +25217,6 @@ local=/memelucu.top/
 local=/memocashweb.com/
 local=/memocasino-uk1.com/
 local=/memoryslotstick.info/
-local=/memro2025.org/
 local=/menac-casino.cz/
 local=/menaccasino.cz/
 local=/menace.com/
@@ -30527,7 +30523,6 @@ local=/pravovsem.by/
 local=/predictionbets.club/
 local=/predictz.win/
 local=/prediksi-kubutoto.site/
-local=/prediksiangkatogel.vip/
 local=/prediksibeb.online/
 local=/prediksidisini.online/
 local=/prediksigurutoto.online/
@@ -31621,7 +31616,6 @@ local=/richard-casinowin.com/
 local=/richardcasino.com/
 local=/richardcasino.ink/
 local=/richardcasino-au.com/
-local=/richardcasino-nz.bet/
 local=/richardcasino1.net/
 local=/richardcasino11.com/
 local=/richardcasino3.com/
@@ -34763,7 +34757,6 @@ local=/sultan178jt.online/
 local=/sultanbet.com/
 local=/sultanhappy.xyz/
 local=/sultankoin88.com/
-local=/sultanplay777.com/
 local=/sultanpoker.site/
 local=/sultansakti.xyz/
 local=/sultansantai.xyz/

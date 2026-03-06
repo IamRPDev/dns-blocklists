@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1772796360 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1772815860 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 06 Mar 2026 11:26 UTC
-; Version: 2026.0306.1126.44
+; Last modified: 06 Mar 2026 16:51 UTC
+; Version: 2026.0306.1651.54
 ; Syntax: RPZ
-; Number of entries: 79150
+; Number of entries: 79136
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -2168,8 +2168,6 @@ reidasorte.bet CNAME .
 *.reidasorte.bet CNAME .
 rhino.bet CNAME .
 *.rhino.bet CNAME .
-richardcasino-nz.bet CNAME .
-*.richardcasino-nz.bet CNAME .
 riches678.bet CNAME .
 *.riches678.bet CNAME .
 rico.bet CNAME .
@@ -24090,8 +24088,6 @@ claps.com CNAME .
 *.claps.com CNAME .
 clariki1.com CNAME .
 *.clariki1.com CNAME .
-classic-bike-shop.com CNAME .
-*.classic-bike-shop.com CNAME .
 classic-casino-fr.com CNAME .
 *.classic-casino-fr.com CNAME .
 classicexch99.com CNAME .
@@ -27780,8 +27776,6 @@ garrisonbetcasino-uk.com CNAME .
 *.garrisonbetcasino-uk.com CNAME .
 garuda138.com CNAME .
 *.garuda138.com CNAME .
-garutdinoland.com CNAME .
-*.garutdinoland.com CNAME .
 gashinzo.com CNAME .
 *.gashinzo.com CNAME .
 gashousebets.com CNAME .
@@ -42668,8 +42662,6 @@ sultanbet.com CNAME .
 *.sultanbet.com CNAME .
 sultankoin88.com CNAME .
 *.sultankoin88.com CNAME .
-sultanplay777.com CNAME .
-*.sultanplay777.com CNAME .
 summitgoon.com CNAME .
 *.summitgoon.com CNAME .
 sunc888.com CNAME .
@@ -53374,8 +53366,6 @@ vulkanplatinum.loan CNAME .
 *.vulkanplatinum.loan CNAME .
 betsaya.locker CNAME .
 *.betsaya.locker CNAME .
-lvonline.locker CNAME .
-*.lvonline.locker CNAME .
 188bets.lol CNAME .
 *.188bets.lol CNAME .
 388bet.lol CNAME .
@@ -61618,8 +61608,6 @@ melbet-pk.org CNAME .
 *.melbet-pk.org CNAME .
 melhorcasinoemportugal.org CNAME .
 *.melhorcasinoemportugal.org CNAME .
-memro2025.org CNAME .
-*.memro2025.org CNAME .
 mercurypolicy.org CNAME .
 *.mercurypolicy.org CNAME .
 merengueproject.org CNAME .
@@ -76688,8 +76676,6 @@ pokerdubai.vip CNAME .
 *.pokerdubai.vip CNAME .
 pokerrank.vip CNAME .
 *.pokerrank.vip CNAME .
-prediksiangkatogel.vip CNAME .
-*.prediksiangkatogel.vip CNAME .
 presidentepg.vip CNAME .
 *.presidentepg.vip CNAME .
 principepg.vip CNAME .

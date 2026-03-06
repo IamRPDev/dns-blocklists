@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 06 Mar 2026 09:52 UTC
-! Version: 2026.0306.0952.07
+! Last modified: 06 Mar 2026 16:24 UTC
+! Version: 2026.0306.1624.37
 ! Syntax: AdBlock
-! Number of entries: 54842
+! Number of entries: 54844
 !
 ||0.beer^
 ||0.club^
@@ -14088,6 +14088,7 @@
 ||cleaningmystical.com^
 ||cleanlinessmock.com^
 ||cleanmediaads.com^
+||cleanmymacos.org^
 ||cleannaturalists.com^
 ||cleanupharm.com^
 ||clear-cousin.com^
@@ -29953,6 +29954,7 @@
 ||kirvecaverns.world^
 ||kisaenglatigos.qpon^
 ||kiseki.com^
+||kissbaketurpentine.com^
 ||kisscallingviewed.com^
 ||kissoffering.com^
 ||kitabersatu.pro^
