@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 05 Mar 2026 10:54 UTC
-! Version: 2026.0305.1054.24
+! Last modified: 07 Mar 2026 22:52 UTC
+! Version: 2026.0307.2252.20
 ! Syntax: AdBlock
-! Number of entries: 3457
+! Number of entries: 3459
 !
 ||ss.0001.xyz^
 ||003153.xyz^
@@ -398,6 +398,7 @@
 ||dns.bgeneto.com^
 ||dns.bibica.net^
 ||dns.bibitos.cc^
+||mydns.bielperes.me^
 ||httpdns.bilivideo.com^
 ||goga7777777.bissnes.org^
 ||ns3.bit-trail.nl^
@@ -486,6 +487,7 @@
 ||stratus.bugz.fr^
 ||dns.burgas.pro^
 ||dns.busold.ws^
+||dns.butterfly87.sbs^
 ||adc.bxq.net^
 ||sig.bxq.net^
 ||c-dns.com^

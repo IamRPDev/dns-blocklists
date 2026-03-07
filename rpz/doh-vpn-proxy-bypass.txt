@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1772880660 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1772923920 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 07 Mar 2026 10:51 UTC
-; Version: 2026.0307.1051.30
+; Last modified: 07 Mar 2026 22:52 UTC
+; Version: 2026.0307.2252.58
 ; Syntax: RPZ
-; Number of entries: 32680
+; Number of entries: 32712
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -2077,6 +2077,8 @@ dx.alsarica.cl CNAME .
 *.dx.alsarica.cl CNAME .
 ji.alsarica.cl CNAME .
 *.ji.alsarica.cl CNAME .
+owens-engineering-info.aperture.cl CNAME .
+*.owens-engineering-info.aperture.cl CNAME .
 nana.rammer.apirent.cl CNAME .
 *.nana.rammer.apirent.cl CNAME .
 starscourage.autonomoconsultores.cl CNAME .
@@ -3571,6 +3573,8 @@ dns.aaronplayzgaming.com CNAME .
 *.dns.aaronplayzgaming.com CNAME .
 dns.aaytorr.com CNAME .
 *.dns.aaytorr.com CNAME .
+abcproxy.com CNAME .
+*.abcproxy.com CNAME .
 dns.abhimankolte.com CNAME .
 *.dns.abhimankolte.com CNAME .
 abluehope.com CNAME .
@@ -4223,6 +4227,8 @@ amytelecomjc.com CNAME .
 *.amytelecomjc.com CNAME .
 amzsvc.com CNAME .
 *.amzsvc.com CNAME .
+rockfordarmy.anallyforced.com CNAME .
+*.rockfordarmy.anallyforced.com CNAME .
 ananoos.com CNAME .
 *.ananoos.com CNAME .
 oradns.anbitech.com CNAME .
@@ -4273,6 +4279,8 @@ anylandclash.com CNAME .
 *.anylandclash.com CNAME .
 anylandjc.com CNAME .
 *.anylandjc.com CNAME .
+vocab.real.anynall.com CNAME .
+*.vocab.real.anynall.com CNAME .
 dp.anywaysoft.com CNAME .
 *.dp.anywaysoft.com CNAME .
 aox666.com CNAME .
@@ -5061,6 +5069,8 @@ bocchiclash.com CNAME .
 *.bocchiclash.com CNAME .
 boda12306.com CNAME .
 *.boda12306.com CNAME .
+bodvpn.com CNAME .
+*.bodvpn.com CNAME .
 boi9osyg1uwtyafn.com CNAME .
 *.boi9osyg1uwtyafn.com CNAME .
 boltunblocker.com CNAME .
@@ -5475,6 +5485,8 @@ chairphone92.com CNAME .
 *.chairphone92.com CNAME .
 dns.chalkychalk.com CNAME .
 *.dns.chalkychalk.com CNAME .
+core.goal.challengepursuit.com CNAME .
+*.core.goal.challengepursuit.com CNAME .
 chamvpn.com CNAME .
 *.chamvpn.com CNAME .
 rdns2.chancetheitguy.com CNAME .
@@ -5503,6 +5515,8 @@ cheaptextingapp.com CNAME .
 *.cheaptextingapp.com CNAME .
 cheesestorecedarhurst.com CNAME .
 *.cheesestorecedarhurst.com CNAME .
+cherryclash.com CNAME .
+*.cherryclash.com CNAME .
 cherryjc.com CNAME .
 *.cherryjc.com CNAME .
 bolteducation.chiangmaiorganics.com CNAME .
@@ -19969,6 +19983,8 @@ dns.b612.me CNAME .
 *.dns.b612.me CNAME .
 baolixiong.me CNAME .
 *.baolixiong.me CNAME .
+mydns.bielperes.me CNAME .
+*.mydns.bielperes.me CNAME .
 aaron.listens.to.mango.phonk.bine.me CNAME .
 *.aaron.listens.to.mango.phonk.bine.me CNAME .
 bluemood.me CNAME .
@@ -24899,6 +24915,8 @@ b6mdqod.online CNAME .
 *.b6mdqod.online CNAME .
 baoxue888.online CNAME .
 *.baoxue888.online CNAME .
+bestvpnonline.online CNAME .
+*.bestvpnonline.online CNAME .
 biolicious.online CNAME .
 *.biolicious.online CNAME .
 bir2hmi.online CNAME .
@@ -25565,6 +25583,8 @@ x.aptlive.org CNAME .
 *.x.aptlive.org CNAME .
 aptvpn.org CNAME .
 *.aptvpn.org CNAME .
+proof.major.archanet.org CNAME .
+*.proof.major.archanet.org CNAME .
 doh.archuser.org CNAME .
 *.doh.archuser.org CNAME .
 nsec.arnor.org CNAME .
@@ -25655,6 +25675,8 @@ classroom.broomleigh.org CNAME .
 *.classroom.broomleigh.org CNAME .
 goguardian.broomleigh.org CNAME .
 *.goguardian.broomleigh.org CNAME .
+schoolwork.broomleigh.org CNAME .
+*.schoolwork.broomleigh.org CNAME .
 bropay.org CNAME .
 *.bropay.org CNAME .
 browpay.org CNAME .
@@ -26619,8 +26641,6 @@ mihomo-party.org CNAME .
 *.mihomo-party.org CNAME .
 dns.mikeliu.org CNAME .
 *.dns.mikeliu.org CNAME .
-mitmproxy.org CNAME .
-*.mitmproxy.org CNAME .
 modvix.org CNAME .
 *.modvix.org CNAME .
 mojieapp.org CNAME .
@@ -27615,6 +27635,8 @@ drive.google.com.adultboss.pl CNAME .
 *.drive.google.com.adultboss.pl CNAME .
 antycenzor.pl CNAME .
 *.antycenzor.pl CNAME .
+southpo.lo.aar.apolinarski.pl CNAME .
+*.southpo.lo.aar.apolinarski.pl CNAME .
 bramka-proxy.pl CNAME .
 *.bramka-proxy.pl CNAME .
 nordvpn.com.pl CNAME .
@@ -28391,12 +28413,20 @@ avo-vpn.ru CNAME .
 *.avo-vpn.ru CNAME .
 node3.b4el.ru CNAME .
 *.node3.b4el.ru CNAME .
+aqua.bastaff.ru CNAME .
+*.aqua.bastaff.ru CNAME .
 0.4.gpa-educational-science-luke.bastaff.ru CNAME .
 *.0.4.gpa-educational-science-luke.bastaff.ru CNAME .
+hackedsites.bastaff.ru CNAME .
+*.hackedsites.bastaff.ru CNAME .
 powerschoolportal.bastaff.ru CNAME .
 *.powerschoolportal.bastaff.ru CNAME .
+schooliscool.bastaff.ru CNAME .
+*.schooliscool.bastaff.ru CNAME .
 smack.bastaff.ru CNAME .
 *.smack.bastaff.ru CNAME .
+we-hate-school.bastaff.ru CNAME .
+*.we-hate-school.bastaff.ru CNAME .
 baxtri.ru CNAME .
 *.baxtri.ru CNAME .
 lebron.is.the.besttoday.ru CNAME .
@@ -28897,6 +28927,8 @@ doh.sb CNAME .
 *.doh.sb CNAME .
 dot.sb CNAME .
 *.dot.sb CNAME .
+dns.butterfly87.sbs CNAME .
+*.dns.butterfly87.sbs CNAME .
 flickbox.sbs CNAME .
 *.flickbox.sbs CNAME .
 flipbit.sbs CNAME .

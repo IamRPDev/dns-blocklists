@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Mar 2026 10:54 UTC
-# Version: 2026.0305.1054.24
+# Last modified: 07 Mar 2026 22:52 UTC
+# Version: 2026.0307.2252.20
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3930
+# Number of entries: 3932
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -470,6 +470,7 @@
 0.0.0.0 dns.bgeneto.com
 0.0.0.0 dns.bibica.net
 0.0.0.0 dns.bibitos.cc
+0.0.0.0 mydns.bielperes.me
 0.0.0.0 httpdns.bilivideo.com
 0.0.0.0 goga7777777.bissnes.org
 0.0.0.0 ns3.bit-trail.nl
@@ -563,6 +564,7 @@
 0.0.0.0 stratus.bugz.fr
 0.0.0.0 dns.burgas.pro
 0.0.0.0 dns.busold.ws
+0.0.0.0 dns.butterfly87.sbs
 0.0.0.0 adc.bxq.net
 0.0.0.0 sig.bxq.net
 0.0.0.0 c-dns.com

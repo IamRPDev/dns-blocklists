@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 07 Mar 2026 09:33 UTC
-! Version: 2026.0307.0933.09
+! Last modified: 07 Mar 2026 21:33 UTC
+! Version: 2026.0307.2133.23
 ! Syntax: AdBlock
-! Number of entries: 9932
+! Number of entries: 9938
 !
 ||0.gp^
 ||00m.in^
@@ -371,6 +371,7 @@
 ||7z.si^
 ||8.ly^
 ||8591.tw^
+||888b.pw^
 ||888df.com^
 ||88nb.cc^
 ||88win.link^
@@ -873,6 +874,7 @@
 ||athe.re^
 ||athena168.vip^
 ||athm.cn^
+||ativo.online^
 ||atlantisgit.com^
 ||atm.tk^
 ||atmilb.com^
@@ -1040,6 +1042,7 @@
 ||becakrcg.xyz^
 ||becsn.net^
 ||bee-kz.life^
+||bee1s.com^
 ||bee4.biz^
 ||beeb.us^
 ||beelerex.com^
@@ -1157,6 +1160,7 @@
 ||bit.ly^
 ||bit-ely.com^
 ||bit24.live^
+||bitb.ee^
 ||go.bitcomma.com^
 ||bitded.com^
 ||bitesli.com^
@@ -1231,6 +1235,7 @@
 ||bjl.ink^
 ||bjli.in^
 ||bk.gl^
+||bkite.com^
 ||bkjkwg.quest^
 ||bl.ink^
 ||blabigo.com^
@@ -1363,6 +1368,7 @@
 ||brilink.me^
 ||brisktopia.com^
 ||briurl.com^
+||brk.im^
 ||brk.to^
 ||brlinks.me^
 ||brndly.net^

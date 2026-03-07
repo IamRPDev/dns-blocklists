@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Mar 2026 09:33 UTC
-# Version: 2026.0307.0933.09
+# Last modified: 07 Mar 2026 21:33 UTC
+# Version: 2026.0307.2133.23
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9932
+# Number of entries: 9938
 #
 local=/0.gp/
 local=/00m.in/
@@ -370,6 +370,7 @@ local=/7vd.cn/
 local=/7z.si/
 local=/8.ly/
 local=/8591.tw/
+local=/888b.pw/
 local=/888df.com/
 local=/88nb.cc/
 local=/88win.link/
@@ -872,6 +873,7 @@ local=/atharori.net/
 local=/athe.re/
 local=/athena168.vip/
 local=/athm.cn/
+local=/ativo.online/
 local=/atlantisgit.com/
 local=/atm.tk/
 local=/atmilb.com/
@@ -1039,6 +1041,7 @@ local=/bec.ltd/
 local=/becakrcg.xyz/
 local=/becsn.net/
 local=/bee-kz.life/
+local=/bee1s.com/
 local=/bee4.biz/
 local=/beeb.us/
 local=/beelerex.com/
@@ -1156,6 +1159,7 @@ local=/bit.do/
 local=/bit.ly/
 local=/bit-ely.com/
 local=/bit24.live/
+local=/bitb.ee/
 local=/go.bitcomma.com/
 local=/bitded.com/
 local=/bitesli.com/
@@ -1230,6 +1234,7 @@ local=/bj88php.fun/
 local=/bjl.ink/
 local=/bjli.in/
 local=/bk.gl/
+local=/bkite.com/
 local=/bkjkwg.quest/
 local=/bl.ink/
 local=/blabigo.com/
@@ -1362,6 +1367,7 @@ local=/brightsci.io/
 local=/brilink.me/
 local=/brisktopia.com/
 local=/briurl.com/
+local=/brk.im/
 local=/brk.to/
 local=/brlinks.me/
 local=/brndly.net/

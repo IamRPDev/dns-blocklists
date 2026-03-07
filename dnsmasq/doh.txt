@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Mar 2026 10:54 UTC
-# Version: 2026.0305.1054.24
+# Last modified: 07 Mar 2026 22:52 UTC
+# Version: 2026.0307.2252.20
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3457
+# Number of entries: 3459
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -397,6 +397,7 @@ local=/bestwon203.com/
 local=/dns.bgeneto.com/
 local=/dns.bibica.net/
 local=/dns.bibitos.cc/
+local=/mydns.bielperes.me/
 local=/httpdns.bilivideo.com/
 local=/goga7777777.bissnes.org/
 local=/ns3.bit-trail.nl/
@@ -485,6 +486,7 @@ local=/doh.bugdns.com/
 local=/stratus.bugz.fr/
 local=/dns.burgas.pro/
 local=/dns.busold.ws/
+local=/dns.butterfly87.sbs/
 local=/adc.bxq.net/
 local=/sig.bxq.net/
 local=/c-dns.com/

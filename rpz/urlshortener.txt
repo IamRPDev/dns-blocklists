@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1772875980 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1772919180 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 07 Mar 2026 09:33 UTC
-; Version: 2026.0307.0933.09
+; Last modified: 07 Mar 2026 21:33 UTC
+; Version: 2026.0307.2133.23
 ; Syntax: RPZ
-; Number of entries: 19864
+; Number of entries: 19876
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -3527,6 +3527,8 @@ beautyfitnesshealth.com CNAME .
 *.beautyfitnesshealth.com CNAME .
 bebuiltllc.com CNAME .
 *.bebuiltllc.com CNAME .
+bee1s.com CNAME .
+*.bee1s.com CNAME .
 beelerex.com CNAME .
 *.beelerex.com CNAME .
 beelnk.com CNAME .
@@ -3633,6 +3635,8 @@ bixurl.com CNAME .
 *.bixurl.com CNAME .
 bizrockers.com CNAME .
 *.bizrockers.com CNAME .
+bkite.com CNAME .
+*.bkite.com CNAME .
 blabigo.com CNAME .
 *.blabigo.com CNAME .
 blackhatworld.com CNAME .
@@ -8413,6 +8417,8 @@ addtr.ee CNAME .
 *.addtr.ee CNAME .
 and.ee CNAME .
 *.and.ee CNAME .
+bitb.ee CNAME .
+*.bitb.ee CNAME .
 bridg.ee CNAME .
 *.bridg.ee CNAME .
 bytr.ee CNAME .
@@ -9571,6 +9577,8 @@ bim.im CNAME .
 *.bim.im CNAME .
 bitly.im CNAME .
 *.bitly.im CNAME .
+brk.im CNAME .
+*.brk.im CNAME .
 brx.im CNAME .
 *.brx.im CNAME .
 ccj.im CNAME .
@@ -15849,6 +15857,8 @@ ttt.onl CNAME .
 *.ttt.onl CNAME .
 vai.onl CNAME .
 *.vai.onl CNAME .
+ativo.online CNAME .
+*.ativo.online CNAME .
 bolstr.online CNAME .
 *.bolstr.online CNAME .
 briefbyte.online CNAME .
@@ -16857,6 +16867,8 @@ thefp.pub CNAME .
 *.2u.pw CNAME .
 3c.pw CNAME .
 *.3c.pw CNAME .
+888b.pw CNAME .
+*.888b.pw CNAME .
 8u.pw CNAME .
 *.8u.pw CNAME .
 amzn.pw CNAME .
