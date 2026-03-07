@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1772815620 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1772858760 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,8 +9,8 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 06 Mar 2026 16:47 UTC
-; Version: 2026.0306.1647.12
+; Last modified: 07 Mar 2026 04:46 UTC
+; Version: 2026.0307.0446.12
 ; Syntax: RPZ
 ; Number of entries: 23184
 ;

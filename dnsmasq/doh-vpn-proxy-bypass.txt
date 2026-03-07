@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 Mar 2026 16:45 UTC
-# Version: 2026.0306.1645.58
+# Last modified: 07 Mar 2026 04:52 UTC
+# Version: 2026.0307.0452.01
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 16340
+# Number of entries: 16339
 #
 local=/000000555.xyz/
 local=/ss.0001.xyz/
@@ -10986,7 +10986,6 @@ local=/fern.ub.phuri.cc/
 local=/quasar.ub.phuri.cc/
 local=/utopia.ub.phuri.cc/
 local=/physicsbutfun.com/
-local=/piaproxy.com/
 local=/piaproxy.net/
 local=/piaservers.net/
 local=/hr.picinel.ro/
