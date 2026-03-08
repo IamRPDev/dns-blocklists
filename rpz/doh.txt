@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1772923920 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1772967240 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 07 Mar 2026 22:52 UTC
-; Version: 2026.0307.2252.20
+; Last modified: 08 Mar 2026 10:54 UTC
+; Version: 2026.0308.1054.18
 ; Syntax: RPZ
-; Number of entries: 6918
+; Number of entries: 6922
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -2321,6 +2321,8 @@ eka.dilli.dev CNAME .
 *.eka.dilli.dev CNAME .
 f4ckdns.dl4mt.dev CNAME .
 *.f4ckdns.dl4mt.dev CNAME .
+dns.edison42.dev CNAME .
+*.dns.edison42.dev CNAME .
 ejaysss.dev CNAME .
 *.ejaysss.dev CNAME .
 dns.hanahira.dev CNAME .
@@ -6791,6 +6793,8 @@ adguard.eximpius.xyz CNAME .
 *.adguard.eximpius.xyz CNAME .
 fra1.eyecay.xyz CNAME .
 *.fra1.eyecay.xyz CNAME .
+dns.f97.xyz CNAME .
+*.dns.f97.xyz CNAME .
 agent.frankutils.xyz CNAME .
 *.agent.frankutils.xyz CNAME .
 performance.gosami.xyz CNAME .

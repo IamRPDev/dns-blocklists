@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Mar 2026 22:52 UTC
-# Version: 2026.0307.2252.20
+# Last modified: 08 Mar 2026 10:54 UTC
+# Version: 2026.0308.1054.18
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3459
+# Number of entries: 3461
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -1251,6 +1251,7 @@ local=/dns.edgeworkssystems.ca/
 local=/dns.edgy.network/
 local=/edgy-dns.com/
 local=/doh.edifiels.ru/
+local=/dns.edison42.dev/
 local=/agh.amber.edu.vn/
 local=/adblocker.institutobancario.edu.mx/
 local=/dns.tuna.tsinghua.edu.cn/
@@ -1342,6 +1343,7 @@ local=/fra1.eyecay.xyz/
 local=/eymg5h77lfs6zhwzmv47gkh0a4r1f1ydfprzxidk.ir/
 local=/dns.f4a.fun/
 local=/jp1.f7b6h9.tk/
+local=/dns.f97.xyz/
 local=/dns.fabidouille.com/
 local=/pdns.faelix.net/
 local=/rdns.faelix.net/

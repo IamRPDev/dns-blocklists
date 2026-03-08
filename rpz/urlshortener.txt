@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1772919180 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1772962380 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 07 Mar 2026 21:33 UTC
-; Version: 2026.0307.2133.23
+; Last modified: 08 Mar 2026 09:33 UTC
+; Version: 2026.0308.0933.40
 ; Syntax: RPZ
-; Number of entries: 19876
+; Number of entries: 19890
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -2421,6 +2421,8 @@ coinclix.co CNAME .
 *.coinclix.co CNAME .
 tinyurl.smart-home.com.co CNAME .
 *.tinyurl.smart-home.com.co CNAME .
+vm88.com.co CNAME .
+*.vm88.com.co CNAME .
 cplink.co CNAME .
 *.cplink.co CNAME .
 crdrv.co CNAME .
@@ -4097,6 +4099,8 @@ dfkr77.com CNAME .
 *.dfkr77.com CNAME .
 dfthethao.com CNAME .
 *.dfthethao.com CNAME .
+dgkad.com CNAME .
+*.dgkad.com CNAME .
 digbig.com CNAME .
 *.digbig.com CNAME .
 digg.com CNAME .
@@ -4377,6 +4381,8 @@ florantevaldez.com CNAME .
 *.florantevaldez.com CNAME .
 flowcode.com CNAME .
 *.flowcode.com CNAME .
+flowhits.com CNAME .
+*.flowhits.com CNAME .
 flyurls.com CNAME .
 *.flyurls.com CNAME .
 fneezet.com CNAME .
@@ -15029,6 +15035,8 @@ depedzn.net CNAME .
 *.depedzn.net CNAME .
 link.devpush.net CNAME .
 *.link.devpush.net CNAME .
+djbanshi.net CNAME .
+*.djbanshi.net CNAME .
 dollarlink.net CNAME .
 *.dollarlink.net CNAME .
 dotjournal.net CNAME .
@@ -16661,6 +16669,8 @@ elaxima.pro CNAME .
 *.elaxima.pro CNAME .
 emixon.pro CNAME .
 *.emixon.pro CNAME .
+flubber.pro CNAME .
+*.flubber.pro CNAME .
 flumin.pro CNAME .
 *.flumin.pro CNAME .
 fossibot.pro CNAME .
@@ -17717,6 +17727,8 @@ bom.so CNAME .
 *.bom.so CNAME .
 dia.so CNAME .
 *.dia.so CNAME .
+fli.so CNAME .
+*.fli.so CNAME .
 inf.so CNAME .
 *.inf.so CNAME .
 itop.so CNAME .
@@ -19719,6 +19731,8 @@ cropped.xyz CNAME .
 *.cropped.xyz CNAME .
 ctos.xyz CNAME .
 *.ctos.xyz CNAME .
+cuterurlha.xyz CNAME .
+*.cuterurlha.xyz CNAME .
 cutturl.xyz CNAME .
 *.cutturl.xyz CNAME .
 docremedio.xyz CNAME .

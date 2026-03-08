@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 07 Mar 2026 21:31 UTC
-! Version: 2026.0307.2131.38
+! Last modified: 08 Mar 2026 09:31 UTC
+! Version: 2026.0308.0931.56
 ! Syntax: AdBlock
-! Number of entries: 14184
+! Number of entries: 14229
 !
 ||01broker.com^
 ||01crypto.com^
@@ -2393,6 +2393,7 @@
 ||cmsmanutention.com^
 ||cnbcnewstoday.com^
 ||cnbiochemicals.com^
+||cnfashion.org^
 ||cni-group.net^
 ||cnikgarden.com^
 ||cnnworldtoday.com^
@@ -2474,7 +2475,10 @@
 ||coffeeequipmentsupply.com^
 ||coffeehotsale.com^
 ||coffeeliftin.com^
+||coffeeshopus.com^
 ||cognissa.com^
+||cognitiveloop.org^
+||coinboxtradeoption.com^
 ||coincorex.com^
 ||coinentvklp.top^
 ||coinex.global^
@@ -2581,6 +2585,7 @@
 ||combojoy.com^
 ||comdaliy.de^
 ||comedyusage.com^
+||comefi-containers.com^
 ||comercialandrea.cl^
 ||comescs.com^
 ||comexpartners.com^
@@ -2616,6 +2621,7 @@
 ||completelamps.com^
 ||compliance-crypto.com^
 ||componentsglobal.com^
+||componsite.com^
 ||compostione.com^
 ||compreimagazine.com^
 ||compressfit.de^
@@ -2638,9 +2644,11 @@
 ||conseilcrypto.com^
 ||conservatione.com^
 ||consistorkred.com^
+||console-switch.com^
 ||consolestar.de^
 ||conspeco.com^
 ||constanip.com^
+||consulting-app.de^
 ||consumptione.com^
 ||containercompany.shop^
 ||containerhaus-anhanger.de^
@@ -2656,6 +2664,7 @@
 ||convresesuomi.com^
 ||conymonika.de^
 ||cooffee.de^
+||cook-on-the-bright-side.com^
 ||cookanddinesales.com^
 ||cookskitchen.club^
 ||coolgifts.shop^
@@ -2686,6 +2695,7 @@
 ||corteiz.co^
 ||coselle.eu^
 ||cosmeticcareclub.com^
+||cosmeticshop.store^
 ||cosmopoint.de^
 ||cosmoscrisp.com^
 ||cosmozone.de^
@@ -2793,6 +2803,7 @@
 ||cubeu.de^
 ||cubiccredit.com^
 ||cuffup-shop.com^
+||cultivatei.com^
 ||culture-chameleon.com^
 ||cuongtws.xyz^
 ||cupliebe.com^
@@ -2877,6 +2888,7 @@
 ||dan-job-de.com^
 ||dana-berlin.de^
 ||dancardi.de^
+||dando.xyz^
 ||dangelapanelli.com^
 ||danggood.de^
 ||dangotech.de^
@@ -3034,9 +3046,11 @@
 ||degussa--goldhandel-de.to^
 ||degussa-gold-de.to^
 ||degussa-goldhandel.ac^
+||degussa-goldhandel.click^
 ||degussa-goldhandel.tv^
 ||shop.degussa-goldhandel.de^
 ||degussa-goldhandel-de.to^
+||dehaag-tech.de^
 ||deharaldsoldieava.shop^
 ||dehaushaltszentrum.com^
 ||dehaustierbedarf.com^
@@ -3072,6 +3086,7 @@
 ||deinwennbuch.shop^
 ||dekarcheck.com^
 ||dekhujoshop.com^
+||dekoartikelrabatt.de^
 ||dekoobjektrabatt.com^
 ||dekoration-store.com^
 ||dekorationsmeister.com^
@@ -3153,6 +3168,7 @@
 ||designalessi.com^
 ||designatep.com^
 ||designatshop.com^
+||designbyclaudia.com^
 ||designdecor.store^
 ||designequations.ca^
 ||designerhome.store^
@@ -3236,11 +3252,13 @@
 ||dietdiney.com^
 ||dietreviews4you.com^
 ||dietrich-garten.de^
+||difcinvestment.world^
 ||diferencialautopecas.com^
 ||diffusoriacusticisorgenti.com^
 ||digi-markets.de^
 ||digipoint.org^
 ||digipulse.online^
+||digisingl.ru^
 ||digital-starten.com^
 ||digitalakku.de^
 ||digitalheizer.de^
@@ -3264,11 +3282,13 @@
 ||diotrange.com^
 ||dirctychop.com^
 ||directepargne.com^
+||directzs.com^
 ||direktbike.store^
 ||direkte-verarbeitung.site^
 ||dirkuhren.de^
 ||dirndlzeit.de^
 ||disciplineh.com^
+||disciplinem.com^
 ||discount-audio-equipment.com^
 ||discount-baustoff.de^
 ||discount-kobalt.com^
@@ -3321,6 +3341,7 @@
 ||documentarp.com^
 ||doehlers.com^
 ||dogandliving.de^
+||doge-mining.top^
 ||dogitemoutlet.com^
 ||dograndoo.de^
 ||dogsdreamaustria.at^
@@ -3395,6 +3416,7 @@
 ||dreamwardrobe.online^
 ||dreamykissen.de^
 ||dreamyss.com^
+||dreamytoybox.com^
 ||drechselbanke.com^
 ||drechselmaschinenrabatt.com^
 ||drechselwebshop.com^
@@ -3465,6 +3487,7 @@
 ||duplexshop.com^
 ||duplicaty.com^
 ||dureb.de^
+||durona.de^
 ||duros.de^
 ||duschenexperte.com^
 ||duscioadaul.club^
@@ -3573,10 +3596,12 @@
 ||ecs-solutions.net^
 ||ed-apotheke.de^
 ||ed-hrvatski.com^
+||edapotheke.store^
 ||edavo.de^
 ||edc-knife.com^
 ||edcbyespritrabatt.com^
 ||edcmesser.com^
+||eddiebauershop.de^
 ||edebrennholzedgar.com^
 ||edecon.net^
 ||edeka24de.com^
@@ -3676,11 +3701,14 @@
 ||elektriker-koc.at^
 ||elektriker-notdienstwien.com^
 ||elektro-bau.com^
+||elektro-beuss.de^
 ||elektro-bischof.com^
 ||elektro-ecke.de^
 ||elektro-evolution.de^
+||elektro-friedrich.com^
 ||elektro-gorilla.de^
 ||elektro-meisner.com^
+||elektro-mix.de^
 ||elektro-rabatt.com^
 ||elektro-rock.com^
 ||elektro-soforthilfe.at^
@@ -3694,6 +3722,7 @@
 ||elektrohandel-schmidt.com^
 ||elektrohandelplus.de^
 ||elektrohause.com^
+||elektroheld24.de^
 ||elektrokauf.com^
 ||elektrokaufen.com^
 ||elektromedis.com^
@@ -3720,6 +3749,7 @@
 ||elevus.de^
 ||elfbarsvape.com^
 ||elimando.com^
+||eliostrategy.com^
 ||elipinks.com^
 ||elipolyse.de^
 ||elise-schmuck.de^
@@ -3741,6 +3771,7 @@
 ||ellenperuecken.de^
 ||ellerne.com^
 ||ellevory.com^
+||ellian.de^
 ||ellicas.de^
 ||ellinika-farmakeio.com^
 ||ellisaluna-handel24.de^
@@ -3748,6 +3779,7 @@
 ||eloquentik.de^
 ||elos-patrimoine.com^
 ||elsas-schmuckatelier.com^
+||elsenheimholz.com^
 ||elsgroup.net^
 ||elsopia.com^
 ||elternundkinderfreude.de^
@@ -3858,6 +3890,7 @@
 ||equivalenh.com^
 ||equivalenu.com^
 ||eradkultur.com^
+||eradkultur.de^
 ||eradmarkt.de^
 ||eradsport.de^
 ||eradstore.de^
@@ -3986,6 +4019,7 @@
 ||euro-markt.at^
 ||euro-modafinil.com^
 ||euro-pharm24.com^
+||euro-pharma24x7.com^
 ||euro-pill.com^
 ||euro2024tickets.de^
 ||eurobitx.info^
@@ -4010,6 +4044,7 @@
 ||europabrass.com^
 ||europaeisches-treuhandkontor.com^
 ||europaischeapotheke.com^
+||europe-pharm.com^
 ||europe-pharm.net^
 ||europe-pimco.com^
 ||european-pharmacy.top^
@@ -4039,6 +4074,7 @@
 ||evane.store^
 ||evanimo.com^
 ||evans-online.de^
+||evansdplaw.com^
 ||evas-schmuck.com^
 ||evatrailer.com^
 ||evbam.com^
@@ -4069,6 +4105,7 @@
 ||ewigerbund.org^
 ||exango.nl^
 ||exango.org^
+||excap.org^
 ||exceptionalg.com^
 ||exchangeo.fr^
 ||exchangesage.com^
@@ -4116,6 +4153,7 @@
 ||f1authentics.shop^
 ||faastpharmacy.com^
 ||fabelin.de^
+||fabiomontto.com^
 ||fabricatem.com^
 ||fabulaberlin.com^
 ||facecomo.com^
@@ -4220,6 +4258,7 @@
 ||fanaticsaleshopify.com^
 ||fanaticsshopline.com^
 ||fanaticsusd.com^
+||fancyclothing.de^
 ||fancygrab.com^
 ||fanmalls.de^
 ||fantomfinanzen.com^
@@ -4288,6 +4327,7 @@
 ||fedelixgroup.com^
 ||feederme.com^
 ||feederruten.com^
+||feedingbodyandsoul.org^
 ||feelalivi.com^
 ||feelamused.com^
 ||feelgoodcamper24.de^
@@ -4382,6 +4422,7 @@
 ||fin-tradix.com^
 ||fr.finaguide.com^
 ||finalatransports.com^
+||finalonline.store^
 ||financial-broker.com^
 ||financial-exchange.com^
 ||financialbinary.com^
@@ -4408,6 +4449,7 @@
 ||fincas-und-villen.com^
 ||finchmarkets.com^
 ||findedeinrad.de^
+||finders-cafe.de^
 ||findjobinde.com^
 ||fine-germa-furniture.com^
 ||finebeachwear.com^
@@ -4420,6 +4462,7 @@
 ||finovesta-france.com^
 ||finovexpro-app.com^
 ||finpari.com^
+||finprofm.com^
 ||finrally.com^
 ||fintechnews.live^
 ||fintegral.world^
@@ -4427,6 +4470,7 @@
 ||finvestai.org^
 ||fiorenz.com^
 ||fip-treatment.com^
+||fipcats.com^
 ||firalo.de^
 ||firat-handel24.de^
 ||firat-shopping.de^
@@ -4451,6 +4495,7 @@
 ||fishtrove.com^
 ||fit-perfect.de^
 ||fitandelite.com^
+||fitbands.de^
 ||fiteningf.com^
 ||fitfloposterreich.at^
 ||fitflopoutlet.at^

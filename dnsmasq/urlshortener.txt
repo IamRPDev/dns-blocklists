@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Mar 2026 21:33 UTC
-# Version: 2026.0307.2133.23
+# Last modified: 08 Mar 2026 09:33 UTC
+# Version: 2026.0308.0933.40
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9938
+# Number of entries: 9945
 #
 local=/0.gp/
 local=/00m.in/
@@ -1906,6 +1906,7 @@ local=/used.com.ph/
 local=/useek.com.au/
 local=/vanlifediyfitouts.com.au/
 local=/bi.vitalmedbrasilia.com.br/
+local=/vm88.com.co/
 local=/xpol.com.tr/
 local=/youlinks.com.au/
 local=/parceiros.zerofuro.com.br/
@@ -2055,6 +2056,7 @@ local=/cut-ly.com/
 local=/cutdown.link/
 local=/cute.link/
 local=/cutearns.com/
+local=/cuterurlha.xyz/
 local=/cravin.biz.cutestat.com/
 local=/futurestendances.click.cutestat.com/
 local=/stako24.com.cutestat.com/
@@ -2249,6 +2251,7 @@ local=/dfl8.me/
 local=/dft.ba/
 local=/dfthethao.com/
 local=/dfy.is/
+local=/dgkad.com/
 local=/dglnk.me/
 local=/dgms.es/
 local=/dgo.to/
@@ -2297,6 +2300,7 @@ local=/divsly.com/
 local=/diwi.io/
 local=/diypriceless.com/
 local=/djarum88.shop/
+local=/djbanshi.net/
 local=/djo924.com/
 local=/djp.li/
 local=/djurl.com/
@@ -2807,6 +2811,7 @@ local=/flashylink.com/
 local=/flattools.com/
 local=/flbox.com/
 local=/flextrig.com/
+local=/fli.so/
 local=/flic.kr/
 local=/flickerlink.com/
 local=/flidoo.com/
@@ -2824,6 +2829,7 @@ local=/florantevaldez.com/
 local=/flow.page/
 local=/flowcaster.link/
 local=/flowcode.com/
+local=/flowhits.com/
 local=/flp.ai/
 local=/flpl.us/
 local=/flq.us/
@@ -2831,6 +2837,7 @@ local=/flrt.me/
 local=/fltr.ai/
 local=/fltx.io/
 local=/flu.yt/
+local=/flubber.pro/
 local=/flug.marketing/
 local=/flumin.pro/
 local=/flut.run/
