@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 08 Mar 2026 10:54 UTC
-# Version: 2026.0308.1054.18
+# Last modified: 08 Mar 2026 19:54 UTC
+# Version: 2026.0308.1954.32
 # Syntax: Domains (without subdomains)
-# Number of entries: 3461
+# Number of entries: 3462
 #
 ss.0001.xyz
 003153.xyz
@@ -1585,6 +1585,7 @@ dns.hanmey.de
 dns.hannielzhang.com
 jp.hannielzhang.com
 d.hansj.cc
+dns.haoxuan.xyz
 resolver.haringstad.com
 resolver-eu.haringstad.com
 adguard.hartley.cloud

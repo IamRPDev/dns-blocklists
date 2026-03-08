@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 08 Mar 2026 10:54 UTC
-# Version: 2026.0308.1054.57
+# Last modified: 08 Mar 2026 19:55 UTC
+# Version: 2026.0308.1955.10
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 16766
+# Number of entries: 16772
 #
 local=/000000555.xyz/
 local=/ss.0001.xyz/
@@ -1196,7 +1196,6 @@ local=/app-lets.com/
 local=/app-letsvpn.com/
 local=/app707.org/
 local=/app77.org/
-local=/appgoogtols.xyz/
 local=/ds.appl.pk/
 local=/dns.apple.com/
 local=/applegame.xyz/
@@ -6356,6 +6355,7 @@ local=/resolver.frank-ruan.com/
 local=/wandana.franklinfamily.au/
 local=/agent.frankutils.xyz/
 local=/fravix.ru/
+local=/know.orbit.frawst.com/
 local=/fraymova.ru/
 local=/adguard.frece.de/
 local=/adguard2.frece.de/
@@ -6411,6 +6411,7 @@ local=/freeeuroproxy.com/
 local=/freehiddenvpn.gq/
 local=/freelux.world/
 local=/atom.area.freemath.ch/
+local=/freemicvpn.com/
 local=/freemybrowser.com/
 local=/dns.freemyemail.com/
 local=/shadow-3.freemyip.com/
@@ -6581,6 +6582,7 @@ local=/galxy.autos/
 local=/dns.gamban.com/
 local=/adguard.gambini.org/
 local=/proxy.gamecove.net/
+local=/gameproxy.org/
 local=/gamers-nor.com/
 local=/d.gametechnet.com/
 local=/gamingssh.com/
@@ -6745,7 +6747,6 @@ local=/ilovemath316.girl.place/
 local=/dfdgvbcfdrfgcgfdrtfgctgh.rtgyhtfretfgderfde.girl.place/
 local=/hjhghjkdsuhfjkbhsjfkbhsdfn.sdfhdjskkfhsdf.girl.place/
 local=/shadowrocket-app.gitbook.io/
-local=/gitgootols.site/
 local=/batvpn.github.io/
 local=/censortracker.github.io/
 local=/chstextbook.github.io/
@@ -6903,7 +6904,6 @@ local=/tunnel.googlezip.net/
 local=/googo.us/
 local=/googo-appdns.top/
 local=/googohelps.top/
-local=/googtols.shop/
 local=/gooner.my/
 local=/gooningfor.life/
 local=/gooningforever.shop/
@@ -7067,6 +7067,7 @@ local=/gsoula.life/
 local=/gsouyou.space/
 local=/ms.gswsfh2021.site/
 local=/gsyvipaff.cc/
+local=/gtag.club/
 local=/gtdqambjtl3.online/
 local=/gtkpw.com/
 local=/gtkpwclash.com/
@@ -7145,6 +7146,7 @@ local=/adg-swe.h4nt3r.com/
 local=/adguard.h4nt3r.com/
 local=/hackkcah.com/
 local=/hackkcah.xyz/
+local=/gopeople.hackquest.com/
 local=/shuumai.hacrew.com/
 local=/clean.hadan-dns.de/
 local=/ns1.hadan-dns.de/
@@ -7198,6 +7200,7 @@ local=/jp.hannielzhang.com/
 local=/hans-kuailian.com/
 local=/d.hansj.cc/
 local=/classroom.haoqiw.com/
+local=/dns.haoxuan.xyz/
 local=/happ.su/
 local=/happy-vpn.com/
 local=/happydata.info/
@@ -7553,6 +7556,7 @@ local=/home-server.store/
 local=/rylan67imadethisguys.science.home-webserver.de/
 local=/home34.su/
 local=/pi.homeanywhere.org/
+local=/tests.debate.homebrewology.org/
 local=/admin.homedns.uk/
 local=/isolacje.homeip.net/
 local=/homemail.info/
@@ -7645,6 +7649,7 @@ local=/vseesa.hotelconsuladoinn.com/
 local=/xanderlikedihhh.hotelconsuladoinn.com/
 local=/1.hotelne.com/
 local=/hotfreevpn.com/
+local=/purchase-some.hotglue.click/
 local=/hotspotshield.com/
 local=/hotspotvpn.com/
 local=/dns.hotta.page/
@@ -7698,6 +7703,7 @@ local=/hubdhl.com/
 local=/hubebay.com/
 local=/hubgoogle.com/
 local=/hubups.com/
+local=/task.edu.hueteinterpreting.com/
 local=/doh.hugang8.cn/
 local=/hugeph.art/
 local=/huiyeproxyclash.com/

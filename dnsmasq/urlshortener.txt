@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 08 Mar 2026 09:33 UTC
-# Version: 2026.0308.0933.40
+# Last modified: 08 Mar 2026 18:33 UTC
+# Version: 2026.0308.1833.20
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9945
+# Number of entries: 9952
 #
 local=/0.gp/
 local=/00m.in/
@@ -2598,6 +2598,7 @@ local=/url.enepe.fr/
 local=/l.enes.tech/
 local=/engn.it/
 local=/engt.co/
+local=/enjaz.media/
 local=/enlac.ee/
 local=/go.enlace.org/
 local=/enlacify.com/
@@ -2932,6 +2933,7 @@ local=/fwd-2.com/
 local=/fwd4.me/
 local=/fwdme.info/
 local=/fwds.to/
+local=/fwk.ai/
 local=/fwme.eu/
 local=/fwr.to/
 local=/fxn.ws/
@@ -2939,6 +2941,7 @@ local=/download.fxsound.com/
 local=/fy9.in/
 local=/fyi.mx/
 local=/fyn.link/
+local=/fyndr.info/
 local=/fys.io/
 local=/g.asia/
 local=/g.co/
@@ -2959,6 +2962,7 @@ local=/gacoer.win/
 local=/gacor.app/
 local=/gacor123.red/
 local=/gacor22.me/
+local=/gacor66.me/
 local=/gacor99-vip.xyz/
 local=/gacora.biz/
 local=/gacorbos.me/
@@ -3072,6 +3076,7 @@ local=/gi.lt/
 local=/gibi.link/
 local=/gigalink.me/
 local=/gigaz.in/
+local=/gigbridge.app/
 local=/gil.re/
 local=/giosous.com/
 local=/gir.gg/
@@ -3188,6 +3193,7 @@ local=/google-url.com/
 local=/googleidmaps.live/
 local=/goolink.cc/
 local=/goolnk.com/
+local=/gooo.to/
 local=/goose.re/
 local=/gopreply.com/
 local=/goprotect.link/
@@ -3277,6 +3283,7 @@ local=/gtne.ws/
 local=/gtnr.it/
 local=/gtrv.info/
 local=/gudang.me/
+local=/gurl.pro/
 local=/gurl.to/
 local=/gw.ie/
 local=/gyanilinks.com/
