@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Mar 2026 09:33 UTC
-# Version: 2026.0310.0933.09
+# Last modified: 10 Mar 2026 15:32 UTC
+# Version: 2026.0310.1532.28
 # Syntax: Domains (without subdomains)
-# Number of entries: 10002
+# Number of entries: 10008
 #
 0.gp
 00m.in
@@ -8628,6 +8628,7 @@ u2l.io
 u2s.ca
 u301.com
 u3l.co
+u3vw.shop
 u4r.net
 u4y.ch
 u6e.de
@@ -9579,6 +9580,7 @@ wozencraft.boats
 wp.me
 wp1.co
 wpbeg.in
+wplinks.online
 links.wpmhs.com
 wpshort.com
 wptrckr.com
@@ -9713,11 +9715,13 @@ xth.me
 xtr.bz
 xtre.me
 xua.me
+xub.me
 xuc88.club
 xuo.us
 xurl.app
 xurl.at
 xurl.es
+xurl.jp
 xurl.pk
 xurl302.top
 xut.io
@@ -9730,6 +9734,7 @@ xxxdwz.co
 xxxdwz.com
 xxxdwz.pro
 xxxl.ink
+xy.ar
 xzb.cc
 y0utu.be
 y2.nz
@@ -9817,6 +9822,7 @@ yourl.ir
 yourl.jp
 yourls.ch
 yourls.lu
+yourls.net
 yourls.org
 yourls.pro
 yourls.website

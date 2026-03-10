@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773134880 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773156480 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Pop-Up Ads DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 10 Mar 2026 09:28 UTC
-; Version: 2026.0310.0928.55
+; Last modified: 10 Mar 2026 15:28 UTC
+; Version: 2026.0310.1528.16
 ; Syntax: RPZ
-; Number of entries: 110640
+; Number of entries: 110676
 ;
 bonzai.ad CNAME .
 *.bonzai.ad CNAME .
@@ -61212,6 +61212,8 @@ removalnewest.com CNAME .
 *.removalnewest.com CNAME .
 removedrehabilitation.com CNAME .
 *.removedrehabilitation.com CNAME .
+remover-bg.com CNAME .
+*.remover-bg.com CNAME .
 renaissancecelerysweaty.com CNAME .
 *.renaissancecelerysweaty.com CNAME .
 renamereptiliantrance.com CNAME .
@@ -61316,6 +61318,8 @@ requiredswanchastise.com CNAME .
 *.requiredswanchastise.com CNAME .
 requisiteconjure.com CNAME .
 *.requisiteconjure.com CNAME .
+requisitezap.com CNAME .
+*.requisitezap.com CNAME .
 rereddit.com CNAME .
 *.rereddit.com CNAME .
 rerisepaleae.com CNAME .
@@ -75146,6 +75150,8 @@ woodymotherhood.com CNAME .
 *.woodymotherhood.com CNAME .
 woof-wo0f.com CNAME .
 *.woof-wo0f.com CNAME .
+woofbeginner.com CNAME .
+*.woofbeginner.com CNAME .
 woogoust.com CNAME .
 *.woogoust.com CNAME .
 jb.woohoobeclap.com CNAME .
@@ -75166,6 +75172,8 @@ woriusly.com CNAME .
 *.woriusly.com CNAME .
 work-from-home-writing-jobs.com CNAME .
 *.work-from-home-writing-jobs.com CNAME .
+workcahoots.com CNAME .
+*.workcahoots.com CNAME .
 workfewerhours.com CNAME .
 *.workfewerhours.com CNAME .
 workhovdiminatedi.com CNAME .
@@ -75648,6 +75656,8 @@ xficidaqdoxv.com CNAME .
 *.xficidaqdoxv.com CNAME .
 xfokackirkum.com CNAME .
 *.xfokackirkum.com CNAME .
+xforce-cracks.com CNAME .
+*.xforce-cracks.com CNAME .
 xfwblpomxc.com CNAME .
 *.xfwblpomxc.com CNAME .
 xg59.com CNAME .
@@ -75668,6 +75678,8 @@ netbk.jp.xhvisual.com CNAME .
 *.netbk.jp.xhvisual.com CNAME .
 xhxt2016.com CNAME .
 *.xhxt2016.com CNAME .
+kenoluntan.xi58.com CNAME .
+*.kenoluntan.xi58.com CNAME .
 xiangcai-tech.com CNAME .
 *.xiangcai-tech.com CNAME .
 xiaobaixitong.com CNAME .
@@ -75984,6 +75996,8 @@ xy15588.com CNAME .
 *.xy15588.com CNAME .
 xy5678.com CNAME .
 *.xy5678.com CNAME .
+xy6253.com CNAME .
+*.xy6253.com CNAME .
 xy8001.com CNAME .
 *.xy8001.com CNAME .
 xyclothing.com CNAME .
@@ -76008,6 +76022,8 @@ xzmsw.com CNAME .
 *.xzmsw.com CNAME .
 xzqpz.com CNAME .
 *.xzqpz.com CNAME .
+xzs369.com CNAME .
+*.xzs369.com CNAME .
 xzssgs.com CNAME .
 *.xzssgs.com CNAME .
 y-tradie.com CNAME .
@@ -76324,6 +76340,8 @@ yomzba.com CNAME .
 *.yomzba.com CNAME .
 yonazurilla.com CNAME .
 *.yonazurilla.com CNAME .
+yonbearticor.com CNAME .
+*.yonbearticor.com CNAME .
 yonelectrikeer.com CNAME .
 *.yonelectrikeer.com CNAME .
 yonhelioliskor.com CNAME .
@@ -76332,6 +76350,8 @@ yoomanies.com CNAME .
 *.yoomanies.com CNAME .
 yoshatia.com CNAME .
 *.yoshatia.com CNAME .
+wwa.youai01.com CNAME .
+*.wwa.youai01.com CNAME .
 youaredreames.com CNAME .
 *.youaredreames.com CNAME .
 youareunemployable.com CNAME .
@@ -76550,6 +76570,8 @@ ypd.com CNAME .
 *.ypd.com CNAME .
 ype7.com CNAME .
 *.ype7.com CNAME .
+ypmnzrio.com CNAME .
+*.ypmnzrio.com CNAME .
 yq38.com CNAME .
 *.yq38.com CNAME .
 yq67.com CNAME .
@@ -76568,6 +76590,8 @@ dmarc.yrqp.com CNAME .
 *.dmarc.yrqp.com CNAME .
 ysdqww.com CNAME .
 *.ysdqww.com CNAME .
+ysksv.com CNAME .
+*.ysksv.com CNAME .
 ystationalhed.com CNAME .
 *.ystationalhed.com CNAME .
 yszhang.com CNAME .
@@ -76594,6 +76618,8 @@ yuanxiaodou.com CNAME .
 *.yuanxiaodou.com CNAME .
 yuanyi88.com CNAME .
 *.yuanyi88.com CNAME .
+yuchuanze.com CNAME .
+*.yuchuanze.com CNAME .
 ka.yuckedklunk.com CNAME .
 *.ka.yuckedklunk.com CNAME .
 yuebank.com CNAME .
@@ -76680,6 +76706,8 @@ yy8j.com CNAME .
 *.yy8j.com CNAME .
 yy9s51b2u05z.com CNAME .
 *.yy9s51b2u05z.com CNAME .
+yydao.com CNAME .
+*.yydao.com CNAME .
 yydtbpms8tf4.com CNAME .
 *.yydtbpms8tf4.com CNAME .
 yydushu.com CNAME .
@@ -76906,6 +76934,8 @@ zhaopinwuyang.com CNAME .
 *.zhaopinwuyang.com CNAME .
 zhaoshang-sh.com CNAME .
 *.zhaoshang-sh.com CNAME .
+zhaoxieliao.com CNAME .
+*.zhaoxieliao.com CNAME .
 zhcn8.com CNAME .
 *.zhcn8.com CNAME .
 zhdc0898.com CNAME .
@@ -86288,8 +86318,6 @@ memory-storage.net CNAME .
 *.memory-storage.net CNAME .
 merlin1.net CNAME .
 *.merlin1.net CNAME .
-mersijoongi.net CNAME .
-*.mersijoongi.net CNAME .
 mesqwrte.net CNAME .
 *.mesqwrte.net CNAME .
 messagesafe.net CNAME .
@@ -90392,6 +90420,8 @@ xyntqqrtdrjzk.online CNAME .
 *.xyntqqrtdrjzk.online CNAME .
 xzshonsscrjzu.online CNAME .
 *.xzshonsscrjzu.online CNAME .
+yalla-cima.online CNAME .
+*.yalla-cima.online CNAME .
 yaupaibcfqfvh.online CNAME .
 *.yaupaibcfqfvh.online CNAME .
 ybozjqsojrktu.online CNAME .
@@ -93860,6 +93890,8 @@ nastyland.pro CNAME .
 *.nastyland.pro CNAME .
 naughty-industry.pro CNAME .
 *.naughty-industry.pro CNAME .
+nauticaldate.pro CNAME .
+*.nauticaldate.pro CNAME .
 nauticalfly.pro CNAME .
 *.nauticalfly.pro CNAME .
 nbo-protect.pro CNAME .
@@ -94664,6 +94696,8 @@ wordy-model.pro CNAME .
 *.wordy-model.pro CNAME .
 worldly-main.pro CNAME .
 *.worldly-main.pro CNAME .
+worldly-standard.pro CNAME .
+*.worldly-standard.pro CNAME .
 worn-wheel.pro CNAME .
 *.worn-wheel.pro CNAME .
 worried-company.pro CNAME .
@@ -96264,8 +96298,6 @@ icodstatus.shop CNAME .
 *.icodstatus.shop CNAME .
 ol.idebejig.shop CNAME .
 *.ol.idebejig.shop CNAME .
-ikeypreact.shop CNAME .
-*.ikeypreact.shop CNAME .
 ur.impartsbacile.shop CNAME .
 *.ur.impartsbacile.shop CNAME .
 indogencomr.shop CNAME .
@@ -99114,6 +99146,8 @@ xovbjzdbfomoo.site CNAME .
 *.xovbjzdbfomoo.site CNAME .
 xoymkdgsafcdh.site CNAME .
 *.xoymkdgsafcdh.site CNAME .
+xpobbwxzhe-l.site CNAME .
+*.xpobbwxzhe-l.site CNAME .
 xqxgcdhfkccgg.site CNAME .
 *.xqxgcdhfkccgg.site CNAME .
 xskmpyxchvanm.site CNAME .
@@ -102652,6 +102686,8 @@ wkrqvffpntjzm.store CNAME .
 *.wkrqvffpntjzm.store CNAME .
 woihtwxtybnzw.store CNAME .
 *.woihtwxtybnzw.store CNAME .
+worshippers.store CNAME .
+*.worshippers.store CNAME .
 wqbuwbiuowblc.store CNAME .
 *.wqbuwbiuowblc.store CNAME .
 wrnqakeoomvlg.store CNAME .

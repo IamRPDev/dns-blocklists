@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 10 Mar 2026 04:56 UTC
-! Version: 2026.0310.0456.16
+! Last modified: 10 Mar 2026 16:51 UTC
+! Version: 2026.0310.1651.33
 ! Syntax: AdBlock
-! Number of entries: 3466
+! Number of entries: 3467
 !
 ||ss.0001.xyz^
 ||003153.xyz^
@@ -3393,6 +3393,7 @@
 ||dns.xydustc.me^
 ||v1.xylto.com^
 ||dns.y2f.xyz^
+||dns.yameenassotally.com^
 ||2.dnscrypt-cert.browser.yandex.net^
 ||dns.yandex.ru^
 ||common.dot.dns.yandex.net^

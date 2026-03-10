@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773135060 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773156600 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 10 Mar 2026 09:31 UTC
-; Version: 2026.0310.0931.23
+; Last modified: 10 Mar 2026 15:30 UTC
+; Version: 2026.0310.1530.46
 ; Syntax: RPZ
-; Number of entries: 28872
+; Number of entries: 28908
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -1620,6 +1620,8 @@ nexberg-ag.co CNAME .
 *.nexberg-ag.co CNAME .
 on-on.co CNAME .
 *.on-on.co CNAME .
+optinomic.co CNAME .
+*.optinomic.co CNAME .
 www.buy-bitcoin.pagedemo.co CNAME .
 *.www.buy-bitcoin.pagedemo.co CNAME .
 peachyxchic.co CNAME .
@@ -2662,6 +2664,8 @@ aurainfusions.com CNAME .
 *.aurainfusions.com CNAME .
 aurelllc.com CNAME .
 *.aurelllc.com CNAME .
+aurenbridge.com CNAME .
+*.aurenbridge.com CNAME .
 aurexk-pital.com CNAME .
 *.aurexk-pital.com CNAME .
 aurolonix.com CNAME .
@@ -3828,6 +3832,10 @@ brennholzboersch.com CNAME .
 *.brennholzboersch.com CNAME .
 brennholzdge.com CNAME .
 *.brennholzdge.com CNAME .
+brennholzfiger.com CNAME .
+*.brennholzfiger.com CNAME .
+brennholzholzge.com CNAME .
+*.brennholzholzge.com CNAME .
 brennholzmeister.com CNAME .
 *.brennholzmeister.com CNAME .
 brennholzpellets.com CNAME .
@@ -4272,6 +4280,8 @@ celorin.com CNAME .
 *.celorin.com CNAME .
 cenatrix.com CNAME .
 *.cenatrix.com CNAME .
+centerviewpnllc.com CNAME .
+*.centerviewpnllc.com CNAME .
 ceramicjapan-de.com CNAME .
 *.ceramicjapan-de.com CNAME .
 ceramictablewareshop.com CNAME .
@@ -6838,6 +6848,8 @@ finprofm.com CNAME .
 *.finprofm.com CNAME .
 finrally.com CNAME .
 *.finrally.com CNAME .
+finrocketpro.com CNAME .
+*.finrocketpro.com CNAME .
 fiorenz.com CNAME .
 *.fiorenz.com CNAME .
 fip-treatment.com CNAME .
@@ -8348,6 +8360,8 @@ heizoil.com CNAME .
 *.heizoil.com CNAME .
 heizpro.com CNAME .
 *.heizpro.com CNAME .
+heizprohandel.com CNAME .
+*.heizprohandel.com CNAME .
 heizungersatzteile.com CNAME .
 *.heizungersatzteile.com CNAME .
 heizungfachhandel.com CNAME .
@@ -17912,6 +17926,8 @@ yokemart.com CNAME .
 *.yokemart.com CNAME .
 yokofashionswitzerland.com CNAME .
 *.yokofashionswitzerland.com CNAME .
+yonexdeutschland.com CNAME .
+*.yonexdeutschland.com CNAME .
 yoocaa.com CNAME .
 *.yoocaa.com CNAME .
 yoohal.com CNAME .
@@ -19474,6 +19490,8 @@ deutschechic.de CNAME .
 *.deutschechic.de CNAME .
 deutscher-invest-markt.de CNAME .
 *.deutscher-invest-markt.de CNAME .
+deutsches-gut.de CNAME .
+*.deutsches-gut.de CNAME .
 deutschesbrennholz.de CNAME .
 *.deutschesbrennholz.de CNAME .
 deutschla.de CNAME .
@@ -24694,6 +24712,10 @@ yogaathleta.de CNAME .
 *.yogaathleta.de CNAME .
 yokee.de CNAME .
 *.yokee.de CNAME .
+yonexdeutschland.de CNAME .
+*.yonexdeutschland.de CNAME .
+yooso.de CNAME .
+*.yooso.de CNAME .
 yorkbootsshop.de CNAME .
 *.yorkbootsshop.de CNAME .
 youzuu.de CNAME .
@@ -24730,6 +24752,8 @@ zeitgeschenen.de CNAME .
 *.zeitgeschenen.de CNAME .
 zeitlosliebe.de CNAME .
 *.zeitlosliebe.de CNAME .
+zelara.de CNAME .
+*.zelara.de CNAME .
 zelono.de CNAME .
 *.zelono.de CNAME .
 zendoo.de CNAME .
@@ -24758,6 +24782,8 @@ app.zety.de CNAME .
 *.app.zety.de CNAME .
 zfggmbh.de CNAME .
 *.zfggmbh.de CNAME .
+ziegler-handel.de CNAME .
+*.ziegler-handel.de CNAME .
 zigoff.de CNAME .
 *.zigoff.de CNAME .
 zimtahorn.de CNAME .
@@ -25242,6 +25268,8 @@ bitcoinloophole.io CNAME .
 *.bitcoinloophole.io CNAME .
 bitnixer.io CNAME .
 *.bitnixer.io CNAME .
+capitalfm.io CNAME .
+*.capitalfm.io CNAME .
 cdeen.io CNAME .
 *.cdeen.io CNAME .
 crypteo.io CNAME .
@@ -26172,10 +26200,14 @@ xeviet.net CNAME .
 *.xeviet.net CNAME .
 yannelli.net CNAME .
 *.yannelli.net CNAME .
+yumgo.net CNAME .
+*.yumgo.net CNAME .
 zardos.net CNAME .
 *.zardos.net CNAME .
 zigaretten-bestellen.net CNAME .
 *.zigaretten-bestellen.net CNAME .
+zinsprofi.net CNAME .
+*.zinsprofi.net CNAME .
 ccmedia.news CNAME .
 *.ccmedia.news CNAME .
 postcard.news CNAME .
@@ -26654,6 +26686,8 @@ doode.pro CNAME .
 *.doode.pro CNAME .
 doosd.pro CNAME .
 *.doosd.pro CNAME .
+exomarkets.pro CNAME .
+*.exomarkets.pro CNAME .
 finanzarena.pro CNAME .
 *.finanzarena.pro CNAME .
 finanzwelt.pro CNAME .
@@ -28406,6 +28440,8 @@ wunderladen.store CNAME .
 *.wunderladen.store CNAME .
 yardigen.store CNAME .
 *.yardigen.store CNAME .
+zenovaa.store CNAME .
+*.zenovaa.store CNAME .
 bitcoinasystem.su CNAME .
 *.bitcoinasystem.su CNAME .
 applified.tech CNAME .

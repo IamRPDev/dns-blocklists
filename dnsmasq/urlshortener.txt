@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Mar 2026 09:33 UTC
-# Version: 2026.0310.0933.09
+# Last modified: 10 Mar 2026 15:32 UTC
+# Version: 2026.0310.1532.28
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10002
+# Number of entries: 10008
 #
 local=/0.gp/
 local=/00m.in/
@@ -8628,6 +8628,7 @@ local=/u2l.io/
 local=/u2s.ca/
 local=/u301.com/
 local=/u3l.co/
+local=/u3vw.shop/
 local=/u4r.net/
 local=/u4y.ch/
 local=/u6e.de/
@@ -9579,6 +9580,7 @@ local=/wozencraft.boats/
 local=/wp.me/
 local=/wp1.co/
 local=/wpbeg.in/
+local=/wplinks.online/
 local=/links.wpmhs.com/
 local=/wpshort.com/
 local=/wptrckr.com/
@@ -9713,11 +9715,13 @@ local=/xth.me/
 local=/xtr.bz/
 local=/xtre.me/
 local=/xua.me/
+local=/xub.me/
 local=/xuc88.club/
 local=/xuo.us/
 local=/xurl.app/
 local=/xurl.at/
 local=/xurl.es/
+local=/xurl.jp/
 local=/xurl.pk/
 local=/xurl302.top/
 local=/xut.io/
@@ -9730,6 +9734,7 @@ local=/xxxdwz.co/
 local=/xxxdwz.com/
 local=/xxxdwz.pro/
 local=/xxxl.ink/
+local=/xy.ar/
 local=/xzb.cc/
 local=/y0utu.be/
 local=/y2.nz/
@@ -9817,6 +9822,7 @@ local=/yourl.ir/
 local=/yourl.jp/
 local=/yourls.ch/
 local=/yourls.lu/
+local=/yourls.net/
 local=/yourls.org/
 local=/yourls.pro/
 local=/yourls.website/

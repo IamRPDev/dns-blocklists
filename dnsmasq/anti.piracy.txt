@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Mar 2026 10:48 UTC
-# Version: 2026.0310.1048.20
+# Last modified: 10 Mar 2026 16:45 UTC
+# Version: 2026.0310.1645.54
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 12086
+# Number of entries: 12111
 #
 local=/tracker.guguan.000.pe/
 local=/003396815.xyz/
@@ -924,10 +924,25 @@ local=/anix.to/
 local=/anizone.to/
 local=/ankergames.net/
 local=/ankeschwarz.net/
+local=/annas-archive.ax/
 local=/annas-archive.cc/
+local=/annas-archive.ch/
+local=/annas-archive.com/
+local=/annas-archive.cyou/
+local=/annas-archive.gd/
+local=/annas-archive.gl/
 local=/annas-archive.gs/
+local=/annas-archive.icu/
+local=/annas-archive.in/
 local=/annas-archive.li/
+local=/annas-archive.monster/
 local=/annas-archive.pk/
+local=/annas-archive.pm/
+local=/annas-archive.su/
+local=/annas-archive.sx/
+local=/annas-archive.top/
+local=/annas-archive.vg/
+local=/annas-archive.xin/
 local=/anonboot.com/
 local=/anonsecurityteam.com/
 local=/private.anonseed.com/
@@ -10406,6 +10421,7 @@ local=/torrentzeu.org/
 local=/torrentzoa.com/
 local=/torrentzone.net/
 local=/torrentzozo.com/
+local=/torrindex.net/
 local=/torrminatorr.com/
 local=/torrnado.space/
 local=/tracker.torrust-demo.com/
@@ -11666,6 +11682,7 @@ local=/ww1-zone-torrent.town/
 local=/ww2-nortorrent.com/
 local=/ww4.click/
 local=/wwereleases.com/
+local=/wwmovies.xyz/
 local=/wwwhesgoal.com/
 local=/u.wwwww.wtf/
 local=/w.wwwww.wtf/
@@ -11685,6 +11702,7 @@ local=/xatab-repack.net/
 local=/xatab-repack.rip/
 local=/xbins.org/
 local=/xbit.pw/
+local=/xboot.net/
 local=/xbox360iso.com/
 local=/xcine.click/
 local=/xcine.cx/
@@ -11698,6 +11716,7 @@ local=/xcine.tv/
 local=/xcine-tv.com/
 local=/xcinema.ro/
 local=/xd-movie.com/
+local=/xdcc.eu/
 local=/xducaytr.com/
 local=/xdude.net/
 local=/tracker.xdvdz.com/
@@ -11705,6 +11724,7 @@ local=/xenialbb.net/
 local=/xenu.ws/
 local=/share.xfapi.top/
 local=/tracker.xfapi.top/
+local=/xforce-cracks.com/
 local=/share.xfsub.com/
 local=/tracker.xiaoduola.xyz/
 local=/xider.hu/
@@ -11720,6 +11740,7 @@ local=/xmovies8.lol/
 local=/xmovies8.org/
 local=/xmovies8.ru/
 local=/xmovies8.si/
+local=/tracker-zhuqiy.xn--1r3au8b.space/
 local=/xn--80a4b.com/
 local=/tracker.xn--djrq4gl4hvoi.top/
 local=/xn--thepratebay-fcb.com/
@@ -11780,6 +11801,7 @@ local=/yabancidizi.now/
 local=/yabse.com/
 local=/yalla-shoot.fun/
 local=/yalla-shoot-mobasher.com/
+local=/yalla-shootv.live/
 local=/yallashoothub.com/
 local=/yamgo.com/
 local=/yams.tf/
@@ -11814,6 +11836,7 @@ local=/yesmovies.lat/
 local=/yesmovies.lol/
 local=/yesmovies.media/
 local=/yesmovies.mn/
+local=/yesmovies.mom/
 local=/yesmovies.my/
 local=/yesmovies.net/
 local=/yesmovies.org/
@@ -11864,6 +11887,7 @@ local=/yifysub.net/
 local=/yifysubtitles.me/
 local=/yifytorrent.cc/
 local=/yifytorrent.vip/
+local=/yifytorrents.net/
 local=/ymovies.se/
 local=/ymovies.stream/
 local=/ymovies.to/
@@ -11982,6 +12006,7 @@ local=/zalukaj.cc/
 local=/zalukaj.film/
 local=/zalukaj.pl/
 local=/zalukaj.tv/
+local=/zalukaj-pl.com/
 local=/zalukaj-pl.tv/
 local=/zalukaj-tv.pl/
 local=/zalukaj-vip.pl/

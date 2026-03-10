@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 10 Mar 2026 09:31 UTC
-! Version: 2026.0310.0931.23
+! Last modified: 10 Mar 2026 15:30 UTC
+! Version: 2026.0310.1530.46
 ! Syntax: AdBlock
-! Number of entries: 14436
+! Number of entries: 14454
 !
 ||01broker.com^
 ||01crypto.com^
@@ -851,6 +851,7 @@
 ||aurainfusions.com^
 ||aureamunich.de^
 ||aurelllc.com^
+||aurenbridge.com^
 ||auresthiqan.sbs^
 ||aurexk-pital.com^
 ||aurolonix.com^
@@ -1796,6 +1797,8 @@
 ||brennholzbillharz.shop^
 ||brennholzboersch.com^
 ||brennholzdge.com^
+||brennholzfiger.com^
+||brennholzholzge.com^
 ||brennholzkamin.de^
 ||brennholzmeister.com^
 ||brennholzmeister.de^
@@ -2048,6 +2051,7 @@
 ||capital-rvg.com^
 ||capital888.net^
 ||capitalcourtage.com^
+||capitalfm.io^
 ||capitalfrance.fr^
 ||capitalfxs.com^
 ||capitalholdings.icu^
@@ -2172,6 +2176,7 @@
 ||cenatrix.com^
 ||centahah.de^
 ||center-staubsauger.de^
+||centerviewpnllc.com^
 ||centralsport.nl^
 ||cerabone.cz^
 ||ceramicjapan-de.com^
@@ -3201,6 +3206,7 @@
 ||deutschegrammophoneu-outlets.shop^
 ||deutscher-invest-markt.de^
 ||deutschersammlerschatz.com^
+||deutsches-gut.de^
 ||deutschesbrennholz.de^
 ||deutschezeltwelt.com^
 ||deutschgeschenkfest.com^
@@ -4112,6 +4118,7 @@
 ||exo-marketing.com^
 ||exodermin.com^
 ||exodermin.eu^
+||exomarkets.pro^
 ||exotekracingparts.com^
 ||exoticappearance.com^
 ||expedangebote.com^
@@ -4455,6 +4462,7 @@
 ||finpari.com^
 ||finprofm.com^
 ||finrally.com^
+||finrocketpro.com^
 ||fintechnews.live^
 ||fintegral.world^
 ||fintrexia.org^
@@ -5893,6 +5901,7 @@
 ||heizparadies.de^
 ||heizpellets247.de^
 ||heizpro.com^
+||heizprohandel.com^
 ||heizstrahlerprada.de^
 ||heizsy.de^
 ||heiztechnik-kundendienst.at^
@@ -9722,6 +9731,7 @@
 ||optimalattire.com^
 ||optimaltackle.com^
 ||optimarkets.com^
+||optinomic.co^
 ||option-bank.com^
 ||optionbanking.com^
 ||optionet.com^
@@ -14273,8 +14283,11 @@
 ||yokee.de^
 ||yokemart.com^
 ||yokofashionswitzerland.com^
+||yonexdeutschland.com^
+||yonexdeutschland.de^
 ||yoocaa.com^
 ||yoohal.com^
+||yooso.de^
 ||yorkbootsshop.de^
 ||youdenovahome.shop^
 ||youkukestylus.com^
@@ -14294,6 +14307,7 @@
 ||yuanpaygroup.org^
 ||yuaonew.com^
 ||yuguz.com^
+||yumgo.net^
 ||yummycrystal.com^
 ||yumor.shop^
 ||life.yuomyt.com^
@@ -14358,6 +14372,7 @@
 ||zeit-modehaus.com^
 ||zeitgeschenen.de^
 ||zeitlosliebe.de^
+||zelara.de^
 ||zelono.de^
 ||zelterabatt.com^
 ||zeltkinggear.com^
@@ -14370,6 +14385,7 @@
 ||zenniagoods.com^
 ||zeno-paris.shop^
 ||zenova-shop.de^
+||zenovaa.store^
 ||zentempel.com^
 ||zentiv.de^
 ||zentoil.de^
@@ -14390,6 +14406,7 @@
 ||app.zety.de^
 ||zeylor-pacte.com^
 ||zfggmbh.de^
+||ziegler-handel.de^
 ||zieglerzurich.ch^
 ||zigaretten-bestellen.net^
 ||zigaretten-steuerfrei-bestellen.com^
@@ -14403,6 +14420,7 @@
 ||zinsacm.com^
 ||zinsfuchs.com^
 ||zinsmanager.de^
+||zinsprofi.net^
 ||zinzendorf-mode.at^
 ||zipgoat.com^
 ||zirella.de^

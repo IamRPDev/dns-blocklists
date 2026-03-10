@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 09 Mar 2026 10:54 UTC
-! Version: 2026.0309.1054.09
+! Last modified: 10 Mar 2026 16:52 UTC
+! Version: 2026.0310.1652.03
 ! Syntax: AdBlock
-! Number of entries: 1132
+! Number of entries: 1133
 !
 ||003153.xyz^
 ||ns.00dani.me^
@@ -1121,6 +1121,7 @@
 ||xorbiadns.com^
 ||dns.xuming.studio^
 ||dns.xwdmw.xyz^
+||dns.yameenassotally.com^
 ||dns.yandex.ru^
 ||common.dot.dns.yandex.net^
 ||family.dot.dns.yandex.net^

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Mar 2026 10:48 UTC
-# Version: 2026.0310.1048.20
+# Last modified: 10 Mar 2026 16:45 UTC
+# Version: 2026.0310.1645.54
 # Syntax: Domains (without subdomains)
-# Number of entries: 12086
+# Number of entries: 12111
 #
 tracker.guguan.000.pe
 003396815.xyz
@@ -924,10 +924,25 @@ anix.to
 anizone.to
 ankergames.net
 ankeschwarz.net
+annas-archive.ax
 annas-archive.cc
+annas-archive.ch
+annas-archive.com
+annas-archive.cyou
+annas-archive.gd
+annas-archive.gl
 annas-archive.gs
+annas-archive.icu
+annas-archive.in
 annas-archive.li
+annas-archive.monster
 annas-archive.pk
+annas-archive.pm
+annas-archive.su
+annas-archive.sx
+annas-archive.top
+annas-archive.vg
+annas-archive.xin
 anonboot.com
 anonsecurityteam.com
 private.anonseed.com
@@ -10406,6 +10421,7 @@ torrentzeu.org
 torrentzoa.com
 torrentzone.net
 torrentzozo.com
+torrindex.net
 torrminatorr.com
 torrnado.space
 tracker.torrust-demo.com
@@ -11666,6 +11682,7 @@ ww1-zone-torrent.town
 ww2-nortorrent.com
 ww4.click
 wwereleases.com
+wwmovies.xyz
 wwwhesgoal.com
 u.wwwww.wtf
 w.wwwww.wtf
@@ -11685,6 +11702,7 @@ xatab-repack.net
 xatab-repack.rip
 xbins.org
 xbit.pw
+xboot.net
 xbox360iso.com
 xcine.click
 xcine.cx
@@ -11698,6 +11716,7 @@ xcine.tv
 xcine-tv.com
 xcinema.ro
 xd-movie.com
+xdcc.eu
 xducaytr.com
 xdude.net
 tracker.xdvdz.com
@@ -11705,6 +11724,7 @@ xenialbb.net
 xenu.ws
 share.xfapi.top
 tracker.xfapi.top
+xforce-cracks.com
 share.xfsub.com
 tracker.xiaoduola.xyz
 xider.hu
@@ -11720,6 +11740,7 @@ xmovies8.lol
 xmovies8.org
 xmovies8.ru
 xmovies8.si
+tracker-zhuqiy.xn--1r3au8b.space
 xn--80a4b.com
 tracker.xn--djrq4gl4hvoi.top
 xn--thepratebay-fcb.com
@@ -11780,6 +11801,7 @@ yabancidizi.now
 yabse.com
 yalla-shoot.fun
 yalla-shoot-mobasher.com
+yalla-shootv.live
 yallashoothub.com
 yamgo.com
 yams.tf
@@ -11814,6 +11836,7 @@ yesmovies.lat
 yesmovies.lol
 yesmovies.media
 yesmovies.mn
+yesmovies.mom
 yesmovies.my
 yesmovies.net
 yesmovies.org
@@ -11864,6 +11887,7 @@ yifysub.net
 yifysubtitles.me
 yifytorrent.cc
 yifytorrent.vip
+yifytorrents.net
 ymovies.se
 ymovies.stream
 ymovies.to
@@ -11982,6 +12006,7 @@ zalukaj.cc
 zalukaj.film
 zalukaj.pl
 zalukaj.tv
+zalukaj-pl.com
 zalukaj-pl.tv
 zalukaj-tv.pl
 zalukaj-vip.pl

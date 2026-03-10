@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 10 Mar 2026 09:33 UTC
-! Version: 2026.0310.0933.09
+! Last modified: 10 Mar 2026 15:32 UTC
+! Version: 2026.0310.1532.28
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -8550,6 +8550,7 @@
 @@||u2l.io^
 @@||u2s.ca^
 @@||u301.com^
+@@||u3vw.shop^
 @@||u4r.net^
 @@||u4y.ch^
 @@||u6e.de^
@@ -9492,6 +9493,7 @@
 @@||wp.me^
 @@||wp1.co^
 @@||wpbeg.in^
+@@||wplinks.online^
 @@||links.wpmhs.com^
 @@||wpshort.com^
 @@||wptrckr.com^
@@ -9626,9 +9628,11 @@
 @@||xtr.bz^
 @@||xtre.me^
 @@||xua.me^
+@@||xub.me^
 @@||xuc88.club^
 @@||xuo.us^
 @@||xurl.at^
+@@||xurl.jp^
 @@||xurl.pk^
 @@||xurl302.top^
 @@||xut.io^
@@ -9641,6 +9645,7 @@
 @@||xxxdwz.com^
 @@||xxxdwz.pro^
 @@||xxxl.ink^
+@@||xy.ar^
 @@||xzb.cc^
 @@||y0utu.be^
 @@||y2.nz^
@@ -9727,6 +9732,7 @@
 @@||yourl.jp^
 @@||yourls.ch^
 @@||yourls.lu^
+@@||yourls.net^
 @@||yourls.org^
 @@||yourls.pro^
 @@||yourls.website^

@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773135180 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773156720 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 10 Mar 2026 09:33 UTC
-; Version: 2026.0310.0933.09
+; Last modified: 10 Mar 2026 15:32 UTC
+; Version: 2026.0310.1532.28
 ; Syntax: RPZ
-; Number of entries: 20004
+; Number of entries: 20016
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -691,6 +691,8 @@ ikhti.ar CNAME .
 *.ikhti.ar CNAME .
 mylink.ar CNAME .
 *.mylink.ar CNAME .
+xy.ar CNAME .
+*.xy.ar CNAME .
 foxc.art CNAME .
 *.foxc.art CNAME .
 goodmoejo.art CNAME .
@@ -11831,6 +11833,8 @@ usite.jp CNAME .
 *.usite.jp CNAME .
 xn--s7y86k.jp CNAME .
 *.xn--s7y86k.jp CNAME .
+xurl.jp CNAME .
+*.xurl.jp CNAME .
 yourl.jp CNAME .
 *.yourl.jp CNAME .
 crwdstr.ke CNAME .
@@ -14679,6 +14683,8 @@ xtre.me CNAME .
 *.xtre.me CNAME .
 xua.me CNAME .
 *.xua.me CNAME .
+xub.me CNAME .
+*.xub.me CNAME .
 xxlink.me CNAME .
 *.xxlink.me CNAME .
 yamantap.me CNAME .
@@ -15615,6 +15621,8 @@ yoretube.net CNAME .
 *.yoretube.net CNAME .
 yourateus.net CNAME .
 *.yourateus.net CNAME .
+yourls.net CNAME .
+*.yourls.net CNAME .
 z9n.net CNAME .
 *.z9n.net CNAME .
 zapurl.net CNAME .
@@ -16013,6 +16021,8 @@ urlbit.online CNAME .
 *.urlbit.online CNAME .
 witly.online CNAME .
 *.witly.online CNAME .
+wplinks.online CNAME .
+*.wplinks.online CNAME .
 yulllu01.online CNAME .
 *.yulllu01.online CNAME .
 sah.ooo CNAME .
@@ -17623,6 +17633,8 @@ oneany.shop CNAME .
 *.oneany.shop CNAME .
 snhjsbs.shop CNAME .
 *.snhjsbs.shop CNAME .
+u3vw.shop CNAME .
+*.u3vw.shop CNAME .
 winc.shop CNAME .
 *.winc.shop CNAME .
 3x.si CNAME .

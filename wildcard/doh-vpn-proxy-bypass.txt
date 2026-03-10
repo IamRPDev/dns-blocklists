@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Mar 2026 10:54 UTC
-# Version: 2026.0310.1054.11
+# Last modified: 10 Mar 2026 16:52 UTC
+# Version: 2026.0310.1652.14
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 16816
+# Number of entries: 16818
 #
 *.000000555.xyz
 *.ss.0001.xyz
@@ -16376,6 +16376,7 @@
 *.yahagi.vip
 *.yalmoro.ru
 *.yaltro.ru
+*.dns.yameenassotally.com
 *.email.yan.ch
 *.2.dnscrypt-cert.browser.yandex.net
 *.dns.yandex.net
@@ -16504,6 +16505,7 @@
 *.www.itrsa.home.next.youradbyus.com
 *.yourcheat.com
 *.yourinternetproxy.info
+*.yourvpn.info
 *.v22013121930515853.yourvserver.net
 *.youtu0.com
 *.youtu1.xyz

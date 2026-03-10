@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Mar 2026 04:56 UTC
-# Version: 2026.0310.0456.16
+# Last modified: 10 Mar 2026 16:51 UTC
+# Version: 2026.0310.1651.33
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3466
+# Number of entries: 3467
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -3392,6 +3392,7 @@ local=/dns.xwu.us/
 local=/dns.xydustc.me/
 local=/v1.xylto.com/
 local=/dns.y2f.xyz/
+local=/dns.yameenassotally.com/
 local=/2.dnscrypt-cert.browser.yandex.net/
 local=/dns.yandex.ru/
 local=/common.dot.dns.yandex.net/

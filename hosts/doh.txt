@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Mar 2026 04:56 UTC
-# Version: 2026.0310.0456.16
+# Last modified: 10 Mar 2026 16:51 UTC
+# Version: 2026.0310.1651.33
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3940
+# Number of entries: 3941
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -3860,6 +3860,7 @@
 0.0.0.0 dns.xydustc.me
 0.0.0.0 v1.xylto.com
 0.0.0.0 dns.y2f.xyz
+0.0.0.0 dns.yameenassotally.com
 0.0.0.0 2.dnscrypt-cert.browser.yandex.net
 0.0.0.0 dns.yandex.ru
 0.0.0.0 common.dot.dns.yandex.net
