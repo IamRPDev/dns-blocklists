@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773182880 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773204600 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's NSFW DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 10 Mar 2026 22:48 UTC
-; Version: 2026.0310.2248.47
+; Last modified: 11 Mar 2026 04:50 UTC
+; Version: 2026.0311.0450.34
 ; Syntax: RPZ
-; Number of entries: 147724
+; Number of entries: 147782
 ;
 britneyspears.ac CNAME .
 *.britneyspears.ac CNAME .
@@ -44,6 +44,8 @@ pornstar.actor CNAME .
 *.pornstar.actor CNAME .
 ebalka1.ru.actor CNAME .
 *.ebalka1.ru.actor CNAME .
+vegamovies.actor CNAME .
+*.vegamovies.actor CNAME .
 aransexclusive.ad CNAME .
 *.aransexclusive.ad CNAME .
 sextop1.ad CNAME .
@@ -1888,6 +1890,10 @@ riverfish.com.bd CNAME .
 *.riverfish.com.bd CNAME .
 skrp.com.bd CNAME .
 *.skrp.com.bd CNAME .
+supervet.com.bd CNAME .
+*.supervet.com.bd CNAME .
+turkeybazar.com.bd CNAME .
+*.turkeybazar.com.bd CNAME .
 ubsbd.com.bd CNAME .
 *.ubsbd.com.bd CNAME .
 iom.edu.bd CNAME .
@@ -2498,6 +2504,8 @@ oxid90.bet CNAME .
 *.oxid90.bet CNAME .
 pablo90.bet CNAME .
 *.pablo90.bet CNAME .
+pablobet.bet CNAME .
+*.pablobet.bet CNAME .
 parsball.bet CNAME .
 *.parsball.bet CNAME .
 parsc.bet CNAME .
@@ -3818,6 +3826,8 @@ xnxxxxxxarab.boats CNAME .
 *.xnxxxxxxarab.boats CNAME .
 xnxxxxxxxarab.boats CNAME .
 *.xnxxxxxxxarab.boats CNAME .
+3esktv.bond CNAME .
+*.3esktv.bond CNAME .
 ai-porn.bond CNAME .
 *.ai-porn.bond CNAME .
 aiporn.bond CNAME .
@@ -7972,6 +7982,8 @@ pornsub.cfd CNAME .
 *.pornsub.cfd CNAME .
 pornzvklsessxxexssxi.cfd CNAME .
 *.pornzvklsessxxexssxi.cfd CNAME .
+ppxy5.cfd CNAME .
+*.ppxy5.cfd CNAME .
 prexxx2025.cfd CNAME .
 *.prexxx2025.cfd CNAME .
 prexxx25.cfd CNAME .
@@ -16486,6 +16498,8 @@ ala.com CNAME .
 *.ala.com CNAME .
 alabamabdsm.com CNAME .
 *.alabamabdsm.com CNAME .
+alabeeralahmar.com CNAME .
+*.alabeeralahmar.com CNAME .
 alamalporn.com CNAME .
 *.alamalporn.com CNAME .
 alan-gaynor.com CNAME .
@@ -21584,6 +21598,8 @@ bet90bax.com CNAME .
 *.bet90bax.com CNAME .
 bet90chrome.com CNAME .
 *.bet90chrome.com CNAME .
+bet90fergal.com CNAME .
+*.bet90fergal.com CNAME .
 bet90plus.com CNAME .
 *.bet90plus.com CNAME .
 bet959sextou.com CNAME .
@@ -21602,6 +21618,8 @@ betbatis.com CNAME .
 *.betbatis.com CNAME .
 betbbsextou.com CNAME .
 *.betbbsextou.com CNAME .
+betboro90.com CNAME .
+*.betboro90.com CNAME .
 betcompani.com CNAME .
 *.betcompani.com CNAME .
 betessex.com CNAME .
@@ -30618,6 +30636,8 @@ dojki-porno.com CNAME .
 *.dojki-porno.com CNAME .
 dokterkut.com CNAME .
 *.dokterkut.com CNAME .
+dolceedu.com CNAME .
+*.dolceedu.com CNAME .
 dolcincontri.com CNAME .
 *.dolcincontri.com CNAME .
 dollalbum.com CNAME .
@@ -33224,6 +33244,8 @@ esenyurtescortbul.com CNAME .
 *.esenyurtescortbul.com CNAME .
 esenyurtkadin.com CNAME .
 *.esenyurtkadin.com CNAME .
+esenyurtlife.com CNAME .
+*.esenyurtlife.com CNAME .
 esenyurtnet.com CNAME .
 *.esenyurtnet.com CNAME .
 esexclusivehomes.com CNAME .
@@ -75876,6 +75898,8 @@ taotucheng.com CNAME .
 *.taotucheng.com CNAME .
 taoyuansex.com CNAME .
 *.taoyuansex.com CNAME .
+taozi04.com CNAME .
+*.taozi04.com CNAME .
 tapadult.com CNAME .
 *.tapadult.com CNAME .
 tapersexparachicos.com CNAME .
@@ -90592,6 +90616,8 @@ pinkx.eu CNAME .
 *.pinkx.eu CNAME .
 podnakafe.eu CNAME .
 *.podnakafe.eu CNAME .
+polimatilda.eu CNAME .
+*.polimatilda.eu CNAME .
 porn-xp.eu CNAME .
 *.porn-xp.eu CNAME .
 porncamera.eu CNAME .
@@ -94242,6 +94268,8 @@ uncutmaza.hair CNAME .
 *.uncutmaza.hair CNAME .
 veryxxxxhd.hair CNAME .
 *.veryxxxxhd.hair CNAME .
+xcs8.hair CNAME .
+*.xcs8.hair CNAME .
 xnxxarab.hair CNAME .
 *.xnxxarab.hair CNAME .
 xnxxxxxarab.hair CNAME .
@@ -95206,6 +95234,8 @@ hdabla11.icu CNAME .
 *.hdabla11.icu CNAME .
 hdabla12.icu CNAME .
 *.hdabla12.icu CNAME .
+hdabla13.icu CNAME .
+*.hdabla13.icu CNAME .
 hdabla7.icu CNAME .
 *.hdabla7.icu CNAME .
 hdabla8.icu CNAME .
@@ -95216,6 +95246,8 @@ hdporno11.icu CNAME .
 *.hdporno11.icu CNAME .
 hdporno12.icu CNAME .
 *.hdporno12.icu CNAME .
+hdporno13.icu CNAME .
+*.hdporno13.icu CNAME .
 hdporno5.icu CNAME .
 *.hdporno5.icu CNAME .
 hdporno6.icu CNAME .
@@ -100224,6 +100256,8 @@ imidesexcitons.ink CNAME .
 *.imidesexcitons.ink CNAME .
 jackxxxbet.ink CNAME .
 *.jackxxxbet.ink CNAME .
+jhhs7.ink CNAME .
+*.jhhs7.ink CNAME .
 kingxxxbet.ink CNAME .
 *.kingxxxbet.ink CNAME .
 kingxxxbets.ink CNAME .
@@ -102550,6 +102584,8 @@ zrelki.link CNAME .
 *.19sex.live CNAME .
 1mei.live CNAME .
 *.1mei.live CNAME .
+1wpgwj.live CNAME .
+*.1wpgwj.live CNAME .
 4tube.live CNAME .
 *.4tube.live CNAME .
 720pizle.live CNAME .
@@ -103236,6 +103272,8 @@ binary.lol CNAME .
 *.binary.lol CNAME .
 camwhores.lol CNAME .
 *.camwhores.lol CNAME .
+cjdked856ca.lol CNAME .
+*.cjdked856ca.lol CNAME .
 classicpornvids.lol CNAME .
 *.classicpornvids.lol CNAME .
 clipsex.lol CNAME .
@@ -105116,6 +105154,8 @@ fikfap.mobi CNAME .
 *.fikfap.mobi CNAME .
 filmyporno.mobi CNAME .
 *.filmyporno.mobi CNAME .
+filmyzilla34.mobi CNAME .
+*.filmyzilla34.mobi CNAME .
 freeindianporn.mobi CNAME .
 *.freeindianporn.mobi CNAME .
 freejav.mobi CNAME .
@@ -105706,6 +105746,8 @@ vietsex.mom CNAME .
 *.vietsex.mom CNAME .
 vlxxx.mom CNAME .
 *.vlxxx.mom CNAME .
+xnx.mom CNAME .
+*.xnx.mom CNAME .
 xnxxporntube.mom CNAME .
 *.xnxxporntube.mom CNAME .
 xnxxxx.mom CNAME .
@@ -114676,6 +114718,8 @@ yousexvideos.net CNAME .
 *.yousexvideos.net CNAME .
 youteenporn.net CNAME .
 *.youteenporn.net CNAME .
+youtute.net CNAME .
+*.youtute.net CNAME .
 youvideos.net CNAME .
 *.youvideos.net CNAME .
 yozgatescort.net CNAME .
@@ -123944,6 +123988,8 @@ iamsex.plus CNAME .
 *.iamsex.plus CNAME .
 izle.plus CNAME .
 *.izle.plus CNAME .
+jetfilm.plus CNAME .
+*.jetfilm.plus CNAME .
 missav.plus CNAME .
 *.missav.plus CNAME .
 noodlemagazine.plus CNAME .
@@ -124534,6 +124580,8 @@ borwap.pro CNAME .
 *.borwap.pro CNAME .
 bossclub.pro CNAME .
 *.bossclub.pro CNAME .
+braknull.pro CNAME .
+*.braknull.pro CNAME .
 bravoteens.pro CNAME .
 *.bravoteens.pro CNAME .
 braz-rus.pro CNAME .
@@ -132588,6 +132636,8 @@ omegle.site CNAME .
 *.omegle.site CNAME .
 onlinesexchat.site CNAME .
 *.onlinesexchat.site CNAME .
+onlyfansleaks.site CNAME .
+*.onlyfansleaks.site CNAME .
 onlyfuck.site CNAME .
 *.onlyfuck.site CNAME .
 onlysex4.site CNAME .
@@ -133154,6 +133204,8 @@ turk-pornolari69.site CNAME .
 *.turk-pornolari69.site CNAME .
 turk-pornolarii.site CNAME .
 *.turk-pornolarii.site CNAME .
+turkifsalari01.site CNAME .
+*.turkifsalari01.site CNAME .
 turkish-pornolari.site CNAME .
 *.turkish-pornolari.site CNAME .
 turkporn-videos.site CNAME .
@@ -134204,6 +134256,8 @@ theinternationalbusinessexchange.store CNAME .
 *.theinternationalbusinessexchange.store CNAME .
 trithucmoingay.store CNAME .
 *.trithucmoingay.store CNAME .
+troid.store CNAME .
+*.troid.store CNAME .
 ttsperm.store CNAME .
 *.ttsperm.store CNAME .
 turk-pornolari69.store CNAME .
@@ -144380,6 +144434,8 @@ zoo.xxx CNAME .
 *.5movie.xyz CNAME .
 5movies.xyz CNAME .
 *.5movies.xyz CNAME .
+5mrmovie.xyz CNAME .
+*.5mrmovie.xyz CNAME .
 8-muses.xyz CNAME .
 *.8-muses.xyz CNAME .
 899885.xyz CNAME .
@@ -147522,6 +147578,8 @@ zoopornsex.xyz CNAME .
 *.zoopornsex.xyz CNAME .
 zrelie.xyz CNAME .
 *.zrelie.xyz CNAME .
+zvxcmfyrbcv.xyz CNAME .
+*.zvxcmfyrbcv.xyz CNAME .
 zzpornozz.xyz CNAME .
 *.zzpornozz.xyz CNAME .
 91gcsp9.yachts CNAME .
