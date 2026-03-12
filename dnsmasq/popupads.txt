@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 Mar 2026 09:30 UTC
-# Version: 2026.0312.0930.00
+# Last modified: 12 Mar 2026 15:29 UTC
+# Version: 2026.0312.1529.30
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 55337
+# Number of entries: 55336
 #
 local=/0.beer/
 local=/0.club/
@@ -9544,7 +9544,6 @@ local=/auntieminiature.com/
 local=/auntiesurfeatable.com/
 local=/auntiewolfappraise.com/
 local=/auo.app/
-local=/aupoafto.com/
 local=/aupsugnee.com/
 local=/auqikqzvnqtmgc.com/
 local=/auqp.com/
