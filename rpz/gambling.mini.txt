@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773399420 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773418020 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 13 Mar 2026 10:57 UTC
-; Version: 2026.0313.1057.50
+; Last modified: 13 Mar 2026 16:07 UTC
+; Version: 2026.0313.1607.18
 ; Syntax: RPZ
-; Number of entries: 97940
+; Number of entries: 97928
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -14380,8 +14380,6 @@ inetbetcasifreespins.click CNAME .
 *.inetbetcasifreespins.click CNAME .
 inetbetcasinonodeposit.click CNAME .
 *.inetbetcasinonodeposit.click CNAME .
-intertopscasinonodeposit.click CNAME .
-*.intertopscasinonodeposit.click CNAME .
 jackmillioncasino.click CNAME .
 *.jackmillioncasino.click CNAME .
 jackpot247casifreespins.click CNAME .
@@ -57324,8 +57322,6 @@ thepokerleaderboard.com CNAME .
 *.thepokerleaderboard.com CNAME .
 thepunterspage.com CNAME .
 *.thepunterspage.com CNAME .
-theredlionstosyth.com CNAME .
-*.theredlionstosyth.com CNAME .
 theriverscasino.com CNAME .
 *.theriverscasino.com CNAME .
 therollcasino.com CNAME .
@@ -71856,8 +71852,6 @@ newbalanceshoes.in.net CNAME .
 *.newbalanceshoes.in.net CNAME .
 nogamstoponlinecasino.in.net CNAME .
 *.nogamstoponlinecasino.in.net CNAME .
-online-casinos-canada.in.net CNAME .
-*.online-casinos-canada.in.net CNAME .
 online-casinos-canadian.in.net CNAME .
 *.online-casinos-canadian.in.net CNAME .
 onlinecasinosnotongamstopuk.in.net CNAME .
@@ -74168,8 +74162,6 @@ harrycasinoo.nl CNAME .
 *.harrycasinoo.nl CNAME .
 hashluckycasino1.nl CNAME .
 *.hashluckycasino1.nl CNAME .
-hashluckycasinos.nl CNAME .
-*.hashluckycasinos.nl CNAME .
 havensafari.nl CNAME .
 *.havensafari.nl CNAME .
 herculescasino.nl CNAME .
@@ -83020,8 +83012,6 @@ zooma-casino.ru CNAME .
 *.zooma-casino.ru CNAME .
 zoomacasinox.ru CNAME .
 *.zoomacasinox.ru CNAME .
-zubetsnick.ru CNAME .
-*.zubetsnick.ru CNAME .
 1w.run CNAME .
 *.1w.run CNAME .
 789bet.run CNAME .
@@ -97104,8 +97094,6 @@ nesinecasinogir.xyz CNAME .
 *.nesinecasinogir.xyz CNAME .
 newlivertp.xyz CNAME .
 *.newlivertp.xyz CNAME .
-newmpo.xyz CNAME .
-*.newmpo.xyz CNAME .
 newslotsites.xyz CNAME .
 *.newslotsites.xyz CNAME .
 nigger67sharesplaces.xyz CNAME .

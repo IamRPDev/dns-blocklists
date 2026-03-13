@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 13 Mar 2026 10:57 UTC
-# Version: 2026.0313.1057.50
+# Last modified: 13 Mar 2026 16:07 UTC
+# Version: 2026.0313.1607.18
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 48970
+# Number of entries: 48964
 #
 local=/0-casino.com/
 local=/000-online-casino.com/
@@ -24908,7 +24908,6 @@ local=/hash.game/
 local=/hashflare.io/
 local=/hashlucky.io/
 local=/hashluckycasino1.nl/
-local=/hashluckycasinos.nl/
 local=/hasilmenang.xyz/
 local=/hasontower.net/
 local=/hatayescortsiteleri.com/
@@ -25921,7 +25920,6 @@ local=/michaelkors-mkoutlet.in.net/
 local=/mildcasino.in.net/
 local=/newbalanceshoes.in.net/
 local=/nogamstoponlinecasino.in.net/
-local=/online-casinos-canada.in.net/
 local=/online-casinos-canadian.in.net/
 local=/onlinecasinosnotongamstopuk.in.net/
 local=/onlinecasinoutanspelpaus.in.net/
@@ -26191,7 +26189,6 @@ local=/interpreting.poker/
 local=/intertops.com/
 local=/intertops.de/
 local=/intertops.eu/
-local=/intertopscasinonodeposit.click/
 local=/interwetten.com/
 local=/interwetten.de/
 local=/interwetten.es/
@@ -33278,7 +33275,6 @@ local=/newgioco.it/
 local=/newlivertp.xyz/
 local=/newluckycasino1.nl/
 local=/newmobilecasinos.ca/
-local=/newmpo.xyz/
 local=/newmuseum.live/
 local=/newnongstopcasinos.com/
 local=/newozwin.com/
@@ -43849,7 +43845,6 @@ local=/thepokiescasino.app/
 local=/whitepaper.theprimes.io/
 local=/thepunterspage.com/
 local=/thequatrocasino.ca/
-local=/theredlionstosyth.com/
 local=/theresidencecasino.ca/
 local=/theresidencecasino.dk/
 local=/therich789.net/
@@ -48933,7 +48928,6 @@ local=/zowin.tv/
 local=/zqvnn.com/
 local=/zsshops.top/
 local=/zubets.pl/
-local=/zubetsnick.ru/
 local=/zufan.bet/
 local=/zuffabets.com/
 local=/zuidasbets.com/

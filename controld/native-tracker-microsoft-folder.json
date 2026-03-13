@@ -1135,13 +1135,6 @@
       }
     },
     {
-      "PK": "exo.nel.measure.office.net.us.intinfra.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "ffc-excel-telemetry.officeapps.live.com",
       "action": {
         "do": 0,
@@ -1514,6 +1507,13 @@
     },
     {
       "PK": "measure.office.net.in.intinfra.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "measure.office.net.us.intinfra.com",
       "action": {
         "do": 0,
         "status": 1

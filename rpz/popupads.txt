@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773394200 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773417300 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Pop-Up Ads DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 13 Mar 2026 09:30 UTC
-; Version: 2026.0313.0930.48
+; Last modified: 13 Mar 2026 15:55 UTC
+; Version: 2026.0313.1555.11
 ; Syntax: RPZ
-; Number of entries: 110674
+; Number of entries: 110664
 ;
 bonzai.ad CNAME .
 *.bonzai.ad CNAME .
@@ -56294,8 +56294,6 @@ pausewonderful.com CNAME .
 *.pausewonderful.com CNAME .
 pausingrespectfully.com CNAME .
 *.pausingrespectfully.com CNAME .
-pausoawhais.com CNAME .
-*.pausoawhais.com CNAME .
 pavfazbwiap.com CNAME .
 *.pavfazbwiap.com CNAME .
 pavymoieter.com CNAME .
@@ -60890,8 +60888,6 @@ reducedretrievalelemental.com CNAME .
 *.reducedretrievalelemental.com CNAME .
 reductioncarnival.com CNAME .
 *.reductioncarnival.com CNAME .
-go.redupljuncus.com CNAME .
-*.go.redupljuncus.com CNAME .
 redustsinters.com CNAME .
 *.redustsinters.com CNAME .
 redwingmagazine.com CNAME .
@@ -77466,8 +77462,6 @@ prf4wwk2wk.cyou CNAME .
 *.prf4wwk2wk.cyou CNAME .
 qc3xicy.cyou CNAME .
 *.qc3xicy.cyou CNAME .
-qldjc2my7h.cyou CNAME .
-*.qldjc2my7h.cyou CNAME .
 qp7o1um.cyou CNAME .
 *.qp7o1um.cyou CNAME .
 qyyqofhlfu.cyou CNAME .
@@ -86906,8 +86900,6 @@ pseeceexoo.net CNAME .
 *.pseeceexoo.net CNAME .
 psegeevalrat.net CNAME .
 *.psegeevalrat.net CNAME .
-psignupsoapt.net CNAME .
-*.psignupsoapt.net CNAME .
 psoacickoots.net CNAME .
 *.psoacickoots.net CNAME .
 psoampoa.net CNAME .
@@ -87070,8 +87062,6 @@ rmb-trf.net CNAME .
 *.rmb-trf.net CNAME .
 roaglauphosh.net CNAME .
 *.roaglauphosh.net CNAME .
-roaphaustie.net CNAME .
-*.roaphaustie.net CNAME .
 roarouwoado.net CNAME .
 *.roarouwoado.net CNAME .
 robcomnetworksinc.net CNAME .
