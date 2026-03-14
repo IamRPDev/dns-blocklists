@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 Mar 2026 10:55 UTC
-# Version: 2026.0314.1055.23
+# Last modified: 14 Mar 2026 16:54 UTC
+# Version: 2026.0314.1654.02
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 12129
+# Number of entries: 12127
 #
 local=/tracker.guguan.000.pe/
 local=/003396815.xyz/
@@ -287,7 +287,6 @@ local=/33seriestreaming.rip/
 local=/33seriestreaming.site/
 local=/33voirseries.com/
 local=/pcd.345.pl/
-local=/345movie.net/
 local=/h5.365streams.world/
 local=/365watchtv.com/
 local=/36dm.com/
@@ -305,7 +304,6 @@ local=/420project.org/
 local=/42ke45r7.com/
 local=/441001.xyz/
 local=/456movie.com/
-local=/456movie.net/
 local=/480mkv.com/
 local=/4anime.to/
 local=/4files.net/

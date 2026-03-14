@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773480660 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773502140 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Pop-Up Ads DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 14 Mar 2026 09:31 UTC
-; Version: 2026.0314.0931.13
+; Last modified: 14 Mar 2026 15:29 UTC
+; Version: 2026.0314.1529.15
 ; Syntax: RPZ
-; Number of entries: 110598
+; Number of entries: 110572
 ;
 bonzai.ad CNAME .
 *.bonzai.ad CNAME .
@@ -1504,6 +1504,8 @@ cq.cc CNAME .
 *.cq.cc CNAME .
 crimsonmods.cc CNAME .
 *.crimsonmods.cc CNAME .
+cyrexmods.cc CNAME .
+*.cyrexmods.cc CNAME .
 datelove.cc CNAME .
 *.datelove.cc CNAME .
 delookiinasfier.cc CNAME .
@@ -9568,8 +9570,6 @@ ad.22betpartners.com CNAME .
 *.235ee.com CNAME .
 236855.com CNAME .
 *.236855.com CNAME .
-236tw11.com CNAME .
-*.236tw11.com CNAME .
 237700.com CNAME .
 *.237700.com CNAME .
 2377192920.com CNAME .
@@ -9824,8 +9824,6 @@ e6fe6edf94.2a3d18deb0.com CNAME .
 *.2b8fa02c00.com CNAME .
 2ba0f6361c.com CNAME .
 *.2ba0f6361c.com CNAME .
-2bc533c900.com CNAME .
-*.2bc533c900.com CNAME .
 2bd77addac.com CNAME .
 *.2bd77addac.com CNAME .
 2beno.com CNAME .
@@ -9846,8 +9844,6 @@ e6fe6edf94.2a3d18deb0.com CNAME .
 *.1cbd637d10.2c8eb505eb.com CNAME .
 2captha.com CNAME .
 *.2captha.com CNAME .
-480df9fb87.2cb3371690.com CNAME .
-*.480df9fb87.2cb3371690.com CNAME .
 2cnjuh34jbman.com CNAME .
 *.2cnjuh34jbman.com CNAME .
 2cnjuh34jbstar.com CNAME .
@@ -10028,8 +10024,6 @@ a4eea3ed90.31a0792482.com CNAME .
 *.32210.com CNAME .
 323it.com CNAME .
 *.323it.com CNAME .
-3265712586351oof.com CNAME .
-*.3265712586351oof.com CNAME .
 327888.com CNAME .
 *.327888.com CNAME .
 32arc.com CNAME .
@@ -10722,8 +10716,6 @@ a962171d52.4e47af880e.com CNAME .
 *.4hubb49.com CNAME .
 4hubb56.com CNAME .
 *.4hubb56.com CNAME .
-4hubb80.com CNAME .
-*.4hubb80.com CNAME .
 4hudizhi725.com CNAME .
 *.4hudizhi725.com CNAME .
 4irc.com CNAME .
@@ -10820,8 +10812,6 @@ sk.4wank.com CNAME .
 *.500bydiesel.com CNAME .
 500investments.com CNAME .
 *.500investments.com CNAME .
-500volunteers.com CNAME .
-*.500volunteers.com CNAME .
 502ac4420f.com CNAME .
 *.502ac4420f.com CNAME .
 50504.com CNAME .
@@ -26576,6 +26566,8 @@ covereddependant.com CNAME .
 *.covereddependant.com CNAME .
 coveringbarrister.com CNAME .
 *.coveringbarrister.com CNAME .
+coveringstrawberries.com CNAME .
+*.coveringstrawberries.com CNAME .
 coverletterforresumetop.com CNAME .
 *.coverletterforresumetop.com CNAME .
 coverroommate.com CNAME .
@@ -77236,16 +77228,8 @@ areca.construction CNAME .
 *.0bthaha.cyou CNAME .
 1175477.cyou CNAME .
 *.1175477.cyou CNAME .
-2cpetcc5wg.cyou CNAME .
-*.2cpetcc5wg.cyou CNAME .
 3hdjnvjd11.cyou CNAME .
 *.3hdjnvjd11.cyou CNAME .
-4bkzl41rll.cyou CNAME .
-*.4bkzl41rll.cyou CNAME .
-4iy1tbspgz.cyou CNAME .
-*.4iy1tbspgz.cyou CNAME .
-4jx4c7puv2.cyou CNAME .
-*.4jx4c7puv2.cyou CNAME .
 51587.cyou CNAME .
 *.51587.cyou CNAME .
 5726714.cyou CNAME .
@@ -103050,6 +103034,8 @@ cdn5.cartoonporn.to CNAME .
 *.cdn5.cartoonporn.to CNAME .
 brutus.clicknplay.to CNAME .
 *.brutus.clicknplay.to CNAME .
+cyrexmods.to CNAME .
+*.cyrexmods.to CNAME .
 masdak.epsilonsoft.to CNAME .
 *.masdak.epsilonsoft.to CNAME .
 rabby.fi-v2.to CNAME .
@@ -108860,10 +108846,6 @@ sk.rainblow.xxx CNAME .
 *.3279z.xyz CNAME .
 32julekzh.xyz CNAME .
 *.32julekzh.xyz CNAME .
-33109166.xyz CNAME .
-*.33109166.xyz CNAME .
-37243211.xyz CNAME .
-*.37243211.xyz CNAME .
 38167473.xyz CNAME .
 *.38167473.xyz CNAME .
 3cc6cc.xyz CNAME .
@@ -108872,16 +108854,10 @@ sk.rainblow.xxx CNAME .
 *.425kmk7n9wn21pwvl18.xyz CNAME .
 4547u5qms0m2um3rrum2wuo.xyz CNAME .
 *.4547u5qms0m2um3rrum2wuo.xyz CNAME .
-45564736.xyz CNAME .
-*.45564736.xyz CNAME .
-46222568.xyz CNAME .
-*.46222568.xyz CNAME .
 47235645.xyz CNAME .
 *.47235645.xyz CNAME .
 48rsm4ucn.xyz CNAME .
 *.48rsm4ucn.xyz CNAME .
-49709796.xyz CNAME .
-*.49709796.xyz CNAME .
 49tuku.xyz CNAME .
 *.49tuku.xyz CNAME .
 4cz7ypl3.xyz CNAME .
@@ -108896,8 +108872,6 @@ sk.rainblow.xxx CNAME .
 *.53469662.xyz CNAME .
 56gbgkvtd.xyz CNAME .
 *.56gbgkvtd.xyz CNAME .
-57473094.xyz CNAME .
-*.57473094.xyz CNAME .
 58686728.xyz CNAME .
 *.58686728.xyz CNAME .
 5n2818fo5.xyz CNAME .
