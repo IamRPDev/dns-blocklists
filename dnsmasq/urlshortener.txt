@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 Mar 2026 12:00 UTC
-# Version: 2026.0314.1200.30
+# Last modified: 15 Mar 2026 09:37 UTC
+# Version: 2026.0315.0937.44
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10007
+# Number of entries: 9995
 #
 local=/0.gp/
 local=/00m.in/
@@ -516,7 +516,6 @@ local=/adaymag.co/
 local=/adbaw.com/
 local=/adbl.co/
 local=/adbly.co/
-local=/adcryp.to/
 local=/add.lat/
 local=/add-l.ink/
 local=/add2wallet.link/
@@ -536,7 +535,6 @@ local=/adku.link/
 local=/adlinkcash.com/
 local=/adlinkpay.com/
 local=/adlinksumo.com/
-local=/adlinku.com/
 local=/adlvy.com/
 local=/adlyshort.com/
 local=/adm.to/
@@ -869,7 +867,6 @@ local=/ata.ink/
 local=/ateng.me/
 local=/atglinks.com/
 local=/ath-web.com/
-local=/atharori.net/
 local=/athe.re/
 local=/athena168.vip/
 local=/athm.cn/
@@ -893,7 +890,6 @@ local=/audiof.com/
 local=/go.augsburg.edu/
 local=/augustinus.digital/
 local=/aur.li/
-local=/aurelus.link/
 local=/aus.md/
 local=/author.to/
 local=/autistic.training/
@@ -931,7 +927,6 @@ local=/axiom.link/
 local=/axios.link/
 local=/axo.li/
 local=/axoni.us/
-local=/axonn.xyz/
 local=/ay.gy/
 local=/aylink.co/
 local=/ayohajar.info/
@@ -994,7 +989,6 @@ local=/bankua.xyz/
 local=/bannercho.com/
 local=/baoyung.com/
 local=/baratun.de/
-local=/opusgrid.barberreels.com/
 local=/barkodi.com/
 local=/barsoocm.com/
 local=/barujago.xyz/
@@ -1168,7 +1162,6 @@ local=/bitgg.co/
 local=/bitigee.com/
 local=/bitl.app/
 local=/bitl.to/
-local=/bitlee.site/
 local=/bitley.in/
 local=/bitli.li/
 local=/bitli.pro/
@@ -1224,7 +1217,6 @@ local=/biv.to/
 local=/bix.how/
 local=/bixurl.com/
 local=/aje.biz.id/
-local=/dnl.biz.id/
 local=/url.nafi.biz.id/
 local=/opetsalman.biz.id/
 local=/biz15.co/
@@ -1318,7 +1310,6 @@ local=/bookstw.link/
 local=/cdl.booksy.com/
 local=/booplink.com/
 local=/boost.ink/
-local=/bopvu.life/
 local=/bos.ngo/
 local=/bose.life/
 local=/boshoki.biz/
@@ -1364,7 +1355,6 @@ local=/briefbyte.online/
 local=/brightestbeginning.me/
 local=/brightscanr.com/
 local=/brightsci.io/
-local=/brilink.me/
 local=/brisktopia.com/
 local=/briurl.com/
 local=/brk.im/
@@ -1426,7 +1416,6 @@ local=/bul.lu/
 local=/bulangiul.net/
 local=/bulink.co/
 local=/bulkurlshortener.com/
-local=/buly.kr/
 local=/bumpnt.com/
 local=/bung.ie/
 local=/ship.bunnycart.com/
@@ -1520,7 +1509,6 @@ local=/cash4share.com/
 local=/link.cashcard.id/
 local=/cashncut.com/
 local=/cashurl.win/
-local=/casinoaktif.xyz/
 local=/casinurl.io/
 local=/casio.link/
 local=/links.casjoe.com/

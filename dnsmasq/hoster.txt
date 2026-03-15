@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Mar 2026 10:03 UTC
-# Version: 2026.0310.1003.32
+# Last modified: 15 Mar 2026 10:13 UTC
+# Version: 2026.0315.1013.50
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1275
+# Number of entries: 1274
 #
 local=/000a.de/
 local=/000space.com/
@@ -159,7 +159,6 @@ local=/al6.de/
 local=/alboompro.com/
 local=/all.lc/
 local=/allemal.de/
-local=/allpubmusic.my/
 local=/als-geschenk.de/
 local=/altervista.org/
 local=/am-geilsten.de/

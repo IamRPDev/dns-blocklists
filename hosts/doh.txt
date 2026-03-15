@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 Mar 2026 11:00 UTC
-# Version: 2026.0314.1100.31
+# Last modified: 15 Mar 2026 11:09 UTC
+# Version: 2026.0315.1109.08
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3998
+# Number of entries: 3958
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -59,7 +59,6 @@
 0.0.0.0 1and1-dns.de
 0.0.0.0 1ee.top
 0.0.0.0 www.1ee.top
-0.0.0.0 vpn.1xtrm.com
 0.0.0.0 20010114.xyz
 0.0.0.0 www.20010114.xyz
 0.0.0.0 adhome.2011101.xyz
@@ -102,7 +101,6 @@
 0.0.0.0 adg.3k.work
 0.0.0.0 dns.3wv.de
 0.0.0.0 dns.4-the.win
-0.0.0.0 vpn.4-the.win
 0.0.0.0 doh.42l.fr
 0.0.0.0 ns1.4netguides.org
 0.0.0.0 ns2.4netguides.org
@@ -123,9 +121,6 @@
 0.0.0.0 vps.559299366.xyz
 0.0.0.0 dns.565349.xyz
 0.0.0.0 dns.58jdl.com
-0.0.0.0 dns.5ososea.com
-0.0.0.0 family.5ososea.com
-0.0.0.0 kids.5ososea.com
 0.0.0.0 dns.6level.net
 0.0.0.0 agh.710523.xyz
 0.0.0.0 ayman-dns.731my.com
@@ -140,7 +135,6 @@
 0.0.0.0 dns.853852.xyz
 0.0.0.0 dns19.854000.xyz
 0.0.0.0 dns.866865.xyz
-0.0.0.0 adguard.876542.xyz
 0.0.0.0 tyo.883933770.xyz
 0.0.0.0 dns.886886886.xyz
 0.0.0.0 dns.888654.xyz
@@ -275,7 +269,6 @@
 0.0.0.0 adguard.ajinga.net
 0.0.0.0 rdjdns.ajraspi.xyz
 0.0.0.0 dns.akbxr.com
-0.0.0.0 dns.alanpearce.eu
 0.0.0.0 dns.albony.xyz
 0.0.0.0 dnsnl.alekberg.net
 0.0.0.0 agh.alematho.de
@@ -337,7 +330,6 @@
 0.0.0.0 doh.angry.im
 0.0.0.0 angrysky.ru
 0.0.0.0 anhphamhn82.uk
-0.0.0.0 dot.anir0y.in
 0.0.0.0 rootdns.anir0y.in
 0.0.0.0 dns.jp.anitelecom.org
 0.0.0.0 dns.anitelekom.ru
@@ -600,7 +592,6 @@
 0.0.0.0 dns2.cbio.top
 0.0.0.0 doh.ccb-net.it
 0.0.0.0 fukuda.ccnt.fr
-0.0.0.0 vpn.ccnt.fr
 0.0.0.0 yuripe.ccnt.fr
 0.0.0.0 dns.cctld.kg
 0.0.0.0 httpdns.cctv.com
@@ -639,7 +630,6 @@
 0.0.0.0 adguard.chaudharyarnav.com
 0.0.0.0 dns.chenu.ch
 0.0.0.0 adguard.chestnov.ru
-0.0.0.0 doq.chikawa.cc
 0.0.0.0 dns.chilimac.net
 0.0.0.0 dns.chillstice.com
 0.0.0.0 chlaebi.info
@@ -833,7 +823,6 @@
 0.0.0.0 www.skynetinternet.com.br
 0.0.0.0 dns.snaketech.com.br
 0.0.0.0 adg.spacework.com.mx
-0.0.0.0 dot.srito.com.br
 0.0.0.0 doh.viatech.com.tw
 0.0.0.0 dns.comeonjames.club
 0.0.0.0 dns.comff.net
@@ -1089,8 +1078,6 @@
 0.0.0.0 i.dns-over-https.tk
 0.0.0.0 dns0.eu
 0.0.0.0 doh.dns4all.eu
-0.0.0.0 doq.dns4all.eu
-0.0.0.0 doq64.dns4all.eu
 0.0.0.0 dns4eu.online
 0.0.0.0 dns4me.net
 0.0.0.0 au01.dns4me.net
@@ -1508,7 +1495,6 @@
 0.0.0.0 dns.efficientdocuments.com
 0.0.0.0 cloud.efreakbnc.net
 0.0.0.0 egorovna.su
-0.0.0.0 vpn.egorrko.ru
 0.0.0.0 doh.eieidns.com
 0.0.0.0 adguard.eischmann.cz
 0.0.0.0 ejaysss.dev
@@ -1538,7 +1524,6 @@
 0.0.0.0 dns.epic.st
 0.0.0.0 bl.eq.md
 0.0.0.0 shield1.eranext.net
-0.0.0.0 vpn.erhvict.ru
 0.0.0.0 dns.erkin.top
 0.0.0.0 agh.ero-sayhi.com
 0.0.0.0 doh.ersei.net
@@ -1591,7 +1576,6 @@
 0.0.0.0 dns.exhome.pl
 0.0.0.0 adguard.eximpius.xyz
 0.0.0.0 dns.exitstat.us
-0.0.0.0 dot-public.exitstat.us
 0.0.0.0 adguard.exium.net
 0.0.0.0 dns.exonip.de
 0.0.0.0 extratv.org
@@ -1726,7 +1710,6 @@
 0.0.0.0 dns.futuredns.me
 0.0.0.0 wp-test.fvds.ru
 0.0.0.0 dns.fxdc.ru
-0.0.0.0 vpn.g-s-a.me
 0.0.0.0 adg.g3.monster
 0.0.0.0 sm5q237c0.g666gle.me
 0.0.0.0 cluster-0.gac.edu
@@ -1745,7 +1728,6 @@
 0.0.0.0 genscorp.es
 0.0.0.0 dns.geohide.ru
 0.0.0.0 gersoctruda.ru
-0.0.0.0 vpn.geshido.ru
 0.0.0.0 geshido.vpn.geshido.ru
 0.0.0.0 roma.vpn.geshido.ru
 0.0.0.0 getdnsapi.net
@@ -1779,7 +1761,6 @@
 0.0.0.0 agh.gloom.nexus
 0.0.0.0 dns.glorydns.com
 0.0.0.0 dns.glsoft.ai
-0.0.0.0 vpn.gmalov.ru
 0.0.0.0 dns.gnb09.id
 0.0.0.0 moph.go.th
 0.0.0.0 roadesdyn.go.ro
@@ -1798,9 +1779,7 @@
 0.0.0.0 dns.google.com
 0.0.0.0 google-public-dns-a.google.com
 0.0.0.0 google-public-dns-b.google.com
-0.0.0.0 dot.gordmo.com
 0.0.0.0 performance.gosami.xyz
-0.0.0.0 vpn.gosami.xyz
 0.0.0.0 dns.goshawk22.uk
 0.0.0.0 doh.fatucloud.gosprout.org
 0.0.0.0 cloud.gqwyq.top
@@ -2027,7 +2006,6 @@
 0.0.0.0 vova.vd.i81.ru
 0.0.0.0 vovale.vd.i81.ru
 0.0.0.0 win10virtual.vd.i81.ru
-0.0.0.0 vpn.i81.ru
 0.0.0.0 alisa.vpn.i81.ru
 0.0.0.0 amigo.vpn.i81.ru
 0.0.0.0 dns.vpn.i81.ru
@@ -2560,7 +2538,6 @@
 0.0.0.0 query.mobyds.com
 0.0.0.0 doh.mochou.site
 0.0.0.0 ps1.modr.club
-0.0.0.0 dot.modsh.top
 0.0.0.0 doh.us.moe.tips
 0.0.0.0 adguard.mokocup.dev
 0.0.0.0 dns.molinero.dev
@@ -2735,7 +2712,6 @@
 0.0.0.0 us-nyc-w-p-1.nashkan.net
 0.0.0.0 us-saj-w-f-1.nashkan.net
 0.0.0.0 us-saj-w-p-1.nashkan.net
-0.0.0.0 vpn2.nathan4s.lol
 0.0.0.0 dns.native.cat
 0.0.0.0 dns.ndo.dev
 0.0.0.0 tk2-404-43267.vs.sakura.ne.jp
@@ -2808,7 +2784,6 @@
 0.0.0.0 dns.ninhs.org
 0.0.0.0 doh.niyawe.de
 0.0.0.0 dns.njal.la
-0.0.0.0 vpn.nnip.org
 0.0.0.0 daemonhunt.no-ip.org
 0.0.0.0 adguard.nocnik.org
 0.0.0.0 cattery.noddos.top
@@ -2885,11 +2860,9 @@
 0.0.0.0 5g.o0o.re
 0.0.0.0 o1.lt
 0.0.0.0 ha.o51r15.com
-0.0.0.0 dot.occ.top
 0.0.0.0 dns.ocedric.net
 0.0.0.0 dns.octoworld.fr
 0.0.0.0 oculta.me
-0.0.0.0 vpn.odeccit.com
 0.0.0.0 dns.odinpl.com
 0.0.0.0 adguard.odysseusnetwork.com
 0.0.0.0 dns.ofdoom.net
@@ -3128,7 +3101,6 @@
 0.0.0.0 www.qingmo.vip
 0.0.0.0 doh.qis.io
 0.0.0.0 dns.qkc.fr
-0.0.0.0 dot.qooqle.date
 0.0.0.0 dns.qpt.one
 0.0.0.0 dns2.qpt.one
 0.0.0.0 dns.qq.com
@@ -3274,7 +3246,6 @@
 0.0.0.0 dns1.ryan-palmer.com
 0.0.0.0 f1.dns.s3cure.me
 0.0.0.0 doh.sa-sa.eu
-0.0.0.0 doq.sa-sa.eu
 0.0.0.0 adguard.app.sabino.pro
 0.0.0.0 sabzipolobamahi.nl
 0.0.0.0 sacarino.es
@@ -3287,7 +3258,6 @@
 0.0.0.0 dns.sainternet.xyz
 0.0.0.0 safe.dns.sainternet.xyz
 0.0.0.0 unfiltered.dns.sainternet.xyz
-0.0.0.0 vpn.sakhwow.ru
 0.0.0.0 lime.samonte.ovh
 0.0.0.0 cloud.samutz.com
 0.0.0.0 dns.saneaki.com
@@ -3302,7 +3272,6 @@
 0.0.0.0 dns.sark.dev
 0.0.0.0 sascha-rabold.de
 0.0.0.0 dns.homenet.saschagaspar.net
-0.0.0.0 vpn.satadru.dev
 0.0.0.0 dns.satellite226.cloud
 0.0.0.0 dns.sbstructure.ir
 0.0.0.0 ns1.sc-lezhi.com
@@ -3414,7 +3383,6 @@
 0.0.0.0 home.snow-sugar.net
 0.0.0.0 ag.snrka.ru
 0.0.0.0 guard.sntrk.ru
-0.0.0.0 vpn.snxi.de
 0.0.0.0 adguardhome.softcloud.pe
 0.0.0.0 clientdns3.softcom.net
 0.0.0.0 myprivityvpn.softether.net
@@ -3442,13 +3410,11 @@
 0.0.0.0 resolve2.srv-pro.de
 0.0.0.0 adguard.sscw.win
 0.0.0.0 ssh-storage.ru
-0.0.0.0 dot.ssh-storage.ru
 0.0.0.0 dns.sshub.win
 0.0.0.0 doh.ntu.ssooss.win
 0.0.0.0 ag.ssrahul96.xyz
 0.0.0.0 dns.sstomp.nl
 0.0.0.0 ssytnik.de
-0.0.0.0 vpn.ssytnik.de
 0.0.0.0 dns2.st4rs.net
 0.0.0.0 hk2.ss.startagegames.com
 0.0.0.0 dns.startupstack.tech
@@ -3469,7 +3435,6 @@
 0.0.0.0 dns.streamsmoke.com
 0.0.0.0 dns.streamvine.app
 0.0.0.0 dns.stresslab.party
-0.0.0.0 vpn.stroialliance.com
 0.0.0.0 www.vpn.stroialliance.com
 0.0.0.0 dns.struchkov.dev
 0.0.0.0 structoriumwings.ru
@@ -3562,7 +3527,6 @@
 0.0.0.0 sg.telex.app
 0.0.0.0 sh.telex.app
 0.0.0.0 agh.srv.tenete.net
-0.0.0.0 vpn-tw.teng.sh
 0.0.0.0 iana.tenta.io
 0.0.0.0 opennic.tenta.io
 0.0.0.0 ag.teqilla.tk
@@ -3765,15 +3729,12 @@
 0.0.0.0 dns.vmisch.tech
 0.0.0.0 httpdns.volcengineapi.com
 0.0.0.0 dns.volsap.ovh
-0.0.0.0 vpn0109.voodonline.fr
 0.0.0.0 vorlif.org
-0.0.0.0 vpn.vosjes.cloud
 0.0.0.0 adguard.vozersky.com
 0.0.0.0 killads.vpms.xyz
 0.0.0.0 vpnhellings.nl
 0.0.0.0 www.vpnhellings.nl
 0.0.0.0 adguard.vpnkitakitsune.com
-0.0.0.0 vpnmy.ru
 0.0.0.0 dns.vps.pw
 0.0.0.0 vtcuong.site
 0.0.0.0 vuivn.site
@@ -3991,7 +3952,6 @@
 0.0.0.0 xyz2.zmjflow.com
 0.0.0.0 xyz3.zmjflow.com
 0.0.0.0 dns.zmobiletech.com
-0.0.0.0 dot-dns.zmy.cloud
 0.0.0.0 online.zotio.ru
 0.0.0.0 zougloub.eu
 0.0.0.0 d.zscale.gq

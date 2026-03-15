@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773489600 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773567420 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 14 Mar 2026 12:00 UTC
-; Version: 2026.0314.1200.30
+; Last modified: 15 Mar 2026 09:37 UTC
+; Version: 2026.0315.0937.44
 ; Syntax: RPZ
-; Number of entries: 20014
+; Number of entries: 19990
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -3273,8 +3273,6 @@ adlinkpay.com CNAME .
 *.adlinkpay.com CNAME .
 adlinksumo.com CNAME .
 *.adlinksumo.com CNAME .
-adlinku.com CNAME .
-*.adlinku.com CNAME .
 adlvy.com CNAME .
 *.adlvy.com CNAME .
 adlyshort.com CNAME .
@@ -3519,8 +3517,6 @@ bannercho.com CNAME .
 *.bannercho.com CNAME .
 baoyung.com CNAME .
 *.baoyung.com CNAME .
-opusgrid.barberreels.com CNAME .
-*.opusgrid.barberreels.com CNAME .
 barkodi.com CNAME .
 *.barkodi.com CNAME .
 barsoocm.com CNAME .
@@ -9497,8 +9493,6 @@ bca.id CNAME .
 *.bca.id CNAME .
 aje.biz.id CNAME .
 *.aje.biz.id CNAME .
-dnl.biz.id CNAME .
-*.dnl.biz.id CNAME .
 url.nafi.biz.id CNAME .
 *.url.nafi.biz.id CNAME .
 opetsalman.biz.id CNAME .
@@ -11873,8 +11867,6 @@ bitly.kr CNAME .
 *.bitly.kr CNAME .
 bpl.kr CNAME .
 *.bpl.kr CNAME .
-buly.kr CNAME .
-*.buly.kr CNAME .
 c11.kr CNAME .
 *.c11.kr CNAME .
 clix.kr CNAME .
@@ -12309,8 +12301,6 @@ bchf.life CNAME .
 *.bchf.life CNAME .
 bee-kz.life CNAME .
 *.bee-kz.life CNAME .
-bopvu.life CNAME .
-*.bopvu.life CNAME .
 bose.life CNAME .
 *.bose.life CNAME .
 bravos.life CNAME .
@@ -12467,8 +12457,6 @@ app.link CNAME .
 *.app.link CNAME .
 arrabet.link CNAME .
 *.arrabet.link CNAME .
-aurelus.link CNAME .
-*.aurelus.link CNAME .
 avit.link CNAME .
 *.avit.link CNAME .
 aws3.link CNAME .
@@ -13875,8 +13863,6 @@ brcloud.me CNAME .
 *.brcloud.me CNAME .
 brightestbeginning.me CNAME .
 *.brightestbeginning.me CNAME .
-brilink.me CNAME .
-*.brilink.me CNAME .
 brlinks.me CNAME .
 *.brlinks.me CNAME .
 bslm.me CNAME .
@@ -15039,8 +15025,6 @@ aporasal.net CNAME .
 *.aporasal.net CNAME .
 arnogo.net CNAME .
 *.arnogo.net CNAME .
-atharori.net CNAME .
-*.atharori.net CNAME .
 atoor.net CNAME .
 *.atoor.net CNAME .
 avhop.net CNAME .
@@ -17679,8 +17663,6 @@ as1ansl0t88.site CNAME .
 *.as1ansl0t88.site CNAME .
 bio66.site CNAME .
 *.bio66.site CNAME .
-bitlee.site CNAME .
-*.bitlee.site CNAME .
 biturl.site CNAME .
 *.biturl.site CNAME .
 bprl.site CNAME .
@@ -18233,8 +18215,6 @@ whr.tn CNAME .
 *.9link.to CNAME .
 abr.to CNAME .
 *.abr.to CNAME .
-adcryp.to CNAME .
-*.adcryp.to CNAME .
 adm.to CNAME .
 *.adm.to CNAME .
 ady.to CNAME .
@@ -19827,8 +19807,6 @@ answ.xyz CNAME .
 *.answ.xyz CNAME .
 apkurl.xyz CNAME .
 *.apkurl.xyz CNAME .
-axonn.xyz CNAME .
-*.axonn.xyz CNAME .
 bankua.xyz CNAME .
 *.bankua.xyz CNAME .
 barujago.xyz CNAME .
@@ -19843,8 +19821,6 @@ bolagroup.xyz CNAME .
 *.bolagroup.xyz CNAME .
 bybun.xyz CNAME .
 *.bybun.xyz CNAME .
-casinoaktif.xyz CNAME .
-*.casinoaktif.xyz CNAME .
 ccurl.xyz CNAME .
 *.ccurl.xyz CNAME .
 clicai.xyz CNAME .
