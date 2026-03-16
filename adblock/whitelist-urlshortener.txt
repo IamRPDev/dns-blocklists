@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 16 Mar 2026 09:34 UTC
-! Version: 2026.0316.0934.03
+! Last modified: 16 Mar 2026 15:34 UTC
+! Version: 2026.0316.1534.43
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -3736,7 +3736,6 @@
 @@||itlinks.me^
 @@||itly.in^
 @@||itm.im^
-@@||itop.so^
 @@||itp24.com^
 @@||itrk.it^
 @@||its-4-u.com^

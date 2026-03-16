@@ -6,8 +6,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Mar 2026 11:02 UTC
-# Version: 2026.0316.1102.31
+# Last modified: 16 Mar 2026 17:01 UTC
+# Version: 2026.0316.1701.31
 # Syntax: Domains Wildcard (without subdomains)
 # Number of entries: 3496
 #
@@ -1933,14 +1933,12 @@
 *.kekv.fun
 *.doh.kel.pe
 *.kellerbier-home.com
-*.dns.kellys.pw
 *.dns.kempkens.org
 *.kennethhuang.com
 *.dns.kerekes.xyz
 *.dns.kernel-error.de
 *.dns.kescher.at
 *.kudns.kescher.at
-*.dns.keskinnetwork.com
 *.dns.keskonet.com
 *.pihole.aws.ketan.dev
 *.dns.keviland.com
@@ -2481,7 +2479,7 @@
 *.dns.nullgate.net
 *.dns.nullrecon.com
 *.dns.numerus.com
-*.ns.nwps.fi
+*.nwps.fi
 *.dns.nxsyspro.com
 *.qdns02.nymterm.com
 *.5g.o0o.re
@@ -3213,6 +3211,8 @@
 *.dns.txq.life
 *.typaza.com
 *.ad.tzockt.beer
+*.dot.ublockdns.com
+*.my.ublockdns.com
 *.v1.ufamax.eu
 *.vless-service.ufodns.com
 *.blokuj.ujwie.co

@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773658980 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773680520 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 16 Mar 2026 11:03 UTC
-; Version: 2026.0316.1103.11
+; Last modified: 16 Mar 2026 17:02 UTC
+; Version: 2026.0316.1702.48
 ; Syntax: RPZ
-; Number of entries: 33544
+; Number of entries: 33506
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -1947,8 +1947,6 @@ englishtutoring.cfd CNAME .
 *.englishtutoring.cfd CNAME .
 gscloud.cfd CNAME .
 *.gscloud.cfd CNAME .
-interdoge.cfd CNAME .
-*.interdoge.cfd CNAME .
 lightspeedisgay.cfd CNAME .
 *.lightspeedisgay.cfd CNAME .
 nowgg.cfd CNAME .
@@ -9113,8 +9111,6 @@ intervpn.com CNAME .
 *.intervpn.com CNAME .
 intl-alliance.com CNAME .
 *.intl-alliance.com CNAME .
-myhw.helper1.investigacionpolitica.com CNAME .
-*.myhw.helper1.investigacionpolitica.com CNAME .
 invisv.com CNAME .
 *.invisv.com CNAME .
 iopgn.com CNAME .
@@ -9221,8 +9217,6 @@ nationalgeographic.itafricagroup.com CNAME .
 *.nationalgeographic.itafricagroup.com CNAME .
 pleasestopspeed.itafricagroup.com CNAME .
 *.pleasestopspeed.itafricagroup.com CNAME .
-rdcctfyhutybh.itafricagroup.com CNAME .
-*.rdcctfyhutybh.itafricagroup.com CNAME .
 solidwriting.itafricagroup.com CNAME .
 *.solidwriting.itafricagroup.com CNAME .
 ulsscgyntu.itafricagroup.com CNAME .
@@ -9561,8 +9555,6 @@ kennethhuang.com CNAME .
 *.kennethhuang.com CNAME .
 kepard.com CNAME .
 *.kepard.com CNAME .
-dns.keskinnetwork.com CNAME .
-*.dns.keskinnetwork.com CNAME .
 dns.keskonet.com CNAME .
 *.dns.keskonet.com CNAME .
 kettleextend.com CNAME .
@@ -13401,6 +13393,8 @@ u8sj3.com CNAME .
 *.u8sj3.com CNAME .
 uas2.com CNAME .
 *.uas2.com CNAME .
+ublockdns.com CNAME .
+*.ublockdns.com CNAME .
 udpgw.com CNAME .
 *.udpgw.com CNAME .
 udpitfou.com CNAME .
@@ -17091,8 +17085,6 @@ homevpn.eu CNAME .
 *.homevpn.eu CNAME .
 burkholder.jake.eu CNAME .
 *.burkholder.jake.eu CNAME .
-edpuzzle.jake.eu CNAME .
-*.edpuzzle.jake.eu CNAME .
 hello1.jake.eu CNAME .
 *.hello1.jake.eu CNAME .
 jj.jake.eu CNAME .
@@ -23537,32 +23529,6 @@ jsq666.net CNAME .
 *.jsq666.net CNAME .
 addns.jujuland.net CNAME .
 *.addns.jujuland.net CNAME .
-chemistrytheoandalgebra.justlearning.net CNAME .
-*.chemistrytheoandalgebra.justlearning.net CNAME .
-carcher.com.justlearning.net CNAME .
-*.carcher.com.justlearning.net CNAME .
-exponets.justlearning.net CNAME .
-*.exponets.justlearning.net CNAME .
-ixl.workstations.extra.justlearning.net CNAME .
-*.ixl.workstations.extra.justlearning.net CNAME .
-geography-lessons.justlearning.net CNAME .
-*.geography-lessons.justlearning.net CNAME .
-ihate.justlearning.net CNAME .
-*.ihate.justlearning.net CNAME .
-learntoteach.justlearning.net CNAME .
-*.learntoteach.justlearning.net CNAME .
-math-help.justlearning.net CNAME .
-*.math-help.justlearning.net CNAME .
-schoolsoftexas.justlearning.net CNAME .
-*.schoolsoftexas.justlearning.net CNAME .
-standley.justlearning.net CNAME .
-*.standley.justlearning.net CNAME .
-studyingsocool.justlearning.net CNAME .
-*.studyingsocool.justlearning.net CNAME .
-texashistory.justlearning.net CNAME .
-*.texashistory.justlearning.net CNAME .
-tubaiscool.justlearning.net CNAME .
-*.tubaiscool.justlearning.net CNAME .
 justmysocks.net CNAME .
 *.justmysocks.net CNAME .
 justmysocks1.net CNAME .
@@ -28299,8 +28265,6 @@ dns.iteo.pw CNAME .
 *.dns.iteo.pw CNAME .
 k3n.pw CNAME .
 *.k3n.pw CNAME .
-dns.kellys.pw CNAME .
-*.dns.kellys.pw CNAME .
 dns.lightmaster.pw CNAME .
 *.dns.lightmaster.pw CNAME .
 doh.meetz.pw CNAME .
@@ -29103,8 +29067,6 @@ komo4ek.ru CNAME .
 *.komo4ek.ru CNAME .
 kondrcloud.ru CNAME .
 *.kondrcloud.ru CNAME .
-haruhoshiyomi.konturdoma.ru CNAME .
-*.haruhoshiyomi.konturdoma.ru CNAME .
 kopcm.ru CNAME .
 *.kopcm.ru CNAME .
 krasivovpn.ru CNAME .

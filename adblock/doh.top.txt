@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 16 Mar 2026 11:03 UTC
-! Version: 2026.0316.1103.01
+! Last modified: 16 Mar 2026 17:02 UTC
+! Version: 2026.0316.1702.34
 ! Syntax: AdBlock
-! Number of entries: 1126
+! Number of entries: 1127
 !
 ||003153.xyz^
 ||ns.00dani.me^
@@ -803,7 +803,7 @@
 ||dnscache0.ns71.net^
 ||ntwrkh.pro^
 ||dns.nullgate.net^
-||ns.nwps.fi^
+||nwps.fi^
 ||5g.o0o.re^
 ||o1.lt^
 ||okado.online^
@@ -1056,6 +1056,7 @@
 ||dns.twnic.tw^
 ||dns.txq.life^
 ||typaza.com^
+||my.ublockdns.com^
 ||dns.umbrella.com^
 ||doh.umbrella.com^
 ||unasw.eu^

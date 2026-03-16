@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773658920 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773680460 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,8 +10,8 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 16 Mar 2026 11:02 UTC
-; Version: 2026.0316.1102.31
+; Last modified: 16 Mar 2026 17:01 UTC
+; Version: 2026.0316.1701.31
 ; Syntax: RPZ
 ; Number of entries: 6992
 ;
@@ -1319,8 +1319,6 @@ kellerbier-home.com CNAME .
 *.kellerbier-home.com CNAME .
 kennethhuang.com CNAME .
 *.kennethhuang.com CNAME .
-dns.keskinnetwork.com CNAME .
-*.dns.keskinnetwork.com CNAME .
 dns.keskonet.com CNAME .
 *.dns.keskonet.com CNAME .
 dns.keviland.com CNAME .
@@ -1835,6 +1833,10 @@ dns.tuankhaiit.com CNAME .
 *.dns.tuankhaiit.com CNAME .
 typaza.com CNAME .
 *.typaza.com CNAME .
+dot.ublockdns.com CNAME .
+*.dot.ublockdns.com CNAME .
+my.ublockdns.com CNAME .
+*.my.ublockdns.com CNAME .
 vless-service.ufodns.com CNAME .
 *.vless-service.ufodns.com CNAME .
 doh.ultradns.com CNAME .
@@ -2601,8 +2603,8 @@ lelux.fi CNAME .
 *.lelux.fi CNAME .
 dns.musikantit.fi CNAME .
 *.dns.musikantit.fi CNAME .
-ns.nwps.fi CNAME .
-*.ns.nwps.fi CNAME .
+nwps.fi CNAME .
+*.nwps.fi CNAME .
 ns.trcnet.fi CNAME .
 *.ns.trcnet.fi CNAME .
 dns.truong.fi CNAME .
@@ -5613,8 +5615,6 @@ dns.iteo.pw CNAME .
 *.dns.iteo.pw CNAME .
 k3n.pw CNAME .
 *.k3n.pw CNAME .
-dns.kellys.pw CNAME .
-*.dns.kellys.pw CNAME .
 dns.lightmaster.pw CNAME .
 *.dns.lightmaster.pw CNAME .
 doh.meetz.pw CNAME .

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Mar 2026 10:57 UTC
-# Version: 2026.0316.1057.02
+# Last modified: 16 Mar 2026 16:55 UTC
+# Version: 2026.0316.1655.26
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 12142
+# Number of entries: 12133
 #
 local=/tracker.guguan.000.pe/
 local=/003396815.xyz/
@@ -5372,7 +5372,6 @@ local=/intilo.com/
 local=/intos382gos.com/
 local=/intrepidbd.com/
 local=/invalid.pw/
-local=/inzarbod.site/
 local=/watch.inzi.dev/
 local=/tracker.iochimari.moe/
 local=/ionbooter.com/
@@ -5406,7 +5405,6 @@ local=/iptvcanarias.tv/
 local=/iptvguard.app/
 local=/iptvonly.tv/
 local=/iptvprova.com/
-local=/iptvsource.com/
 local=/iptvstream.tv/
 local=/api.ipv4online.uk/
 local=/tracker.ipv6tracker.org/
@@ -5573,7 +5571,6 @@ local=/jutone.com/
 local=/jvavav.com/
 local=/blog.jxzmz.org/
 local=/k-streaming.tv/
-local=/k2nblog.com/
 local=/kaa.mx/
 local=/film.kace.dev/
 local=/kaitovault.com/
@@ -5674,7 +5671,6 @@ local=/kingdom-kvcd.net/
 local=/kingdom-leaks.com/
 local=/kingdomxxx.com/
 local=/kingmodapk.net/
-local=/kingsite24.com/
 local=/kinkeadtech.com/
 local=/kino.cx/
 local=/kino-hit.com/
@@ -5690,7 +5686,6 @@ local=/kinogo.film/
 local=/kinogo.inc/
 local=/kinogo.no/
 local=/kinogo.online/
-local=/kinogo.pink/
 local=/kinogo.rest/
 local=/kinogo.uk/
 local=/kinogo-720.net/
@@ -5705,7 +5700,6 @@ local=/kinokong.bz/
 local=/kinokong.net/
 local=/kinokong.pro/
 local=/kinokrad.cc/
-local=/kinokrad.fan/
 local=/kinokrad.film/
 local=/kinol.pl/
 local=/kinomall.ru/
@@ -5762,8 +5756,6 @@ local=/kinox.ae/
 local=/kinox.am/
 local=/kinox.blog/
 local=/kinox.by/
-local=/kinox.ceo/
-local=/kinox.city/
 local=/kinox.cloud/
 local=/kinox.club/
 local=/kinox.codes/
@@ -5810,7 +5802,6 @@ local=/kinox.to/
 local=/kinox.today/
 local=/kinox.tools/
 local=/kinox.town/
-local=/kinox.toys/
 local=/kinox.tube/
 local=/kinox.tv/
 local=/kinox.vc/

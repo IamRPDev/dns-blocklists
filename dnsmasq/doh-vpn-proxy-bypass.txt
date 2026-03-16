@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Mar 2026 11:03 UTC
-# Version: 2026.0316.1103.11
+# Last modified: 16 Mar 2026 17:02 UTC
+# Version: 2026.0316.1702.48
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 16772
+# Number of entries: 16753
 #
 local=/000000555.xyz/
 local=/ss.0001.xyz/
@@ -8016,7 +8016,6 @@ local=/instantunblock.com/
 local=/wildcard.instructure.site/
 local=/math.intasarn.com/
 local=/intego.com/
-local=/interdoge.cfd/
 local=/interncloud.info/
 local=/science.internet-slackers.us/
 local=/academic.internetbowser.com/
@@ -8034,7 +8033,6 @@ local=/intl-alliance.com/
 local=/inunison.net/
 local=/riquee.inuo.pub/
 local=/dns.invent.hr/
-local=/myhw.helper1.investigacionpolitica.com/
 local=/invisv.com/
 local=/ion.pm/
 local=/dns.cloud.ionutl.ro/
@@ -8189,7 +8187,6 @@ local=/learning.itafricagroup.com/
 local=/mathisinteresting.itafricagroup.com/
 local=/nationalgeographic.itafricagroup.com/
 local=/pleasestopspeed.itafricagroup.com/
-local=/rdcctfyhutybh.itafricagroup.com/
 local=/solidwriting.itafricagroup.com/
 local=/ulsscgyntu.itafricagroup.com/
 local=/web.itafricagroup.com/
@@ -8247,7 +8244,6 @@ local=/jagoanssh.com/
 local=/jagovpn.com/
 local=/jailbreaked.net/
 local=/burkholder.jake.eu/
-local=/edpuzzle.jake.eu/
 local=/hello1.jake.eu/
 local=/jj.jake.eu/
 local=/satirise.jake.eu/
@@ -8531,19 +8527,6 @@ local=/vps.justicenetworks.xyz/
 local=/justicenoise.org/
 local=/ad.justincounts.com/
 local=/dns.justinnetworkingsolutions.com/
-local=/chemistrytheoandalgebra.justlearning.net/
-local=/carcher.com.justlearning.net/
-local=/exponets.justlearning.net/
-local=/ixl.workstations.extra.justlearning.net/
-local=/geography-lessons.justlearning.net/
-local=/ihate.justlearning.net/
-local=/learntoteach.justlearning.net/
-local=/math-help.justlearning.net/
-local=/schoolsoftexas.justlearning.net/
-local=/standley.justlearning.net/
-local=/studyingsocool.justlearning.net/
-local=/texashistory.justlearning.net/
-local=/tubaiscool.justlearning.net/
 local=/justmesocks.com/
 local=/justmysock.cc/
 local=/justmysocks.bid/
@@ -8659,7 +8642,6 @@ local=/doh3.kekew.info/
 local=/kekv.fun/
 local=/doh.kel.pe/
 local=/kellerbier-home.com/
-local=/dns.kellys.pw/
 local=/kelrano.ru/
 local=/kelrivo.ru/
 local=/kelstro.ru/
@@ -8675,7 +8657,6 @@ local=/kernavo.ru/
 local=/dns.kernel-error.de/
 local=/dns.kescher.at/
 local=/kudns.kescher.at/
-local=/dns.keskinnetwork.com/
 local=/dns.keskonet.com/
 local=/pihole.aws.ketan.dev/
 local=/kettleextend.com/
@@ -8793,7 +8774,6 @@ local=/adguard.konikoni428.com/
 local=/adguard.konnkors.lol/
 local=/www.securly.com.konpan.ch/
 local=/www-proxy.konstl01.xyz/
-local=/haruhoshiyomi.konturdoma.ru/
 local=/koolkuailiannpv.com/
 local=/koolskytreenpv.com/
 local=/doh.kooman.org/
@@ -14264,6 +14244,7 @@ local=/u8sj3.com/
 local=/uas2.com/
 local=/ubgus.net/
 local=/ubint.net/
+local=/ublockdns.com/
 local=/uboo.st/
 local=/uboost.am/
 local=/uboost.download/

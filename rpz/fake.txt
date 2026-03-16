@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773653520 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773675120 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 16 Mar 2026 09:32 UTC
-; Version: 2026.0316.0932.12
+; Last modified: 16 Mar 2026 15:32 UTC
+; Version: 2026.0316.1532.52
 ; Syntax: RPZ
-; Number of entries: 28788
+; Number of entries: 28754
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -9078,8 +9078,6 @@ investfw.com CNAME .
 *.investfw.com CNAME .
 investi-ray.com CNAME .
 *.investi-ray.com CNAME .
-investify-global.com CNAME .
-*.investify-global.com CNAME .
 investigativedaily.com CNAME .
 *.investigativedaily.com CNAME .
 investirex.com CNAME .
@@ -9126,8 +9124,6 @@ irisfrench.com CNAME .
 *.irisfrench.com CNAME .
 irishnewstoday.com CNAME .
 *.irishnewstoday.com CNAME .
-irsaltransport.com CNAME .
-*.irsaltransport.com CNAME .
 ism-capital.com CNAME .
 *.ism-capital.com CNAME .
 isoccerkit.com CNAME .
@@ -9344,8 +9340,6 @@ junge-dailyshop.com CNAME .
 *.junge-dailyshop.com CNAME .
 jungle-shoes.com CNAME .
 *.jungle-shoes.com CNAME .
-jupiter-web3.com CNAME .
-*.jupiter-web3.com CNAME .
 juretro.com CNAME .
 *.juretro.com CNAME .
 de.justfashionnow.com CNAME .
@@ -9354,8 +9348,6 @@ justpowertool.com CNAME .
 *.justpowertool.com CNAME .
 justrader.com CNAME .
 *.justrader.com CNAME .
-juwelenpalastdeutschland.com CNAME .
-*.juwelenpalastdeutschland.com CNAME .
 jyaashop.com CNAME .
 *.jyaashop.com CNAME .
 jyxliness.com CNAME .
@@ -9420,14 +9412,10 @@ kamagraakcio.com CNAME .
 *.kamagraakcio.com CNAME .
 kamagraboutique.com CNAME .
 *.kamagraboutique.com CNAME .
-kamagralove.com CNAME .
-*.kamagralove.com CNAME .
 kamagratrade.com CNAME .
 *.kamagratrade.com CNAME .
 kaminholzmoppel-de.com CNAME .
 *.kaminholzmoppel-de.com CNAME .
-kanaren-shop.com CNAME .
-*.kanaren-shop.com CNAME .
 kangaltree.com CNAME .
 *.kangaltree.com CNAME .
 kanistyleshop.com CNAME .
@@ -9444,8 +9432,6 @@ kapeltrix.com CNAME .
 *.kapeltrix.com CNAME .
 kaperes.com CNAME .
 *.kaperes.com CNAME .
-kapes-agency.com CNAME .
-*.kapes-agency.com CNAME .
 kapitaalkern.com CNAME .
 *.kapitaalkern.com CNAME .
 kappafi.com CNAME .
@@ -9502,8 +9488,6 @@ kaufhardware.com CNAME .
 *.kaufhardware.com CNAME .
 kaufhausaccessoires.com CNAME .
 *.kaufhausaccessoires.com CNAME .
-kaufhausgermany.com CNAME .
-*.kaufhausgermany.com CNAME .
 kaufhausonline.com CNAME .
 *.kaufhausonline.com CNAME .
 kaufhaussupermarkt.com CNAME .
@@ -9522,8 +9506,6 @@ kbnlogistics.com CNAME .
 *.kbnlogistics.com CNAME .
 kckmoneyy.com CNAME .
 *.kckmoneyy.com CNAME .
-kedejo.com CNAME .
-*.kedejo.com CNAME .
 kedsdamen.com CNAME .
 *.kedsdamen.com CNAME .
 kedsfactoryoutlet.com CNAME .
@@ -9736,8 +9718,6 @@ kobaltoutlet.com CNAME .
 *.kobaltoutlet.com CNAME .
 kobe-voitore.com CNAME .
 *.kobe-voitore.com CNAME .
-kochhand.com CNAME .
-*.kochhand.com CNAME .
 kochutensilienprofi.com CNAME .
 *.kochutensilienprofi.com CNAME .
 koel--schuhe.com CNAME .
@@ -9804,12 +9784,8 @@ krakenaccess.com CNAME .
 *.krakenaccess.com CNAME .
 kramerbid.com CNAME .
 *.kramerbid.com CNAME .
-krauternobst.com CNAME .
-*.krauternobst.com CNAME .
 kreative-zukunft.com CNAME .
 *.kreative-zukunft.com CNAME .
-kred-geld.com CNAME .
-*.kred-geld.com CNAME .
 kredit-pro.com CNAME .
 *.kredit-pro.com CNAME .
 kreditfuralle.com CNAME .
@@ -18112,8 +18088,6 @@ erexe.cz CNAME .
 *.erexe.cz CNAME .
 fotbalovyfestival.cz CNAME .
 *.fotbalovyfestival.cz CNAME .
-kamagra-4you.cz CNAME .
-*.kamagra-4you.cz CNAME .
 kamagra-cz.cz CNAME .
 *.kamagra-cz.cz CNAME .
 kamagra-kamagra.cz CNAME .
@@ -20626,8 +20600,6 @@ haustechnik-muenchen.de CNAME .
 *.haustechnik-muenchen.de CNAME .
 haustechnikmeine.de CNAME .
 *.haustechnikmeine.de CNAME .
-haustierstolz.de CNAME .
-*.haustierstolz.de CNAME .
 haustirwelten.de CNAME .
 *.haustirwelten.de CNAME .
 havro.de CNAME .
@@ -21304,8 +21276,6 @@ karenmillendeutschland.de CNAME .
 *.karenmillendeutschland.de CNAME .
 karismalabel.de CNAME .
 *.karismalabel.de CNAME .
-karl-hoffmann.de CNAME .
-*.karl-hoffmann.de CNAME .
 karlena.de CNAME .
 *.karlena.de CNAME .
 karmavana.de CNAME .
@@ -21400,8 +21370,6 @@ kjsr-radeberg.de CNAME .
 *.kjsr-radeberg.de CNAME .
 kjw-garten.de CNAME .
 *.kjw-garten.de CNAME .
-kkz-insolvenzrecht.de CNAME .
-*.kkz-insolvenzrecht.de CNAME .
 klang-plan.de CNAME .
 *.klang-plan.de CNAME .
 klanol-tech.de CNAME .
@@ -27230,8 +27198,6 @@ att.kalitvicnvo.shop CNAME .
 *.att.kalitvicnvo.shop CNAME .
 kamagraelite.shop CNAME .
 *.kamagraelite.shop CNAME .
-kamagraman.shop CNAME .
-*.kamagraman.shop CNAME .
 kamagratrade.shop CNAME .
 *.kamagratrade.shop CNAME .
 kaminholzrhein.shop CNAME .

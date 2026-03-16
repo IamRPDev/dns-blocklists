@@ -2534,6 +2534,13 @@
       }
     },
     {
+      "PK": "football.london",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "forceofwind.online",
       "action": {
         "do": 1,
@@ -5187,6 +5194,13 @@
       }
     },
     {
+      "PK": "order.online",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "os.fan",
       "action": {
         "do": 1,
@@ -7092,6 +7106,13 @@
     },
     {
       "PK": "thedesk.top",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "thefitness.wiki",
       "action": {
         "do": 1,
         "status": 1

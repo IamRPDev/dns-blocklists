@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773658620 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773680100 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 16 Mar 2026 10:57 UTC
-; Version: 2026.0316.1057.02
+; Last modified: 16 Mar 2026 16:55 UTC
+; Version: 2026.0316.1655.26
 ; Syntax: RPZ
-; Number of entries: 24284
+; Number of entries: 24266
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -1882,8 +1882,6 @@ vegamovies.center CNAME .
 *.vegamovies.center CNAME .
 hdmovie2.ceo CNAME .
 *.hdmovie2.ceo CNAME .
-kinox.ceo CNAME .
-*.kinox.ceo CNAME .
 mkvcinemas.ceo CNAME .
 *.mkvcinemas.ceo CNAME .
 tr.kxmp.cf CNAME .
@@ -2050,8 +2048,6 @@ tracker.hdcity.city CNAME .
 *.tracker.hdcity.city CNAME .
 hdmovie2.city CNAME .
 *.hdmovie2.city CNAME .
-kinox.city CNAME .
-*.kinox.city CNAME .
 r365.city CNAME .
 *.r365.city CNAME .
 seriesflix.city CNAME .
@@ -5428,8 +5424,6 @@ iptorrents.com CNAME .
 *.iptorrents.com CNAME .
 iptvprova.com CNAME .
 *.iptvprova.com CNAME .
-iptvsource.com CNAME .
-*.iptvsource.com CNAME .
 irwarez.com CNAME .
 *.irwarez.com CNAME .
 isitdownyet.com CNAME .
@@ -5534,8 +5528,6 @@ jutone.com CNAME .
 *.jutone.com CNAME .
 jvavav.com CNAME .
 *.jvavav.com CNAME .
-k2nblog.com CNAME .
-*.k2nblog.com CNAME .
 kaitovault.com CNAME .
 *.kaitovault.com CNAME .
 kaizoku-fansubs.com CNAME .
@@ -5594,8 +5586,6 @@ kingdom-leaks.com CNAME .
 *.kingdom-leaks.com CNAME .
 kingdomxxx.com CNAME .
 *.kingdomxxx.com CNAME .
-kingsite24.com CNAME .
-*.kingsite24.com CNAME .
 kinkeadtech.com CNAME .
 *.kinkeadtech.com CNAME .
 kino-hit.com CNAME .
@@ -9638,8 +9628,6 @@ eurostreaming.fan CNAME .
 *.eurostreaming.fan CNAME .
 guardaserie.fan CNAME .
 *.guardaserie.fan CNAME .
-kinokrad.fan CNAME .
-*.kinokrad.fan CNAME .
 dood.fans CNAME .
 *.dood.fans CNAME .
 multicanais.fans CNAME .
@@ -18052,8 +18040,6 @@ eurostreaming.pink CNAME .
 *.eurostreaming.pink CNAME .
 guardaserie.pink CNAME .
 *.guardaserie.pink CNAME .
-kinogo.pink CNAME .
-*.kinogo.pink CNAME .
 moviesmod.pink CNAME .
 *.moviesmod.pink CNAME .
 streamingcommunity.pink CNAME .
@@ -20134,8 +20120,6 @@ hdmovie2.site CNAME .
 *.hdmovie2.site CNAME .
 ilgeniodellostreaming.site CNAME .
 *.ilgeniodellostreaming.site CNAME .
-inzarbod.site CNAME .
-*.inzarbod.site CNAME .
 italia-film.site CNAME .
 *.italia-film.site CNAME .
 juraganfilm.site CNAME .
@@ -21988,8 +21972,6 @@ filmoflix.toys CNAME .
 *.filmoflix.toys CNAME .
 guardaserie.toys CNAME .
 *.guardaserie.toys CNAME .
-kinox.toys CNAME .
-*.kinox.toys CNAME .
 bollyflix.tr CNAME .
 *.bollyflix.tr CNAME .
 hdmovie2.tr CNAME .

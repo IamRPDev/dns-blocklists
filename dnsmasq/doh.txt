@@ -6,8 +6,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Mar 2026 11:02 UTC
-# Version: 2026.0316.1102.31
+# Last modified: 16 Mar 2026 17:01 UTC
+# Version: 2026.0316.1701.31
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 3496
 #
@@ -1933,14 +1933,12 @@ local=/doh3.kekew.info/
 local=/kekv.fun/
 local=/doh.kel.pe/
 local=/kellerbier-home.com/
-local=/dns.kellys.pw/
 local=/dns.kempkens.org/
 local=/kennethhuang.com/
 local=/dns.kerekes.xyz/
 local=/dns.kernel-error.de/
 local=/dns.kescher.at/
 local=/kudns.kescher.at/
-local=/dns.keskinnetwork.com/
 local=/dns.keskonet.com/
 local=/pihole.aws.ketan.dev/
 local=/dns.keviland.com/
@@ -2481,7 +2479,7 @@ local=/irgrdns.nullapp.xyz/
 local=/dns.nullgate.net/
 local=/dns.nullrecon.com/
 local=/dns.numerus.com/
-local=/ns.nwps.fi/
+local=/nwps.fi/
 local=/dns.nxsyspro.com/
 local=/qdns02.nymterm.com/
 local=/5g.o0o.re/
@@ -3213,6 +3211,8 @@ local=/adguard.twotigers.xyz/
 local=/dns.txq.life/
 local=/typaza.com/
 local=/ad.tzockt.beer/
+local=/dot.ublockdns.com/
+local=/my.ublockdns.com/
 local=/v1.ufamax.eu/
 local=/vless-service.ufodns.com/
 local=/blokuj.ujwie.co/
