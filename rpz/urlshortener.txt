@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773675240 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773696840 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 16 Mar 2026 15:34 UTC
-; Version: 2026.0316.1534.43
+; Last modified: 16 Mar 2026 21:34 UTC
+; Version: 2026.0316.2134.27
 ; Syntax: RPZ
-; Number of entries: 19958
+; Number of entries: 19952
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -5263,8 +5263,6 @@ littylink.com CNAME .
 *.littylink.com CNAME .
 livemybio.com CNAME .
 *.livemybio.com CNAME .
-liveparle.com CNAME .
-*.liveparle.com CNAME .
 lksfy.com CNAME .
 *.lksfy.com CNAME .
 llclick.com CNAME .
@@ -12171,8 +12169,6 @@ linka.li CNAME .
 *.linka.li CNAME .
 logy.li CNAME .
 *.logy.li CNAME .
-lrl.li CNAME .
-*.lrl.li CNAME .
 lvr.li CNAME .
 *.lvr.li CNAME .
 m-i.li CNAME .
@@ -14801,8 +14797,6 @@ k9.ms CNAME .
 *.k9.ms CNAME .
 lat.ms CNAME .
 *.lat.ms CNAME .
-t.libren.ms CNAME .
-*.t.libren.ms CNAME .
 myt.ms CNAME .
 *.myt.ms CNAME .
 nyti.ms CNAME .

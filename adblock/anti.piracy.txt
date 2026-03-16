@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 16 Mar 2026 16:55 UTC
-! Version: 2026.0316.1655.26
+! Last modified: 16 Mar 2026 22:54 UTC
+! Version: 2026.0316.2254.19
 ! Syntax: AdBlock
-! Number of entries: 12133
+! Number of entries: 12127
 !
 ||tracker.guguan.000.pe^
 ||003396815.xyz^
@@ -4245,6 +4245,7 @@
 ||fullmaza1.cfd^
 ||fullmoviefilm.org^
 ||fullmoviehd4k.com^
+||fullmoviestar.xyz^
 ||fullmoviz.xyz^
 ||fullpcsoftware.com^
 ||fullprogramlarindir.com^
@@ -5903,8 +5904,6 @@
 ||lacraiatorrent.com^
 ||laden.to^
 ||ladresstina.com^
-||lafouinedunet.com^
-||lagazzettadelcorsaro.com^
 ||mail.lakameraobscura.com^
 ||lalbatte.net^
 ||retracker.lanta.me^
@@ -5964,7 +5963,6 @@
 ||lesbians4u.org^
 ||lesen.to^
 ||lesliestone.tv^
-||lesseriestreaming.org^
 ||letflix.tv^
 ||letgames.org^
 ||letitbit.net^
@@ -6015,7 +6013,6 @@
 ||limetor.pro^
 ||limetorrent.cc^
 ||limetorrent.ws^
-||limetorrent.xyz^
 ||limetorrents.asia^
 ||limetorrents.at^
 ||limetorrents.buzz^
@@ -6137,7 +6134,6 @@
 ||losmovies.us^
 ||losmovies.ws^
 ||lossless.cd^
-||losslessclub.com^
 ||lostfilm.tv^
 ||lostfilm5.org^
 ||loushao.net^
@@ -6367,7 +6363,6 @@
 ||megakino.how^
 ||megakino.ink^
 ||megakino.ist^
-||megakino.kim^
 ||megakino.kiwi^
 ||megakino.men^
 ||megakino.moi^
@@ -6381,7 +6376,6 @@
 ||megakino.rip^
 ||megakino.si^
 ||megakino.style^
-||megakino.tips^
 ||megakino.video^
 ||megakino.vin^
 ||megakino.ws^

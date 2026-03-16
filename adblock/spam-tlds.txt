@@ -10,10 +10,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 16 Mar 2026 17:04 UTC
-! Version: 2026.0316.1704.30
+! Last modified: 16 Mar 2026 17:17 UTC
+! Version: 2026.0316.1717.31
 ! Syntax: AdGuard
-! Number of latin TLDs: 283 - punycode TLDs: 151
+! Number of latin TLDs: 285 - punycode TLDs: 151
 !
 ||*.actor^
 ||*.africa^$denyallow=nation.africa
@@ -92,6 +92,7 @@
 ||*.dpdns.org^
 ||*.eco^$denyallow=auk.eco|elli.eco|mer.eco|play.eco
 ||*.edu.eu^
+||*.energy^$denyallow=bigdig.energy
 ||*.engineer^
 ||*.enterprises^
 ||*.equipment^$denyallow=biqu.equipment
@@ -281,6 +282,7 @@
 ||*.vision^$denyallow=swing.vision
 ||*.vote^$denyallow=arizona.vote
 ||*.voto^
+||*.voyage^
 ||*.wang^
 ||*.webcam^
 ||*.website^$denyallow=acro.website|bestmotherfucking.website|eddie.website|noclip.website|thatsup.website|tilde.website|tiny.tilde.website|uphold.website

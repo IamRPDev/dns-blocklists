@@ -547,6 +547,13 @@
       }
     },
     {
+      "PK": "bigdig.energy",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "bigtimerush.store",
       "action": {
         "do": 1,

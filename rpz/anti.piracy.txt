@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773680100 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773701640 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 16 Mar 2026 16:55 UTC
-; Version: 2026.0316.1655.26
+; Last modified: 16 Mar 2026 22:54 UTC
+; Version: 2026.0316.2254.19
 ; Syntax: RPZ
-; Number of entries: 24266
+; Number of entries: 24254
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -5640,10 +5640,6 @@ lacraiatorrent.com CNAME .
 *.lacraiatorrent.com CNAME .
 ladresstina.com CNAME .
 *.ladresstina.com CNAME .
-lafouinedunet.com CNAME .
-*.lafouinedunet.com CNAME .
-lagazzettadelcorsaro.com CNAME .
-*.lagazzettadelcorsaro.com CNAME .
 mail.lakameraobscura.com CNAME .
 *.mail.lakameraobscura.com CNAME .
 lapak21.com CNAME .
@@ -5744,8 +5740,6 @@ lordfilm-black3.com CNAME .
 *.lordfilm-black3.com CNAME .
 losmovies.com CNAME .
 *.losmovies.com CNAME .
-losslessclub.com CNAME .
-*.losslessclub.com CNAME .
 tracker01.loveapp.com CNAME .
 *.tracker01.loveapp.com CNAME .
 warez.loxblog.com CNAME .
@@ -11816,8 +11810,6 @@ altadefinizione.kim CNAME .
 *.altadefinizione.kim CNAME .
 gomovies.kim CNAME .
 *.gomovies.kim CNAME .
-megakino.kim CNAME .
-*.megakino.kim CNAME .
 mkvcinemas.kim CNAME .
 *.mkvcinemas.kim CNAME .
 streamingcommunityz.kim CNAME .
@@ -16902,8 +16894,6 @@ leporno.org CNAME .
 *.leporno.org CNAME .
 lesbians4u.org CNAME .
 *.lesbians4u.org CNAME .
-lesseriestreaming.org CNAME .
-*.lesseriestreaming.org CNAME .
 letgames.org CNAME .
 *.letgames.org CNAME .
 letsroll911.org CNAME .
@@ -20928,8 +20918,6 @@ filmpertutti.tips CNAME .
 *.filmpertutti.tips CNAME .
 hdmovie2.tips CNAME .
 *.hdmovie2.tips CNAME .
-megakino.tips CNAME .
-*.megakino.tips CNAME .
 thepiratebay.tips CNAME .
 *.thepiratebay.tips CNAME .
 vegamovies.tips CNAME .
@@ -23916,6 +23904,8 @@ fsapi.xyz CNAME .
 *.fsapi.xyz CNAME .
 fuckbitcoin.xyz CNAME .
 *.fuckbitcoin.xyz CNAME .
+fullmoviestar.xyz CNAME .
+*.fullmoviestar.xyz CNAME .
 fullmoviz.xyz CNAME .
 *.fullmoviz.xyz CNAME .
 gdrivedl.xyz CNAME .
@@ -23988,8 +23978,6 @@ ligaxxi.xyz CNAME .
 *.ligaxxi.xyz CNAME .
 lightdl.xyz CNAME .
 *.lightdl.xyz CNAME .
-limetorrent.xyz CNAME .
-*.limetorrent.xyz CNAME .
 limetorrents.xyz CNAME .
 *.limetorrents.xyz CNAME .
 lyin.xyz CNAME .

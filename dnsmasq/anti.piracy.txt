@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Mar 2026 16:55 UTC
-# Version: 2026.0316.1655.26
+# Last modified: 16 Mar 2026 22:54 UTC
+# Version: 2026.0316.2254.19
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 12133
+# Number of entries: 12127
 #
 local=/tracker.guguan.000.pe/
 local=/003396815.xyz/
@@ -4244,6 +4244,7 @@ local=/fulllengthaudiobooks.net/
 local=/fullmaza1.cfd/
 local=/fullmoviefilm.org/
 local=/fullmoviehd4k.com/
+local=/fullmoviestar.xyz/
 local=/fullmoviz.xyz/
 local=/fullpcsoftware.com/
 local=/fullprogramlarindir.com/
@@ -5902,8 +5903,6 @@ local=/lacasadeltikitaka.net/
 local=/lacraiatorrent.com/
 local=/laden.to/
 local=/ladresstina.com/
-local=/lafouinedunet.com/
-local=/lagazzettadelcorsaro.com/
 local=/mail.lakameraobscura.com/
 local=/lalbatte.net/
 local=/retracker.lanta.me/
@@ -5963,7 +5962,6 @@ local=/les-freres-ainsworth.com/
 local=/lesbians4u.org/
 local=/lesen.to/
 local=/lesliestone.tv/
-local=/lesseriestreaming.org/
 local=/letflix.tv/
 local=/letgames.org/
 local=/letitbit.net/
@@ -6014,7 +6012,6 @@ local=/limetor.com/
 local=/limetor.pro/
 local=/limetorrent.cc/
 local=/limetorrent.ws/
-local=/limetorrent.xyz/
 local=/limetorrents.asia/
 local=/limetorrents.at/
 local=/limetorrents.buzz/
@@ -6136,7 +6133,6 @@ local=/losmovies.sh/
 local=/losmovies.us/
 local=/losmovies.ws/
 local=/lossless.cd/
-local=/losslessclub.com/
 local=/lostfilm.tv/
 local=/lostfilm5.org/
 local=/loushao.net/
@@ -6366,7 +6362,6 @@ local=/megakino.eu/
 local=/megakino.how/
 local=/megakino.ink/
 local=/megakino.ist/
-local=/megakino.kim/
 local=/megakino.kiwi/
 local=/megakino.men/
 local=/megakino.moi/
@@ -6380,7 +6375,6 @@ local=/megakino.red/
 local=/megakino.rip/
 local=/megakino.si/
 local=/megakino.style/
-local=/megakino.tips/
 local=/megakino.video/
 local=/megakino.vin/
 local=/megakino.ws/

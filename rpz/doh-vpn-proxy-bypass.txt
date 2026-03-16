@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773680520 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773702000 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 16 Mar 2026 17:02 UTC
-; Version: 2026.0316.1702.48
+; Last modified: 16 Mar 2026 23:00 UTC
+; Version: 2026.0316.2300.21
 ; Syntax: RPZ
-; Number of entries: 33506
+; Number of entries: 33486
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -10027,8 +10027,6 @@ brexhack.litecsys.com CNAME .
 *.brexhack.litecsys.com CNAME .
 literacyadventures.com CNAME .
 *.literacyadventures.com CNAME .
-ihaveacase.litesa.com CNAME .
-*.ihaveacase.litesa.com CNAME .
 dns.lithvik.com CNAME .
 *.dns.lithvik.com CNAME .
 liuliangguangclash.com CNAME .
@@ -10077,8 +10075,6 @@ ddd.loukky.com CNAME .
 *.ddd.loukky.com CNAME .
 ddd3.loukky.com CNAME .
 *.ddd3.loukky.com CNAME .
-cezramttayw.lovethosetrains.com CNAME .
-*.cezramttayw.lovethosetrains.com CNAME .
 fern.lovethosetrains.com CNAME .
 *.fern.lovethosetrains.com CNAME .
 loxch.com CNAME .
@@ -10087,8 +10083,6 @@ loyaltynotes.com CNAME .
 *.loyaltynotes.com CNAME .
 n5.lsasss.com CNAME .
 *.n5.lsasss.com CNAME .
-truffled.lualol.com CNAME .
-*.truffled.lualol.com CNAME .
 lubricaonline.com CNAME .
 *.lubricaonline.com CNAME .
 luckydaysims.com CNAME .
@@ -10193,8 +10187,6 @@ masterssh.com CNAME .
 *.masterssh.com CNAME .
 mathcraftinghub.com CNAME .
 *.mathcraftinghub.com CNAME .
-mathisfunandcool.mathewparkin.com CNAME .
-*.mathisfunandcool.mathewparkin.com CNAME .
 mathnodes.com CNAME .
 *.mathnodes.com CNAME .
 mathpoop.com CNAME .
@@ -17463,8 +17455,6 @@ x.laoban.fun CNAME .
 *.x.laoban.fun CNAME .
 adhome.maige.fun CNAME .
 *.adhome.maige.fun CNAME .
-miskoss.fun CNAME .
-*.miskoss.fun CNAME .
 novatech.fun CNAME .
 *.novatech.fun CNAME .
 paxil.fun CNAME .
@@ -19065,8 +19055,6 @@ luminati.io CNAME .
 *.luminati.io CNAME .
 home.luther.io CNAME .
 *.home.luther.io CNAME .
-madeinchile.io CNAME .
-*.madeinchile.io CNAME .
 dns.mafyuh.io CNAME .
 *.dns.mafyuh.io CNAME .
 metrovpn.io CNAME .
@@ -19693,8 +19681,6 @@ dns.nako.kr CNAME .
 *.dns.nako.kr CNAME .
 nordvpn.kr CNAME .
 *.nordvpn.kr CNAME .
-ornext.luxury-web.kz CNAME .
-*.ornext.luxury-web.kz CNAME .
 adns.3am.la CNAME .
 *.adns.3am.la CNAME .
 scholastic.allez.la CNAME .
@@ -25419,16 +25405,12 @@ externalmobiel.lekdijk.online CNAME .
 *.externalmobiel.lekdijk.online CNAME .
 letlab.online CNAME .
 *.letlab.online CNAME .
-lfiupj1u9wmyudvbqt.online CNAME .
-*.lfiupj1u9wmyudvbqt.online CNAME .
 ljq6lqx2et2prq.online CNAME .
 *.ljq6lqx2et2prq.online CNAME .
 lqnklfopm5dde3idofir.online CNAME .
 *.lqnklfopm5dde3idofir.online CNAME .
 lvejbaqzj4v1xupusybd.online CNAME .
 *.lvejbaqzj4v1xupusybd.online CNAME .
-lxaulvhnadvu.online CNAME .
-*.lxaulvhnadvu.online CNAME .
 lz3nwoz.online CNAME .
 *.lz3nwoz.online CNAME .
 m3mhtvbfy.online CNAME .
@@ -31677,8 +31659,6 @@ metal-masters.us CNAME .
 *.metal-masters.us CNAME .
 metalinjection.us CNAME .
 *.metalinjection.us CNAME .
-glintyglinthaha.mills-family.us CNAME .
-*.glintyglinthaha.mills-family.us CNAME .
 huzzah.mills-family.us CNAME .
 *.huzzah.mills-family.us CNAME .
 normal.mills-family.us CNAME .

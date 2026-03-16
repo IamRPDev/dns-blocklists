@@ -658,6 +658,13 @@
       }
     },
     {
+      "PK": "bigdig.energy",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "bigtimerush.store",
       "action": {
         "do": 1,
@@ -2138,6 +2145,13 @@
       "PK": "eneba.games",
       "action": {
         "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.energy",
+      "action": {
+        "do": 0,
         "status": 1
       }
     },
@@ -7722,6 +7736,13 @@
     },
     {
       "PK": "*.voto",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.voyage",
       "action": {
         "do": 0,
         "status": 1

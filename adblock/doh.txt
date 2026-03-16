@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 16 Mar 2026 17:01 UTC
-! Version: 2026.0316.1701.31
+! Last modified: 16 Mar 2026 22:59 UTC
+! Version: 2026.0316.2259.41
 ! Syntax: AdBlock
-! Number of entries: 3496
+! Number of entries: 3494
 !
 ||ss.0001.xyz^
 ||003153.xyz^
@@ -2102,7 +2102,6 @@
 ||dns.lupine.solutions^
 ||home.luther.io^
 ||d.luwei.date^
-||ornext.luxury-web.kz^
 ||dns.lvl-network.de^
 ||orau.lz0724.com^
 ||orjp4.lz0724.com^
@@ -2201,7 +2200,6 @@
 ||aitkcrev.minhduc.pw^
 ||minilla.store^
 ||guard.miracloud.fr^
-||miskoss.fun^
 ||netcup.mismat.ch^
 ||mistasinresolver.ru^
 ||httpdns.browser.miui.com^

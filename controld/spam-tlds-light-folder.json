@@ -827,6 +827,13 @@
       }
     },
     {
+      "PK": "voyage",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "wang",
       "action": {
         "do": 0,

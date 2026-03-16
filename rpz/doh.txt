@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773680460 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773701940 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 16 Mar 2026 17:01 UTC
-; Version: 2026.0316.1701.31
+; Last modified: 16 Mar 2026 22:59 UTC
+; Version: 2026.0316.2259.41
 ; Syntax: RPZ
-; Number of entries: 6992
+; Number of entries: 6988
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -2759,8 +2759,6 @@ x.laoban.fun CNAME .
 *.x.laoban.fun CNAME .
 adhome.maige.fun CNAME .
 *.adhome.maige.fun CNAME .
-miskoss.fun CNAME .
-*.miskoss.fun CNAME .
 pcgo.fun CNAME .
 *.pcgo.fun CNAME .
 dns.rayarksb.fun CNAME .
@@ -3337,8 +3335,6 @@ adblock.leenit.kr CNAME .
 *.adblock.leenit.kr CNAME .
 dns.nako.kr CNAME .
 *.dns.nako.kr CNAME .
-ornext.luxury-web.kz CNAME .
-*.ornext.luxury-web.kz CNAME .
 adns.3am.la CNAME .
 *.adns.3am.la CNAME .
 dns.njal.la CNAME .

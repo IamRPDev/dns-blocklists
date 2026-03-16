@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Mar 2026 15:32 UTC
-# Version: 2026.0316.1532.52
+# Last modified: 16 Mar 2026 21:32 UTC
+# Version: 2026.0316.2132.39
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14377
+# Number of entries: 14370
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -7510,7 +7510,6 @@ local=/lemella.de/
 local=/lemondedubainava.shop/
 local=/lemsdeutschland.com/
 local=/lemsschuhedeutschland.de/
-local=/lena-leipzig.de/
 local=/lena-moda.com/
 local=/lenahockson.com/
 local=/lendowl.co/
@@ -7685,7 +7684,6 @@ local=/loakeoutlet.shop/
 local=/loakeschweiz.net/
 local=/locateanyphone.net/
 local=/locationconseilsfinanciers.fr/
-local=/lockedintrading.co/
 local=/lockenbarava.shop/
 local=/lockpickingstore.de/
 local=/locmyparcel.com/
@@ -7788,7 +7786,6 @@ local=/lovozo.de/
 local=/lowa--schuhe.com/
 local=/lowa-de.com/
 local=/lowa-schuhe.net/
-local=/lowa-wanderschuhe.com/
 local=/lowaapavi.com/
 local=/lowabootsaustralia.net/
 local=/lowabootsmexico.com/
@@ -7873,7 +7870,6 @@ local=/luvori.de/
 local=/luvyle.com/
 local=/luxavita-berlin.de/
 local=/luxde.de/
-local=/luxe-collective-fashion.com/
 local=/luxeberlin.de/
 local=/luxedore.com/
 local=/de4.luxedressshop.com/
@@ -7892,7 +7888,6 @@ local=/luxurybagya.co/
 local=/luxuryholidaysvilla.com/
 local=/luxurypillows.pk/
 local=/luxuryvetements.com/
-local=/luxurywatchoutlet.shop/
 local=/luxus-berlin.de/
 local=/luxus-love.com/
 local=/luxusgeschenke24.com/
@@ -7928,7 +7923,6 @@ local=/madelor.com/
 local=/madridno94.com/
 local=/magag.de/
 local=/magalistore.com/
-local=/magartens.com/
 local=/magasinhokabelgique.com/
 local=/magasset.com/
 local=/magenta-oat.com/
@@ -8077,7 +8071,6 @@ local=/markezia.com/
 local=/markisenrabatt.com/
 local=/markmale.de/
 local=/markt.life/
-local=/marktexpress.com/
 local=/marktpay.com/
 local=/marktplatz-apo.com/
 local=/marktpro.de/
@@ -8407,7 +8400,6 @@ local=/milea-wien.at/
 local=/milentech.com/
 local=/milleis-bk.com/
 local=/milleniumchain.com/
-local=/milleniumcp.com/
 local=/millioncrystal.com/
 local=/millwoodshomege.com/
 local=/milopuzzle.shop/
@@ -8467,7 +8459,6 @@ local=/mizunode.com/
 local=/mizunodeutschland.de/
 local=/mizunos.de/
 local=/mizunosaleportugal.com/
-local=/mizunsport.com/
 local=/mjmconseil.fr/
 local=/mjonessb.com/
 local=/mkbaudesign.de/
@@ -11941,6 +11932,7 @@ local=/spowo.at/
 local=/sprachgenie.at/
 local=/sprayitonyou.com/
 local=/spring4sale.com/
+local=/springclearance.club/
 local=/sprint-market.com/
 local=/spruhfarbenprofi.com/
 local=/de.spsfurntiure.com/
@@ -13978,6 +13970,7 @@ local=/winkler-modehaus.de/
 local=/winobin.com/
 local=/cfd.winstonmartin.com/
 local=/winterfallkits.de/
+local=/winterflashsale.club/
 local=/winterholt.com/
 local=/winterjacken-saleshop.com/
 local=/winterkraft.de/

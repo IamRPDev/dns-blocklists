@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Mar 2026 15:34 UTC
-# Version: 2026.0316.1534.43
+# Last modified: 16 Mar 2026 21:34 UTC
+# Version: 2026.0316.2134.27
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 9979
+# Number of entries: 9976
 #
 *.0.gp
 *.00m.in
@@ -4254,7 +4254,6 @@
 *.lib.ac
 *.lib.cx
 *.libertify.net
-*.t.libren.ms
 *.lick.my
 *.liebg.at
 *.lien.li
@@ -4669,7 +4668,6 @@
 *.liurl.cn
 *.livemu.sc
 *.livemybio.com
-*.liveparle.com
 *.livestre.am
 *.s.livstick.io
 *.lixy.me
@@ -4801,7 +4799,6 @@
 *.lr3.link
 *.lr53r.com
 *.lrl.kr
-*.lrl.li
 *.lrrrl.com
 *.lru.jp
 *.ls.st

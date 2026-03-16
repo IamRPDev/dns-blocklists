@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Mar 2026 17:01 UTC
-# Version: 2026.0316.1701.31
+# Last modified: 16 Mar 2026 22:59 UTC
+# Version: 2026.0316.2259.41
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3959
+# Number of entries: 3957
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -2416,7 +2416,6 @@
 0.0.0.0 dns.lupine.solutions
 0.0.0.0 home.luther.io
 0.0.0.0 d.luwei.date
-0.0.0.0 ornext.luxury-web.kz
 0.0.0.0 dns.lvl-network.de
 0.0.0.0 orau.lz0724.com
 0.0.0.0 orjp4.lz0724.com
@@ -2524,7 +2523,6 @@
 0.0.0.0 aitkcrev.minhduc.pw
 0.0.0.0 minilla.store
 0.0.0.0 guard.miracloud.fr
-0.0.0.0 miskoss.fun
 0.0.0.0 netcup.mismat.ch
 0.0.0.0 mistasinresolver.ru
 0.0.0.0 httpdns.browser.miui.com

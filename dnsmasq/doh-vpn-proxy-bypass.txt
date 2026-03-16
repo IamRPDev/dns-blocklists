@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Mar 2026 17:02 UTC
-# Version: 2026.0316.1702.48
+# Last modified: 16 Mar 2026 23:00 UTC
+# Version: 2026.0316.2300.21
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 16753
+# Number of entries: 16743
 #
 local=/000000555.xyz/
 local=/ss.0001.xyz/
@@ -9161,7 +9161,6 @@ local=/lewsha.lol/
 local=/art.lexvoip.com/
 local=/br2.lezainski.com/
 local=/dns2.lezainski.com/
-local=/lfiupj1u9wmyudvbqt.online/
 local=/lfmreko.cn/
 local=/dns.lgprk.com/
 local=/nd.lgprk.com/
@@ -9233,7 +9232,6 @@ local=/litebrowser.net/
 local=/brexhack.litecsys.com/
 local=/literacyadventures.com/
 local=/literally.info/
-local=/ihaveacase.litesa.com/
 local=/litevpn.top/
 local=/dns.lithvik.com/
 local=/dns.litong.dev/
@@ -9324,7 +9322,6 @@ local=/lotso.cc/
 local=/ddd.loukky.com/
 local=/ddd3.loukky.com/
 local=/lovekers.cn/
-local=/cezramttayw.lovethosetrains.com/
 local=/fern.lovethosetrains.com/
 local=/loxch.com/
 local=/loyaltynotes.com/
@@ -9340,7 +9337,6 @@ local=/lsmdm.gq/
 local=/lsmdm.tk/
 local=/ltlxvxjjmvhn.me/
 local=/ltvpn.org/
-local=/truffled.lualol.com/
 local=/dns1.luan.contact/
 local=/not-that-lazy-tho.luanngo.ca/
 local=/lubricaonline.com/
@@ -9372,13 +9368,11 @@ local=/lurk.info/
 local=/home.luther.io/
 local=/d.luwei.date/
 local=/luxerno.xyz/
-local=/ornext.luxury-web.kz/
 local=/selenite.luxurytransport.com.signup.luxurytransport.rs/
 local=/luyuyunjichang.com/
 local=/luzubu.com/
 local=/lvejbaqzj4v1xupusybd.online/
 local=/dns.lvl-network.de/
-local=/lxaulvhnadvu.online/
 local=/ly-1.net/
 local=/lyfesinks.com/
 local=/lynxvpn.com/
@@ -9391,7 +9385,6 @@ local=/ag.m0fo.com/
 local=/m3mhtvbfy.online/
 local=/v971850.macloud.host/
 local=/mad4todo.com/
-local=/madeinchile.io/
 local=/iloveshrek.madhacker.biz/
 local=/madonna.run/
 local=/dns.mafyuh.io/
@@ -9488,7 +9481,6 @@ local=/mathcenter.space/
 local=/mathcraftinghub.com/
 local=/mathematicsedu.xyz/
 local=/dns.mathewakhil.online/
-local=/mathisfunandcool.mathewparkin.com/
 local=/vm.mathfilm.dk/
 local=/aisd.mathforkids.buzz/
 local=/cfisd.mathforkids.buzz/
@@ -9665,7 +9657,6 @@ local=/milkcatgw.com/
 local=/milkcatjc.com/
 local=/dns.milkpie.one/
 local=/dns.millernetwork.uk/
-local=/glintyglinthaha.mills-family.us/
 local=/huzzah.mills-family.us/
 local=/normal.mills-family.us/
 local=/solace.mills-family.us/
@@ -9695,7 +9686,6 @@ local=/miscrosoft.shop/
 local=/miscrosoft.store/
 local=/miscrosoft365.cloud/
 local=/miseryrecord.com/
-local=/miskoss.fun/
 local=/netcup.mismat.ch/
 local=/missionjesus.net/
 local=/mistasinresolver.ru/

@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773675120 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773696720 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 16 Mar 2026 15:32 UTC
-; Version: 2026.0316.1532.52
+; Last modified: 16 Mar 2026 21:32 UTC
+; Version: 2026.0316.2132.39
 ; Syntax: RPZ
-; Number of entries: 28754
+; Number of entries: 28740
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -1484,8 +1484,12 @@ sentis.club CNAME .
 *.sentis.club CNAME .
 sporty-you.club CNAME .
 *.sporty-you.club CNAME .
+springclearance.club CNAME .
+*.springclearance.club CNAME .
 stydpueb.club CNAME .
 *.stydpueb.club CNAME .
+winterflashsale.club CNAME .
+*.winterflashsale.club CNAME .
 eu.2bagsvalley.cn CNAME .
 *.eu.2bagsvalley.cn CNAME .
 eu.bagsvalley.cn CNAME .
@@ -1580,8 +1584,6 @@ laro.co CNAME .
 *.laro.co CNAME .
 lendowl.co CNAME .
 *.lendowl.co CNAME .
-lockedintrading.co CNAME .
-*.lockedintrading.co CNAME .
 lovea.co CNAME .
 *.lovea.co CNAME .
 lovenewtech.co CNAME .
@@ -10394,8 +10396,6 @@ lowa--schuhe.com CNAME .
 *.lowa--schuhe.com CNAME .
 lowa-de.com CNAME .
 *.lowa-de.com CNAME .
-lowa-wanderschuhe.com CNAME .
-*.lowa-wanderschuhe.com CNAME .
 lowaapavi.com CNAME .
 *.lowaapavi.com CNAME .
 lowabootsmexico.com CNAME .
@@ -10462,8 +10462,6 @@ luuckylinen.com CNAME .
 *.luuckylinen.com CNAME .
 luvyle.com CNAME .
 *.luvyle.com CNAME .
-luxe-collective-fashion.com CNAME .
-*.luxe-collective-fashion.com CNAME .
 luxedore.com CNAME .
 *.luxedore.com CNAME .
 de4.luxedressshop.com CNAME .
@@ -10528,8 +10526,6 @@ madridno94.com CNAME .
 *.madridno94.com CNAME .
 magalistore.com CNAME .
 *.magalistore.com CNAME .
-magartens.com CNAME .
-*.magartens.com CNAME .
 magasinhokabelgique.com CNAME .
 *.magasinhokabelgique.com CNAME .
 magasset.com CNAME .
@@ -10704,8 +10700,6 @@ markezia.com CNAME .
 *.markezia.com CNAME .
 markisenrabatt.com CNAME .
 *.markisenrabatt.com CNAME .
-marktexpress.com CNAME .
-*.marktexpress.com CNAME .
 marktpay.com CNAME .
 *.marktpay.com CNAME .
 marktplatz-apo.com CNAME .
@@ -11024,8 +11018,6 @@ milleis-bk.com CNAME .
 *.milleis-bk.com CNAME .
 milleniumchain.com CNAME .
 *.milleniumchain.com CNAME .
-milleniumcp.com CNAME .
-*.milleniumcp.com CNAME .
 millioncrystal.com CNAME .
 *.millioncrystal.com CNAME .
 millwoodshomege.com CNAME .
@@ -11094,8 +11086,6 @@ mizunode.com CNAME .
 *.mizunode.com CNAME .
 mizunosaleportugal.com CNAME .
 *.mizunosaleportugal.com CNAME .
-mizunsport.com CNAME .
-*.mizunsport.com CNAME .
 mjonessb.com CNAME .
 *.mjonessb.com CNAME .
 mkc-invest.com CNAME .
@@ -21616,8 +21606,6 @@ lemella.de CNAME .
 *.lemella.de CNAME .
 lemsschuhedeutschland.de CNAME .
 *.lemsschuhedeutschland.de CNAME .
-lena-leipzig.de CNAME .
-*.lena-leipzig.de CNAME .
 lennartkreutz.de CNAME .
 *.lennartkreutz.de CNAME .
 leoapotheke-detmold.de CNAME .
@@ -27316,8 +27304,6 @@ lululemoneu.shop CNAME .
 *.lululemoneu.shop CNAME .
 lurcz.shop CNAME .
 *.lurcz.shop CNAME .
-luxurywatchoutlet.shop CNAME .
-*.luxurywatchoutlet.shop CNAME .
 lxcvt.shop CNAME .
 *.lxcvt.shop CNAME .
 lxznpo.shop CNAME .
