@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Mar 2026 11:09 UTC
-# Version: 2026.0315.1109.08
+# Last modified: 16 Mar 2026 11:02 UTC
+# Version: 2026.0316.1102.31
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3500
+# Number of entries: 3496
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -914,7 +914,6 @@ local=/adguard-koe.dns64.de/
 local=/dns8.org/
 local=/dnsbunker.org/
 local=/ns1.recursive.dnsbycomodo.com/
-local=/ns2.recursive.dnsbycomodo.com/
 local=/2.dnscrypt-cert.shield-2.dnsbycomodo.com/
 local=/dnscity.org/
 local=/abe01.dnscry.pt/
@@ -1143,7 +1142,6 @@ local=/family.dns.doubleangels.com/
 local=/douglaster.com/
 local=/dotserver.douyucdn.cn/
 local=/dns35.allone.dpdns.org/
-local=/dns.ikun6.dpdns.org/
 local=/adguard.llf520.dpdns.org/
 local=/de-adguard.dr3ff1c13nt.com/
 local=/dns.dr3ff1c13nt.com/
@@ -1487,7 +1485,6 @@ local=/dns.geekbyte.de/
 local=/adg.geili.me/
 local=/genscorp.es/
 local=/dns.geohide.ru/
-local=/gersoctruda.ru/
 local=/geshido.vpn.geshido.ru/
 local=/roma.vpn.geshido.ru/
 local=/getdnsapi.net/
@@ -1759,7 +1756,6 @@ local=/gitea.sukon.idv.tw/
 local=/adguard.ihatemy.live/
 local=/dns.ihaveacloud.com/
 local=/iij.jp/
-local=/ikarosalpha.xyz/
 local=/dns.ikataruto.com/
 local=/mnsvless.ikwb.com/
 local=/ilinhy.com/

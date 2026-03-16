@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Mar 2026 09:37 UTC
-# Version: 2026.0315.0937.44
+# Last modified: 16 Mar 2026 09:34 UTC
+# Version: 2026.0316.0934.03
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9995
+# Number of entries: 9980
 #
 local=/0.gp/
 local=/00m.in/
@@ -1561,7 +1561,6 @@ local=/c.centralretail.com/
 local=/centre.is/
 local=/centurylinke.com/
 local=/cepat.link/
-local=/cepet.in/
 local=/certifyde.app/
 local=/cesinthi.com/
 local=/ceyss.link/
@@ -1860,7 +1859,6 @@ local=/shortener.entrade.com.vn/
 local=/brochure.wp.exo.com.ar/
 local=/farmacrm.com.br/
 local=/fastlinks.com.tr/
-local=/g3link.com.br/
 local=/gar.com.pa/
 local=/kutt.gongchatea.com.au/
 local=/mytools.graphic.com.gh/
@@ -1936,9 +1934,7 @@ local=/couldyouredirectmeplease.com/
 local=/coupa.ng/
 local=/coz.de/
 local=/cpbr.link/
-local=/cpdnet.org/
 local=/cph.bz/
-local=/cpklik.com/
 local=/cplay.top/
 local=/cplink.co/
 local=/cplink.me/
@@ -1952,7 +1948,6 @@ local=/cq.al/
 local=/cqma.info/
 local=/cr.ma/
 local=/cr-adt.com/
-local=/cr4ck3d.de/
 local=/cr8.lv/
 local=/crackm.ag/
 local=/cravin.biz/
@@ -1977,7 +1972,6 @@ local=/crvw.ru/
 local=/crwd.fr/
 local=/crwd.in/
 local=/crwdstr.ke/
-local=/cry-pto.life/
 local=/crypsante.com/
 local=/cryptowidgets.site/
 local=/cs.co/
@@ -2017,7 +2011,6 @@ local=/cukbaray.com/
 local=/cul.ke/
 local=/cultm.ac/
 local=/culy.top/
-local=/cuoinamdiedm.life/
 local=/cup.org/
 local=/cuq.in/
 local=/cur.lv/
@@ -2215,7 +2208,6 @@ local=/qr.democame.pe/
 local=/demolink.net/
 local=/dems.me/
 local=/depedzn.net/
-local=/descontosachados.com/
 local=/descuentoahora.com/
 local=/designcommerce.agency/
 local=/designrigs.com/
@@ -2575,7 +2567,6 @@ local=/emmelinebrickner.com/
 local=/emojied.net/
 local=/emp.onl/
 local=/empukjeru.site/
-local=/emu.li/
 local=/enbl.tech/
 local=/encurta.ae/
 local=/encurtador.net/
@@ -2982,7 +2973,6 @@ local=/gbte.tech/
 local=/go.gcash.com/
 local=/gclnk.com/
 local=/gcrs.live/
-local=/gdanstum.net/
 local=/s.gdngs.de/
 local=/gdurl.com/
 local=/ge.tt/
@@ -3175,7 +3165,6 @@ local=/goodmoejo.art/
 local=/go.goodmotion.de/
 local=/goodwinlink.com/
 local=/google-139382.com/
-local=/google-photo.live/
 local=/google-url.com/
 local=/googleidmaps.live/
 local=/goolink.cc/
@@ -3330,7 +3319,6 @@ local=/help-ua.cloud/
 local=/app.helpline-app.com/
 local=/view.helpline-app.com/
 local=/helvetqr.ch/
-local=/heoiberico.life/
 local=/hepsipay.eu/
 local=/her.is/
 local=/hereit.is/
@@ -3409,7 +3397,6 @@ local=/hnsl.mn/
 local=/go.hny.co/
 local=/hnz.li/
 local=/ho.io/
-local=/hoa.to/
 local=/hoakhanh.life/
 local=/hoaminh.live/
 local=/hocmai.link/
@@ -3514,7 +3501,6 @@ local=/bio.hypexstudio.com/
 local=/hyser.mx/
 local=/i-ce.cm/
 local=/i-d.co/
-local=/www.i-l.me/
 local=/i-mg.app/
 local=/i09.in/
 local=/yourls.i2m.solutions/
@@ -3617,7 +3603,6 @@ local=/iky.fr/
 local=/ilang.in/
 local=/iligstein.com/
 local=/ilink-to.net/
-local=/ilinky.info/
 local=/ilix.in/
 local=/ilk.ir/
 local=/illin.is/

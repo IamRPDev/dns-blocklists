@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773573000 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773658980 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 15 Mar 2026 11:10 UTC
-; Version: 2026.0315.1109.59
+; Last modified: 16 Mar 2026 11:03 UTC
+; Version: 2026.0316.1103.11
 ; Syntax: RPZ
-; Number of entries: 33652
+; Number of entries: 33544
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -453,8 +453,6 @@ dkslfj.widkjlfls.chacrasdeabbott.ar CNAME .
 *.dkslfj.widkjlfls.chacrasdeabbott.ar CNAME .
 www.itrsa.chiqui.ar CNAME .
 *.www.itrsa.chiqui.ar CNAME .
-linemath.aislantesnuevaera.com.ar CNAME .
-*.linemath.aislantesnuevaera.com.ar CNAME .
 boredombyjonas.allysports.com.ar CNAME .
 *.boredombyjonas.allysports.com.ar CNAME .
 fernbyjonas.allysports.com.ar CNAME .
@@ -509,8 +507,6 @@ securesafea.openmouth.com.ar CNAME .
 *.securesafea.openmouth.com.ar CNAME .
 craft.ela.osperkins.com.ar CNAME .
 *.craft.ela.osperkins.com.ar CNAME .
-mydayyournightok.plusaxon.com.ar CNAME .
-*.mydayyournightok.plusaxon.com.ar CNAME .
 awp.gg.pololabrau.com.ar CNAME .
 *.awp.gg.pololabrau.com.ar CNAME .
 dns.redhosting.com.ar CNAME .
@@ -891,8 +887,6 @@ dns.schlagheck.berlin CNAME .
 *.dns.schlagheck.berlin CNAME .
 doh.361.best CNAME .
 *.doh.361.best CNAME .
-croxyproxy.best CNAME .
-*.croxyproxy.best CNAME .
 doh.best CNAME .
 *.doh.best CNAME .
 fern.best CNAME .
@@ -945,8 +939,6 @@ browpay.biz CNAME .
 *.browpay.biz CNAME .
 cordcloud.biz CNAME .
 *.cordcloud.biz CNAME .
-errwan65237.biz CNAME .
-*.errwan65237.biz CNAME .
 errwan65878.biz CNAME .
 *.errwan65878.biz CNAME .
 closed.escape-one-massage.biz CNAME .
@@ -1047,8 +1039,6 @@ study.construtoradantas.com.br CNAME .
 *.study.construtoradantas.com.br CNAME .
 college.deltacompy.com.br CNAME .
 *.college.deltacompy.com.br CNAME .
-disband-ice.deltacompy.com.br CNAME .
-*.disband-ice.deltacompy.com.br CNAME .
 equatorial.deltacompy.com.br CNAME .
 *.equatorial.deltacompy.com.br CNAME .
 high.deltacompy.com.br CNAME .
@@ -2181,8 +2171,6 @@ ondvnj302igfndni022.chikiyan.cl CNAME .
 *.ondvnj302igfndni022.chikiyan.cl CNAME .
 statpadderbron.chikiyan.cl CNAME .
 *.statpadderbron.chikiyan.cl CNAME .
-rylanclassroom.colloky.cl CNAME .
-*.rylanclassroom.colloky.cl CNAME .
 mathlessons.conifera.cl CNAME .
 *.mathlessons.conifera.cl CNAME .
 fern.conyser.cl CNAME .
@@ -2719,8 +2707,6 @@ dns.comeonjames.club CNAME .
 *.dns.comeonjames.club CNAME .
 daishujiasu.club CNAME .
 *.daishujiasu.club CNAME .
-diddle.club CNAME .
-*.diddle.club CNAME .
 adguard.ef67daisuki.club CNAME .
 *.adguard.ef67daisuki.club CNAME .
 fengcheyun.club CNAME .
@@ -3317,12 +3303,6 @@ commonapp.college CNAME .
 *.commonapp.college CNAME .
 compsci.college CNAME .
 *.compsci.college CNAME .
-chat.dictionary3000.college CNAME .
-*.chat.dictionary3000.college CNAME .
-kw.dictionary3000.college CNAME .
-*.kw.dictionary3000.college CNAME .
-rh.dictionary3000.college CNAME .
-*.rh.dictionary3000.college CNAME .
 geometrycalculatorhelprvhs.college CNAME .
 *.geometrycalculatorhelprvhs.college CNAME .
 schoology.college CNAME .
@@ -5553,8 +5533,6 @@ fernlol.chiangmaiorganics.com CNAME .
 *.fernlol.chiangmaiorganics.com CNAME .
 katyisd-you-cant-stop-me.chiangmaiorganics.com CNAME .
 *.katyisd-you-cant-stop-me.chiangmaiorganics.com CNAME .
-aberdeenmiddle34lol.chickenkiller.com CNAME .
-*.aberdeenmiddle34lol.chickenkiller.com CNAME .
 ajtf.chickenkiller.com CNAME .
 *.ajtf.chickenkiller.com CNAME .
 baku.chickenkiller.com CNAME .
@@ -5619,8 +5597,6 @@ jsdin.chickenkiller.com CNAME .
 *.jsdin.chickenkiller.com CNAME .
 karkerkarmates.chickenkiller.com CNAME .
 *.karkerkarmates.chickenkiller.com CNAME .
-justgimmemymoney.vandrekalenderen.kd.chickenkiller.com CNAME .
-*.justgimmemymoney.vandrekalenderen.kd.chickenkiller.com CNAME .
 lebronjames.chickenkiller.com CNAME .
 *.lebronjames.chickenkiller.com CNAME .
 wildistheguys.name.net.lieable.chickenkiller.com CNAME .
@@ -8265,20 +8241,6 @@ headproxy.com CNAME .
 *.headproxy.com CNAME .
 gov.minds.healthplantender.com CNAME .
 *.gov.minds.healthplantender.com CNAME .
-aphistorytutoring.heatmypool.com CNAME .
-*.aphistorytutoring.heatmypool.com CNAME .
-chreemasgift.heatmypool.com CNAME .
-*.chreemasgift.heatmypool.com CNAME .
-learnaboutbillclinton.heatmypool.com CNAME .
-*.learnaboutbillclinton.heatmypool.com CNAME .
-please.heatmypool.com CNAME .
-*.please.heatmypool.com CNAME .
-subscribevcsa.heatmypool.com CNAME .
-*.subscribevcsa.heatmypool.com CNAME .
-water.heatmypool.com CNAME .
-*.water.heatmypool.com CNAME .
-zecure8r9disowehei.heatmypool.com CNAME .
-*.zecure8r9disowehei.heatmypool.com CNAME .
 hedongjsd.com CNAME .
 *.hedongjsd.com CNAME .
 heidonglinktools.com CNAME .
@@ -8683,8 +8645,6 @@ bunnydihhhh.hotelconsuladoinn.com CNAME .
 *.bunnydihhhh.hotelconsuladoinn.com CNAME .
 calculator.hotelconsuladoinn.com CNAME .
 *.calculator.hotelconsuladoinn.com CNAME .
-educal.hotelconsuladoinn.com CNAME .
-*.educal.hotelconsuladoinn.com CNAME .
 get.hotelconsuladoinn.com CNAME .
 *.get.hotelconsuladoinn.com CNAME .
 goustidebeforeigetyou.hotelconsuladoinn.com CNAME .
@@ -8713,12 +8673,8 @@ quick-education.hotelconsuladoinn.com CNAME .
 *.quick-education.hotelconsuladoinn.com CNAME .
 rapidcalc.hotelconsuladoinn.com CNAME .
 *.rapidcalc.hotelconsuladoinn.com CNAME .
-reservations.hotelconsuladoinn.com CNAME .
-*.reservations.hotelconsuladoinn.com CNAME .
 rooms.hotelconsuladoinn.com CNAME .
 *.rooms.hotelconsuladoinn.com CNAME .
-securlysettingfr.hotelconsuladoinn.com CNAME .
-*.securlysettingfr.hotelconsuladoinn.com CNAME .
 stayat.hotelconsuladoinn.com CNAME .
 *.stayat.hotelconsuladoinn.com CNAME .
 travelaround.hotelconsuladoinn.com CNAME .
@@ -8809,8 +8765,6 @@ dns.hyas.com CNAME .
 *.dns.hyas.com CNAME .
 admin.proxy.hydrovolter.com CNAME .
 *.admin.proxy.hydrovolter.com CNAME .
-learningstars.i-creativelearner.com CNAME .
-*.learningstars.i-creativelearner.com CNAME .
 securly-sucks.i-creativelearner.com CNAME .
 *.securly-sucks.i-creativelearner.com CNAME .
 iajee.com CNAME .
@@ -8915,8 +8869,6 @@ schoool.ignorelist.com CNAME .
 *.schoool.ignorelist.com CNAME .
 sigma10192011.ignorelist.com CNAME .
 *.sigma10192011.ignorelist.com CNAME .
-skibidi-slicer.ignorelist.com CNAME .
-*.skibidi-slicer.ignorelist.com CNAME .
 subdomained.ignorelist.com CNAME .
 *.subdomained.ignorelist.com CNAME .
 test52139.ignorelist.com CNAME .
@@ -17805,8 +17757,6 @@ nana.rammer.govt.hu CNAME .
 *.nana.rammer.govt.hu CNAME .
 nana.rh-1.govt.hu CNAME .
 *.nana.rh-1.govt.hu CNAME .
-gavin.and.ethan.are.diddlers.goyoka.hu CNAME .
-*.gavin.and.ethan.are.diddlers.goyoka.hu CNAME .
 dns.0ooo.icu CNAME .
 *.dns.0ooo.icu CNAME .
 chongjin01.icu CNAME .
@@ -17913,8 +17863,6 @@ fivefootoneiscrazyngl.groups.id CNAME .
 *.fivefootoneiscrazyngl.groups.id CNAME .
 galaxy.groups.id CNAME .
 *.galaxy.groups.id CNAME .
-hitobehere.groups.id CNAME .
-*.hitobehere.groups.id CNAME .
 kamalfeet.groups.id CNAME .
 *.kamalfeet.groups.id CNAME .
 educationalpotato.math-games123.groups.id CNAME .
@@ -20827,14 +20775,10 @@ ixl.loginalternative.hospitaldelninodif.gob.mx CNAME .
 *.ixl.loginalternative.hospitaldelninodif.gob.mx CNAME .
 gov.ovieags.gob.mx CNAME .
 *.gov.ovieags.gob.mx CNAME .
-1234567890a.pagostepeapulco.gob.mx CNAME .
-*.1234567890a.pagostepeapulco.gob.mx CNAME .
 hola.colom.378.com.pagostepeapulco.gob.mx CNAME .
 *.hola.colom.378.com.pagostepeapulco.gob.mx CNAME .
 minhphamr.pagostepeapulco.gob.mx CNAME .
 *.minhphamr.pagostepeapulco.gob.mx CNAME .
-thebluetooothdeviceissreaddytopairrr111.pagostepeapulco.gob.mx CNAME .
-*.thebluetooothdeviceissreaddytopairrr111.pagostepeapulco.gob.mx CNAME .
 boltisback.panel-laboralcj.gob.mx CNAME .
 *.boltisback.panel-laboralcj.gob.mx CNAME .
 idkwhattoputhere.panel-laboralcj.gob.mx CNAME .
@@ -24965,14 +24909,10 @@ welove.playernation.navarajdhungana.com.np CNAME .
 *.welove.playernation.navarajdhungana.com.np CNAME .
 ixlmath.nembahadurraskoti.com.np CNAME .
 *.ixlmath.nembahadurraskoti.com.np CNAME .
-nicetry.nepalsoftwarebazar.com.np CNAME .
-*.nicetry.nepalsoftwarebazar.com.np CNAME .
 sevenlaks.omprakashyadav.com.np CNAME .
 *.sevenlaks.omprakashyadav.com.np CNAME .
 ideas.theory.parikshit.com.np CNAME .
 *.ideas.theory.parikshit.com.np CNAME .
-dontlike33.radioaawaj.com.np CNAME .
-*.dontlike33.radioaawaj.com.np CNAME .
 itsystems.rawal-karan.com.np CNAME .
 *.itsystems.rawal-karan.com.np CNAME .
 haydenssite.roshanraj.com.np CNAME .
@@ -24985,12 +24925,6 @@ jaydensbusishere.simranupadhyaya.com.np CNAME .
 *.jaydensbusishere.simranupadhyaya.com.np CNAME .
 art.sunilamaharjan.com.np CNAME .
 *.art.sunilamaharjan.com.np CNAME .
-3306speciallink.surendrapant.com.np CNAME .
-*.3306speciallink.surendrapant.com.np CNAME .
-classroomsecured.surendrapant.com.np CNAME .
-*.classroomsecured.surendrapant.com.np CNAME .
-yowza.surendrapant.com.np CNAME .
-*.yowza.surendrapant.com.np CNAME .
 r4ne-fern-2.suwal.com.np CNAME .
 *.r4ne-fern-2.suwal.com.np CNAME .
 r4sele.suwal.com.np CNAME .
@@ -25315,8 +25249,6 @@ cjagirmnv8ukgdscrqnd6b9ui.online CNAME .
 *.cjagirmnv8ukgdscrqnd6b9ui.online CNAME .
 cmzfpr3wcsq2siws.online CNAME .
 *.cmzfpr3wcsq2siws.online CNAME .
-cricvysilmhreuh3js9iyy0je.online CNAME .
-*.cricvysilmhreuh3js9iyy0je.online CNAME .
 croxproxy.online CNAME .
 *.croxproxy.online CNAME .
 cxddh14b.online CNAME .
@@ -25383,8 +25315,6 @@ ffjoksna7farrbzd.online CNAME .
 *.ffjoksna7farrbzd.online CNAME .
 fild16fffexdst.online CNAME .
 *.fild16fffexdst.online CNAME .
-fkno6nv9mifvfhz.online CNAME .
-*.fkno6nv9mifvfhz.online CNAME .
 zinko.floatyworld.online CNAME .
 *.zinko.floatyworld.online CNAME .
 flrnneprlkqiz.online CNAME .
@@ -26183,8 +26113,6 @@ sub.vseesa.chinapoem.org CNAME .
 *.sub.vseesa.chinapoem.org CNAME .
 chocolated.org CNAME .
 *.chocolated.org CNAME .
-yoolandenmadeanother.chrismac.org CNAME .
-*.yoolandenmadeanother.chrismac.org CNAME .
 churchsw.org CNAME .
 *.churchsw.org CNAME .
 civilizationmars.org CNAME .
@@ -26285,8 +26213,6 @@ school.dovereducation.org CNAME .
 *.school.dovereducation.org CNAME .
 dns35.allone.dpdns.org CNAME .
 *.dns35.allone.dpdns.org CNAME .
-dns.ikun6.dpdns.org CNAME .
-*.dns.ikun6.dpdns.org CNAME .
 sat.api.ksfto.dpdns.org CNAME .
 *.sat.api.ksfto.dpdns.org CNAME .
 sat.ksfto.dpdns.org CNAME .
@@ -26607,10 +26533,6 @@ hence.fatdiary.org CNAME .
 *.hence.fatdiary.org CNAME .
 fcpchurch.org CNAME .
 *.fcpchurch.org CNAME .
-learncoding2343.feedcube.org CNAME .
-*.learncoding2343.feedcube.org CNAME .
-learnmath6767.feedcube.org CNAME .
-*.learnmath6767.feedcube.org CNAME .
 fineproxy.org CNAME .
 *.fineproxy.org CNAME .
 finevpn.org CNAME .
@@ -28631,8 +28553,6 @@ roadesdyn.go.ro CNAME .
 *.roadesdyn.go.ro CNAME .
 socolov.home.ro CNAME .
 *.socolov.home.ro CNAME .
-bry.ifacts.ro CNAME .
-*.bry.ifacts.ro CNAME .
 login.ilsatimisoara.ro CNAME .
 *.login.ilsatimisoara.ro CNAME .
 evasive.imiamintesc.ro CNAME .
@@ -28991,8 +28911,6 @@ fyntra.ru CNAME .
 *.fyntra.ru CNAME .
 dns.geohide.ru CNAME .
 *.dns.geohide.ru CNAME .
-gersoctruda.ru CNAME .
-*.gersoctruda.ru CNAME .
 vpn.geshido.ru CNAME .
 *.vpn.geshido.ru CNAME .
 vpn.gmalov.ru CNAME .
@@ -29787,8 +29705,6 @@ chester.run CNAME .
 *.chester.run CNAME .
 chips.run CNAME .
 *.chips.run CNAME .
-choices.run CNAME .
-*.choices.run CNAME .
 clusters.run CNAME .
 *.clusters.run CNAME .
 covering.run CNAME .
@@ -29891,8 +29807,6 @@ frogs.sh CNAME .
 *.frogs.sh CNAME .
 ilikehomework.ftp.sh CNAME .
 *.ilikehomework.ftp.sh CNAME .
-ilovecoding.ftp.sh CNAME .
-*.ilovecoding.ftp.sh CNAME .
 lebron.ftp.sh CNAME .
 *.lebron.ftp.sh CNAME .
 schoolmath.hop.sh CNAME .
@@ -31447,24 +31361,6 @@ dns.chaosen3.co.uk CNAME .
 *.dns.chaosen3.co.uk CNAME .
 clearvpn.co.uk CNAME .
 *.clearvpn.co.uk CNAME .
-cityvoid1.clicksoftware.co.uk CNAME .
-*.cityvoid1.clicksoftware.co.uk CNAME .
-cityvoid5.clicksoftware.co.uk CNAME .
-*.cityvoid5.clicksoftware.co.uk CNAME .
-click.click.clicksoftware.co.uk CNAME .
-*.click.click.clicksoftware.co.uk CNAME .
-dontvape.clicksoftware.co.uk CNAME .
-*.dontvape.clicksoftware.co.uk CNAME .
-explore.clicksoftware.co.uk CNAME .
-*.explore.clicksoftware.co.uk CNAME .
-doublebrr.patapim.clicksoftware.co.uk CNAME .
-*.doublebrr.patapim.clicksoftware.co.uk CNAME .
-prismboi.clicksoftware.co.uk CNAME .
-*.prismboi.clicksoftware.co.uk CNAME .
-triple.t.clicksoftware.co.uk CNAME .
-*.triple.t.clicksoftware.co.uk CNAME .
-debate.tests.clicksoftware.co.uk CNAME .
-*.debate.tests.clicksoftware.co.uk CNAME .
 ddelay.co.uk CNAME .
 *.ddelay.co.uk CNAME .
 adguard.discounthost.co.uk CNAME .
@@ -32901,8 +32797,6 @@ i2pd.xyz CNAME .
 *.i2pd.xyz CNAME .
 ieatwaffles.xyz CNAME .
 *.ieatwaffles.xyz CNAME .
-ikarosalpha.xyz CNAME .
-*.ikarosalpha.xyz CNAME .
 ikraken.xyz CNAME .
 *.ikraken.xyz CNAME .
 iopl.xyz CNAME .
@@ -33569,8 +33463,6 @@ safedns2.allover.co.za CNAME .
 *.safedns2.allover.co.za CNAME .
 garlandisd.almotek.co.za CNAME .
 *.garlandisd.almotek.co.za CNAME .
-instructure.com.bizzbooks.co.za CNAME .
-*.instructure.com.bizzbooks.co.za CNAME .
 educationbooks.boxrepublic.co.za CNAME .
 *.educationbooks.boxrepublic.co.za CNAME .
 end.creativelighting.co.za CNAME .

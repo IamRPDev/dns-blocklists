@@ -1421,6 +1421,13 @@
       }
     },
     {
+      "PK": "coupa.ng",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.coupons",
       "action": {
         "do": 0,
@@ -5008,6 +5015,13 @@
       "PK": "*.observer",
       "action": {
         "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "oceanhero.today",
+      "action": {
+        "do": 1,
         "status": 1
       }
     },

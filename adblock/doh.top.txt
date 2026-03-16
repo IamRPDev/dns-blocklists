@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 15 Mar 2026 11:09 UTC
-! Version: 2026.0315.1109.44
+! Last modified: 16 Mar 2026 11:03 UTC
+! Version: 2026.0316.1103.01
 ! Syntax: AdBlock
-! Number of entries: 1128
+! Number of entries: 1126
 !
 ||003153.xyz^
 ||ns.00dani.me^
@@ -304,7 +304,6 @@
 ||dns8.org^
 ||dnsbunker.org^
 ||ns1.recursive.dnsbycomodo.com^
-||ns2.recursive.dnsbycomodo.com^
 ||abe01.dnscry.pt^
 ||abn01.dnscry.pt^
 ||ams02.dnscry.pt^
@@ -573,7 +572,6 @@
 ||adguard.ihatemy.live^
 ||dns.ihaveacloud.com^
 ||iij.jp^
-||ikarosalpha.xyz^
 ||dns.ikataruto.com^
 ||noads.imbuffering.com^
 ||dns.immanuelschaffer.de^

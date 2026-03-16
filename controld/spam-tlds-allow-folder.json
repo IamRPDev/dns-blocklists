@@ -1037,6 +1037,13 @@
       }
     },
     {
+      "PK": "coupa.ng",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "covet.pics",
       "action": {
         "do": 1,
@@ -3796,6 +3803,13 @@
     },
     {
       "PK": "objection.lol",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "oceanhero.today",
       "action": {
         "do": 1,
         "status": 1

@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773572940 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773658920 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 15 Mar 2026 11:09 UTC
-; Version: 2026.0315.1109.08
+; Last modified: 16 Mar 2026 11:02 UTC
+; Version: 2026.0316.1102.31
 ; Syntax: RPZ
-; Number of entries: 7000
+; Number of entries: 6992
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -965,8 +965,6 @@ dns.dns-over-https.com CNAME .
 *.dns.dns-over-https.com CNAME .
 ns1.recursive.dnsbycomodo.com CNAME .
 *.ns1.recursive.dnsbycomodo.com CNAME .
-ns2.recursive.dnsbycomodo.com CNAME .
-*.ns2.recursive.dnsbycomodo.com CNAME .
 2.dnscrypt-cert.shield-2.dnsbycomodo.com CNAME .
 *.2.dnscrypt-cert.shield-2.dnsbycomodo.com CNAME .
 dnsenc.com CNAME .
@@ -4737,8 +4735,6 @@ ns1.dotls.org CNAME .
 *.ns1.dotls.org CNAME .
 dns35.allone.dpdns.org CNAME .
 *.dns35.allone.dpdns.org CNAME .
-dns.ikun6.dpdns.org CNAME .
-*.dns.ikun6.dpdns.org CNAME .
 adguard.llf520.dpdns.org CNAME .
 *.adguard.llf520.dpdns.org CNAME .
 adfreemb.duckdns.org CNAME .
@@ -5781,8 +5777,6 @@ dns.fxdc.ru CNAME .
 *.dns.fxdc.ru CNAME .
 dns.geohide.ru CNAME .
 *.dns.geohide.ru CNAME .
-gersoctruda.ru CNAME .
-*.gersoctruda.ru CNAME .
 geshido.vpn.geshido.ru CNAME .
 *.geshido.vpn.geshido.ru CNAME .
 roma.vpn.geshido.ru CNAME .
@@ -6885,8 +6879,6 @@ opennic.i2pd.xyz CNAME .
 *.opennic.i2pd.xyz CNAME .
 opennic2.i2pd.xyz CNAME .
 *.opennic2.i2pd.xyz CNAME .
-ikarosalpha.xyz CNAME .
-*.ikarosalpha.xyz CNAME .
 dns.itya.xyz CNAME .
 *.dns.itya.xyz CNAME .
 ivnkn.xyz CNAME .

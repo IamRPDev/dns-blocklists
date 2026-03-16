@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773567420 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773653640 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 15 Mar 2026 09:37 UTC
-; Version: 2026.0315.0937.44
+; Last modified: 16 Mar 2026 09:34 UTC
+; Version: 2026.0316.0934.03
 ; Syntax: RPZ
-; Number of entries: 19990
+; Number of entries: 19960
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1263,8 +1263,6 @@ encurtador.com.br CNAME .
 *.encurtador.com.br CNAME .
 farmacrm.com.br CNAME .
 *.farmacrm.com.br CNAME .
-g3link.com.br CNAME .
-*.g3link.com.br CNAME .
 link.inexxus.com.br CNAME .
 *.link.inexxus.com.br CNAME .
 linkboard.com.br CNAME .
@@ -3945,8 +3943,6 @@ url.coronassh.com CNAME .
 *.url.coronassh.com CNAME .
 couldyouredirectmeplease.com CNAME .
 *.couldyouredirectmeplease.com CNAME .
-cpklik.com CNAME .
-*.cpklik.com CNAME .
 cr-adt.com CNAME .
 *.cr-adt.com CNAME .
 creately.com CNAME .
@@ -4091,8 +4087,6 @@ demcon24.com CNAME .
 *.demcon24.com CNAME .
 asset.deme-group.com CNAME .
 *.asset.deme-group.com CNAME .
-descontosachados.com CNAME .
-*.descontosachados.com CNAME .
 descuentoahora.com CNAME .
 *.descuentoahora.com CNAME .
 designrigs.com CNAME .
@@ -8081,8 +8075,6 @@ ci8.de CNAME .
 *.ci8.de CNAME .
 coz.de CNAME .
 *.coz.de CNAME .
-cr4ck3d.de CNAME .
-*.cr4ck3d.de CNAME .
 db-wettbewerb.de CNAME .
 *.db-wettbewerb.de CNAME .
 decat.de CNAME .
@@ -9837,8 +9829,6 @@ captur.in CNAME .
 *.captur.in CNAME .
 ccurl.in CNAME .
 *.ccurl.in CNAME .
-cepet.in CNAME .
-*.cepet.in CNAME .
 cfre.in CNAME .
 *.cfre.in CNAME .
 cityreach.in CNAME .
@@ -10363,8 +10353,6 @@ htawp.info CNAME .
 *.htawp.info CNAME .
 ialert-maps.info CNAME .
 *.ialert-maps.info CNAME .
-ilinky.info CNAME .
-*.ilinky.info CNAME .
 iplogger.info CNAME .
 *.iplogger.info CNAME .
 itdad.info CNAME .
@@ -12123,8 +12111,6 @@ dre.li CNAME .
 *.dre.li CNAME .
 dunia.li CNAME .
 *.dunia.li CNAME .
-emu.li CNAME .
-*.emu.li CNAME .
 eys.li CNAME .
 *.eys.li CNAME .
 g-o.li CNAME .
@@ -12311,10 +12297,6 @@ chekc.life CNAME .
 *.chekc.life CNAME .
 conns.life CNAME .
 *.conns.life CNAME .
-cry-pto.life CNAME .
-*.cry-pto.life CNAME .
-cuoinamdiedm.life CNAME .
-*.cuoinamdiedm.life CNAME .
 decimalegion.life CNAME .
 *.decimalegion.life CNAME .
 disanspam.life CNAME .
@@ -12331,8 +12313,6 @@ gresham.life CNAME .
 *.gresham.life CNAME .
 hellowork.life CNAME .
 *.hellowork.life CNAME .
-heoiberico.life CNAME .
-*.heoiberico.life CNAME .
 hirummy.life CNAME .
 *.hirummy.life CNAME .
 hoakhanh.life CNAME .
@@ -13239,8 +13219,6 @@ gonature.live CNAME .
 *.gonature.live CNAME .
 goninja.live CNAME .
 *.goninja.live CNAME .
-google-photo.live CNAME .
-*.google-photo.live CNAME .
 googleidmaps.live CNAME .
 *.googleidmaps.live CNAME .
 gskvn.live CNAME .
@@ -14081,8 +14059,6 @@ housga.me CNAME .
 *.housga.me CNAME .
 hrbl.me CNAME .
 *.hrbl.me CNAME .
-www.i-l.me CNAME .
-*.www.i-l.me CNAME .
 ichini.me CNAME .
 *.ichini.me CNAME .
 ictv.me CNAME .
@@ -15165,8 +15141,6 @@ gatustox.net CNAME .
 *.gatustox.net CNAME .
 gbpg.net CNAME .
 *.gbpg.net CNAME .
-gdanstum.net CNAME .
-*.gdanstum.net CNAME .
 geralink.net CNAME .
 *.geralink.net CNAME .
 getpcp.net CNAME .
@@ -16091,8 +16065,6 @@ coreprob.coreprobation.org CNAME .
 *.coreprob.coreprobation.org CNAME .
 i.coscup.org CNAME .
 *.i.coscup.org CNAME .
-cpdnet.org CNAME .
-*.cpdnet.org CNAME .
 goto.cream.org CNAME .
 *.goto.cream.org CNAME .
 cshort.org CNAME .
@@ -18341,8 +18313,6 @@ gurl.to CNAME .
 *.gurl.to CNAME .
 hif.to CNAME .
 *.hif.to CNAME .
-hoa.to CNAME .
-*.hoa.to CNAME .
 hopla.to CNAME .
 *.hopla.to CNAME .
 hpe.to CNAME .
