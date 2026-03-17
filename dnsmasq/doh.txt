@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Mar 2026 22:59 UTC
-# Version: 2026.0316.2259.41
+# Last modified: 17 Mar 2026 05:03 UTC
+# Version: 2026.0317.0503.01
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3494
+# Number of entries: 3493
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -2489,7 +2489,6 @@ local=/oculta.me/
 local=/dns.odinpl.com/
 local=/adguard.odysseusnetwork.com/
 local=/dns.ofdoom.net/
-local=/nl.ogne.top/
 local=/adguard.ohmhv57.org/
 local=/okado.online/
 local=/adh.olesgroup.com/

@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773696720 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773718380 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 16 Mar 2026 21:32 UTC
-; Version: 2026.0316.2132.39
+; Last modified: 17 Mar 2026 03:33 UTC
+; Version: 2026.0317.0333.39
 ; Syntax: RPZ
-; Number of entries: 28740
+; Number of entries: 28716
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -11422,8 +11422,6 @@ myclothesera.com CNAME .
 *.myclothesera.com CNAME .
 mycrypto24.com CNAME .
 *.mycrypto24.com CNAME .
-myearthflow.com CNAME .
-*.myearthflow.com CNAME .
 myeasykit.com CNAME .
 *.myeasykit.com CNAME .
 myelektrocenter.com CNAME .
@@ -11762,8 +11760,6 @@ nauticaromania.com CNAME .
 *.nauticaromania.com CNAME .
 nauticaukwebsite.com CNAME .
 *.nauticaukwebsite.com CNAME .
-nauticspace.com CNAME .
-*.nauticspace.com CNAME .
 nauticwerk.com CNAME .
 *.nauticwerk.com CNAME .
 naxinv.com CNAME .
@@ -11784,8 +11780,6 @@ nebulain.com CNAME .
 *.nebulain.com CNAME .
 necessityi.com CNAME .
 *.necessityi.com CNAME .
-necessoul.com CNAME .
-*.necessoul.com CNAME .
 necklaceh.com CNAME .
 *.necklaceh.com CNAME .
 needsary.com CNAME .
@@ -11896,8 +11890,6 @@ newcfds.com CNAME .
 *.newcfds.com CNAME .
 newchrisreeve.com CNAME .
 *.newchrisreeve.com CNAME .
-newdorinalingerie.com CNAME .
-*.newdorinalingerie.com CNAME .
 neweary.com CNAME .
 *.neweary.com CNAME .
 neweuropetoday.com CNAME .
@@ -11940,8 +11932,6 @@ nex-um.com CNAME .
 *.nex-um.com CNAME .
 nexo-ki.com CNAME .
 *.nexo-ki.com CNAME .
-nexonmarkets.com CNAME .
-*.nexonmarkets.com CNAME .
 nexorazen.com CNAME .
 *.nexorazen.com CNAME .
 next-bricks.com CNAME .
@@ -12050,8 +12040,6 @@ nordoutlets.com CNAME .
 *.nordoutlets.com CNAME .
 nordvian.com CNAME .
 *.nordvian.com CNAME .
-nordyen-de.com CNAME .
-*.nordyen-de.com CNAME .
 norfolkhotels24.com CNAME .
 *.norfolkhotels24.com CNAME .
 norge-apt.com CNAME .
@@ -12148,8 +12136,6 @@ nursingaccessoriesstore.com CNAME .
 *.nursingaccessoriesstore.com CNAME .
 nurssery.com CNAME .
 *.nurssery.com CNAME .
-nutrimcaps.com CNAME .
-*.nutrimcaps.com CNAME .
 nuvistio.com CNAME .
 *.nuvistio.com CNAME .
 nvcxa.com CNAME .
@@ -12278,8 +12264,6 @@ ohne-rezeptkaufen.com CNAME .
 *.ohne-rezeptkaufen.com CNAME .
 ohneen.com CNAME .
 *.ohneen.com CNAME .
-oil-direkt.com CNAME .
-*.oil-direkt.com CNAME .
 oil-profits.com CNAME .
 *.oil-profits.com CNAME .
 okatode.com CNAME .
@@ -22090,8 +22074,6 @@ mkbaudesign.de CNAME .
 *.mkbaudesign.de CNAME .
 mkleid.de CNAME .
 *.mkleid.de CNAME .
-mle-aumueller.de CNAME .
-*.mle-aumueller.de CNAME .
 mmk-shoppingwelt.de CNAME .
 *.mmk-shoppingwelt.de CNAME .
 mml-container.de CNAME .
@@ -22238,8 +22220,6 @@ music-musik.de CNAME .
 *.music-musik.de CNAME .
 musikhaus-neumann.de CNAME .
 *.musikhaus-neumann.de CNAME .
-musikhaus-vogel.de CNAME .
-*.musikhaus-vogel.de CNAME .
 musikwelt-lindner.de CNAME .
 *.musikwelt-lindner.de CNAME .
 mustang-parts-shop.de CNAME .
@@ -28176,8 +28156,6 @@ naturelabs.store CNAME .
 *.naturelabs.store CNAME .
 navigatil.store CNAME .
 *.navigatil.store CNAME .
-neckarhomeappliances.store CNAME .
-*.neckarhomeappliances.store CNAME .
 newmold.store CNAME .
 *.newmold.store CNAME .
 niholss.store CNAME .
@@ -28632,8 +28610,6 @@ fusenest-at.works CNAME .
 *.fusenest-at.works CNAME .
 nexvireonde.works CNAME .
 *.nexvireonde.works CNAME .
-onlineworkglobal.works CNAME .
-*.onlineworkglobal.works CNAME .
 techtaskforcede.works CNAME .
 *.techtaskforcede.works CNAME .
 tlinkxde.works CNAME .

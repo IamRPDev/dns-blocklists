@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Mar 2026 22:59 UTC
-# Version: 2026.0316.2259.41
+# Last modified: 17 Mar 2026 05:03 UTC
+# Version: 2026.0317.0503.01
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3957
+# Number of entries: 3956
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -2863,7 +2863,6 @@
 0.0.0.0 dns.odinpl.com
 0.0.0.0 adguard.odysseusnetwork.com
 0.0.0.0 dns.ofdoom.net
-0.0.0.0 nl.ogne.top
 0.0.0.0 adguard.ohmhv57.org
 0.0.0.0 okado.online
 0.0.0.0 adh.olesgroup.com

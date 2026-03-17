@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Mar 2026 22:54 UTC
-# Version: 2026.0316.2254.19
+# Last modified: 17 Mar 2026 04:57 UTC
+# Version: 2026.0317.0457.38
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 12127
+# Number of entries: 12123
 #
 *.tracker.guguan.000.pe
 *.003396815.xyz
@@ -382,6 +382,7 @@
 *.8wsm.com
 *.909190.xyz
 *.9142346511.xyz
+*.opentracker.91kf.top
 *.9276.me
 *.944118.xyz
 *.94hiphop.com
@@ -6497,7 +6498,6 @@
 *.mkvcinemas.bet
 *.mkvcinemas.cat
 *.mkvcinemas.ceo
-*.mkvcinemas.co
 *.mkvcinemas.eu
 *.mkvcinemas.fit
 *.mkvcinemas.gift
@@ -6657,7 +6657,6 @@
 *.movie4k-to.cfd
 *.movie4kto.net
 *.movie4u.cc
-*.movie4u.live
 *.movie4u.org
 *.movieajip.online
 *.moviebazar.net
@@ -6691,7 +6690,6 @@
 *.moviemagnet.co
 *.moviemaya.com
 *.moviemela.live
-*.movieminions.cc
 *.movieninja.io
 *.movieninja.to
 *.movienoe.com
@@ -6708,7 +6706,6 @@
 *.movies123.live
 *.movies123.pk
 *.movies123.sbs
-*.movies123.studio
 *.movies123.top
 *.movies123-online.cam
 *.movies123-online.me
@@ -7168,7 +7165,6 @@
 *.newznab.com
 *.nextgenroms.com
 *.nextorrent.town
-*.nextream.click
 *.nextwap.net
 *.nextwarez.com
 *.nexus-games.net
@@ -7417,7 +7413,6 @@
 *.olala123-warez.com
 *.olamovies.app
 *.olamovies.download
-*.olamovies.shop
 *.olamovies.top
 *.olamovies.watch
 *.old-games.ru
@@ -7497,7 +7492,6 @@
 *.openpirate.cc
 *.openpirate.org
 *.opensharing.org
-*.opentor.org
 *.tracker.opentorrent.top
 *.opentracker.cc
 *.opentracker.io
@@ -7619,6 +7613,8 @@
 *.parag.rs
 *.paranetinfo.com
 *.parliamentlive.tv
+*.colibri.parrot.run
+*.wolf.parrot.run
 *.tracker.parrotlinux.org
 *.tracker.parrotsec.org
 *.partis.si

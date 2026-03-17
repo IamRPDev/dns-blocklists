@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773702000 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773723780 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 16 Mar 2026 23:00 UTC
-; Version: 2026.0316.2300.21
+; Last modified: 17 Mar 2026 05:03 UTC
+; Version: 2026.0317.0503.39
 ; Syntax: RPZ
-; Number of entries: 33486
+; Number of entries: 33446
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -2313,8 +2313,6 @@ biology.ndr.cl CNAME .
 *.biology.ndr.cl CNAME .
 damon.ndr.cl CNAME .
 *.damon.ndr.cl CNAME .
-dontlike2.ndr.cl CNAME .
-*.dontlike2.ndr.cl CNAME .
 katherine-dns.newcore.cl CNAME .
 *.katherine-dns.newcore.cl CNAME .
 dnsotls.lab.nic.cl CNAME .
@@ -3039,8 +3037,6 @@ ngrspm.cn CNAME .
 *.ngrspm.cn CNAME .
 nodun.cn CNAME .
 *.nodun.cn CNAME .
-odood.cn CNAME .
-*.odood.cn CNAME .
 cn-kuailian.org.cn CNAME .
 *.cn-kuailian.org.cn CNAME .
 kuailianworld.org.cn CNAME .
@@ -10371,14 +10367,10 @@ akunamatata8888.mooo.com CNAME .
 *.akunamatata8888.mooo.com CNAME .
 alexj123.mooo.com CNAME .
 *.alexj123.mooo.com CNAME .
-algebralearn.mooo.com CNAME .
-*.algebralearn.mooo.com CNAME .
 allcowswilldefinitelygo.mooo.com CNAME .
 *.allcowswilldefinitelygo.mooo.com CNAME .
 bashathegenius.mooo.com CNAME .
 *.bashathegenius.mooo.com CNAME .
-bolttt.mooo.com CNAME .
-*.bolttt.mooo.com CNAME .
 coconutlizzy.mooo.com CNAME .
 *.coconutlizzy.mooo.com CNAME .
 clever.com.mooo.com CNAME .
@@ -10407,8 +10399,6 @@ labubudubai.mooo.com CNAME .
 *.labubudubai.mooo.com CNAME .
 masterman.mooo.com CNAME .
 *.masterman.mooo.com CNAME .
-mathplayer.mooo.com CNAME .
-*.mathplayer.mooo.com CNAME .
 mathswatch.mooo.com CNAME .
 *.mathswatch.mooo.com CNAME .
 myferntest.mooo.com CNAME .
@@ -17117,8 +17107,6 @@ dns.mihalcea.eu CNAME .
 *.dns.mihalcea.eu CNAME .
 mydevpn.eu CNAME .
 *.mydevpn.eu CNAME .
-dontlike1.myok.eu CNAME .
-*.dontlike1.myok.eu CNAME .
 nordvpn.eu CNAME .
 *.nordvpn.eu CNAME .
 ohapil.eu CNAME .
@@ -18049,18 +18037,6 @@ tocoolforschoollol.zone.id CNAME .
 *.tocoolforschoollol.zone.id CNAME .
 nordvpn.ie CNAME .
 *.nordvpn.ie CNAME .
-camping.outdoorzone.ie CNAME .
-*.camping.outdoorzone.ie CNAME .
-gogurdianw9w7disjwowuei.outdoorzone.ie CNAME .
-*.gogurdianw9w7disjwowuei.outdoorzone.ie CNAME .
-maxstopfartingnextotpaige.outdoorzone.ie CNAME .
-*.maxstopfartingnextotpaige.outdoorzone.ie CNAME .
-rc-1140.outdoorzone.ie CNAME .
-*.rc-1140.outdoorzone.ie CNAME .
-science2i3urirheiwhedi.outdoorzone.ie CNAME .
-*.science2i3urirheiwhedi.outdoorzone.ie CNAME .
-where-students-are-first.outdoorzone.ie CNAME .
-*.where-students-are-first.outdoorzone.ie CNAME .
 wasd.my.qh.ie CNAME .
 *.wasd.my.qh.ie CNAME .
 web-rated.ie CNAME .
@@ -25473,8 +25449,6 @@ ocnpinipkphu8dx1l.online CNAME .
 *.ocnpinipkphu8dx1l.online CNAME .
 okado.online CNAME .
 *.okado.online CNAME .
-omjzaoko.online CNAME .
-*.omjzaoko.online CNAME .
 oo4eetltmoq47v.online CNAME .
 *.oo4eetltmoq47v.online CNAME .
 opmvaxr22pt1hdobulhnc2hd.online CNAME .
@@ -30955,8 +30929,6 @@ cattery.noddos.top CNAME .
 *.cattery.noddos.top CNAME .
 cattery2.noddos.top CNAME .
 *.cattery2.noddos.top CNAME .
-nl.ogne.top CNAME .
-*.nl.ogne.top CNAME .
 okgfw.top CNAME .
 *.okgfw.top CNAME .
 onecat01-ltya8xek.top CNAME .
@@ -32915,18 +32887,6 @@ noyourmean.xyz CNAME .
 *.noyourmean.xyz CNAME .
 ns8469rfvth42.xyz CNAME .
 *.ns8469rfvth42.xyz CNAME .
-nljkjfdssdf.ckejlsd.nshosting.xyz CNAME .
-*.nljkjfdssdf.ckejlsd.nshosting.xyz CNAME .
-xcvidskjklxcvkdkdfs.dkfkjgldfds.nshosting.xyz CNAME .
-*.xcvidskjklxcvkdkdfs.dkfkjgldfds.nshosting.xyz CNAME .
-uiovsjdfkldsf.jksdlfkesdf.nshosting.xyz CNAME .
-*.uiovsjdfkldsf.jksdlfkesdf.nshosting.xyz CNAME .
-xjhvkjsjkdfklxfd.skdjlxvdsf.nshosting.xyz CNAME .
-*.xjhvkjsjkdfklxfd.skdjlxvdsf.nshosting.xyz CNAME .
-xcvjkslkcjfsdfesfd.xcvjhsdkdfs.nshosting.xyz CNAME .
-*.xcvjkslkcjfsdfesfd.xcvjhsdkdfs.nshosting.xyz CNAME .
-xcvjklekscfjklsd.xcvkjleskfs.nshosting.xyz CNAME .
-*.xcvjklekscfjklsd.xcvkjleskfs.nshosting.xyz CNAME .
 ntdll.xyz CNAME .
 *.ntdll.xyz CNAME .
 irgrdns.nullapp.xyz CNAME .

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Mar 2026 21:32 UTC
-# Version: 2026.0316.2132.39
+# Last modified: 17 Mar 2026 03:33 UTC
+# Version: 2026.0317.0333.39
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14370
+# Number of entries: 14358
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -8468,7 +8468,6 @@ local=/mkleid.de/
 local=/mknen.com/
 local=/mlbhungary.com/
 local=/mlcodwhz.shop/
-local=/mle-aumueller.de/
 local=/mmk-shoppingwelt.de/
 local=/mml-container.de/
 local=/mms-kapky.cz/
@@ -8751,7 +8750,6 @@ local=/musikgearhub.com/
 local=/musikgermany.com/
 local=/musikgeschaft.com/
 local=/musikhaus-neumann.de/
-local=/musikhaus-vogel.de/
 local=/musikinstrumente-profi.com/
 local=/musiknotenmarkt.com/
 local=/musikstrings.com/
@@ -8780,7 +8778,6 @@ local=/mybondify.com/
 local=/mycarbon.cc/
 local=/myclothesera.com/
 local=/mycrypto24.com/
-local=/myearthflow.com/
 local=/myeasykit.com/
 local=/myelektrocenter.com/
 local=/myfaifo.com/
@@ -8987,7 +8984,6 @@ local=/nauticalpartsstore.com/
 local=/nauticaromania.com/
 local=/nauticasdeutschland.de/
 local=/nauticaukwebsite.com/
-local=/nauticspace.com/
 local=/nauticwerk.com/
 local=/navaro-shop.de/
 local=/navaru.de/
@@ -9005,8 +9001,6 @@ local=/neatherlandnewstoday.com/
 local=/nebula-witch-power.com/
 local=/nebulain.com/
 local=/necessityi.com/
-local=/necessoul.com/
-local=/neckarhomeappliances.store/
 local=/necklaceh.com/
 local=/neded.de/
 local=/needsary.com/
@@ -9091,7 +9085,6 @@ local=/newbrousblades.com/
 local=/newbuildingsupplies.com/
 local=/newcfds.com/
 local=/newchrisreeve.com/
-local=/newdorinalingerie.com/
 local=/neweary.com/
 local=/neweuropetoday.com/
 local=/newfulfilment.com/
@@ -9119,7 +9112,6 @@ local=/nexberg-ag.co/
 local=/nexet.xyz/
 local=/nexo-ki.com/
 local=/nexoil.de/
-local=/nexonmarkets.com/
 local=/nexorazen.com/
 local=/nexsource.de/
 local=/next-bricks.com/
@@ -9227,7 +9219,6 @@ local=/nordoil.de/
 local=/nordoutlets.com/
 local=/nordspur.de/
 local=/nordvian.com/
-local=/nordyen-de.com/
 local=/norfolkhotels24.com/
 local=/norge-apt.com/
 local=/norge-ed.com/
@@ -9315,7 +9306,6 @@ local=/nur-uhren.de/
 local=/nurkaffee.at/
 local=/nursingaccessoriesstore.com/
 local=/nurssery.com/
-local=/nutrimcaps.com/
 local=/nuviaecom.fr/
 local=/nuvistio.com/
 local=/nuvonda.shop/
@@ -9457,7 +9447,6 @@ local=/ohpollydeutschland.de/
 local=/ohr-freund.de/
 local=/ohssl.org/
 local=/oikmvbuy.shop/
-local=/oil-direkt.com/
 local=/oil-direkt.de/
 local=/oil-profits.com/
 local=/oildirekt24.de/
@@ -9581,7 +9570,6 @@ local=/onlinereorg.com/
 local=/onlinetopgarden.com/
 local=/onlineusbike.com/
 local=/onlinewerkzeugzubehor.com/
-local=/onlineworkglobal.works/
 local=/only-baby.de/
 local=/onlyaya.com/
 local=/onlyjustshoes.com/

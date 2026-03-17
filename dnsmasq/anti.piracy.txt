@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Mar 2026 22:54 UTC
-# Version: 2026.0316.2254.19
+# Last modified: 17 Mar 2026 04:57 UTC
+# Version: 2026.0317.0457.38
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 12127
+# Number of entries: 12123
 #
 local=/tracker.guguan.000.pe/
 local=/003396815.xyz/
@@ -382,6 +382,7 @@ local=/8putlocker.com/
 local=/8wsm.com/
 local=/909190.xyz/
 local=/9142346511.xyz/
+local=/opentracker.91kf.top/
 local=/9276.me/
 local=/944118.xyz/
 local=/94hiphop.com/
@@ -6497,7 +6498,6 @@ local=/mkvcinemas.app/
 local=/mkvcinemas.bet/
 local=/mkvcinemas.cat/
 local=/mkvcinemas.ceo/
-local=/mkvcinemas.co/
 local=/mkvcinemas.eu/
 local=/mkvcinemas.fit/
 local=/mkvcinemas.gift/
@@ -6657,7 +6657,6 @@ local=/movie4k.tv/
 local=/movie4k-to.cfd/
 local=/movie4kto.net/
 local=/movie4u.cc/
-local=/movie4u.live/
 local=/movie4u.org/
 local=/movieajip.online/
 local=/moviebazar.net/
@@ -6691,7 +6690,6 @@ local=/movielair.cc/
 local=/moviemagnet.co/
 local=/moviemaya.com/
 local=/moviemela.live/
-local=/movieminions.cc/
 local=/movieninja.io/
 local=/movieninja.to/
 local=/movienoe.com/
@@ -6708,7 +6706,6 @@ local=/movies123.email/
 local=/movies123.live/
 local=/movies123.pk/
 local=/movies123.sbs/
-local=/movies123.studio/
 local=/movies123.top/
 local=/movies123-online.cam/
 local=/movies123-online.me/
@@ -7168,7 +7165,6 @@ local=/newzleech.com/
 local=/newznab.com/
 local=/nextgenroms.com/
 local=/nextorrent.town/
-local=/nextream.click/
 local=/nextwap.net/
 local=/nextwarez.com/
 local=/nexus-games.net/
@@ -7417,7 +7413,6 @@ local=/ol-am.top/
 local=/olala123-warez.com/
 local=/olamovies.app/
 local=/olamovies.download/
-local=/olamovies.shop/
 local=/olamovies.top/
 local=/olamovies.watch/
 local=/old-games.ru/
@@ -7497,7 +7492,6 @@ local=/tracker.openlook.me/
 local=/openpirate.cc/
 local=/openpirate.org/
 local=/opensharing.org/
-local=/opentor.org/
 local=/tracker.opentorrent.top/
 local=/opentracker.cc/
 local=/opentracker.io/
@@ -7619,6 +7613,8 @@ local=/tracker.paradise-tracker.com/
 local=/parag.rs/
 local=/paranetinfo.com/
 local=/parliamentlive.tv/
+local=/colibri.parrot.run/
+local=/wolf.parrot.run/
 local=/tracker.parrotlinux.org/
 local=/tracker.parrotsec.org/
 local=/partis.si/

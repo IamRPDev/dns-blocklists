@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Mar 2026 21:34 UTC
-# Version: 2026.0316.2134.27
+# Last modified: 17 Mar 2026 03:35 UTC
+# Version: 2026.0317.0335.30
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9976
+# Number of entries: 9970
 #
 local=/0.gp/
 local=/00m.in/
@@ -5216,7 +5216,6 @@ local=/mongmuoinam.life/
 local=/mongmuoisau.life/
 local=/mongmuoitam.live/
 local=/monly.id/
-local=/monopolygodices.xyz/
 local=/monster.cat/
 local=/info.montbell.com/
 local=/monurl.ca/
@@ -5347,10 +5346,8 @@ local=/mycon.link/
 local=/mycortolink.it/
 local=/mycts.app/
 local=/mycts.info/
-local=/mycuttly.com/
 local=/myecofactory.it/
 local=/myf.mg/
-local=/m.myfc.co/
 local=/myfonts.us/
 local=/myglamm.in/
 local=/myikoniq.info/
@@ -5499,9 +5496,7 @@ local=/weflex.net.au/
 local=/netbrandly.com/
 local=/neti.cc/
 local=/netizen303.org/
-local=/casa.netsons.org/
 local=/nev.lt/
-local=/nevox.app/
 local=/neweden.live/
 local=/newhotlink.com/
 local=/newpowerlink.com/
@@ -5544,7 +5539,6 @@ local=/nimex.live/
 local=/nimje.org/
 local=/url.nimsindia.org/
 local=/nin.link/
-local=/nineurl.com/
 local=/ninjaurl.me/
 local=/nipnit.com/
 local=/nippi.ly/

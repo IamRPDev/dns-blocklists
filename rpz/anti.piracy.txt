@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773701640 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773723420 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 16 Mar 2026 22:54 UTC
-; Version: 2026.0316.2254.19
+; Last modified: 17 Mar 2026 04:57 UTC
+; Version: 2026.0317.0457.38
 ; Syntax: RPZ
-; Number of entries: 24254
+; Number of entries: 24246
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -1664,8 +1664,6 @@ movieking.cc CNAME .
 *.movieking.cc CNAME .
 movielair.cc CNAME .
 *.movielair.cc CNAME .
-movieminions.cc CNAME .
-*.movieminions.cc CNAME .
 movies2watch.cc CNAME .
 *.movies2watch.cc CNAME .
 moviescene.cc CNAME .
@@ -2124,8 +2122,6 @@ multimovies.click CNAME .
 *.multimovies.click CNAME .
 navegador.click CNAME .
 *.navegador.click CNAME .
-nextream.click CNAME .
-*.nextream.click CNAME .
 pelisflix20.click CNAME .
 *.pelisflix20.click CNAME .
 pirateproxy.click CNAME .
@@ -2576,8 +2572,6 @@ minimalfreaks.co CNAME .
 *.minimalfreaks.co CNAME .
 mixdrop.co CNAME .
 *.mixdrop.co CNAME .
-mkvcinemas.co CNAME .
-*.mkvcinemas.co CNAME .
 monstream.co CNAME .
 *.monstream.co CNAME .
 movidy.co CNAME .
@@ -12236,8 +12230,6 @@ losmovies.live CNAME .
 *.losmovies.live CNAME .
 megaup.live CNAME .
 *.megaup.live CNAME .
-movie4u.live CNAME .
-*.movie4u.live CNAME .
 moviedom.live CNAME .
 *.moviedom.live CNAME .
 moviemela.live CNAME .
@@ -17196,8 +17188,6 @@ openpirate.org CNAME .
 *.openpirate.org CNAME .
 opensharing.org CNAME .
 *.opensharing.org CNAME .
-opentor.org CNAME .
-*.opentor.org CNAME .
 opentrackers.org CNAME .
 *.opentrackers.org CNAME .
 opentrackr.org CNAME .
@@ -19638,6 +19628,10 @@ kinox.run CNAME .
 *.kinox.run CNAME .
 multimovies.run CNAME .
 *.multimovies.run CNAME .
+colibri.parrot.run CNAME .
+*.colibri.parrot.run CNAME .
+wolf.parrot.run CNAME .
+*.wolf.parrot.run CNAME .
 popcornflix.run CNAME .
 *.popcornflix.run CNAME .
 sportsurge.run CNAME .
@@ -19924,8 +19918,6 @@ kopedafotor75.shop CNAME .
 *.kopedafotor75.shop CNAME .
 luxmovies1.shop CNAME .
 *.luxmovies1.shop CNAME .
-olamovies.shop CNAME .
-*.olamovies.shop CNAME .
 putlockers.shop CNAME .
 *.putlockers.shop CNAME .
 skymovieshd.shop CNAME .
@@ -20604,8 +20596,6 @@ indoxxi.studio CNAME .
 *.indoxxi.studio CNAME .
 lookmovie.studio CNAME .
 *.lookmovie.studio CNAME .
-movies123.studio CNAME .
-*.movies123.studio CNAME .
 sportsurge.studio CNAME .
 *.sportsurge.studio CNAME .
 vegamovies.studio CNAME .
@@ -21614,6 +21604,8 @@ tracker.23794.top CNAME .
 *.tracker.23794.top CNAME .
 8kun.top CNAME .
 *.8kun.top CNAME .
+opentracker.91kf.top CNAME .
+*.opentracker.91kf.top CNAME .
 qot.abiir.top CNAME .
 *.qot.abiir.top CNAME .
 tr.abiir.top CNAME .

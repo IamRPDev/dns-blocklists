@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Mar 2026 23:00 UTC
-# Version: 2026.0316.2300.21
+# Last modified: 17 Mar 2026 05:03 UTC
+# Version: 2026.0317.0503.39
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 16743
+# Number of entries: 16723
 #
 local=/000000555.xyz/
 local=/ss.0001.xyz/
@@ -9771,10 +9771,8 @@ local=/8o00imq7asda.mooo.com/
 local=/getepic.com.student.xyz.galaxys.tuff.ahh.mooo.com/
 local=/akunamatata8888.mooo.com/
 local=/alexj123.mooo.com/
-local=/algebralearn.mooo.com/
 local=/allcowswilldefinitelygo.mooo.com/
 local=/bashathegenius.mooo.com/
-local=/bolttt.mooo.com/
 local=/coconutlizzy.mooo.com/
 local=/clever.com.mooo.com/
 local=/asdfghqwertyzxcvb.mooo.com.mooo.com/
@@ -9789,7 +9787,6 @@ local=/kampag1.mooo.com/
 local=/konataismywaifu.mooo.com/
 local=/labubudubai.mooo.com/
 local=/masterman.mooo.com/
-local=/mathplayer.mooo.com/
 local=/mathswatch.mooo.com/
 local=/myferntest.mooo.com/
 local=/quizletixlportal.mooo.com/
@@ -9976,7 +9973,6 @@ local=/mynatureapp.net/
 local=/agh-ovh.mynetgear.com/
 local=/walker.mynetgear.com/
 local=/kyotocatholicchurch.myogaya.jp/
-local=/dontlike1.myok.eu/
 local=/blackhole.myon.lu/
 local=/portmapper.myonlineportal.net/
 local=/myorveta.ru/
@@ -10158,7 +10154,6 @@ local=/ncwcbfi.cn/
 local=/dns.ndo.dev/
 local=/biology.ndr.cl/
 local=/damon.ndr.cl/
-local=/dontlike2.ndr.cl/
 local=/tk2-404-43267.vs.sakura.ne.jp/
 local=/x210-131-219-118.static.xvps.ne.jp/
 local=/ne1.ca/
@@ -10585,12 +10580,6 @@ local=/song.ns8.org/
 local=/ns8469rfvth42.xyz/
 local=/nsd160.org/
 local=/garlandisd.nseuropa.org/
-local=/nljkjfdssdf.ckejlsd.nshosting.xyz/
-local=/xcvidskjklxcvkdkdfs.dkfkjgldfds.nshosting.xyz/
-local=/uiovsjdfkldsf.jksdlfkesdf.nshosting.xyz/
-local=/xjhvkjsjkdfklxfd.skdjlxvdsf.nshosting.xyz/
-local=/xcvjkslkcjfsdfesfd.xcvjhsdkdfs.nshosting.xyz/
-local=/xcvjklekscfjklsd.xcvkjleskfs.nshosting.xyz/
 local=/nslookup.io/
 local=/nsocks.net/
 local=/nsown.com/
@@ -10665,7 +10654,6 @@ local=/what0.odontosorriso.com/
 local=/about.odoobooks.com/
 local=/authors.odoobooks.com/
 local=/publishers.odoobooks.com/
-local=/odood.cn/
 local=/adguard.odysseusnetwork.com/
 local=/oeck.com/
 local=/of-klian.com/
@@ -10675,7 +10663,6 @@ local=/dns.ofdoom.net/
 local=/offshoreview.xyz/
 local=/sq.ofmdirect.com/
 local=/ofonetclash.com/
-local=/nl.ogne.top/
 local=/ogonvpn.xyz/
 local=/ohapil.eu/
 local=/ohgodplease.help/
@@ -10704,7 +10691,6 @@ local=/hsym6.omallysplayland.com/
 local=/baseball.school.omallysplayland.com/
 local=/dns.omee4.ru/
 local=/omegaproxy.com/
-local=/omjzaoko.online/
 local=/omnira.ru/
 local=/adguard.oms-ctr.ru/
 local=/fcgv4rovovvlixqc2a7qncvev40dbxsy.lambda-url.us-east-1.on.aws/
@@ -10898,12 +10884,6 @@ local=/dns.otezz.net/
 local=/otniscool.com/
 local=/ouer.cc/
 local=/dns.ourvau.lt/
-local=/camping.outdoorzone.ie/
-local=/gogurdianw9w7disjwowuei.outdoorzone.ie/
-local=/maxstopfartingnextotpaige.outdoorzone.ie/
-local=/rc-1140.outdoorzone.ie/
-local=/science2i3urirheiwhedi.outdoorzone.ie/
-local=/where-students-are-first.outdoorzone.ie/
 local=/outlinekeys.com/
 local=/proxy.outred.dev/
 local=/learner.outschool.tk/

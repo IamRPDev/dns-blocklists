@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773696840 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773718500 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 16 Mar 2026 21:34 UTC
-; Version: 2026.0316.2134.27
+; Last modified: 17 Mar 2026 03:35 UTC
+; Version: 2026.0317.0335.30
 ; Syntax: RPZ
-; Number of entries: 19952
+; Number of entries: 19940
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -405,8 +405,6 @@ my3777.app CNAME .
 *.my3777.app CNAME .
 mycts.app CNAME .
 *.mycts.app CNAME .
-nevox.app CNAME .
-*.nevox.app CNAME .
 nimbli.app CNAME .
 *.nimbli.app CNAME .
 onebio.app CNAME .
@@ -2739,8 +2737,6 @@ mvmtwatch.co CNAME .
 *.mvmtwatch.co CNAME .
 my-ab.co CNAME .
 *.my-ab.co CNAME .
-m.myfc.co CNAME .
-*.m.myfc.co CNAME .
 mymst.co CNAME .
 *.mymst.co CNAME .
 n9x.co CNAME .
@@ -5557,8 +5553,6 @@ mybiotree.com CNAME .
 *.mybiotree.com CNAME .
 mybiourl.com CNAME .
 *.mybiourl.com CNAME .
-mycuttly.com CNAME .
-*.mycuttly.com CNAME .
 mylinkbio.com CNAME .
 *.mylinkbio.com CNAME .
 mylinkbr.com CNAME .
@@ -5661,8 +5655,6 @@ qr.nikastic.com CNAME .
 *.qr.nikastic.com CNAME .
 nikaurl.com CNAME .
 *.nikaurl.com CNAME .
-nineurl.com CNAME .
-*.nineurl.com CNAME .
 nipnit.com CNAME .
 *.nipnit.com CNAME .
 njohko.com CNAME .
@@ -16241,8 +16233,6 @@ nashcapernaum.org CNAME .
 *.nashcapernaum.org CNAME .
 netizen303.org CNAME .
 *.netizen303.org CNAME .
-casa.netsons.org CNAME .
-*.casa.netsons.org CNAME .
 nimje.org CNAME .
 *.nimje.org CNAME .
 url.nimsindia.org CNAME .
@@ -19845,8 +19835,6 @@ mightyurl.mightyscripts.xyz CNAME .
 *.mightyurl.mightyscripts.xyz CNAME .
 mipon.xyz CNAME .
 *.mipon.xyz CNAME .
-monopolygodices.xyz CNAME .
-*.monopolygodices.xyz CNAME .
 mtxt.xyz CNAME .
 *.mtxt.xyz CNAME .
 murls.xyz CNAME .
