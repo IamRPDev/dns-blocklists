@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Mar 2026 05:03 UTC
-# Version: 2026.0317.0503.01
+# Last modified: 17 Mar 2026 11:00 UTC
+# Version: 2026.0317.1100.23
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3956
+# Number of entries: 3954
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -2933,7 +2933,6 @@
 0.0.0.0 dns.ourvau.lt
 0.0.0.0 addns.ovalie.ovh
 0.0.0.0 vps-1f675aa1.vps.ovh.us
-0.0.0.0 dns.ozamagenova.ru
 0.0.0.0 1a.ns.ozer.im
 0.0.0.0 1b.ns.ozer.im
 0.0.0.0 doh.p2cdn.cn
@@ -2955,7 +2954,6 @@
 0.0.0.0 wg.pastorov.ru
 0.0.0.0 nas.patrick-antoine.fr
 0.0.0.0 dns.paxavemedia.com
-0.0.0.0 loan.paymdm.xyz
 0.0.0.0 vps-ovh.pb2004.pl
 0.0.0.0 dns.pccoach.nl
 0.0.0.0 pcgo.fun

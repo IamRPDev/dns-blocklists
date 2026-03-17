@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773718260 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773739800 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Pop-Up Ads DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 17 Mar 2026 03:31 UTC
-; Version: 2026.0317.0331.04
+; Last modified: 17 Mar 2026 09:30 UTC
+; Version: 2026.0317.0930.53
 ; Syntax: RPZ
-; Number of entries: 110040
+; Number of entries: 109980
 ;
 bonzai.ad CNAME .
 *.bonzai.ad CNAME .
@@ -55328,8 +55328,6 @@ packeteagle.com CNAME .
 *.packeteagle.com CNAME .
 packsofgood.com CNAME .
 *.packsofgood.com CNAME .
-pacr-fjhs.com CNAME .
-*.pacr-fjhs.com CNAME .
 pacteaten.com CNAME .
 *.pacteaten.com CNAME .
 lq.pactioneastlin.com CNAME .
@@ -55466,8 +55464,6 @@ pajamasslowingregistered.com CNAME .
 *.pajamasslowingregistered.com CNAME .
 pajffadisr.com CNAME .
 *.pajffadisr.com CNAME .
-pakbanners.com CNAME .
-*.pakbanners.com CNAME .
 palaceunlituntouched.com CNAME .
 *.palaceunlituntouched.com CNAME .
 palaeicgriper.com CNAME .
@@ -55642,8 +55638,6 @@ pardetheezan.com CNAME .
 *.pardetheezan.com CNAME .
 paregospeltheir.com CNAME .
 *.paregospeltheir.com CNAME .
-parentchildus.com CNAME .
-*.parentchildus.com CNAME .
 parentsjobquote.com CNAME .
 *.parentsjobquote.com CNAME .
 pargaspforbidden.com CNAME .
@@ -55710,8 +55704,6 @@ participationwhitehandwriting.com CNAME .
 *.participationwhitehandwriting.com CNAME .
 particlesnopeentreat.com CNAME .
 *.particlesnopeentreat.com CNAME .
-particlesnuff.com CNAME .
-*.particlesnuff.com CNAME .
 particlesproteindivert.com CNAME .
 *.particlesproteindivert.com CNAME .
 partiesinches.com CNAME .
@@ -56036,8 +56028,6 @@ peacefulinscription.com CNAME .
 *.peacefulinscription.com CNAME .
 peacefulleafway.com CNAME .
 *.peacefulleafway.com CNAME .
-peacefullywalterdues.com CNAME .
-*.peacefullywalterdues.com CNAME .
 peacefulriverwalk.com CNAME .
 *.peacefulriverwalk.com CNAME .
 peacefulshadowway.com CNAME .
@@ -56090,8 +56080,6 @@ pedagojiokulu.com CNAME .
 *.pedagojiokulu.com CNAME .
 pedalsuspension.com CNAME .
 *.pedalsuspension.com CNAME .
-pedangaishons.com CNAME .
-*.pedangaishons.com CNAME .
 peddledprigman.com CNAME .
 *.peddledprigman.com CNAME .
 pedigreeamiableobtain.com CNAME .
@@ -56352,8 +56340,6 @@ perkyexcitedlyscenario.com CNAME .
 *.perkyexcitedlyscenario.com CNAME .
 permanentadvertisebytes.com CNAME .
 *.permanentadvertisebytes.com CNAME .
-permanentillnessclever.com CNAME .
-*.permanentillnessclever.com CNAME .
 permianbenefitauctions.com CNAME .
 *.permianbenefitauctions.com CNAME .
 permitalways.com CNAME .
@@ -56432,8 +56418,6 @@ pesoaniz.com CNAME .
 *.pesoaniz.com CNAME .
 pessimisticextra.com CNAME .
 *.pessimisticextra.com CNAME .
-pessimisticmachine.com CNAME .
-*.pessimisticmachine.com CNAME .
 pessimisticpester.com CNAME .
 *.pessimisticpester.com CNAME .
 pessimisticsurpriseexclusively.com CNAME .
@@ -56628,8 +56612,6 @@ phynefopsu.com CNAME .
 *.phynefopsu.com CNAME .
 physical-base.com CNAME .
 *.physical-base.com CNAME .
-physical-cheek.com CNAME .
-*.physical-cheek.com CNAME .
 physical-meaning.com CNAME .
 *.physical-meaning.com CNAME .
 physicallyencyclopedia.com CNAME .
@@ -56810,8 +56792,6 @@ ej.pintthed.com CNAME .
 *.ej.pintthed.com CNAME .
 pinturaanglers.com CNAME .
 *.pinturaanglers.com CNAME .
-pioneercomparatively.com CNAME .
-*.pioneercomparatively.com CNAME .
 pioneerenergies.com CNAME .
 *.pioneerenergies.com CNAME .
 pioneermaidleash.com CNAME .
@@ -56854,8 +56834,6 @@ tr.pitapatcalloo.com CNAME .
 *.tr.pitapatcalloo.com CNAME .
 pitarina.com CNAME .
 *.pitarina.com CNAME .
-pitchcustomaryoz.com CNAME .
-*.pitchcustomaryoz.com CNAME .
 pitchedfurs.com CNAME .
 *.pitchedfurs.com CNAME .
 rj.pitchifermium.com CNAME .
@@ -56906,8 +56884,6 @@ pjwjy.com CNAME .
 *.pjwjy.com CNAME .
 pk910324e.com CNAME .
 *.pk910324e.com CNAME .
-pkgoal.com CNAME .
-*.pkgoal.com CNAME .
 pklnxn.com CNAME .
 *.pklnxn.com CNAME .
 pkpllxszdloxdyax.com CNAME .
@@ -57108,8 +57084,6 @@ pleasantinformation.com CNAME .
 *.pleasantinformation.com CNAME .
 pleasedduckedunions.com CNAME .
 *.pleasedduckedunions.com CNAME .
-pleasedexample.com CNAME .
-*.pleasedexample.com CNAME .
 qa.pleasedonotblockme.com CNAME .
 *.qa.pleasedonotblockme.com CNAME .
 pleasemedic.com CNAME .
@@ -57246,8 +57220,6 @@ pmc1201.com CNAME .
 *.pmc1201.com CNAME .
 pmddby.com CNAME .
 *.pmddby.com CNAME .
-pmequebeclic.com CNAME .
-*.pmequebeclic.com CNAME .
 uid.pmi4-g8sd.com CNAME .
 *.uid.pmi4-g8sd.com CNAME .
 pmiadzopcowr.com CNAME .
@@ -57556,8 +57528,6 @@ popupaval.com CNAME .
 *.popupaval.com CNAME .
 popupblockergold.com CNAME .
 *.popupblockergold.com CNAME .
-popupchat-live.com CNAME .
-*.popupchat-live.com CNAME .
 popupdomination.com CNAME .
 *.popupdomination.com CNAME .
 popuserapparatus.com CNAME .
@@ -58668,8 +58638,6 @@ psma02.com CNAME .
 *.psma02.com CNAME .
 psoolsods.com CNAME .
 *.psoolsods.com CNAME .
-psoroumukr.com CNAME .
-*.psoroumukr.com CNAME .
 psothoms.com CNAME .
 *.psothoms.com CNAME .
 psotiwhotho.com CNAME .
@@ -59298,8 +59266,6 @@ qingolor.com CNAME .
 *.qingolor.com CNAME .
 qingshuijituan.com CNAME .
 *.qingshuijituan.com CNAME .
-qinvaris.com CNAME .
-*.qinvaris.com CNAME .
 qinzhan.com CNAME .
 *.qinzhan.com CNAME .
 qioca.com CNAME .
@@ -59330,8 +59296,6 @@ qkzn.com CNAME .
 *.qkzn.com CNAME .
 qlfqkjluvz.com CNAME .
 *.qlfqkjluvz.com CNAME .
-qloi-jjcl.com CNAME .
-*.qloi-jjcl.com CNAME .
 qmaacxajsovk.com CNAME .
 *.qmaacxajsovk.com CNAME .
 qmaaptxf.com CNAME .
@@ -59558,8 +59522,6 @@ quioneroudle.com CNAME .
 *.quioneroudle.com CNAME .
 quirky-seat.com CNAME .
 *.quirky-seat.com CNAME .
-quirkyask.com CNAME .
-*.quirkyask.com CNAME .
 quitefullofeedshe.com CNAME .
 *.quitefullofeedshe.com CNAME .
 quitelliot.com CNAME .
@@ -59628,8 +59590,6 @@ qvibo.com CNAME .
 *.qvibo.com CNAME .
 qvod26.com CNAME .
 *.qvod26.com CNAME .
-qw6esneu.com CNAME .
-*.qw6esneu.com CNAME .
 qwerfdx.com CNAME .
 *.qwerfdx.com CNAME .
 qwertixx.com CNAME .
@@ -59746,8 +59706,6 @@ radiancethedevice.com CNAME .
 *.radiancethedevice.com CNAME .
 radiantcanopy.com CNAME .
 *.radiantcanopy.com CNAME .
-radianttank.com CNAME .
-*.radianttank.com CNAME .
 radiationsucceedingdiamond.com CNAME .
 *.radiationsucceedingdiamond.com CNAME .
 radiatortackyhag.com CNAME .
@@ -60020,8 +59978,6 @@ rausfml.com CNAME .
 *.rausfml.com CNAME .
 ravagelikely.com CNAME .
 *.ravagelikely.com CNAME .
-ravaynore.com CNAME .
-*.ravaynore.com CNAME .
 ravedrizzle.com CNAME .
 *.ravedrizzle.com CNAME .
 ravenchewrainbow.com CNAME .
@@ -77014,26 +76970,18 @@ panakahastens.cyou CNAME .
 *.panakahastens.cyou CNAME .
 peavyegeria.cyou CNAME .
 *.peavyegeria.cyou CNAME .
-pgkhsjvfnk.cyou CNAME .
-*.pgkhsjvfnk.cyou CNAME .
 ly.phizogmisky.cyou CNAME .
 *.ly.phizogmisky.cyou CNAME .
 pin673.cyou CNAME .
 *.pin673.cyou CNAME .
-pkjfrrhvtz.cyou CNAME .
-*.pkjfrrhvtz.cyou CNAME .
 pouffsnous.cyou CNAME .
 *.pouffsnous.cyou CNAME .
 preedreiced.cyou CNAME .
 *.preedreiced.cyou CNAME .
-prf4wwk2wk.cyou CNAME .
-*.prf4wwk2wk.cyou CNAME .
 qc3xicy.cyou CNAME .
 *.qc3xicy.cyou CNAME .
 qp7o1um.cyou CNAME .
 *.qp7o1um.cyou CNAME .
-qyyqofhlfu.cyou CNAME .
-*.qyyqofhlfu.cyou CNAME .
 redania.cyou CNAME .
 *.redania.cyou CNAME .
 oe.reposeddure.cyou CNAME .
@@ -86412,8 +86360,6 @@ psoampoa.net CNAME .
 *.psoampoa.net CNAME .
 psozoult.net CNAME .
 *.psozoult.net CNAME .
-psulrushe.net CNAME .
-*.psulrushe.net CNAME .
 ptackoucmaib.net CNAME .
 *.ptackoucmaib.net CNAME .
 ptailadsol.net CNAME .
@@ -87902,8 +87848,6 @@ pixoff.one CNAME .
 *.pixoff.one CNAME .
 pubadx.one CNAME .
 *.pubadx.one CNAME .
-ra-uchwolr.one CNAME .
-*.ra-uchwolr.one CNAME .
 roguerunner.one CNAME .
 *.roguerunner.one CNAME .
 routeit.one CNAME .
@@ -91582,8 +91526,6 @@ parscoinpay.org CNAME .
 *.parscoinpay.org CNAME .
 parsel4d.org CNAME .
 *.parsel4d.org CNAME .
-patris-hellas.org CNAME .
-*.patris-hellas.org CNAME .
 pecialukizeias.org CNAME .
 *.pecialukizeias.org CNAME .
 pectationseleau.org CNAME .
@@ -109556,8 +109498,6 @@ ad.pornimg.xyz CNAME .
 *.ad.pornimg.xyz CNAME .
 postaoz.xyz CNAME .
 *.postaoz.xyz CNAME .
-pouyaa.xyz CNAME .
-*.pouyaa.xyz CNAME .
 primadaya.xyz CNAME .
 *.primadaya.xyz CNAME .
 proffering.xyz CNAME .

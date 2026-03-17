@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773718500 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773740100 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 17 Mar 2026 03:35 UTC
-; Version: 2026.0317.0335.30
+; Last modified: 17 Mar 2026 09:35 UTC
+; Version: 2026.0317.0935.30
 ; Syntax: RPZ
-; Number of entries: 19940
+; Number of entries: 19936
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -12853,8 +12853,6 @@ premex.link CNAME .
 *.premex.link CNAME .
 pressthis.link CNAME .
 *.pressthis.link CNAME .
-prosescepatkilat.link CNAME .
-*.prosescepatkilat.link CNAME .
 puny.link CNAME .
 *.puny.link CNAME .
 putar.link CNAME .
@@ -19565,8 +19563,6 @@ fff.wf CNAME .
 *.fff.wf CNAME .
 glo.wf CNAME .
 *.glo.wf CNAME .
-paw.wf CNAME .
-*.paw.wf CNAME .
 sht.wf CNAME .
 *.sht.wf CNAME .
 davidbombal.wiki CNAME .

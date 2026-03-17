@@ -22,6 +22,7 @@ csp.withgoogle.com
 
 # https://github.com/hagezi/dns-blocklists/issues/8146
 analytics.home-assistant.io
+analytics-api.home-assistant.io
 
 # https://github.com/hagezi/dns-blocklists/issues/8108
 receive-lp1.dg.srv.nintendo.net

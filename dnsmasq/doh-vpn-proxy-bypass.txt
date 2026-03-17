@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Mar 2026 05:03 UTC
-# Version: 2026.0317.0503.39
+# Last modified: 17 Mar 2026 11:01 UTC
+# Version: 2026.0317.1101.03
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 16723
+# Number of entries: 16710
 #
 local=/000000555.xyz/
 local=/ss.0001.xyz/
@@ -10897,7 +10897,6 @@ local=/oversecure.ltd/
 local=/overtheriverandthroughthewoods.net/
 local=/vps-11cf82ff.vps.ovh.ca/
 local=/vps-1f675aa1.vps.ovh.us/
-local=/vps-2532924e.vps.ovh.ca/
 local=/vps-3183c6bd.vps.ovh.ca/
 local=/vps-33e5a7f3.vps.ovh.us/
 local=/vps-d38e82a1.vps.ovh.us/
@@ -10909,7 +10908,6 @@ local=/owlvpn.net/
 local=/owrqqrpeit5w.online/
 local=/oxylabs.io/
 local=/oystervpn.com/
-local=/dns.ozamagenova.ru/
 local=/1a.ns.ozer.im/
 local=/1b.ns.ozer.im/
 local=/ozerix.ru/
@@ -11002,7 +11000,6 @@ local=/vpn-ru-msk.pakharenko.ru/
 local=/skills.notes.pakla.pl/
 local=/paladinvpn.com/
 local=/dns.paliska.net/
-local=/mydayyournight.palomadi.ar/
 local=/adguard.pancybertronics.com/
 local=/pandapow.co/
 local=/pandapow.io/
@@ -11079,7 +11076,6 @@ local=/dns.paxavemedia.com/
 local=/paxil.fun/
 local=/silentslab.pay-per-head-solutions.com/
 local=/paying.email/
-local=/loan.paymdm.xyz/
 local=/pazou.org/
 local=/vps-ovh.pb2004.pl/
 local=/pbaz.top/
@@ -11162,13 +11158,11 @@ local=/dns.phillipjberry.net/
 local=/philqoo.com/
 local=/phog.top/
 local=/phonechair92.com/
-local=/phonepen82.com/
 local=/phonephone92.com/
 local=/phonetable92.com/
 local=/phongg.vn/
 local=/gojoiscoolbutweird.photo-frame.com/
 local=/photographyescape.xyz/
-local=/sus.photomat.ar/
 local=/photonsecure.com/
 local=/phpatewiw.online/
 local=/phpbido.com/
@@ -11180,7 +11174,6 @@ local=/physicsbutfun.com/
 local=/piaproxy.net/
 local=/piaservers.net/
 local=/hr.picinel.ro/
-local=/picklesecurity.xyz/
 local=/picknife.org/
 local=/picstash.org/
 local=/adguard.piekacz.pl/
@@ -11207,7 +11200,6 @@ local=/pipster.ru/
 local=/piraproxy.org/
 local=/piratebayproxy.co/
 local=/pitertv24.ru/
-local=/lousiana-history-careers-ixl-geoly-education.pittentrepreneur.com/
 local=/pixelgorithm.com/
 local=/pixelprivacy.com/
 local=/pixicatclash.com/
@@ -11365,7 +11357,6 @@ local=/v2202508297531378155.powersrv.de/
 local=/powervpnfree.com/
 local=/powq0.xyz/
 local=/poxy.pl/
-local=/ffvvbnhju.2030.pp.ua/
 local=/adguard-server.pp.ua/
 local=/2.alpo.pp.ua/
 local=/angry.pp.ua/
@@ -11457,7 +11448,6 @@ local=/orpi.privado.ovh/
 local=/oury.privado.ovh/
 local=/privadovpn.com/
 local=/privatebard.com/
-local=/raiderzz.privatedns.org/
 local=/web01.privatedns.org/
 local=/chicken.nuggets.are.good.privateimport.jp/
 local=/privateinternetaccess.com/
@@ -11481,7 +11471,6 @@ local=/virtualchem.pro-house.cl/
 local=/pro-tower.com/
 local=/67-sucks.probac.cl/
 local=/rc-1140.probac.cl/
-local=/noguardian.procrastin.ar/
 local=/prohashing.com/
 local=/proigor.com/
 local=/project-cyber.com/
@@ -11708,7 +11697,6 @@ local=/plmoknijbuhvyg.psicologicemos.com/
 local=/psiphon.ca/
 local=/psiphon3.com/
 local=/psociety.de/
-local=/psybolt.com/
 local=/classes.psychology48.com/
 local=/health.psychology48.com/
 local=/science.psychoticgerbil.com/
@@ -11955,7 +11943,6 @@ local=/b0ac15e151420f6dc473-72e85853250626f809e7d6f166ccb9a7.ssl.cf6.rackcdn.com
 local=/dns.api.rackspacecloud.com/
 local=/void.radio.am/
 local=/void.radio.fm/
-local=/dontlike14.radiodelsur.cl/
 local=/radiodoubt.com/
 local=/educational.radissontucson.com/
 local=/school.edu.radix-site.com/

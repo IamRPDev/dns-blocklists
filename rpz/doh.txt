@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773723780 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773745200 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 17 Mar 2026 05:03 UTC
-; Version: 2026.0317.0503.01
+; Last modified: 17 Mar 2026 11:00 UTC
+; Version: 2026.0317.1100.23
 ; Syntax: RPZ
-; Number of entries: 6986
+; Number of entries: 6982
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -5891,8 +5891,6 @@ dns.omee4.ru CNAME .
 *.dns.omee4.ru CNAME .
 adguard.oms-ctr.ru CNAME .
 *.adguard.oms-ctr.ru CNAME .
-dns.ozamagenova.ru CNAME .
-*.dns.ozamagenova.ru CNAME .
 dns.pastorov.ru CNAME .
 *.dns.pastorov.ru CNAME .
 wg.pastorov.ru CNAME .
@@ -6923,8 +6921,6 @@ irgrdns.nullapp.xyz CNAME .
 *.irgrdns.nullapp.xyz CNAME .
 paskam.xyz CNAME .
 *.paskam.xyz CNAME .
-loan.paymdm.xyz CNAME .
-*.loan.paymdm.xyz CNAME .
 pingbi.xyz CNAME .
 *.pingbi.xyz CNAME .
 pm1239-bd.xyz CNAME .

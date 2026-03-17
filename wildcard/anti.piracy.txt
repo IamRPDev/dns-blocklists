@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Mar 2026 04:57 UTC
-# Version: 2026.0317.0457.38
+# Last modified: 17 Mar 2026 10:54 UTC
+# Version: 2026.0317.1054.45
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 12123
+# Number of entries: 12162
 #
 *.tracker.guguan.000.pe
 *.003396815.xyz
@@ -2198,6 +2198,7 @@
 *.coflix.tv
 *.coflix.wiki
 *.coflix.zip
+*.cointv.site
 *.coldplaybootlegs.com
 *.colivioo.com
 *.colombo-bt.org
@@ -3898,6 +3899,13 @@
 *.firstrowsport.org
 *.firstsrows.net
 *.firstsrowsports.tv
+*.fishtank.beer
+*.fishtank.expert
+*.fishtank.guide
+*.fishtank.live
+*.fishtank.me
+*.fishtank.my
+*.fishtank.rip
 *.fitgirl-repacks.site
 *.fitgirl-repacks.website
 *.tracker.fixr.pro
@@ -4757,17 +4765,53 @@
 *.hdencode.com
 *.hdencode.org
 *.hdf.world
+*.hdfilme.app
+*.hdfilme.baby
+*.hdfilme.best
+*.hdfilme.bid
 *.hdfilme.blog
+*.hdfilme.cc
 *.hdfilme.cloud
+*.hdfilme.codes
+*.hdfilme.cool
+*.hdfilme.cv
 *.hdfilme.cx
+*.hdfilme.day
+*.hdfilme.dog
+*.hdfilme.fun
+*.hdfilme.garden
+*.hdfilme.green
+*.hdfilme.hair
+*.hdfilme.homes
+*.hdfilme.host
+*.hdfilme.icu
 *.hdfilme.io
+*.hdfilme.legal
+*.hdfilme.life
+*.hdfilme.loan
+*.hdfilme.lol
+*.hdfilme.me
+*.hdfilme.media
+*.hdfilme.movie
+*.hdfilme.my
+*.hdfilme.name
+*.hdfilme.nl
 *.hdfilme.party
+*.hdfilme.pics
 *.hdfilme.press
+*.hdfilme.pro
 *.hdfilme.ru
+*.hdfilme.skin
+*.hdfilme.store
+*.hdfilme.su
+*.hdfilme.tax
+*.hdfilme.team
 *.hdfilme.to
 *.hdfilme.top
+*.hdfilme.tube
 *.hdfilme.tv
 *.hdfilme.uno
+*.hdfilme.website
 *.hdfilme-to.my
 *.hdfilme-to.top
 *.hdfilme-tv.cc
@@ -7617,7 +7661,6 @@
 *.wolf.parrot.run
 *.tracker.parrotlinux.org
 *.tracker.parrotsec.org
-*.partis.si
 *.passion-musique.net
 *.passpulse.net
 *.passthepopcorn.me
@@ -7740,7 +7783,6 @@
 *.piratebay.pro
 *.piratebay.red
 *.piratebay.surf
-*.piratebay.tech
 *.piratebay.to
 *.piratebay.website
 *.piratebay.zone
@@ -8042,7 +8084,6 @@
 *.publicdomaintorrents.com
 *.publicdomaintorrents.info
 *.publichd.se
-*.tracker.publichd.eu
 *.publictorrent.net
 *.publictracker.ch
 *.publictracker.xyz
@@ -8132,7 +8173,6 @@
 *.putlockertv.to
 *.putlockerwatch.com
 *.putlockerz.mov
-*.tracker.puvvadi.net
 *.puzo.org
 *.pwtorrents.net
 *.qatarstreams.me
@@ -8244,7 +8284,6 @@
 *.rarbgway.org
 *.rarbgweb.org
 *.rarbt.com
-*.rardownload.net
 *.rarefilmm.com
 *.rarelust.com
 *.rarewares.org

@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773723780 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773745260 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 17 Mar 2026 05:03 UTC
-; Version: 2026.0317.0503.39
+; Last modified: 17 Mar 2026 11:01 UTC
+; Version: 2026.0317.1101.03
 ; Syntax: RPZ
-; Number of entries: 33446
+; Number of entries: 33420
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -547,12 +547,6 @@ harshsmellsliketoes.fundacioncidea.org.ar CNAME .
 *.harshsmellsliketoes.fundacioncidea.org.ar CNAME .
 jacobcheeseman.fundacioncidea.org.ar CNAME .
 *.jacobcheeseman.fundacioncidea.org.ar CNAME .
-mydayyournight.palomadi.ar CNAME .
-*.mydayyournight.palomadi.ar CNAME .
-sus.photomat.ar CNAME .
-*.sus.photomat.ar CNAME .
-noguardian.procrastin.ar CNAME .
-*.noguardian.procrastin.ar CNAME .
 evilevil.rocketyoga.ar CNAME .
 *.evilevil.rocketyoga.ar CNAME .
 wow.rocketyoga.ar CNAME .
@@ -1279,8 +1273,6 @@ iamgpingtocrashoutifidontgetimagepermstodayigottayap.okcomputersolutions.ca CNAM
 *.iamgpingtocrashoutifidontgetimagepermstodayigottayap.okcomputersolutions.ca CNAME .
 vps-11cf82ff.vps.ovh.ca CNAME .
 *.vps-11cf82ff.vps.ovh.ca CNAME .
-vps-2532924e.vps.ovh.ca CNAME .
-*.vps-2532924e.vps.ovh.ca CNAME .
 vps-3183c6bd.vps.ovh.ca CNAME .
 *.vps-3183c6bd.vps.ovh.ca CNAME .
 pizdets.ca CNAME .
@@ -2355,8 +2347,6 @@ ss.rammer.psgl.cl CNAME .
 *.ss.rammer.psgl.cl CNAME .
 nana.utopia.psgl.cl CNAME .
 *.nana.utopia.psgl.cl CNAME .
-dontlike14.radiodelsur.cl CNAME .
-*.dontlike14.radiodelsur.cl CNAME .
 vladimirloljk.lollipopyum.liveastheman.reconectar.cl CNAME .
 *.vladimirloljk.lollipopyum.liveastheman.reconectar.cl CNAME .
 wifi.reconectar.cl CNAME .
@@ -11247,8 +11237,6 @@ philqoo.com CNAME .
 *.philqoo.com CNAME .
 phonechair92.com CNAME .
 *.phonechair92.com CNAME .
-phonepen82.com CNAME .
-*.phonepen82.com CNAME .
 phonephone92.com CNAME .
 *.phonephone92.com CNAME .
 phonetable92.com CNAME .
@@ -11275,8 +11263,6 @@ pingproxy.com CNAME .
 *.pingproxy.com CNAME .
 pingvpn.com CNAME .
 *.pingvpn.com CNAME .
-lousiana-history-careers-ixl-geoly-education.pittentrepreneur.com CNAME .
-*.lousiana-history-careers-ixl-geoly-education.pittentrepreneur.com CNAME .
 pixelgorithm.com CNAME .
 *.pixelgorithm.com CNAME .
 pixelprivacy.com CNAME .
@@ -11613,8 +11599,6 @@ plmoknijbuhvyg.psicologicemos.com CNAME .
 *.plmoknijbuhvyg.psicologicemos.com CNAME .
 psiphon3.com CNAME .
 *.psiphon3.com CNAME .
-psybolt.com CNAME .
-*.psybolt.com CNAME .
 classes.psychology48.com CNAME .
 *.classes.psychology48.com CNAME .
 health.psychology48.com CNAME .
@@ -27049,8 +27033,6 @@ prairievistamiddle.org CNAME .
 *.prairievistamiddle.org CNAME .
 office.pramanik.org CNAME .
 *.office.pramanik.org CNAME .
-raiderzz.privatedns.org CNAME .
-*.raiderzz.privatedns.org CNAME .
 web01.privatedns.org CNAME .
 *.web01.privatedns.org CNAME .
 privoxy.org CNAME .
@@ -29177,8 +29159,6 @@ educational.math.orlov-home.ru CNAME .
 *.educational.math.orlov-home.ru CNAME .
 edu.science.orlov-home.ru CNAME .
 *.edu.science.orlov-home.ru CNAME .
-dns.ozamagenova.ru CNAME .
-*.dns.ozamagenova.ru CNAME .
 ozerix.ru CNAME .
 *.ozerix.ru CNAME .
 vpn-ru-msk.pakharenko.ru CNAME .
@@ -31205,8 +31185,6 @@ securesurfvpn.all.co.tz CNAME .
 *.securesurfvpn.all.co.tz CNAME .
 host94.rheingold.com.ua CNAME .
 *.host94.rheingold.com.ua CNAME .
-ffvvbnhju.2030.pp.ua CNAME .
-*.ffvvbnhju.2030.pp.ua CNAME .
 adguard-server.pp.ua CNAME .
 *.adguard-server.pp.ua CNAME .
 2.alpo.pp.ua CNAME .
@@ -32917,12 +32895,8 @@ partmo5.xyz CNAME .
 *.partmo5.xyz CNAME .
 paskam.xyz CNAME .
 *.paskam.xyz CNAME .
-loan.paymdm.xyz CNAME .
-*.loan.paymdm.xyz CNAME .
 photographyescape.xyz CNAME .
 *.photographyescape.xyz CNAME .
-picklesecurity.xyz CNAME .
-*.picklesecurity.xyz CNAME .
 pingbi.xyz CNAME .
 *.pingbi.xyz CNAME .
 pinkproxy.xyz CNAME .

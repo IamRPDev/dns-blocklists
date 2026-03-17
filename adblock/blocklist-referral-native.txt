@@ -5,10 +5,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 16 Mar 2026 09:18 UTC
-! Version: 2026.0316.0918.33
+! Last modified: 17 Mar 2026 09:19 UTC
+! Version: 2026.0317.0919.53
 ! Syntax: AdBlock
-! Number of entries: 1440
+! Number of entries: 1444
 !
 ||1-aclk.net^
 ||1aurl.io^
@@ -388,6 +388,7 @@
 ||postsign.docusign.com^
 ||klclick.dollarshaveclub.com^
 ||c2827.dotomi.com^
+||cadent-match.dotomi.com^
 ||casale-match.dotomi.com^
 ||cj.dotomi.com^
 ||cpe.dotomi.com^
@@ -429,6 +430,7 @@
 ||suite20.emarsys.net^
 ||suite22.emarsys.net^
 ||suite24.emarsys.net^
+||suite25.emarsys.net^
 ||suite26.emarsys.net^
 ||suite27.emarsys.net^
 ||suite29.emarsys.net^
@@ -899,6 +901,7 @@
 ||mkto-mlm10010008.com^
 ||mkto-mlm10030009.com^
 ||mkto-nld1010057.com^
+||mkto-nld1010150.com^
 ||mkto-nld1030007.com^
 ||mkto-nld1040017.com^
 ||mkto-nld1040186.com^
@@ -964,6 +967,7 @@
 ||api-02.moengage.com^
 ||api-03.moengage.com^
 ||api-04.moengage.com^
+||api-101.moengage.com^
 ||t.emailing.monoprix.fr^
 ||af.mopo.jp^
 ||cj.mplxtms.com^

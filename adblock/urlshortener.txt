@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 17 Mar 2026 03:35 UTC
-! Version: 2026.0317.0335.30
+! Last modified: 17 Mar 2026 09:35 UTC
+! Version: 2026.0317.0935.30
 ! Syntax: AdBlock
-! Number of entries: 9970
+! Number of entries: 9968
 !
 ||0.gp^
 ||00m.in^
@@ -5941,7 +5941,6 @@
 ||yxe3d.paulchavady.com^
 ||paut.to^
 ||pavleka.com^
-||paw.wf^
 ||pawl.bio^
 ||payfca.com^
 ||go.paykassma.com^
@@ -6201,7 +6200,6 @@
 ||propub.li^
 ||pros.is^
 ||pros.si^
-||prosescepatkilat.link^
 ||proshare.ir^
 ||protogen.live^
 ||provte.cloud^
