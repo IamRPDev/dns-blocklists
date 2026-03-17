@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Mar 2026 17:02 UTC
-# Version: 2026.0317.1702.31
+# Last modified: 17 Mar 2026 23:01 UTC
+# Version: 2026.0317.2301.03
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 16693
+# Number of entries: 16674
 #
 local=/000000555.xyz/
 local=/ss.0001.xyz/
@@ -12884,9 +12884,6 @@ local=/solidproxy.net/
 local=/adguard.soloanvill.ru/
 local=/imfroggingit.soloo.win/
 local=/wtbd02.solowalk.top/
-local=/lumi.soloxhoy.ar/
-local=/madeby-vcsa.soloxhoy.ar/
-local=/sssdfg.soloxhoy.ar/
 local=/ns.solutics.ec/
 local=/ns.solutionsbest.de/
 local=/somelikeitproxy.com/
@@ -12897,8 +12894,6 @@ local=/thtghrabf.soon.it/
 local=/r.soraapp.gq/
 local=/sentry.soraapp.gq/
 local=/sorvia.ru/
-local=/www.securly.com.sorynov.cl/
-local=/sorza.ir/
 local=/sotk.am/
 local=/soundsonas.com/
 local=/soundwaveearbuds.com/
@@ -13022,7 +13017,6 @@ local=/sshs8.com/
 local=/sshssl.com/
 local=/sshstores.net/
 local=/sshtun.site/
-local=/dns.sshub.win/
 local=/ssl-letsvpn.com/
 local=/ssl-tun.me/
 local=/ssl3cdn.com/
@@ -13429,7 +13423,6 @@ local=/server-list.synclusiveinno.com/
 local=/server-list1.synclusiveinno.com/
 local=/synnetworkclash.com/
 local=/synnetworkjc.com/
-local=/www.securly.com.syno-wfr.ch/
 local=/bucheli.synology.me/
 local=/chlaebi.synology.me/
 local=/hockaday.synology.me/
@@ -13457,7 +13450,6 @@ local=/t-dz.com/
 local=/dns.t-ipnet.de/
 local=/t2hd3gctgprggas.online/
 local=/dns.t53.de/
-local=/hsy.t767.cn/
 local=/t9clash.com/
 local=/tabijibiyori.org/
 local=/tablechair92.com/
@@ -13516,7 +13508,6 @@ local=/taoqituclash.com/
 local=/taoqitujichang.com/
 local=/taoqitussr.com/
 local=/dns.tapawan.ca/
-local=/struck.tar.nz/
 local=/dns0.tardishost.ru/
 local=/dns1.tardishost.ru/
 local=/adguard.taufner.net/
@@ -13700,27 +13691,17 @@ local=/thenuke.org/
 local=/class.skill.theo.mx/
 local=/explore.theoceanforest.com/
 local=/giggachad.thepotionsmaster.net/
-local=/alwaystravelingsomewhere.thepresenttraveller.com/
 local=/by-playernation.thepresenttraveller.com/
 local=/gogurdianw9e7disjw3iehei.thepresenttraveller.com/
 local=/learnvcsa.thepresenttraveller.com/
 local=/traveltheworld.thepresenttraveller.com/
 local=/theproxies.net/
-local=/theproxy.bz/
-local=/theproxy.club/
 local=/theproxy.dev/
-local=/theproxy.fun/
-local=/theproxy.how/
 local=/theproxy.ink/
-local=/theproxy.page/
 local=/theproxy.red/
 local=/theproxy.vip/
 local=/theproxy.work/
 local=/theproxy2.biz/
-local=/theproxy2.cc/
-local=/theproxy2.com/
-local=/theproxy2.info/
-local=/theproxy2.org/
 local=/theproxya.org/
 local=/theproxyer.com/
 local=/theproxyguide.com/

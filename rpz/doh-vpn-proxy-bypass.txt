@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773766920 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773788460 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 17 Mar 2026 17:02 UTC
-; Version: 2026.0317.1702.31
+; Last modified: 17 Mar 2026 23:01 UTC
+; Version: 2026.0317.2301.03
 ; Syntax: RPZ
-; Number of entries: 33386
+; Number of entries: 33348
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -549,12 +549,6 @@ jacobcheeseman.fundacioncidea.org.ar CNAME .
 *.jacobcheeseman.fundacioncidea.org.ar CNAME .
 evilevil.rocketyoga.ar CNAME .
 *.evilevil.rocketyoga.ar CNAME .
-lumi.soloxhoy.ar CNAME .
-*.lumi.soloxhoy.ar CNAME .
-madeby-vcsa.soloxhoy.ar CNAME .
-*.madeby-vcsa.soloxhoy.ar CNAME .
-sssdfg.soloxhoy.ar CNAME .
-*.sssdfg.soloxhoy.ar CNAME .
 domain.tablero-anmac.ar CNAME .
 *.domain.tablero-anmac.ar CNAME .
 educational-sock.tablero-anmac.ar CNAME .
@@ -1163,8 +1157,6 @@ teach.mine.bz CNAME .
 *.teach.mine.bz CNAME .
 dns.npe.bz CNAME .
 *.dns.npe.bz CNAME .
-theproxy.bz CNAME .
-*.theproxy.bz CNAME .
 selenitewebtutorship.com.4webhelp.ca CNAME .
 *.selenitewebtutorship.com.4webhelp.ca CNAME .
 devman.goated.fr.8bit.ca CNAME .
@@ -1813,8 +1805,6 @@ adguard.tammi.cc CNAME .
 *.adguard.tammi.cc CNAME .
 tannel.cc CNAME .
 *.tannel.cc CNAME .
-theproxy2.cc CNAME .
-*.theproxy2.cc CNAME .
 tifa.cc CNAME .
 *.tifa.cc CNAME .
 tifaix123.cc CNAME .
@@ -2049,8 +2039,6 @@ dns-cache.switch.ch CNAME .
 *.dns-cache.switch.ch CNAME .
 dns-cache2.switch.ch CNAME .
 *.dns-cache2.switch.ch CNAME .
-www.securly.com.syno-wfr.ch CNAME .
-*.www.securly.com.syno-wfr.ch CNAME .
 smart.vocab.truckoccasion.ch CNAME .
 *.smart.vocab.truckoccasion.ch CNAME .
 abhub1134.truckstore.ch CNAME .
@@ -2399,8 +2387,6 @@ pteryla.solicituddemateriales.cl CNAME .
 *.pteryla.solicituddemateriales.cl CNAME .
 siencehub.solicituddemateriales.cl CNAME .
 *.siencehub.solicituddemateriales.cl CNAME .
-www.securly.com.sorynov.cl CNAME .
-*.www.securly.com.sorynov.cl CNAME .
 velocity.succeed.cl CNAME .
 *.velocity.succeed.cl CNAME .
 interstellar.nana.swift.cl CNAME .
@@ -2751,8 +2737,6 @@ apne1.dns.terumi.club CNAME .
 *.apne1.dns.terumi.club CNAME .
 dns.soldier.terumi.club CNAME .
 *.dns.soldier.terumi.club CNAME .
-theproxy.club CNAME .
-*.theproxy.club CNAME .
 unblockedsite.club CNAME .
 *.unblockedsite.club CNAME .
 unblockit.club CNAME .
@@ -3065,8 +3049,6 @@ spbyjzu.cn CNAME .
 *.spbyjzu.cn CNAME .
 sqijlpe.cn CNAME .
 *.sqijlpe.cn CNAME .
-hsy.t767.cn CNAME .
-*.hsy.t767.cn CNAME .
 dns.tefuir0829.cn CNAME .
 *.dns.tefuir0829.cn CNAME .
 tkgf2.cn CNAME .
@@ -12985,8 +12967,6 @@ themebm.com CNAME .
 *.themebm.com CNAME .
 explore.theoceanforest.com CNAME .
 *.explore.theoceanforest.com CNAME .
-alwaystravelingsomewhere.thepresenttraveller.com CNAME .
-*.alwaystravelingsomewhere.thepresenttraveller.com CNAME .
 by-playernation.thepresenttraveller.com CNAME .
 *.by-playernation.thepresenttraveller.com CNAME .
 gogurdianw9e7disjw3iehei.thepresenttraveller.com CNAME .
@@ -12995,8 +12975,6 @@ learnvcsa.thepresenttraveller.com CNAME .
 *.learnvcsa.thepresenttraveller.com CNAME .
 traveltheworld.thepresenttraveller.com CNAME .
 *.traveltheworld.thepresenttraveller.com CNAME .
-theproxy2.com CNAME .
-*.theproxy2.com CNAME .
 theproxyer.com CNAME .
 *.theproxyer.com CNAME .
 theproxyguide.com CNAME .
@@ -17425,8 +17403,6 @@ speedycdn.fun CNAME .
 *.speedycdn.fun CNAME .
 spoken.fun CNAME .
 *.spoken.fun CNAME .
-theproxy.fun CNAME .
-*.theproxy.fun CNAME .
 unblockedsite.fun CNAME .
 *.unblockedsite.fun CNAME .
 unblocksite.fun CNAME .
@@ -17665,8 +17641,6 @@ sitescrack.host CNAME .
 *.sitescrack.host CNAME .
 anonymous.how CNAME .
 *.anonymous.how CNAME .
-theproxy.how CNAME .
-*.theproxy.how CNAME .
 unb.how CNAME .
 *.unb.how CNAME .
 unblocked.how CNAME .
@@ -18539,8 +18513,6 @@ testvpn.info CNAME .
 *.testvpn.info CNAME .
 thebestproxy.info CNAME .
 *.thebestproxy.info CNAME .
-theproxy2.info CNAME .
-*.theproxy2.info CNAME .
 tiptopvpn.info CNAME .
 *.tiptopvpn.info CNAME .
 int.toltec.info CNAME .
@@ -19441,8 +19413,6 @@ pro.shecan.ir CNAME .
 *.pro.shecan.ir CNAME .
 sibitc.ir CNAME .
 *.sibitc.ir CNAME .
-sorza.ir CNAME .
-*.sorza.ir CNAME .
 timevip.ir CNAME .
 *.timevip.ir CNAME .
 unity4world.ir CNAME .
@@ -24889,8 +24859,6 @@ bg.geek.nz CNAME .
 *.bg.geek.nz CNAME .
 learn.neweconomics.net.nz CNAME .
 *.learn.neweconomics.net.nz CNAME .
-struck.tar.nz CNAME .
-*.struck.tar.nz CNAME .
 dns.dhemant.observer CNAME .
 *.dns.dhemant.observer CNAME .
 eleven.observer CNAME .
@@ -27297,8 +27265,6 @@ yh.themcgoughs.org CNAME .
 *.yh.themcgoughs.org CNAME .
 thenuke.org CNAME .
 *.thenuke.org CNAME .
-theproxy2.org CNAME .
-*.theproxy2.org CNAME .
 theproxya.org CNAME .
 *.theproxya.org CNAME .
 thetatoken.org CNAME .
@@ -27761,8 +27727,6 @@ wws.152-53-136-204.plesk.page CNAME .
 *.92-38-177-17.plesk.page CNAME .
 proxysite.page CNAME .
 *.proxysite.page CNAME .
-theproxy.page CNAME .
-*.theproxy.page CNAME .
 wordcloud.page CNAME .
 *.wordcloud.page CNAME .
 dns.enzomtp.party CNAME .
@@ -31971,8 +31935,6 @@ imfroggingit.soloo.win CNAME .
 *.imfroggingit.soloo.win CNAME .
 adguard.sscw.win CNAME .
 *.adguard.sscw.win CNAME .
-dns.sshub.win CNAME .
-*.dns.sshub.win CNAME .
 doh.ntu.ssooss.win CNAME .
 *.doh.ntu.ssooss.win CNAME .
 adguard.superstefan.win CNAME .

@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773761460 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773783120 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 17 Mar 2026 15:31 UTC
-; Version: 2026.0317.1531.19
+; Last modified: 17 Mar 2026 21:32 UTC
+; Version: 2026.0317.2132.40
 ; Syntax: RPZ
-; Number of entries: 28776
+; Number of entries: 28736
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -914,8 +914,6 @@ thirdeye-immobilien.at CNAME .
 *.thirdeye-immobilien.at CNAME .
 thursdayboots.at CNAME .
 *.thursdayboots.at CNAME .
-thursdayboots-osterreich.at CNAME .
-*.thursdayboots-osterreich.at CNAME .
 thursdaybootswien.at CNAME .
 *.thursdaybootswien.at CNAME .
 tikkischuhewien.at CNAME .
@@ -936,8 +934,6 @@ trapstaraustria.at CNAME .
 *.trapstaraustria.at CNAME .
 tremel.at CNAME .
 *.tremel.at CNAME .
-trocador.at CNAME .
-*.trocador.at CNAME .
 turboplanter.at CNAME .
 *.turboplanter.at CNAME .
 tyrwien.at CNAME .
@@ -15130,8 +15126,6 @@ spielzeugautowelt.com CNAME .
 *.spielzeugautowelt.com CNAME .
 spielzeugelektronik.com CNAME .
 *.spielzeugelektronik.com CNAME .
-spielzeugtonie.com CNAME .
-*.spielzeugtonie.com CNAME .
 spigendeutschlandshop.com CNAME .
 *.spigendeutschlandshop.com CNAME .
 spimbey.com CNAME .
@@ -15164,8 +15158,6 @@ sportbekleidung-de.com CNAME .
 *.sportbekleidung-de.com CNAME .
 sportbekleidungde.com CNAME .
 *.sportbekleidungde.com CNAME .
-sportfishtackle-de.com CNAME .
-*.sportfishtackle-de.com CNAME .
 sportkleidungwelt.com CNAME .
 *.sportkleidungwelt.com CNAME .
 sportmusthave.com CNAME .
@@ -15278,8 +15270,6 @@ stationeryoptimal.com CNAME .
 *.stationeryoptimal.com CNAME .
 stealthgamechanger.com CNAME .
 *.stealthgamechanger.com CNAME .
-steelcabinetsonline.com CNAME .
-*.steelcabinetsonline.com CNAME .
 steelite-au.com CNAME .
 *.steelite-au.com CNAME .
 steinberg-munchen.com CNAME .
@@ -15304,8 +15294,6 @@ stevamaddenpl.com CNAME .
 *.stevamaddenpl.com CNAME .
 stickerkollektionenshop.com CNAME .
 *.stickerkollektionenshop.com CNAME .
-stihlg.com CNAME .
-*.stihlg.com CNAME .
 stihlgarten.com CNAME .
 *.stihlgarten.com CNAME .
 stitchfia.com CNAME .
@@ -15960,8 +15948,6 @@ thecryptolimited.com CNAME .
 *.thecryptolimited.com CNAME .
 thectshirts.com CNAME .
 *.thectshirts.com CNAME .
-thecyclistsupply.com CNAME .
-*.thecyclistsupply.com CNAME .
 thedailytelegraphnewstoday.com CNAME .
 *.thedailytelegraphnewstoday.com CNAME .
 theedwebdeal.com CNAME .
@@ -16048,8 +16034,6 @@ therickhinderer.com CNAME .
 *.therickhinderer.com CNAME .
 therling.com CNAME .
 *.therling.com CNAME .
-thermacds.com CNAME .
-*.thermacds.com CNAME .
 thermoscup-shop.com CNAME .
 *.thermoscup-shop.com CNAME .
 thesissystore.com CNAME .
@@ -16134,10 +16118,6 @@ timsneakers.com CNAME .
 *.timsneakers.com CNAME .
 tippsfurkaufhauser.com CNAME .
 *.tippsfurkaufhauser.com CNAME .
-tiraloshop.com CNAME .
-*.tiraloshop.com CNAME .
-tischestore.com CNAME .
-*.tischestore.com CNAME .
 tischlampenstore.com CNAME .
 *.tischlampenstore.com CNAME .
 tischtennisde.com CNAME .
@@ -16190,8 +16170,6 @@ ton-form-color.com CNAME .
 *.ton-form-color.com CNAME .
 tondeusediscount.com CNAME .
 *.tondeusediscount.com CNAME .
-tondratex.com CNAME .
-*.tondratex.com CNAME .
 tonies-geschaft.com CNAME .
 *.tonies-geschaft.com CNAME .
 tonies-rabattpreis.com CNAME .
@@ -16278,8 +16256,6 @@ topfastorder.com CNAME .
 *.topfastorder.com CNAME .
 topflexibility.com CNAME .
 *.topflexibility.com CNAME .
-topheizlosungen.com CNAME .
-*.topheizlosungen.com CNAME .
 tophousesgoods.com CNAME .
 *.tophousesgoods.com CNAME .
 topideaberlin.com CNAME .
@@ -16376,8 +16352,6 @@ trade-call.com CNAME .
 *.trade-call.com CNAME .
 trade-mbitm.com CNAME .
 *.trade-mbitm.com CNAME .
-tradecapexapp.com CNAME .
-*.tradecapexapp.com CNAME .
 tradecapital24.com CNAME .
 *.tradecapital24.com CNAME .
 tradect.com CNAME .
@@ -16412,8 +16386,6 @@ traderxp.com CNAME .
 *.traderxp.com CNAME .
 tradeswim.com CNAME .
 *.tradeswim.com CNAME .
-tradetoinvest.com CNAME .
-*.tradetoinvest.com CNAME .
 tradeviewforex.com CNAME .
 *.tradeviewforex.com CNAME .
 trading-kapital.com CNAME .
@@ -16430,8 +16402,6 @@ trailertour.com CNAME .
 *.trailertour.com CNAME .
 trakkerbillig.com CNAME .
 *.trakkerbillig.com CNAME .
-traktoriia.com CNAME .
-*.traktoriia.com CNAME .
 trallsland.com CNAME .
 *.trallsland.com CNAME .
 trangianverkaufe.com CNAME .
@@ -23848,8 +23818,6 @@ tavatta.de CNAME .
 *.tavatta.de CNAME .
 taxoflex.de CNAME .
 *.taxoflex.de CNAME .
-tbz-versand.de CNAME .
-*.tbz-versand.de CNAME .
 tcomplex.de CNAME .
 *.tcomplex.de CNAME .
 te.de CNAME .
@@ -23882,8 +23850,6 @@ teilrad24.de CNAME .
 *.teilrad24.de CNAME .
 teknohaus.de CNAME .
 *.teknohaus.de CNAME .
-telapros.de CNAME .
-*.telapros.de CNAME .
 teltow-apotheke-berlin.de CNAME .
 *.teltow-apotheke-berlin.de CNAME .
 temala.de CNAME .
@@ -24020,8 +23986,6 @@ trageli-tech.de CNAME .
 *.trageli-tech.de CNAME .
 tragleicht.de CNAME .
 *.tragleicht.de CNAME .
-trailer-master.de CNAME .
-*.trailer-master.de CNAME .
 traktorheld.de CNAME .
 *.traktorheld.de CNAME .
 transfertrain.de CNAME .
@@ -24060,8 +24024,6 @@ trendboutiquekoln.de CNAME .
 *.trendboutiquekoln.de CNAME .
 trendgardinen.de CNAME .
 *.trendgardinen.de CNAME .
-trendito.de CNAME .
-*.trendito.de CNAME .
 trendvilla.de CNAME .
 *.trendvilla.de CNAME .
 trendy-berlin.de CNAME .
@@ -27696,8 +27658,6 @@ sochutz.shop CNAME .
 *.sochutz.shop CNAME .
 softritualsco.shop CNAME .
 *.softritualsco.shop CNAME .
-hipoff.sohat.shop CNAME .
-*.hipoff.sohat.shop CNAME .
 solaraessence.shop CNAME .
 *.solaraessence.shop CNAME .
 sonetiacrcb.shop CNAME .

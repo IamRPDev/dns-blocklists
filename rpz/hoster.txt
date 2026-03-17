@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773763560 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773785160 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 17 Mar 2026 16:06 UTC
-; Version: 2026.0317.1606.55
+; Last modified: 17 Mar 2026 22:06 UTC
+; Version: 2026.0317.2206.53
 ; Syntax: RPZ
-; Number of entries: 2500
+; Number of entries: 2538
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -288,6 +288,8 @@ wapka.co CNAME .
 *.110mb.com CNAME .
 125mb.com CNAME .
 *.125mb.com CNAME .
+126.com CNAME .
+*.126.com CNAME .
 150m.com CNAME .
 *.150m.com CNAME .
 16mb.com CNAME .
@@ -332,10 +334,14 @@ wapka.co CNAME .
 *.81x.com CNAME .
 9k.com CNAME .
 *.9k.com CNAME .
+actifforum.com CNAME .
+*.actifforum.com CNAME .
 admarketlocation.com CNAME .
 *.admarketlocation.com CNAME .
 ahlamountada.com CNAME .
 *.ahlamountada.com CNAME .
+alboompro.com CNAME .
+*.alboompro.com CNAME .
 amarillozoo.com CNAME .
 *.amarillozoo.com CNAME .
 angelfire.com CNAME .
@@ -378,12 +384,16 @@ blogginger.com CNAME .
 *.blogginger.com CNAME .
 blogia.com CNAME .
 *.blogia.com CNAME .
+blogsidea.com CNAME .
+*.blogsidea.com CNAME .
 blogsky.com CNAME .
 *.blogsky.com CNAME .
 blogspot.com CNAME .
 *.blogspot.com CNAME .
 blogzet.com CNAME .
 *.blogzet.com CNAME .
+bokee.com CNAME .
+*.bokee.com CNAME .
 bookmark.com CNAME .
 *.bookmark.com CNAME .
 bravehost.com CNAME .
@@ -568,8 +578,14 @@ flazio.com CNAME .
 *.flazio.com CNAME .
 formbuddy.com CNAME .
 *.formbuddy.com CNAME .
+forum2jeux.com CNAME .
+*.forum2jeux.com CNAME .
 forumactif.com CNAME .
 *.forumactif.com CNAME .
+forumattivo.com CNAME .
+*.forumattivo.com CNAME .
+forumieren.com CNAME .
+*.forumieren.com CNAME .
 forumotion.com CNAME .
 *.forumotion.com CNAME .
 freecities.com CNAME .
@@ -610,6 +626,8 @@ freewha.com CNAME .
 *.freewha.com CNAME .
 freightinternationalservices.com CNAME .
 *.freightinternationalservices.com CNAME .
+frenchboard.com CNAME .
+*.frenchboard.com CNAME .
 friendcircles.com CNAME .
 *.friendcircles.com CNAME .
 gearhostpreview.com CNAME .
@@ -640,6 +658,8 @@ hinerava.com CNAME .
 *.hinerava.com CNAME .
 homemarker.com CNAME .
 *.homemarker.com CNAME .
+homestead.com CNAME .
+*.homestead.com CNAME .
 hostedforfree.com CNAME .
 *.hostedforfree.com CNAME .
 hostingsiteforfree.com CNAME .
@@ -850,6 +870,8 @@ thisistap.com CNAME .
 *.thisistap.com CNAME .
 timeforchangecounselling.com CNAME .
 *.timeforchangecounselling.com CNAME .
+tinyblogging.com CNAME .
+*.tinyblogging.com CNAME .
 top8.com CNAME .
 *.top8.com CNAME .
 total-blog.com CNAME .
@@ -862,6 +884,8 @@ tribalpages.com CNAME .
 *.tribalpages.com CNAME .
 tripod.com CNAME .
 *.tripod.com CNAME .
+ttblogs.com CNAME .
+*.ttblogs.com CNAME .
 ubpages.com CNAME .
 *.ubpages.com CNAME .
 ucoz.com CNAME .
@@ -1100,6 +1124,8 @@ aw3.de CNAME .
 *.aw3.de CNAME .
 ballern.de CNAME .
 *.ballern.de CNAME .
+beepworld.de CNAME .
+*.beepworld.de CNAME .
 begins.de CNAME .
 *.begins.de CNAME .
 blogg.de CNAME .
@@ -1158,6 +1184,8 @@ for-ladys.de CNAME .
 *.for-ladys.de CNAME .
 forum7.de CNAME .
 *.forum7.de CNAME .
+forumieren.de CNAME .
+*.forumieren.de CNAME .
 fuer-alle.de CNAME .
 *.fuer-alle.de CNAME .
 fuer-profis.de CNAME .
@@ -1656,6 +1684,8 @@ beepworld.it CNAME .
 *.beepworld.it CNAME .
 blogspot.it CNAME .
 *.blogspot.it CNAME .
+kataweb.it CNAME .
+*.kataweb.it CNAME .
 webnode.it CNAME .
 *.webnode.it CNAME .
 2.je CNAME .
@@ -1906,6 +1936,8 @@ one4u.0lx.net CNAME .
 *.one4u.0lx.net CNAME .
 100webspace.net CNAME .
 *.100webspace.net CNAME .
+1fr1.net CNAME .
+*.1fr1.net CNAME .
 1tt.net CNAME .
 *.1tt.net CNAME .
 1x.net CNAME .
@@ -1980,6 +2012,8 @@ netai.net CNAME .
 *.netai.net CNAME .
 onlinewebshop.net CNAME .
 *.onlinewebshop.net CNAME .
+pacbell.net CNAME .
+*.pacbell.net CNAME .
 page-suspension.net CNAME .
 *.page-suspension.net CNAME .
 pktriot.net CNAME .
@@ -2250,6 +2284,8 @@ kulichki.ru CNAME .
 *.kulichki.ru CNAME .
 my1.ru CNAME .
 *.my1.ru CNAME .
+mybb.ru CNAME .
+*.mybb.ru CNAME .
 narod.ru CNAME .
 *.narod.ru CNAME .
 nethouse.ru CNAME .
@@ -2292,6 +2328,8 @@ blogspot.se CNAME .
 *.blogspot.se CNAME .
 comhem.se CNAME .
 *.comhem.se CNAME .
+webblogg.se CNAME .
+*.webblogg.se CNAME .
 blogspot.sg CNAME .
 *.blogspot.sg CNAME .
 download.sh CNAME .

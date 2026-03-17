@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773766560 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773788040 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 17 Mar 2026 16:56 UTC
-; Version: 2026.0317.1656.04
+; Last modified: 17 Mar 2026 22:54 UTC
+; Version: 2026.0317.2254.34
 ; Syntax: RPZ
-; Number of entries: 24288
+; Number of entries: 24260
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -320,10 +320,6 @@ streamfree.app CNAME .
 *.streamfree.app CNAME .
 streamingcommunityz.app CNAME .
 *.streamingcommunityz.app CNAME .
-horriblesubs.theproxy.app CNAME .
-*.horriblesubs.theproxy.app CNAME .
-viprow.theproxy.app CNAME .
-*.viprow.theproxy.app CNAME .
 threadster.app CNAME .
 *.threadster.app CNAME .
 torbox.app CNAME .
@@ -1016,8 +1012,6 @@ stadium-live.biz CNAME .
 *.stadium-live.biz CNAME .
 streamingcommunityz.biz CNAME .
 *.streamingcommunityz.biz CNAME .
-tantifilm.biz CNAME .
-*.tantifilm.biz CNAME .
 thepiratefilmestorrent.biz CNAME .
 *.thepiratefilmestorrent.biz CNAME .
 thestreameast.biz CNAME .
@@ -1992,8 +1986,6 @@ streameast.ch CNAME .
 *.streameast.ch CNAME .
 streamingcommunityz.ch CNAME .
 *.streamingcommunityz.ch CNAME .
-streamingdivx.ch CNAME .
-*.streamingdivx.ch CNAME .
 streamsports99.ch CNAME .
 *.streamsports99.ch CNAME .
 t411.ch CNAME .
@@ -7710,8 +7702,6 @@ torrentdia100.com CNAME .
 *.torrentdia100.com CNAME .
 torrentdia2.com CNAME .
 *.torrentdia2.com CNAME .
-torrentdia99.com CNAME .
-*.torrentdia99.com CNAME .
 torrentesx.com CNAME .
 *.torrentesx.com CNAME .
 torrentfactory.com CNAME .
@@ -7864,8 +7854,6 @@ trackerpmr.com CNAME .
 *.trackerpmr.com CNAME .
 trainsaw.com CNAME .
 *.trainsaw.com CNAME .
-tranceroute.com CNAME .
-*.tranceroute.com CNAME .
 trancetraffic.com CNAME .
 *.trancetraffic.com CNAME .
 transmissionbt.com CNAME .
@@ -9708,8 +9696,6 @@ mkvcinemas.fit CNAME .
 *.mkvcinemas.fit CNAME .
 pelisflix20.fit CNAME .
 *.pelisflix20.fit CNAME .
-sportsnetwork.fit CNAME .
-*.sportsnetwork.fit CNAME .
 streaming-community.fit CNAME .
 *.streaming-community.fit CNAME .
 streamingcommunity.fit CNAME .
@@ -10192,8 +10178,6 @@ hdmovie2.gd CNAME .
 *.hdmovie2.gd CNAME .
 ezis-amarftp.rf.gd CNAME .
 *.ezis-amarftp.rf.gd CNAME .
-thepiratebay.gd CNAME .
-*.thepiratebay.gd CNAME .
 vegamovies.gd CNAME .
 *.vegamovies.gd CNAME .
 123moviess.gdn CNAME .
@@ -13142,8 +13126,6 @@ streamingcommunity.media CNAME .
 *.streamingcommunity.media CNAME .
 streamingcommunityz.media CNAME .
 *.streamingcommunityz.media CNAME .
-tantifilm.media CNAME .
-*.tantifilm.media CNAME .
 unimay.media CNAME .
 *.unimay.media CNAME .
 yesmovies.media CNAME .
@@ -17600,8 +17582,6 @@ thehawks.org CNAME .
 *.thehawks.org CNAME .
 themixingbowl.org CNAME .
 *.themixingbowl.org CNAME .
-themovie123.org CNAME .
-*.themovie123.org CNAME .
 themoviehub.org CNAME .
 *.themoviehub.org CNAME .
 thenftbay.org CNAME .
@@ -18340,8 +18320,6 @@ hdfilme.press CNAME .
 *.hdfilme.press CNAME .
 streamcloud.press CNAME .
 *.streamcloud.press CNAME .
-thepiratebay.press CNAME .
-*.thepiratebay.press CNAME .
 vegamovies.press CNAME .
 *.vegamovies.press CNAME .
 786livetv.pro CNAME .
@@ -20030,8 +20008,6 @@ orion.si CNAME .
 *.orion.si CNAME .
 primewire.si CNAME .
 *.primewire.si CNAME .
-sportzonline.si CNAME .
-*.sportzonline.si CNAME .
 stealth.si CNAME .
 *.stealth.si CNAME .
 streamingcommunityz.si CNAME .
@@ -20694,8 +20670,6 @@ nzb.su CNAME .
 *.nzb.su CNAME .
 seez.su CNAME .
 *.seez.su CNAME .
-streamed.su CNAME .
-*.streamed.su CNAME .
 streami.su CNAME .
 *.streami.su CNAME .
 streamsports99.su CNAME .
@@ -23186,8 +23160,6 @@ vegamovies.vu CNAME .
 *.vegamovies.vu CNAME .
 hdmovie2.wang CNAME .
 *.hdmovie2.wang CNAME .
-streamingcommunity.wang CNAME .
-*.streamingcommunity.wang CNAME .
 123movies.watch CNAME .
 *.123movies.watch CNAME .
 altadefinizionegratis.watch CNAME .

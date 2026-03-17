@@ -1246,6 +1246,13 @@
       }
     },
     {
+      "PK": "clear.dental",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.click",
       "action": {
         "do": 0,

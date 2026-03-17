@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Mar 2026 15:33 UTC
-# Version: 2026.0317.1533.08
+# Last modified: 17 Mar 2026 21:34 UTC
+# Version: 2026.0317.2134.29
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9962
+# Number of entries: 9956
 #
 local=/0.gp/
 local=/00m.in/
@@ -7973,7 +7973,6 @@ local=/tawk.link/
 local=/tawon4d.pro/
 local=/taxace.net/
 local=/taxspeaker.tax/
-local=/taythi.life/
 local=/m.tb.cn/
 local=/tbb.tw/
 local=/tbfurl.com/
@@ -8196,7 +8195,6 @@ local=/tinyfy.io/
 local=/tinyfy.me/
 local=/tinygo.co/
 local=/tinygo.net/
-local=/tinygo.pro/
 local=/tinyi.sh/
 local=/tinyl.co/
 local=/tinyl.ink/
@@ -8314,7 +8312,6 @@ local=/tnyr.me/
 local=/tnyurl.one/
 local=/tnyurl.pro/
 local=/tnyweb.com/
-local=/tnyz.at/
 local=/to.lk/
 local=/to.ly/
 local=/to-text.net/
@@ -8350,7 +8347,6 @@ local=/toolong.info/
 local=/toolsfox.com/
 local=/toolspivot.com/
 local=/toolssagar.com/
-local=/topdogeducation.com/
 local=/topkale.me/
 local=/toplistt.com/
 local=/topsitus.com/
@@ -8379,7 +8375,6 @@ local=/tpishz.net/
 local=/tpm.ac/
 local=/tpmr.com/
 local=/tprk.us/
-local=/tpshortlinks.site/
 local=/tpt.one/
 local=/tr.ee/
 local=/tr.im/
@@ -8418,7 +8413,6 @@ local=/trib.al/
 local=/trib.in/
 local=/tribn.ir/
 local=/trick.ly/
-local=/trieuview.life/
 local=/triggerbee.com/
 local=/trim.ac/
 local=/trim.cx/

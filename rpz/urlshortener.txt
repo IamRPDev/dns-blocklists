@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773761580 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773783240 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 17 Mar 2026 15:33 UTC
-; Version: 2026.0317.1533.08
+; Last modified: 17 Mar 2026 21:34 UTC
+; Version: 2026.0317.2134.29
 ; Syntax: RPZ
-; Number of entries: 19924
+; Number of entries: 19912
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -811,8 +811,6 @@ tatt.at CNAME .
 *.tatt.at CNAME .
 links.thetravelbirds.at CNAME .
 *.links.thetravelbirds.at CNAME .
-tnyz.at CNAME .
-*.tnyz.at CNAME .
 tres.at CNAME .
 *.tres.at CNAME .
 urlcut.at CNAME .
@@ -7079,8 +7077,6 @@ toolspivot.com CNAME .
 *.toolspivot.com CNAME .
 toolssagar.com CNAME .
 *.toolssagar.com CNAME .
-topdogeducation.com CNAME .
-*.topdogeducation.com CNAME .
 toplistt.com CNAME .
 *.toplistt.com CNAME .
 topsitus.com CNAME .
@@ -12337,12 +12333,8 @@ phaiphai.life CNAME .
 *.phaiphai.life CNAME .
 tamthangnam.life CNAME .
 *.tamthangnam.life CNAME .
-taythi.life CNAME .
-*.taythi.life CNAME .
 tiger388.life CNAME .
 *.tiger388.life CNAME .
-trieuview.life CNAME .
-*.trieuview.life CNAME .
 vnvodich.life CNAME .
 *.vnvodich.life CNAME .
 volamtruyenky.life CNAME .
@@ -16815,8 +16807,6 @@ tawon4d.pro CNAME .
 *.tawon4d.pro CNAME .
 tinurl.pro CNAME .
 *.tinurl.pro CNAME .
-tinygo.pro CNAME .
-*.tinygo.pro CNAME .
 titly.pro CNAME .
 *.titly.pro CNAME .
 tnyurl.pro CNAME .
@@ -17693,8 +17683,6 @@ terasherelinks.site CNAME .
 *.terasherelinks.site CNAME .
 totopecah.site CNAME .
 *.totopecah.site CNAME .
-tpshortlinks.site CNAME .
-*.tpshortlinks.site CNAME .
 tt5k.site CNAME .
 *.tt5k.site CNAME .
 unshort.site CNAME .

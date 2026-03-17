@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Mar 2026 16:56 UTC
-# Version: 2026.0317.1656.04
+# Last modified: 17 Mar 2026 22:54 UTC
+# Version: 2026.0317.2254.34
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 12144
+# Number of entries: 12130
 #
 local=/tracker.guguan.000.pe/
 local=/003396815.xyz/
@@ -9127,7 +9127,6 @@ local=/sportsbay.top/
 local=/sportschamp.fun/
 local=/sportsleading.online/
 local=/sportslive.me/
-local=/sportsnetwork.fit/
 local=/sportsonline.gl/
 local=/sportsonline.to/
 local=/v3.sportsonline.sx/
@@ -9169,7 +9168,6 @@ local=/sportzonline.com/
 local=/sportzonline.live/
 local=/sportzonline.ps/
 local=/sportzonline.pw/
-local=/sportzonline.si/
 local=/sportzonline.site/
 local=/sportzonline.st/
 local=/sportzonline.to/
@@ -9298,7 +9296,6 @@ local=/streameast.soccer/
 local=/streameast.xyz/
 local=/streamed.pk/
 local=/streamed.st/
-local=/streamed.su/
 local=/streamees.com/
 local=/streamerflix.xyz/
 local=/streamflix.one/
@@ -9418,7 +9415,6 @@ local=/streamingcommunity.to/
 local=/streamingcommunity.us/
 local=/streamingcommunity.vg/
 local=/streamingcommunity.vip/
-local=/streamingcommunity.wang/
 local=/streamingcommunity.ws/
 local=/streamingcommunity.xyz/
 local=/streamingcommunityz.agency/
@@ -9567,7 +9563,6 @@ local=/streamingcommunityz.wiki/
 local=/streamingcommunityz.win/
 local=/streamingcommunityz.xn--6frz82g/
 local=/streamingcommunityz.yoga/
-local=/streamingdivx.ch/
 local=/streaminggratuit.cc/
 local=/streaminggratuit.rip/
 local=/streamingon.org/
@@ -9749,7 +9744,6 @@ local=/tantifilm.asia/
 local=/tantifilm.be/
 local=/tantifilm.bet/
 local=/tantifilm.bingo/
-local=/tantifilm.biz/
 local=/tantifilm.blog/
 local=/tantifilm.buzz/
 local=/tantifilm.casa/
@@ -9778,7 +9772,6 @@ local=/tantifilm.living/
 local=/tantifilm.locker/
 local=/tantifilm.mba/
 local=/tantifilm.me/
-local=/tantifilm.media/
 local=/tantifilm.mobi/
 local=/tantifilm.name/
 local=/tantifilm.net/
@@ -9929,7 +9922,6 @@ local=/themfire.pro/
 local=/themicrotech.net/
 local=/themirror.wiki/
 local=/themixingbowl.org/
-local=/themovie123.org/
 local=/themoviebay.net/
 local=/themoviehub.org/
 local=/themoviesflix.plus/
@@ -9956,13 +9948,11 @@ local=/thepiratebay.cx/
 local=/thepiratebay.ee/
 local=/thepiratebay.fail/
 local=/thepiratebay.fm/
-local=/thepiratebay.gd/
 local=/thepiratebay.icu/
 local=/thepiratebay.monster/
 local=/thepiratebay.org/
 local=/thepiratebay.party/
 local=/thepiratebay.pe/
-local=/thepiratebay.press/
 local=/thepiratebay.red/
 local=/thepiratebay.rocks/
 local=/thepiratebay.se/
@@ -10007,8 +9997,6 @@ local=/thepokerbay.org/
 local=/thepopcorntime.net/
 local=/wiki.theppn.org/
 local=/cricfree.theproxy.vip/
-local=/horriblesubs.theproxy.app/
-local=/viprow.theproxy.app/
 local=/therarbg.com/
 local=/tracker.therarbg.to/
 local=/yaps.therarbg.to/
@@ -10262,7 +10250,6 @@ local=/torrentdb.li/
 local=/torrentdia.com/
 local=/torrentdia100.com/
 local=/torrentdia2.com/
-local=/torrentdia99.com/
 local=/torrentdosfilmes.tv/
 local=/torrentdosfilmes2.net/
 local=/torrentdosfilmeshd2.net/
@@ -10480,7 +10467,6 @@ local=/traffilm.net/
 local=/traht.org/
 local=/trailers.to/
 local=/trainsaw.com/
-local=/tranceroute.com/
 local=/trancetraffic.com/
 local=/transamrit.net/
 local=/transmissionbt.com/
