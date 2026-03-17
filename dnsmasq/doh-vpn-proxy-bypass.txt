@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Mar 2026 11:01 UTC
-# Version: 2026.0317.1101.03
+# Last modified: 17 Mar 2026 17:02 UTC
+# Version: 2026.0317.1702.31
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 16710
+# Number of entries: 16693
 #
 local=/000000555.xyz/
 local=/ss.0001.xyz/
@@ -12025,7 +12025,6 @@ local=/adriel.redalameda.cl/
 local=/solving.redalameda.cl/
 local=/topwriting.redalameda.cl/
 local=/redhoodie.site/
-local=/okaaaaaaaaaaaay.redjoc.cl/
 local=/rammed-head.redjoc.cl/
 local=/redproxy.info/
 local=/dns.redroot.cc/
@@ -12046,7 +12045,6 @@ local=/regoujc.com/
 local=/dns.reitmeier.me/
 local=/relatenose.com/
 local=/authclever.relaxingco.cl/
-local=/chatham5ch00ls.relaxingco.cl/
 local=/edu.relaxingco.cl/
 local=/login.relaxingco.cl/
 local=/login-ixl.relaxingco.cl/
@@ -12054,7 +12052,6 @@ local=/loginedu.relaxingco.cl/
 local=/mathtips.relaxingco.cl/
 local=/profile.relaxingco.cl/
 local=/ratlover284.relaxingco.cl/
-local=/rctvyhujtrvbyuh.relaxingco.cl/
 local=/relayon.org/
 local=/relviro.ru/
 local=/remotevpn.net/
@@ -12174,7 +12171,6 @@ local=/1.rock-review.ru/
 local=/rock1314.com/
 local=/rocketnews.site/
 local=/evilevil.rocketyoga.ar/
-local=/wow.rocketyoga.ar/
 local=/dns2.rocksdns.ovh/
 local=/rockwell.website/
 local=/rockwhisper.com/
@@ -12193,7 +12189,6 @@ local=/justjosh1.com.root.sx/
 local=/hvetemelisapotato123.root.sx/
 local=/vps1.rootax.org/
 local=/vps2.rootax.org/
-local=/dontlike19.rootcop.com/
 local=/ropavaporopav.cyou/
 local=/xciouveksjkdfsdf.ekcjxvlesdfes.rossco.uk/
 local=/zxcviuosdfwdf.fjlkecxv.rossco.uk/
@@ -12259,7 +12254,6 @@ local=/rvpn.ws/
 local=/rwq7uvuj88pied.com/
 local=/dns1.ryan-palmer.com/
 local=/excel.theme.ryansilvester.com/
-local=/vpn.rynet.link/
 local=/ryonosuke.jp/
 local=/ryonosuke.xyz/
 local=/s-vpn.org/
@@ -12410,7 +12404,6 @@ local=/schoolcomminicate.com/
 local=/dns1.schooldns.nl/
 local=/schoolnewsletter.us/
 local=/schoology.college/
-local=/schoology.help/
 local=/n.schoology.lat/
 local=/schoolooks.com/
 local=/play.schooloqy.com/
@@ -12524,7 +12517,6 @@ local=/dns.sellan.fr/
 local=/selongyun.com/
 local=/selongyunclash.com/
 local=/selsby.info/
-local=/kaelixdebonair.semioptimal.net/
 local=/adguard.senthil.us/
 local=/sentinel.com/
 local=/senviro.ru/
@@ -12541,10 +12533,8 @@ local=/server2386.com/
 local=/server3233.com/
 local=/serverh1ub.ir/
 local=/serverhoya.com/
-local=/serverkit.pw/
 local=/adguard.servernation.xyz/
 local=/node9.servernode.store/
-local=/please-send-help-im-not-safe.servernux.com/
 local=/serverp1anel.ir/
 local=/ikeepgooning.serverpit.com/
 local=/adguard.serverrune.be/
@@ -12575,7 +12565,6 @@ local=/sflpc7kc.online/
 local=/pates.services.sfr.fr.casepp.sfr.fr/
 local=/sfsso.cn/
 local=/avasthecoolestperson.sg-rasselbandi.ch/
-local=/mail.google.com.sg-rasselbandi.ch/
 local=/gang.sg-rasselbandi.ch/
 local=/sgwzoch.online/
 local=/d2.shabi.icu/
@@ -12766,15 +12755,9 @@ local=/northfayetteschools-org.sitesi.tc/
 local=/sitespeedtest.net/
 local=/sitesunblocked.com/
 local=/siteunblock.org/
-local=/siteunblock.xyz/
-local=/siteunblocked.club/
-local=/siteunblocked.icu/
 local=/siteunblocked.lol/
-local=/siteunblocked.net/
-local=/siteunblocked.org/
 local=/siteunblocked.space/
 local=/siteunblocked.website/
-local=/siteunblocked.xyz/
 local=/sitework.info/
 local=/sitx2.cc/
 local=/moto.adg.siudzinski.net/

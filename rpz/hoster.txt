@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773742080 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773763560 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 17 Mar 2026 10:08 UTC
-; Version: 2026.0317.1008.20
+; Last modified: 17 Mar 2026 16:06 UTC
+; Version: 2026.0317.1606.55
 ; Syntax: RPZ
-; Number of entries: 2506
+; Number of entries: 2500
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -798,12 +798,6 @@ rozblog.com CNAME .
 *.rozblog.com CNAME .
 rssing.com CNAME .
 *.rssing.com CNAME .
-bookp.ru.com CNAME .
-*.bookp.ru.com CNAME .
-euspray.ru.com CNAME .
-*.euspray.ru.com CNAME .
-sexpay.ru.com CNAME .
-*.sexpay.ru.com CNAME .
 runhosting.com CNAME .
 *.runhosting.com CNAME .
 sa.com CNAME .

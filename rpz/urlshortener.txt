@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773740100 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773761580 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 17 Mar 2026 09:35 UTC
-; Version: 2026.0317.0935.30
+; Last modified: 17 Mar 2026 15:33 UTC
+; Version: 2026.0317.1533.08
 ; Syntax: RPZ
-; Number of entries: 19936
+; Number of entries: 19924
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -2899,8 +2899,6 @@ smsb.co CNAME .
 *.smsb.co CNAME .
 snar.co CNAME .
 *.snar.co CNAME .
-snipio.co CNAME .
-*.snipio.co CNAME .
 sniplink.co CNAME .
 *.sniplink.co CNAME .
 sniplnk.co CNAME .
@@ -6171,8 +6169,6 @@ rlkeps.com CNAME .
 *.rlkeps.com CNAME .
 rmmlink.com CNAME .
 *.rmmlink.com CNAME .
-rndrlink.com CNAME .
-*.rndrlink.com CNAME .
 rngts.com CNAME .
 *.rngts.com CNAME .
 view.robothumb.com CNAME .
@@ -6341,8 +6337,6 @@ sharetabs.com CNAME .
 *.sharetabs.com CNAME .
 shavelinks.com CNAME .
 *.shavelinks.com CNAME .
-shelbyknox.com CNAME .
-*.shelbyknox.com CNAME .
 go.shell.com CNAME .
 *.go.shell.com CNAME .
 shentharindu.com CNAME .
@@ -12963,8 +12957,6 @@ smurl.link CNAME .
 *.smurl.link CNAME .
 sndn.link CNAME .
 *.sndn.link CNAME .
-snip.link CNAME .
-*.snip.link CNAME .
 snpy.link CNAME .
 *.snpy.link CNAME .
 sonoran.link CNAME .
@@ -14415,8 +14407,6 @@ shortna.me CNAME .
 *.shortna.me CNAME .
 shortprofile.me CNAME .
 *.shortprofile.me CNAME .
-shortsfly.me CNAME .
-*.shortsfly.me CNAME .
 shorturls.me CNAME .
 *.shorturls.me CNAME .
 shortx.me CNAME .
@@ -15845,8 +15835,6 @@ shoco.one CNAME .
 *.shoco.one CNAME .
 shortlink.one CNAME .
 *.shortlink.one CNAME .
-shorturls.one CNAME .
-*.shorturls.one CNAME .
 shorty.one CNAME .
 *.shorty.one CNAME .
 sld.one CNAME .

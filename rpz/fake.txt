@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773739980 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773761460 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 17 Mar 2026 09:33 UTC
-; Version: 2026.0317.0933.41
+; Last modified: 17 Mar 2026 15:31 UTC
+; Version: 2026.0317.1531.19
 ; Syntax: RPZ
-; Number of entries: 28802
+; Number of entries: 28776
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -836,16 +836,12 @@ sendrawien.at CNAME .
 *.sendrawien.at CNAME .
 service-baxi.at CNAME .
 *.service-baxi.at CNAME .
-service-thermenwartung.at CNAME .
-*.service-thermenwartung.at CNAME .
 sexpuppenkaufen.at CNAME .
 *.sexpuppenkaufen.at CNAME .
 shop-pecuni.at CNAME .
 *.shop-pecuni.at CNAME .
 skechers-at.at CNAME .
 *.skechers-at.at CNAME .
-skechersat.at CNAME .
-*.skechersat.at CNAME .
 skechersaustria.at CNAME .
 *.skechersaustria.at CNAME .
 skechersshop.at CNAME .
@@ -3478,8 +3474,6 @@ biladishop.com CNAME .
 *.biladishop.com CNAME .
 bilago.com CNAME .
 *.bilago.com CNAME .
-app.bilinterface.com CNAME .
-*.app.bilinterface.com CNAME .
 billardpros.com CNAME .
 *.billardpros.com CNAME .
 billardsportshop.com CNAME .
@@ -8590,6 +8584,8 @@ holzbriketts-kaufen.com CNAME .
 *.holzbriketts-kaufen.com CNAME .
 holzd24.com CNAME .
 *.holzd24.com CNAME .
+holzdebrenn.com CNAME .
+*.holzdebrenn.com CNAME .
 holzerneblocke.com CNAME .
 *.holzerneblocke.com CNAME .
 holzhandelhensel.com CNAME .
@@ -13772,8 +13768,6 @@ receptiond.com CNAME .
 *.receptiond.com CNAME .
 recetasplus.com CNAME .
 *.recetasplus.com CNAME .
-rechtsanwalt-adams.com CNAME .
-*.rechtsanwalt-adams.com CNAME .
 reciprocau.com CNAME .
 *.reciprocau.com CNAME .
 recollectk.com CNAME .
@@ -13990,8 +13984,6 @@ ritualshopper.com CNAME .
 *.ritualshopper.com CNAME .
 rkase.com CNAME .
 *.rkase.com CNAME .
-rmtechshop.com CNAME .
-*.rmtechshop.com CNAME .
 roamanwear.com CNAME .
 *.roamanwear.com CNAME .
 robelity.com CNAME .
@@ -14378,8 +14370,6 @@ scharfeprofession.com CNAME .
 *.scharfeprofession.com CNAME .
 schellkredit.com CNAME .
 *.schellkredit.com CNAME .
-schemanngruppe.com CNAME .
-*.schemanngruppe.com CNAME .
 scheppachwerkzeuge.com CNAME .
 *.scheppachwerkzeuge.com CNAME .
 scherenrabatt.com CNAME .
@@ -14518,8 +14508,6 @@ sejalunebrasil.com CNAME .
 *.sejalunebrasil.com CNAME .
 sekoda-de.com CNAME .
 *.sekoda-de.com CNAME .
-selbstfreiheit.com CNAME .
-*.selbstfreiheit.com CNAME .
 select-football.com CNAME .
 *.select-football.com CNAME .
 selectedmedsonline.com CNAME .
@@ -14910,8 +14898,6 @@ sleepwearinc.com CNAME .
 *.sleepwearinc.com CNAME .
 sleeveis.com CNAME .
 *.sleeveis.com CNAME .
-slidockscorporation.com CNAME .
-*.slidockscorporation.com CNAME .
 slimmgummies.com CNAME .
 *.slimmgummies.com CNAME .
 slimvitax.com CNAME .
@@ -17048,8 +17034,6 @@ velpo-vertrieb.com CNAME .
 *.velpo-vertrieb.com CNAME .
 veltriscapital.com CNAME .
 *.veltriscapital.com CNAME .
-veltronglobal.com CNAME .
-*.veltronglobal.com CNAME .
 velvetparfumde.com CNAME .
 *.velvetparfumde.com CNAME .
 vendome-logistique.com CNAME .
@@ -20634,6 +20618,8 @@ haustechnik-muenchen.de CNAME .
 *.haustechnik-muenchen.de CNAME .
 haustechnikmeine.de CNAME .
 *.haustechnikmeine.de CNAME .
+haustierstolz.de CNAME .
+*.haustierstolz.de CNAME .
 haustirwelten.de CNAME .
 *.haustirwelten.de CNAME .
 havro.de CNAME .
@@ -23386,8 +23372,6 @@ sedore.de CNAME .
 *.sedore.de CNAME .
 seepalm.de CNAME .
 *.seepalm.de CNAME .
-segler-ohligs24.de CNAME .
-*.segler-ohligs24.de CNAME .
 seifenbrause.de CNAME .
 *.seifenbrause.de CNAME .
 seifertundstil.de CNAME .
@@ -26008,8 +25992,6 @@ simplejuicing.net CNAME .
 *.simplejuicing.net CNAME .
 smart-research.net CNAME .
 *.smart-research.net CNAME .
-smokerland.net CNAME .
-*.smokerland.net CNAME .
 solara-finltd.net CNAME .
 *.solara-finltd.net CNAME .
 solovairbelgium.net CNAME .
@@ -26032,8 +26014,6 @@ sonogo.net CNAME .
 *.sonogo.net CNAME .
 sportscheck-de.net CNAME .
 *.sportscheck-de.net CNAME .
-spot6xnoris.net CNAME .
-*.spot6xnoris.net CNAME .
 sterydy-anaboliczne.net CNAME .
 *.sterydy-anaboliczne.net CNAME .
 stocket.net CNAME .
@@ -27644,8 +27624,6 @@ rnfeff.shop CNAME .
 *.rnfeff.shop CNAME .
 road-vignette.shop CNAME .
 *.road-vignette.shop CNAME .
-robynbruce.shop CNAME .
-*.robynbruce.shop CNAME .
 rockanutritionava.shop CNAME .
 *.rockanutritionava.shop CNAME .
 rockmysleepeu.shop CNAME .
@@ -27694,8 +27672,6 @@ sezane-authorized.shop CNAME .
 *.sezane-authorized.shop CNAME .
 shirohana.shop CNAME .
 *.shirohana.shop CNAME .
-shoekankitty.shop CNAME .
-*.shoekankitty.shop CNAME .
 shoesoutlet.shop CNAME .
 *.shoesoutlet.shop CNAME .
 shopkokoro.shop CNAME .
@@ -28510,8 +28486,6 @@ setar.top CNAME .
 *.setar.top CNAME .
 shaxu.top CNAME .
 *.shaxu.top CNAME .
-sneakernews79.top CNAME .
-*.sneakernews79.top CNAME .
 solern.top CNAME .
 *.solern.top CNAME .
 sopbyt.top CNAME .

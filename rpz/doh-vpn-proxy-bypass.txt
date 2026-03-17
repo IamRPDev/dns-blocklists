@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773745260 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773766920 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 17 Mar 2026 11:01 UTC
-; Version: 2026.0317.1101.03
+; Last modified: 17 Mar 2026 17:02 UTC
+; Version: 2026.0317.1702.31
 ; Syntax: RPZ
-; Number of entries: 33420
+; Number of entries: 33386
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -549,8 +549,6 @@ jacobcheeseman.fundacioncidea.org.ar CNAME .
 *.jacobcheeseman.fundacioncidea.org.ar CNAME .
 evilevil.rocketyoga.ar CNAME .
 *.evilevil.rocketyoga.ar CNAME .
-wow.rocketyoga.ar CNAME .
-*.wow.rocketyoga.ar CNAME .
 lumi.soloxhoy.ar CNAME .
 *.lumi.soloxhoy.ar CNAME .
 madeby-vcsa.soloxhoy.ar CNAME .
@@ -2035,8 +2033,6 @@ thankyou.righes.ch CNAME .
 *.thankyou.righes.ch CNAME .
 avasthecoolestperson.sg-rasselbandi.ch CNAME .
 *.avasthecoolestperson.sg-rasselbandi.ch CNAME .
-mail.google.com.sg-rasselbandi.ch CNAME .
-*.mail.google.com.sg-rasselbandi.ch CNAME .
 gang.sg-rasselbandi.ch CNAME .
 *.gang.sg-rasselbandi.ch CNAME .
 dns.sheggi.ch CNAME .
@@ -2357,14 +2353,10 @@ solving.redalameda.cl CNAME .
 *.solving.redalameda.cl CNAME .
 topwriting.redalameda.cl CNAME .
 *.topwriting.redalameda.cl CNAME .
-okaaaaaaaaaaaay.redjoc.cl CNAME .
-*.okaaaaaaaaaaaay.redjoc.cl CNAME .
 rammed-head.redjoc.cl CNAME .
 *.rammed-head.redjoc.cl CNAME .
 authclever.relaxingco.cl CNAME .
 *.authclever.relaxingco.cl CNAME .
-chatham5ch00ls.relaxingco.cl CNAME .
-*.chatham5ch00ls.relaxingco.cl CNAME .
 edu.relaxingco.cl CNAME .
 *.edu.relaxingco.cl CNAME .
 login.relaxingco.cl CNAME .
@@ -2379,8 +2371,6 @@ profile.relaxingco.cl CNAME .
 *.profile.relaxingco.cl CNAME .
 ratlover284.relaxingco.cl CNAME .
 *.ratlover284.relaxingco.cl CNAME .
-rctvyhujtrvbyuh.relaxingco.cl CNAME .
-*.rctvyhujtrvbyuh.relaxingco.cl CNAME .
 www.securly.com.setto.cl CNAME .
 *.www.securly.com.setto.cl CNAME .
 htmenirbytes.setto.cl CNAME .
@@ -2753,8 +2743,6 @@ quantora.club CNAME .
 *.quantora.club CNAME .
 sescloud.club CNAME .
 *.sescloud.club CNAME .
-siteunblocked.club CNAME .
-*.siteunblocked.club CNAME .
 suyin.club CNAME .
 *.suyin.club CNAME .
 techtecnow.club CNAME .
@@ -11901,8 +11889,6 @@ roogen.com CNAME .
 *.roogen.com CNAME .
 roonyx.com CNAME .
 *.roonyx.com CNAME .
-dontlike19.rootcop.com CNAME .
-*.dontlike19.rootcop.com CNAME .
 rotvpn.com CNAME .
 *.rotvpn.com CNAME .
 route7890.com CNAME .
@@ -12117,8 +12103,6 @@ server3233.com CNAME .
 *.server3233.com CNAME .
 serverhoya.com CNAME .
 *.serverhoya.com CNAME .
-please-send-help-im-not-safe.servernux.com CNAME .
-*.please-send-help-im-not-safe.servernux.com CNAME .
 ikeepgooning.serverpit.com CNAME .
 *.ikeepgooning.serverpit.com CNAME .
 assets-prod-a230.s3.serverwild.com CNAME .
@@ -17609,8 +17593,6 @@ ohgodplease.help CNAME .
 *.ohgodplease.help CNAME .
 rainshadow.help CNAME .
 *.rainshadow.help CNAME .
-schoology.help CNAME .
-*.schoology.help CNAME .
 unblocked.help CNAME .
 *.unblocked.help CNAME .
 uproxy.help CNAME .
@@ -17751,8 +17733,6 @@ riolu.icu CNAME .
 *.riolu.icu CNAME .
 d2.shabi.icu CNAME .
 *.d2.shabi.icu CNAME .
-siteunblocked.icu CNAME .
-*.siteunblocked.icu CNAME .
 sunsett.icu CNAME .
 *.sunsett.icu CNAME .
 sq.trin.icu CNAME .
@@ -19797,8 +19777,6 @@ riolu-node.link CNAME .
 *.riolu-node.link CNAME .
 riolu00.link CNAME .
 *.riolu00.link CNAME .
-vpn.rynet.link CNAME .
-*.vpn.rynet.link CNAME .
 skipdns.link CNAME .
 *.skipdns.link CNAME .
 4398t9384ht873hq8.live CNAME .
@@ -24013,8 +23991,6 @@ securetunnels.net CNAME .
 *.securetunnels.net CNAME .
 securewebproxy.net CNAME .
 *.securewebproxy.net CNAME .
-kaelixdebonair.semioptimal.net CNAME .
-*.kaelixdebonair.semioptimal.net CNAME .
 serverssh.net CNAME .
 *.serverssh.net CNAME .
 shadowfly.net CNAME .
@@ -24039,8 +24015,6 @@ siteget.net CNAME .
 *.siteget.net CNAME .
 sitespeedtest.net CNAME .
 *.sitespeedtest.net CNAME .
-siteunblocked.net CNAME .
-*.siteunblocked.net CNAME .
 moto.adg.siudzinski.net CNAME .
 *.moto.adg.siudzinski.net CNAME .
 sams.adg.siudzinski.net CNAME .
@@ -27199,8 +27173,6 @@ sitenable.org CNAME .
 *.sitenable.org CNAME .
 siteunblock.org CNAME .
 *.siteunblock.org CNAME .
-siteunblocked.org CNAME .
-*.siteunblocked.org CNAME .
 clever.sjeducation.org CNAME .
 *.clever.sjeducation.org CNAME .
 ofer.ox.sjtech.org CNAME .
@@ -28239,8 +28211,6 @@ tiger.dns.qwer.pw CNAME .
 *.tiger.dns.qwer.pw CNAME .
 raj.pw CNAME .
 *.raj.pw CNAME .
-serverkit.pw CNAME .
-*.serverkit.pw CNAME .
 shandian.pw CNAME .
 *.shandian.pw CNAME .
 learning.teamgaming.pw CNAME .
@@ -33015,10 +32985,6 @@ simple-education.xyz CNAME .
 *.simple-education.xyz CNAME .
 simply-history.xyz CNAME .
 *.simply-history.xyz CNAME .
-siteunblock.xyz CNAME .
-*.siteunblock.xyz CNAME .
-siteunblocked.xyz CNAME .
-*.siteunblocked.xyz CNAME .
 skibidislicers.xyz CNAME .
 *.skibidislicers.xyz CNAME .
 skytreeapi.xyz CNAME .

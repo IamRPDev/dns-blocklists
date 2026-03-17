@@ -11,8 +11,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 16 Mar 2026 17:17 UTC
-! Version: 2026.0316.1717.31
+! Last modified: 17 Mar 2026 17:03 UTC
+! Version: 2026.0317.1703.19
 ! Syntax: uBlock
 ! Number of latin TLDs: 285 - punycode TLDs: 151
 !
@@ -93,7 +93,7 @@
 ||dpdns.org^$doc
 ||eco^$doc,domain=~auk.eco|~elli.eco|~mer.eco|~play.eco
 ||edu.eu^$doc
-||energy^$doc,domain=~bigdig.energy
+||energy^$doc,domain=~bigdig.energy|~octopus.energy
 ||engineer^$doc
 ||enterprises^$doc
 ||equipment^$doc,domain=~biqu.equipment
@@ -178,7 +178,7 @@
 ||miami^$doc
 ||ml^$doc,domain=~aire.ml|~amap.ml|~google.ml|~info-matin.ml|~lemmygrad.ml|~lemmy.ml|~lingva.ml|~loma.ml|~mastodon.ml|~melody.ml|~precure.ml|~prompt.ml
 ||moda^$doc
-||moe^$doc,domain=~anh.moe|~aniya.moe|~catbox.moe|~cdn.moe|~cubari.moe|~ddlc.moe|~dmn.moe|~honse.moe|~mathi.moe|~nyarchlinux.moe|~sakurajima.moe|~save.moe|~snug.moe|~trace.moe|~tzatzikiweeb.moe|~uma.moe
+||moe^$doc,domain=~anh.moe|~aniya.moe|~catbox.moe|~cdn.moe|~cubari.moe|~ddlc.moe|~dmn.moe|~ewe.moe|~honse.moe|~mathi.moe|~nyarchlinux.moe|~sakurajima.moe|~save.moe|~snug.moe|~trace.moe|~tzatzikiweeb.moe|~uma.moe
 ||mom^$doc
 ||money^$doc,domain=~copilot.money|~flowyour.money|~super.money|~unstoppable.money|~usual.money|~vivid.money
 ||monster^$doc,domain=~cloudcdn.monster|~fedi.monster|~mortgage.monster|~rollenspiel.monster|~tts.monster|~yts.monster

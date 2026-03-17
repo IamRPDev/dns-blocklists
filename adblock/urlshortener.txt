@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 17 Mar 2026 09:35 UTC
-! Version: 2026.0317.0935.30
+! Last modified: 17 Mar 2026 15:33 UTC
+! Version: 2026.0317.1533.08
 ! Syntax: AdBlock
-! Number of entries: 9968
+! Number of entries: 9962
 !
 ||0.gp^
 ||00m.in^
@@ -6652,7 +6652,6 @@
 ||rmsc.io^
 ||rmuti.me^
 ||rmv.io^
-||rndrlink.com^
 ||rngts.com^
 ||rnm.me^
 ||view.robothumb.com^
@@ -6989,7 +6988,6 @@
 ||shavel.ink^
 ||shavelinks.com^
 ||shct.io^
-||shelbyknox.com^
 ||go.shell.com^
 ||shentharindu.com^
 ||shero.link^
@@ -7231,7 +7229,6 @@
 ||shortrl.com^
 ||shortrr.xyz^
 ||shorts.codes^
-||shortsfly.me^
 ||shortshare.app^
 ||shortslinks.com^
 ||shortslinks.site^
@@ -7270,7 +7267,6 @@
 ||shorturlhub.com^
 ||shorturlmagic.link^
 ||shorturls.me^
-||shorturls.one^
 ||shorturls.pro^
 ||shorturlss.com^
 ||shorturlx.com^
@@ -7600,11 +7596,9 @@
 ||sni.ps^
 ||snifferip.com^
 ||snip.im^
-||snip.link^
 ||snip.ly^
 ||snip.ng^
 ||snipify.net^
-||snipio.co^
 ||snipitx.com^
 ||snipix.tech^
 ||sniplify.me^

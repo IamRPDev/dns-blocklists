@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Mar 2026 09:35 UTC
-# Version: 2026.0317.0935.30
+# Last modified: 17 Mar 2026 15:33 UTC
+# Version: 2026.0317.1533.08
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9968
+# Number of entries: 9962
 #
 local=/0.gp/
 local=/00m.in/
@@ -6651,7 +6651,6 @@ local=/rmmlink.com/
 local=/rmsc.io/
 local=/rmuti.me/
 local=/rmv.io/
-local=/rndrlink.com/
 local=/rngts.com/
 local=/rnm.me/
 local=/view.robothumb.com/
@@ -6988,7 +6987,6 @@ local=/shatu.nl/
 local=/shavel.ink/
 local=/shavelinks.com/
 local=/shct.io/
-local=/shelbyknox.com/
 local=/go.shell.com/
 local=/shentharindu.com/
 local=/shero.link/
@@ -7230,7 +7228,6 @@ local=/shortracz.com/
 local=/shortrl.com/
 local=/shortrr.xyz/
 local=/shorts.codes/
-local=/shortsfly.me/
 local=/shortshare.app/
 local=/shortslinks.com/
 local=/shortslinks.site/
@@ -7269,7 +7266,6 @@ local=/shorturlbot.com/
 local=/shorturlhub.com/
 local=/shorturlmagic.link/
 local=/shorturls.me/
-local=/shorturls.one/
 local=/shorturls.pro/
 local=/shorturlss.com/
 local=/shorturlx.com/
@@ -7599,11 +7595,9 @@ local=/snhjsbs.shop/
 local=/sni.ps/
 local=/snifferip.com/
 local=/snip.im/
-local=/snip.link/
 local=/snip.ly/
 local=/snip.ng/
 local=/snipify.net/
-local=/snipio.co/
 local=/snipitx.com/
 local=/snipix.tech/
 local=/sniplify.me/

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Mar 2026 10:08 UTC
-# Version: 2026.0317.1008.20
+# Last modified: 17 Mar 2026 16:06 UTC
+# Version: 2026.0317.1606.55
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1253
+# Number of entries: 1250
 #
 local=/000a.de/
 local=/000space.com/
@@ -964,9 +964,6 @@ local=/rssing.com/
 local=/ru.cm/
 local=/ru.gp/
 local=/ru.nu/
-local=/bookp.ru.com/
-local=/euspray.ru.com/
-local=/sexpay.ru.com/
 local=/rumahweb.org/
 local=/runhosting.com/
 local=/s.gp/

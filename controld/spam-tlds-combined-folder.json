@@ -2268,6 +2268,13 @@
       }
     },
     {
+      "PK": "ewe.moe",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.exchange",
       "action": {
         "do": 0,
@@ -5048,6 +5055,13 @@
     },
     {
       "PK": "ocr.space",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "octopus.energy",
       "action": {
         "do": 1,
         "status": 1

@@ -1688,6 +1688,13 @@
       }
     },
     {
+      "PK": "ewe.moe",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "faceapp.photo",
       "action": {
         "do": 1,
@@ -3831,6 +3838,13 @@
     },
     {
       "PK": "ocr.space",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "octopus.energy",
       "action": {
         "do": 1,
         "status": 1
