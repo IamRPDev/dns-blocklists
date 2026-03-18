@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Mar 2026 22:54 UTC
-# Version: 2026.0317.2254.34
+# Last modified: 18 Mar 2026 04:54 UTC
+# Version: 2026.0318.0454.56
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 12130
+# Number of entries: 12120
 #
 local=/tracker.guguan.000.pe/
 local=/003396815.xyz/
@@ -10877,7 +10877,6 @@ local=/ustv247.tv/
 local=/utorrent.com/
 local=/utorrent.li/
 local=/utorrentfilmi.ru/
-local=/utorrento.ru/
 local=/utorrentz2.in/
 local=/tracker.uw0.xyz/
 local=/uwatch.to/
@@ -10924,10 +10923,8 @@ local=/vegamovies.ad/
 local=/vegamovies.ae/
 local=/vegamovies.agency/
 local=/vegamovies.ai/
-local=/vegamovies.al/
 local=/vegamovies.art/
 local=/vegamovies.asia/
-local=/vegamovies.at/
 local=/vegamovies.auction/
 local=/vegamovies.ba/
 local=/vegamovies.band/
@@ -10945,7 +10942,6 @@ local=/vegamovies.business/
 local=/vegamovies.cab/
 local=/vegamovies.cafe/
 local=/vegamovies.cam/
-local=/vegamovies.camera/
 local=/vegamovies.camp/
 local=/vegamovies.cards/
 local=/vegamovies.care/
@@ -10968,7 +10964,6 @@ local=/vegamovies.creditcard/
 local=/vegamovies.cricket/
 local=/vegamovies.cv/
 local=/vegamovies.dating/
-local=/vegamovies.day/
 local=/vegamovies.degree/
 local=/vegamovies.dev/
 local=/vegamovies.diet/
@@ -11055,7 +11050,6 @@ local=/vegamovies.ph/
 local=/vegamovies.phd/
 local=/vegamovies.photo/
 local=/vegamovies.photos/
-local=/vegamovies.plus/
 local=/vegamovies.press/
 local=/vegamovies.ps/
 local=/vegamovies.pt/
@@ -11080,7 +11074,6 @@ local=/vegamovies.skin/
 local=/vegamovies.sl/
 local=/vegamovies.sm/
 local=/vegamovies.solar/
-local=/vegamovies.spa/
 local=/vegamovies.spot/
 local=/vegamovies.ss/
 local=/vegamovies.st/
@@ -11095,7 +11088,6 @@ local=/vegamovies.tips/
 local=/vegamovies.to/
 local=/vegamovies.today/
 local=/vegamovies.travel/
-local=/vegamovies.tube/
 local=/vegamovies.tv/
 local=/vegamovies.tw/
 local=/vegamovies.tz/
@@ -11161,7 +11153,6 @@ local=/vfserie.com/
 local=/vfstreamingseries.com/
 local=/vfxdownload.com/
 local=/vfxdownloads.net/
-local=/vghjnbui1a.cfd/
 local=/vhmovies.net/
 local=/bt.viachicago.org/
 local=/viafnatt.tv/
@@ -11265,7 +11256,6 @@ local=/vigorish.ru/
 local=/vikv.net/
 local=/vimm.net/
 local=/vincdn.net/
-local=/vinema.ru/
 local=/vinovo.si/
 local=/vinovo.to/
 local=/violetscans.org/

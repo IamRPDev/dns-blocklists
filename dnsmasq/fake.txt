@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Mar 2026 21:32 UTC
-# Version: 2026.0317.2132.40
+# Last modified: 18 Mar 2026 03:32 UTC
+# Version: 2026.0318.0332.53
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14368
+# Number of entries: 14358
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -13077,7 +13077,6 @@ local=/tv-smart.co/
 local=/tvctrader.com/
 local=/tvidler.com/
 local=/tvshop-us.com/
-local=/tw-access.com/
 local=/twelvewhales.com/
 local=/twelvewhales.net/
 local=/twilight-fans.de/
@@ -13110,7 +13109,6 @@ local=/udofficialalfresco.com/
 local=/uesthermaina.shop/
 local=/ufolepbourgogne.org/
 local=/uggat.at/
-local=/uhlsportworld.shop/
 local=/uhren-heinrich.com/
 local=/uhren-walter.com/
 local=/uhrenvip.de/
@@ -13177,7 +13175,6 @@ local=/unisonmen.de/
 local=/unitechnica.com/
 local=/uniteddeliveryagency.com/
 local=/unitednudesale.com/
-local=/unityappliances.store/
 local=/unitywait.com/
 local=/universalbourse.com/
 local=/universalbundle.com/
@@ -13387,7 +13384,6 @@ local=/velionpartner.net/
 local=/vellera.de/
 local=/velobird-fahrrad.de/
 local=/velocityh.com/
-local=/velodirectstore.de/
 local=/velora-mode.de/
 local=/velorgain.com/
 local=/veloroil.de/
@@ -13573,7 +13569,6 @@ local=/vital-vibe.com/
 local=/vitaldelikatesse.com/
 local=/vitalgesund.at/
 local=/vitalismoemi.com/
-local=/vitkovice.net/
 local=/vivagopro.com/
 local=/vivaiabuty.pl/
 local=/vivaiaschuhe.at/
@@ -13595,7 +13590,6 @@ local=/vivobarefootschuhede.com/
 local=/vivobarefootschweiz.com/
 local=/vivobarefootshopberlin.de/
 local=/vivobarefootwien.at/
-local=/vivohogarvida.com/
 local=/vivomarkt.com/
 local=/vivvamixstore.com/
 local=/vixi.store/
@@ -13643,7 +13637,6 @@ local=/vollyshop.de/
 local=/voltabuy.com/
 local=/voltbankinternational.com/
 local=/voltryzapex.at/
-local=/voltsbikeshop.com/
 local=/volture.de/
 local=/voltus-elektroshop.de/
 local=/volvax.de/
@@ -13743,12 +13736,10 @@ local=/warmlogic.de/
 local=/warmood.ch/
 local=/warmthsta.com/
 local=/wascheparfum.at/
-local=/wascheparfume.de/
 local=/washingtontimesnewstoday.com/
 local=/wasserbetten-centrum.at/
 local=/wasserflorade.com/
 local=/wasserflorashop.com/
-local=/wasserhaus.shop/
 local=/wasserpflegede.com/
 local=/wasserspender-deutschland.de/
 local=/wassersportwert.com/
@@ -13983,7 +13974,6 @@ local=/withstndridg.com/
 local=/wittelsbach-partner.com/
 local=/wittelsheimholz.com/
 local=/witten-berg.de/
-local=/wiv-verwertung.de/
 local=/wivaro.de/
 local=/reiseweltat6.wixsite.com/
 local=/wjfsports.com/

@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773783240 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773804840 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 17 Mar 2026 21:34 UTC
-; Version: 2026.0317.2134.29
+; Last modified: 18 Mar 2026 03:34 UTC
+; Version: 2026.0318.0334.42
 ; Syntax: RPZ
-; Number of entries: 19912
+; Number of entries: 19896
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -7307,8 +7307,6 @@ urlaz.com CNAME .
 *.urlaz.com CNAME .
 urlbae.com CNAME .
 *.urlbae.com CNAME .
-urlbind.com CNAME .
-*.urlbind.com CNAME .
 urlbity.com CNAME .
 *.urlbity.com CNAME .
 urlbrief.com CNAME .
@@ -7381,8 +7379,6 @@ urlli.com CNAME .
 *.urlli.com CNAME .
 urllimit.com CNAME .
 *.urllimit.com CNAME .
-urllinker.com CNAME .
-*.urllinker.com CNAME .
 urllix.com CNAME .
 *.urllix.com CNAME .
 urlllll.com CNAME .
@@ -7401,8 +7397,6 @@ urlq.com CNAME .
 *.urlq.com CNAME .
 urlra.com CNAME .
 *.urlra.com CNAME .
-urlro.com CNAME .
-*.urlro.com CNAME .
 urlroot.com CNAME .
 *.urlroot.com CNAME .
 urlroxx.com CNAME .
@@ -7661,8 +7655,6 @@ wholesaletedgo.com CNAME .
 *.wholesaletedgo.com CNAME .
 whyiwu.com CNAME .
 *.whyiwu.com CNAME .
-wifeview.com CNAME .
-*.wifeview.com CNAME .
 peercertification.wildalwhite.com CNAME .
 *.peercertification.wildalwhite.com CNAME .
 link.winlinetech.com CNAME .
@@ -12237,8 +12229,6 @@ urlz.li CNAME .
 *.urlz.li CNAME .
 vai.li CNAME .
 *.vai.li CNAME .
-vav.li CNAME .
-*.vav.li CNAME .
 vim.li CNAME .
 *.vim.li CNAME .
 vov.li CNAME .
@@ -14557,12 +14547,8 @@ vigit.me CNAME .
 *.vigit.me CNAME .
 viralme.me CNAME .
 *.viralme.me CNAME .
-virl.me CNAME .
-*.virl.me CNAME .
 vnxy.me CNAME .
 *.vnxy.me CNAME .
-vof.me CNAME .
-*.vof.me CNAME .
 vog.me CNAME .
 *.vog.me CNAME .
 vur.me CNAME .
@@ -19283,8 +19269,6 @@ vbly.us CNAME .
 *.vbly.us CNAME .
 link.ver.us CNAME .
 *.link.ver.us CNAME .
-viplink.us CNAME .
-*.viplink.us CNAME .
 volvocars.us CNAME .
 *.volvocars.us CNAME .
 vrnda.us CNAME .

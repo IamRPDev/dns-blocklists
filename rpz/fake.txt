@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773783120 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773804720 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 17 Mar 2026 21:32 UTC
-; Version: 2026.0317.2132.40
+; Last modified: 18 Mar 2026 03:32 UTC
+; Version: 2026.0318.0332.53
 ; Syntax: RPZ
-; Number of entries: 28736
+; Number of entries: 28716
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -16622,8 +16622,6 @@ tvidler.com CNAME .
 *.tvidler.com CNAME .
 tvshop-us.com CNAME .
 *.tvshop-us.com CNAME .
-tw-access.com CNAME .
-*.tw-access.com CNAME .
 twelvewhales.com CNAME .
 *.twelvewhales.com CNAME .
 two-five-management.com CNAME .
@@ -17202,8 +17200,6 @@ vivobarefootschuhede.com CNAME .
 *.vivobarefootschuhede.com CNAME .
 vivobarefootschweiz.com CNAME .
 *.vivobarefootschweiz.com CNAME .
-vivohogarvida.com CNAME .
-*.vivohogarvida.com CNAME .
 vivomarkt.com CNAME .
 *.vivomarkt.com CNAME .
 vivvamixstore.com CNAME .
@@ -17244,8 +17240,6 @@ voltabuy.com CNAME .
 *.voltabuy.com CNAME .
 voltbankinternational.com CNAME .
 *.voltbankinternational.com CNAME .
-voltsbikeshop.com CNAME .
-*.voltsbikeshop.com CNAME .
 voncleir.com CNAME .
 *.voncleir.com CNAME .
 vonngallery.com CNAME .
@@ -24154,8 +24148,6 @@ vellera.de CNAME .
 *.vellera.de CNAME .
 velobird-fahrrad.de CNAME .
 *.velobird-fahrrad.de CNAME .
-velodirectstore.de CNAME .
-*.velodirectstore.de CNAME .
 velora-mode.de CNAME .
 *.velora-mode.de CNAME .
 veloroil.de CNAME .
@@ -24354,8 +24346,6 @@ warmind.de CNAME .
 *.warmind.de CNAME .
 warmlogic.de CNAME .
 *.warmlogic.de CNAME .
-wascheparfume.de CNAME .
-*.wascheparfume.de CNAME .
 wasserspender-deutschland.de CNAME .
 *.wasserspender-deutschland.de CNAME .
 watchharbor.de CNAME .
@@ -24476,8 +24466,6 @@ wirkotsch-tech.de CNAME .
 *.wirkotsch-tech.de CNAME .
 witten-berg.de CNAME .
 *.witten-berg.de CNAME .
-wiv-verwertung.de CNAME .
-*.wiv-verwertung.de CNAME .
 wivaro.de CNAME .
 *.wivaro.de CNAME .
 wmbra.de CNAME .
@@ -26050,8 +26038,6 @@ versys.net CNAME .
 *.versys.net CNAME .
 vessijapan.net CNAME .
 *.vessijapan.net CNAME .
-vitkovice.net CNAME .
-*.vitkovice.net CNAME .
 vivobarefootbrasil.net CNAME .
 *.vivobarefootbrasil.net CNAME .
 vswatches.net CNAME .
@@ -27756,8 +27742,6 @@ uaqcx.shop CNAME .
 *.uaqcx.shop CNAME .
 uesthermaina.shop CNAME .
 *.uesthermaina.shop CNAME .
-uhlsportworld.shop CNAME .
-*.uhlsportworld.shop CNAME .
 uhvcti.shop CNAME .
 *.uhvcti.shop CNAME .
 urban-rituals.shop CNAME .
@@ -27820,8 +27804,6 @@ walmede.shop CNAME .
 *.walmede.shop CNAME .
 waltade.shop CNAME .
 *.waltade.shop CNAME .
-wasserhaus.shop CNAME .
-*.wasserhaus.shop CNAME .
 watchcod-ca.shop CNAME .
 *.watchcod-ca.shop CNAME .
 watchcod-en.shop CNAME .
@@ -28242,8 +28224,6 @@ trustedshops.store CNAME .
 *.trustedshops.store CNAME .
 turbotrends.store CNAME .
 *.turbotrends.store CNAME .
-unityappliances.store CNAME .
-*.unityappliances.store CNAME .
 unplgd.store CNAME .
 *.unplgd.store CNAME .
 urbanclasse.store CNAME .

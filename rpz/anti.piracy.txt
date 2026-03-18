@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773788040 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773809640 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 17 Mar 2026 22:54 UTC
-; Version: 2026.0317.2254.34
+; Last modified: 18 Mar 2026 04:54 UTC
+; Version: 2026.0318.0454.56
 ; Syntax: RPZ
-; Number of entries: 24260
+; Number of entries: 24240
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -164,8 +164,6 @@ french-stream.al CNAME .
 *.french-stream.al CNAME .
 libertyland.al CNAME .
 *.libertyland.al CNAME .
-vegamovies.al CNAME .
-*.vegamovies.al CNAME .
 voirfilms.al CNAME .
 *.voirfilms.al CNAME .
 zone-telechargement.al CNAME .
@@ -512,8 +510,6 @@ totalsportek.at CNAME .
 *.totalsportek.at CNAME .
 xbox.udp.at CNAME .
 *.xbox.udp.at CNAME .
-vegamovies.at CNAME .
-*.vegamovies.at CNAME .
 watchfree.at CNAME .
 *.watchfree.at CNAME .
 yesmovies.at CNAME .
@@ -1378,8 +1374,6 @@ vegamovies.cam CNAME .
 *.vegamovies.cam CNAME .
 hdmovie2.camera CNAME .
 *.hdmovie2.camera CNAME .
-vegamovies.camera CNAME .
-*.vegamovies.camera CNAME .
 dood.camp CNAME .
 *.dood.camp CNAME .
 vegamovies.camp CNAME .
@@ -1928,8 +1922,6 @@ seriesflix.cfd CNAME .
 *.seriesflix.cfd CNAME .
 streamingcommunityz.cfd CNAME .
 *.streamingcommunityz.cfd CNAME .
-vghjnbui1a.cfd CNAME .
-*.vghjnbui1a.cfd CNAME .
 watchmovieshd.cfd CNAME .
 *.watchmovieshd.cfd CNAME .
 yesmovies.cfd CNAME .
@@ -8944,8 +8936,6 @@ kinox.unblockit.day CNAME .
 *.kinox.unblockit.day CNAME .
 newalbumreleases.unblockit.day CNAME .
 *.newalbumreleases.unblockit.day CNAME .
-vegamovies.day CNAME .
-*.vegamovies.day CNAME .
 zippyshare.day CNAME .
 *.zippyshare.day CNAME .
 mytoplist.2ix.de CNAME .
@@ -18292,8 +18282,6 @@ streamingcommunity.plus CNAME .
 *.streamingcommunity.plus CNAME .
 themoviesflix.plus CNAME .
 *.themoviesflix.plus CNAME .
-vegamovies.plus CNAME .
-*.vegamovies.plus CNAME .
 zona.plus CNAME .
 *.zona.plus CNAME .
 tracker.breizh.pm CNAME .
@@ -19568,8 +19556,6 @@ usch.ru CNAME .
 *.usch.ru CNAME .
 utorrentfilmi.ru CNAME .
 *.utorrentfilmi.ru CNAME .
-utorrento.ru CNAME .
-*.utorrento.ru CNAME .
 vce-besplatno.ru CNAME .
 *.vce-besplatno.ru CNAME .
 vidsrc-embed.ru CNAME .
@@ -19578,8 +19564,6 @@ viewembed.ru CNAME .
 *.viewembed.ru CNAME .
 vigorish.ru CNAME .
 *.vigorish.ru CNAME .
-vinema.ru CNAME .
-*.vinema.ru CNAME .
 viwlivehdplay.ru CNAME .
 *.viwlivehdplay.ru CNAME .
 vrtor.ru CNAME .
@@ -20356,8 +20340,6 @@ cineblog01.spa CNAME .
 *.cineblog01.spa CNAME .
 streamingcommunity.spa CNAME .
 *.streamingcommunity.spa CNAME .
-vegamovies.spa CNAME .
-*.vegamovies.spa CNAME .
 1soft.space CNAME .
 *.1soft.space CNAME .
 9kmovies.space CNAME .
@@ -22022,8 +22004,6 @@ sokrostream.tube CNAME .
 *.sokrostream.tube CNAME .
 uhdmovies.tube CNAME .
 *.uhdmovies.tube CNAME .
-vegamovies.tube CNAME .
-*.vegamovies.tube CNAME .
 01streaming.tv CNAME .
 *.01streaming.tv CNAME .
 037hd.tv CNAME .

@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773788460 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773810000 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 17 Mar 2026 23:01 UTC
-; Version: 2026.0317.2301.03
+; Last modified: 18 Mar 2026 05:00 UTC
+; Version: 2026.0318.0500.50
 ; Syntax: RPZ
-; Number of entries: 33348
+; Number of entries: 33302
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -985,8 +985,6 @@ yangfsdnei.biz CNAME .
 *.yangfsdnei.biz CNAME .
 yangfuinei.biz CNAME .
 *.yangfuinei.biz CNAME .
-unblocked.black CNAME .
-*.unblocked.black CNAME .
 avovpn.blog CNAME .
 *.avovpn.blog CNAME .
 ednovas.blog CNAME .
@@ -2639,8 +2637,6 @@ unblocked.cloud CNAME .
 *.unblocked.cloud CNAME .
 tls.vietguards.cloud CNAME .
 *.tls.vietguards.cloud CNAME .
-vpn.vosjes.cloud CNAME .
-*.vpn.vosjes.cloud CNAME .
 quadrogramma.vps.webdock.cloud CNAME .
 *.quadrogramma.vps.webdock.cloud CNAME .
 dns.wibenson.cloud CNAME .
@@ -13547,8 +13543,6 @@ dontgoonyoufuckingdegenerates.vaultnoir.com CNAME .
 *.dontgoonyoufuckingdegenerates.vaultnoir.com CNAME .
 ibribeillegals.vaultnoir.com CNAME .
 *.ibribeillegals.vaultnoir.com CNAME .
-lumos.vaultnoir.com CNAME .
-*.lumos.vaultnoir.com CNAME .
 waguri.vawars.com CNAME .
 *.waguri.vawars.com CNAME .
 vectroproxy.com CNAME .
@@ -13925,8 +13919,6 @@ irvingisd.weatherpixel.com CNAME .
 *.irvingisd.weatherpixel.com CNAME .
 web-kuailian.com CNAME .
 *.web-kuailian.com CNAME .
-web-lets.com CNAME .
-*.web-lets.com CNAME .
 1uzxr3b3jraw5nlmnvbsikiioud2vilw5.web-networking.com CNAME .
 *.1uzxr3b3jraw5nlmnvbsikiioud2vilw5.web-networking.com CNAME .
 web3clash.com CNAME .
@@ -13989,8 +13981,6 @@ wfdfyjd.com CNAME .
 *.wfdfyjd.com CNAME .
 wgy0.com CNAME .
 *.wgy0.com CNAME .
-how.tutor.what2no.com CNAME .
-*.how.tutor.what2no.com CNAME .
 whatcaniplay.com CNAME .
 *.whatcaniplay.com CNAME .
 whiskergalaxy.com CNAME .
@@ -16787,8 +16777,6 @@ frefe.vandrekalenderen.dk CNAME .
 *.frefe.vandrekalenderen.dk CNAME .
 iukh.vandrekalenderen.dk CNAME .
 *.iukh.vandrekalenderen.dk CNAME .
-justgimmemy.vandrekalenderen.dk CNAME .
-*.justgimmemy.vandrekalenderen.dk CNAME .
 nationalgeographgichistory.vandrekalenderen.dk CNAME .
 *.nationalgeographgichistory.vandrekalenderen.dk CNAME .
 plane.vandrekalenderen.dk CNAME .
@@ -17527,8 +17515,6 @@ dns.rbn.gr CNAME .
 *.dns.rbn.gr CNAME .
 mathd.stegi-chorus.gr CNAME .
 *.mathd.stegi-chorus.gr CNAME .
-unblocked.green CNAME .
-*.unblocked.green CNAME .
 cb.gripe CNAME .
 *.cb.gripe CNAME .
 letsvpn.group CNAME .
@@ -19897,8 +19883,6 @@ doyouremember.love CNAME .
 *.doyouremember.love CNAME .
 beacon.fengli.love CNAME .
 *.beacon.fengli.love CNAME .
-unblocked.love CNAME .
-*.unblocked.love CNAME .
 doh.domreg.lt CNAME .
 *.doh.domreg.lt CNAME .
 smile-smp-forever.gw.lt CNAME .
@@ -24353,8 +24337,6 @@ zuhause.webteufel.net CNAME .
 *.zuhause.webteufel.net CNAME .
 resov.wehao.net CNAME .
 *.resov.wehao.net CNAME .
-verynormalsite.wendyandnick.net CNAME .
-*.verynormalsite.wendyandnick.net CNAME .
 doh.wewitro.net CNAME .
 *.doh.wewitro.net CNAME .
 whatsonthebox.net CNAME .
@@ -24927,10 +24909,6 @@ topcenter.one CNAME .
 *.topcenter.one CNAME .
 topstudio.one CNAME .
 *.topstudio.one CNAME .
-2m6k527.tyleo.one CNAME .
-*.2m6k527.tyleo.one CNAME .
-s38hx35.tyleo.one CNAME .
-*.s38hx35.tyleo.one CNAME .
 unblockit.one CNAME .
 *.unblockit.one CNAME .
 unblockweb.one CNAME .
@@ -25505,8 +25483,6 @@ vadim.online CNAME .
 *.vadim.online CNAME .
 vahuirpglunb9qp.online CNAME .
 *.vahuirpglunb9qp.online CNAME .
-veliec7nrr.online CNAME .
-*.veliec7nrr.online CNAME .
 veraris.online CNAME .
 *.veraris.online CNAME .
 videomy.online CNAME .
@@ -25521,8 +25497,6 @@ vpnproxy.online CNAME .
 *.vpnproxy.online CNAME .
 vproxyy.online CNAME .
 *.vproxyy.online CNAME .
-vsvsffsvcdcikpkhrwqi.online CNAME .
-*.vsvsffsvcdcikpkhrwqi.online CNAME .
 vthrnrwrbtq2n1xpjt5d.online CNAME .
 *.vthrnrwrbtq2n1xpjt5d.online CNAME .
 wdg5as2.online CNAME .
@@ -27307,10 +27281,6 @@ truthskip.org CNAME .
 *.truthskip.org CNAME .
 trutri.org CNAME .
 *.trutri.org CNAME .
-seible.tsurukawa.org CNAME .
-*.seible.tsurukawa.org CNAME .
-freodore.tulanerw.org CNAME .
-*.freodore.tulanerw.org CNAME .
 turbohide.org CNAME .
 *.turbohide.org CNAME .
 tutoring4free.org CNAME .
@@ -27351,8 +27321,6 @@ usascholars.org CNAME .
 *.usascholars.org CNAME .
 usconstitutionweek.org CNAME .
 *.usconstitutionweek.org CNAME .
-bythebeat.uwgraduation.org CNAME .
-*.bythebeat.uwgraduation.org CNAME .
 v2ny.org CNAME .
 *.v2ny.org CNAME .
 v2rayn.org CNAME .
@@ -27767,8 +27735,6 @@ surprise.pics CNAME .
 *.surprise.pics CNAME .
 vapor.techno.pics CNAME .
 *.vapor.techno.pics CNAME .
-unblock.pink CNAME .
-*.unblock.pink CNAME .
 ngrok.pizza CNAME .
 *.ngrok.pizza CNAME .
 ds.appl.pk CNAME .
@@ -28183,8 +28149,6 @@ topsun.pw CNAME .
 *.topsun.pw CNAME .
 unblock2.pw CNAME .
 *.unblock2.pw CNAME .
-unblockedsite.pw CNAME .
-*.unblockedsite.pw CNAME .
 unblocksite.pw CNAME .
 *.unblocksite.pw CNAME .
 vpnproxy.pw CNAME .
@@ -28201,8 +28165,6 @@ bigbugpoppearblack.super-modding.quest CNAME .
 *.bigbugpoppearblack.super-modding.quest CNAME .
 kadowaki.super-modding.quest CNAME .
 *.kadowaki.super-modding.quest CNAME .
-v4.quest CNAME .
-*.v4.quest CNAME .
 doh.kekew.racing CNAME .
 *.doh.kekew.racing CNAME .
 unblocked.racing CNAME .
@@ -29425,8 +29387,6 @@ baldwinprepbyjerrydaniels.wakemeup.ru CNAME .
 *.baldwinprepbyjerrydaniels.wakemeup.ru CNAME .
 damianlikesjulie.wakemeup.ru CNAME .
 *.damianlikesjulie.wakemeup.ru CNAME .
-intheendthe67mangodoesntmatter3.wakemeup.ru CNAME .
-*.intheendthe67mangodoesntmatter3.wakemeup.ru CNAME .
 kailovefurries.wakemeup.ru CNAME .
 *.kailovefurries.wakemeup.ru CNAME .
 waydnes.ru CNAME .
@@ -30065,8 +30025,6 @@ dns.lupine.solutions CNAME .
 *.dns.lupine.solutions CNAME .
 webteufel-it.solutions CNAME .
 *.webteufel-it.solutions CNAME .
-unblock.soy CNAME .
-*.unblock.soy CNAME .
 unblocked.soy CNAME .
 *.unblocked.soy CNAME .
 ilovethiswebsite.001-lab.space CNAME .
@@ -30227,8 +30185,6 @@ vitalik.space CNAME .
 *.vitalik.space CNAME .
 vkrysk.space CNAME .
 *.vkrysk.space CNAME .
-voidnetwork.space CNAME .
-*.voidnetwork.space CNAME .
 vpneko.space CNAME .
 *.vpneko.space CNAME .
 vpnn.space CNAME .
@@ -33077,8 +33033,6 @@ vpnifyultra.xyz CNAME .
 *.vpnifyultra.xyz CNAME .
 overcloaked.was-on-decayeds-island.xyz CNAME .
 *.overcloaked.was-on-decayeds-island.xyz CNAME .
-endis.was-on-epstein-island.xyz CNAME .
-*.endis.was-on-epstein-island.xyz CNAME .
 web3vpn.xyz CNAME .
 *.web3vpn.xyz CNAME .
 webpro.xyz CNAME .
