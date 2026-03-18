@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773826200 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773869340 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Pop-Up Ads DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 18 Mar 2026 09:30 UTC
-; Version: 2026.0318.0930.39
+; Last modified: 18 Mar 2026 21:29 UTC
+; Version: 2026.0318.2129.45
 ; Syntax: RPZ
-; Number of entries: 109698
+; Number of entries: 109694
 ;
 bonzai.ad CNAME .
 *.bonzai.ad CNAME .
@@ -31800,8 +31800,6 @@ eclkmpbn.com CNAME .
 *.eclkmpbn.com CNAME .
 eclkmpsa.com CNAME .
 *.eclkmpsa.com CNAME .
-ecomicrolab.com CNAME .
-*.ecomicrolab.com CNAME .
 ecommercecall.com CNAME .
 *.ecommercecall.com CNAME .
 economicalathlete.com CNAME .
@@ -81554,8 +81552,6 @@ digitalradiotv.live CNAME .
 *.digitalradiotv.live CNAME .
 dran.live CNAME .
 *.dran.live CNAME .
-ewp.live CNAME .
-*.ewp.live CNAME .
 exampledomain.live CNAME .
 *.exampledomain.live CNAME .
 fixedwalletrestore.live CNAME .

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 18 Mar 2026 09:30 UTC
-# Version: 2026.0318.0930.39
+# Last modified: 18 Mar 2026 21:29 UTC
+# Version: 2026.0318.2129.45
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 54849
+# Number of entries: 54847
 #
 local=/0.beer/
 local=/0.club/
@@ -19405,7 +19405,6 @@ local=/eclkmpsa.com/
 local=/eclnqdlbtgokj.site/
 local=/eclvgswxvthwx.space/
 local=/ecoedgeinnovations.xyz/
-local=/ecomicrolab.com/
 local=/ecommercecall.com/
 local=/economicalathlete.com/
 local=/economicaldashcentral.com/
@@ -20682,7 +20681,6 @@ local=/ewogloarge.com/
 local=/ewotranwrieqs.online/
 local=/ewouldlookina.org/
 local=/ewounddebi.com/
-local=/ewp.live/
 local=/www.a.ewps.cn/
 local=/ewqkrfjkqz.com/
 local=/ewruuqe5p8ca.com/

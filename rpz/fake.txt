@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773826380 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773869520 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 18 Mar 2026 09:33 UTC
-; Version: 2026.0318.0933.07
+; Last modified: 18 Mar 2026 21:32 UTC
+; Version: 2026.0318.2132.14
 ; Syntax: RPZ
-; Number of entries: 28730
+; Number of entries: 28732
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -7878,6 +7878,8 @@ greattioa.com CNAME .
 *.greattioa.com CNAME .
 greecefarmakeio.com CNAME .
 *.greecefarmakeio.com CNAME .
+greenfuelworks.com CNAME .
+*.greenfuelworks.com CNAME .
 greenhousesshop.com CNAME .
 *.greenhousesshop.com CNAME .
 greermy.com CNAME .
@@ -25182,6 +25184,8 @@ gpt55x.io CNAME .
 *.gpt55x.io CNAME .
 healthybear.io CNAME .
 *.healthybear.io CNAME .
+hightaurus.io CNAME .
+*.hightaurus.io CNAME .
 immediate-momentum.io CNAME .
 *.immediate-momentum.io CNAME .
 immediatebitcoin.io CNAME .
@@ -26800,8 +26804,6 @@ breitenbacher.shop CNAME .
 *.breitenbacher.shop CNAME .
 brnghl.shop CNAME .
 *.brnghl.shop CNAME .
-buynaturium.shop CNAME .
-*.buynaturium.shop CNAME .
 carinthia-online.shop CNAME .
 *.carinthia-online.shop CNAME .
 casahereford.shop CNAME .

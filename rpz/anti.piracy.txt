@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773831180 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773874320 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 18 Mar 2026 10:53 UTC
-; Version: 2026.0318.1053.35
+; Last modified: 18 Mar 2026 22:52 UTC
+; Version: 2026.0318.2252.00
 ; Syntax: RPZ
-; Number of entries: 24284
+; Number of entries: 24282
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -520,8 +520,6 @@ smtp-relay.odysseylabel.com.au CNAME .
 *.smtp-relay.odysseylabel.com.au CNAME .
 9kmovies.auction CNAME .
 *.9kmovies.auction CNAME .
-kinox.auction CNAME .
-*.kinox.auction CNAME .
 pobreflix.auction CNAME .
 *.pobreflix.auction CNAME .
 streamingcommunity.auction CNAME .

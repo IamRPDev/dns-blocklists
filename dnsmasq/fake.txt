@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 18 Mar 2026 09:33 UTC
-# Version: 2026.0318.0933.07
+# Last modified: 18 Mar 2026 21:32 UTC
+# Version: 2026.0318.2132.14
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14365
+# Number of entries: 14366
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -1923,7 +1923,6 @@ local=/buyhealthandcaremeds.com/
 local=/buyheatcore.com/
 local=/buyjordan2021.com/
 local=/buylowdrugs.com/
-local=/buynaturium.shop/
 local=/buypillsonlinenorx.com/
 local=/buypresents.store/
 local=/buyster.xyz/
@@ -5364,6 +5363,7 @@ local=/greeceex.rest/
 local=/greecefarmakeio.com/
 local=/greenbitcoin.xyz/
 local=/greencrosspharmacy.online/
+local=/greenfuelworks.com/
 local=/greenhousesshop.com/
 local=/greenmah.shop/
 local=/greentec-handel.de/
@@ -6002,6 +6002,7 @@ local=/highjel.com/
 local=/highlandshotels.net/
 local=/highluxury.sk/
 local=/highluxurystore.co/
+local=/hightaurus.io/
 local=/hightqualitywear.com/
 local=/hihstore.com/
 local=/hijabsalmaava.shop/

@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 18 Mar 2026 09:34 UTC
-# Version: 2026.0318.0934.55
+# Last modified: 18 Mar 2026 21:34 UTC
+# Version: 2026.0318.2134.01
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9945
+# Number of entries: 9947
 #
 local=/0.gp/
 local=/00m.in/
@@ -2875,6 +2875,7 @@ local=/s.free.fr/
 local=/freebiolink.com/
 local=/url-shortener.freebusinessapps.net/
 local=/freedirector.io/
+local=/freegamesjiliwin63.online/
 local=/freeshorten.com/
 local=/freeshorturl.com/
 local=/freeshorturls.com/
@@ -8256,6 +8257,7 @@ local=/tklinknow.com/
 local=/tklinks.com/
 local=/tkno.co/
 local=/tkopod.co/
+local=/tkqlhce.com/
 local=/tkt.support/
 local=/tktwb.tw/
 local=/tkz.es/
