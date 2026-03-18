@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Mar 2026 23:00 UTC
-# Version: 2026.0317.2300.22
+# Last modified: 18 Mar 2026 10:58 UTC
+# Version: 2026.0318.1058.54
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3490
+# Number of entries: 3488
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -3397,7 +3397,6 @@ local=/dns.xlion.tw/
 local=/xn--80aeak3akfgk.xn--p1acf/
 local=/xn--80aecoigf4aatn.xn--p1ai/
 local=/xn--durhre-yxa.de/
-local=/xomadns.com/
 local=/xorbiadns.com/
 local=/doh.xorlet.ru/
 local=/adgh.xrossj.top/
@@ -3426,7 +3425,6 @@ local=/lion.yazilimatolye.com/
 local=/ychen.cf/
 local=/ychen.gq/
 local=/biba.ydns.eu/
-local=/vdska-pl.ydns.eu/
 local=/sg.yepdns.com/
 local=/yeralin.net/
 local=/adguard.ygd.lol/

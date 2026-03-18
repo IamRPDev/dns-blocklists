@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 18 Mar 2026 04:54 UTC
-# Version: 2026.0318.0454.56
+# Last modified: 18 Mar 2026 10:53 UTC
+# Version: 2026.0318.1053.35
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 12120
+# Number of entries: 12142
 #
 local=/tracker.guguan.000.pe/
 local=/003396815.xyz/
@@ -5785,8 +5785,11 @@ local=/kinovod311025.pro/
 local=/kinox.actor/
 local=/kinox.ae/
 local=/kinox.am/
+local=/kinox.auction/
 local=/kinox.blog/
 local=/kinox.by/
+local=/kinox.cards/
+local=/kinox.casa/
 local=/kinox.cloud/
 local=/kinox.club/
 local=/kinox.codes/
@@ -5815,9 +5818,11 @@ local=/kinox.mobi/
 local=/kinox.my/
 local=/kinox.navy/
 local=/kinox.news/
+local=/kinox.nl/
 local=/kinox.parts/
 local=/kinox.ru/
 local=/kinox.run/
+local=/kinox.salon/
 local=/kinox.sh/
 local=/kinox.si/
 local=/kinox.social/
@@ -5836,7 +5841,24 @@ local=/kinox.town/
 local=/kinox.tube/
 local=/kinox.tv/
 local=/kinox.vc/
+local=/kinox.website/
+local=/kinox.world/
 local=/kinox.wtf/
+local=/kinox-movie2k.cyou/
+local=/kinox-to.lol/
+local=/kinox1k.site/
+local=/kinox77k.site/
+local=/kinox7k.site/
+local=/kinox8k.site/
+local=/kinoxacureseriay.site/
+local=/kinoxanko.online/
+local=/kinoxevom.online/
+local=/kinoxfilme.online/
+local=/kinoxsg.online/
+local=/kinoxsite.online/
+local=/kinoxsu.online/
+local=/kinoxtv.lol/
+local=/kinoxx.com/
 local=/kinoz.co/
 local=/kinoz.to/
 local=/kinozal.tv/
@@ -9100,6 +9122,7 @@ local=/sport-stream.ru/
 local=/sport3.tv/
 local=/sport365.live/
 local=/sport365.sx/
+local=/sportagoals.fit/
 local=/sportbit.org/
 local=/sportend.com/
 local=/sportlemo.net/
@@ -9603,6 +9626,7 @@ local=/streamsports99.su/
 local=/streamsports99.tv/
 local=/streamsports99.website/
 local=/streamsthunder.tv/
+local=/streamsworld.cfd/
 local=/streamtape.com/
 local=/streamtp10.com/
 local=/streamwatch.online/
@@ -11710,7 +11734,6 @@ local=/xalaflixx.fr/
 local=/xatab-repack.net/
 local=/xatab-repack.rip/
 local=/xbins.org/
-local=/xbit.pw/
 local=/xboot.net/
 local=/xbox360iso.com/
 local=/xcine.click/
@@ -11811,6 +11834,7 @@ local=/yabse.com/
 local=/yalla-shoot.fun/
 local=/yalla-shoot-mobasher.com/
 local=/yalla-shootv.live/
+local=/yalla-shootx.org/
 local=/yallashoothub.com/
 local=/yamgo.com/
 local=/yams.tf/
@@ -11870,7 +11894,6 @@ local=/yesnetcommunication.com/
 local=/yeyemo.info/
 local=/yflix.to/
 local=/ygg.gratis/
-local=/ygg.guru/
 local=/ygg.re/
 local=/yggleak.top/
 local=/yggtorrent.com/
@@ -11899,7 +11922,6 @@ local=/yifytorrent.vip/
 local=/yifytorrents.net/
 local=/ymovies.se/
 local=/ymovies.stream/
-local=/ymovies.to/
 local=/ymovies.tv/
 local=/ymovies.vip/
 local=/black-bird.ynh.fr/

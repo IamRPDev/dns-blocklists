@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 18 Mar 2026 03:34 UTC
-# Version: 2026.0318.0334.42
+# Last modified: 18 Mar 2026 09:34 UTC
+# Version: 2026.0318.0934.55
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9948
+# Number of entries: 9945
 #
 local=/0.gp/
 local=/00m.in/
@@ -4138,6 +4138,7 @@ local=/kurzelinks.de/
 local=/kuta.ir/
 local=/kutlink.com/
 local=/kutt.in/
+local=/kutt.to/
 local=/kuttify.com/
 local=/kuty.us/
 local=/kuxey.com/
@@ -9814,7 +9815,6 @@ local=/url.zaptian.com/
 local=/zapurl.me/
 local=/zapurl.net/
 local=/zapurls.com/
-local=/zaq.be/
 local=/zarnecka.com/
 local=/zass.to/
 local=/zaya.io/
@@ -9899,8 +9899,6 @@ local=/znym.co/
 local=/znz.kr/
 local=/zo.cm/
 local=/zobzob.com/
-local=/link.zodia.studio/
-local=/tiny.zodia.studio/
 local=/zoho.to/
 local=/bio.zoluu.co/
 local=/zom.ink/
@@ -9963,5 +9961,4 @@ local=/zz.sd/
 local=/zz-tw.co/
 local=/zz3.co/
 local=/zzb.bz/
-local=/zzlinks.com/
 local=/zzu.info/

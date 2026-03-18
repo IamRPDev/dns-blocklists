@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 18 Mar 2026 05:00 UTC
-# Version: 2026.0318.0500.50
+# Last modified: 18 Mar 2026 10:59 UTC
+# Version: 2026.0318.1059.35
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 16651
+# Number of entries: 16639
 #
 local=/000000555.xyz/
 local=/ss.0001.xyz/
@@ -15372,7 +15372,6 @@ local=/xbsj5632.website/
 local=/xbsjssr.online/
 local=/dns.xcapenet.ru/
 local=/dns2.xcapenet.ru/
-local=/xcinmdm5r0yvvcutn5xgms.online/
 local=/doh.xcom.pro/
 local=/xcomplus.com/
 local=/xcvpn.me/
@@ -15443,7 +15442,6 @@ local=/xinv2.com/
 local=/dns.xinwujiang.cn/
 local=/xipcloudgw.com/
 local=/xite.cc/
-local=/xite.mobi/
 local=/xite.ws/
 local=/xitenow.com/
 local=/xitesite.com/
@@ -15693,8 +15691,6 @@ local=/xn--cylink-gf2j286jwcoby2h.com/
 local=/xn--cylink-gf2jg12bph1a94h57kpu0k.com/
 local=/xn--cylink-gf2jz97o.com/
 local=/xn--d-zn6a77hswienw.com/
-local=/securely.com.xn--d1aqf.org/
-local=/securly.com.xn--d1aqf.org/
 local=/xn--degyax-u40k507h.com/
 local=/xn--dj1an0a.com/
 local=/xn--dlqs4sc0nope.xyz/
@@ -16146,7 +16142,6 @@ local=/xn--zuup71g88ae4i.com/
 local=/xn--zwwa296b.com/
 local=/xnyun11.cc/
 local=/xolvento.ru/
-local=/xomadns.com/
 local=/xomverta.ru/
 local=/xonlrnrujxbx.com/
 local=/wewewe.xopf.net/
@@ -16195,7 +16190,6 @@ local=/v1.xylto.com/
 local=/y05qwm.cn/
 local=/dns.y2f.xyz/
 local=/y2fast.com/
-local=/y4vkjoj41kg.online/
 local=/state.know.yacht-therapy.net/
 local=/yafalk.com/
 local=/yafsub.net/
@@ -16250,7 +16244,6 @@ local=/emmett.ydns.eu/
 local=/endis.ydns.eu/
 local=/poobungus.ydns.eu/
 local=/rammer3-haihu-bynyanko.ydns.eu/
-local=/vdska-pl.ydns.eu/
 local=/yechayun.com/
 local=/yechayunclash.com/
 local=/yellowproxy.net/
@@ -16282,7 +16275,6 @@ local=/yifenclash.com/
 local=/yifenss.com/
 local=/yifenssr.com/
 local=/yihuacenter.com/
-local=/yin2zqcdtzoj5.online/
 local=/yinghuamaojc.com/
 local=/dns.yingroad.top/
 local=/yingtaocloud.com/
@@ -16441,8 +16433,6 @@ local=/zadmin.dev/
 local=/zagbit.com/
 local=/zakaria.website/
 local=/zalmos.com/
-local=/auroramo.zanity.net/
-local=/auroramo1.zanity.net/
 local=/dupepower.zanity.net/
 local=/zapov2.xyz/
 local=/zapp-a-weasel.live/
@@ -16592,11 +16582,9 @@ local=/adguard01.zitronen-server.de/
 local=/ziyoumaoclash.com/
 local=/ziyun.cyou/
 local=/zjavr.cn/
-local=/oh.zjhmz.cn/
 local=/skibidiboi333.zjhmz.cn/
 local=/zkcfi3szz.online/
 local=/doh.zknt.org/
-local=/zksa8tcw0xcokir32vgq.online/
 local=/dns.zky666.fun/
 local=/xyz2.zmjflow.com/
 local=/xyz3.zmjflow.com/

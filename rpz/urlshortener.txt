@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773804840 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773826440 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 18 Mar 2026 03:34 UTC
-; Version: 2026.0318.0334.42
+; Last modified: 18 Mar 2026 09:34 UTC
+; Version: 2026.0318.0934.55
 ; Syntax: RPZ
-; Number of entries: 19896
+; Number of entries: 19890
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -977,8 +977,6 @@ y0utu.be CNAME .
 *.y0utu.be CNAME .
 y2u.be CNAME .
 *.y2u.be CNAME .
-zaq.be CNAME .
-*.zaq.be CNAME .
 radiances.beauty CNAME .
 *.radiances.beauty CNAME .
 hu.berlin CNAME .
@@ -7851,8 +7849,6 @@ zwaarp.com CNAME .
 *.zwaarp.com CNAME .
 zyguer.com CNAME .
 *.zyguer.com CNAME .
-zzlinks.com CNAME .
-*.zzlinks.com CNAME .
 scm.community CNAME .
 *.scm.community CNAME .
 ops.consulting CNAME .
@@ -17899,10 +17895,6 @@ link.plutonflix.stream CNAME .
 *.link.plutonflix.stream CNAME .
 sh.studio CNAME .
 *.sh.studio CNAME .
-link.zodia.studio CNAME .
-*.link.zodia.studio CNAME .
-tiny.zodia.studio CNAME .
-*.tiny.zodia.studio CNAME .
 smarinsights.study CNAME .
 *.smarinsights.study CNAME .
 wa.style CNAME .
@@ -18281,6 +18273,8 @@ kko.to CNAME .
 *.kko.to CNAME .
 hi.kktv.to CNAME .
 *.hi.kktv.to CNAME .
+kutt.to CNAME .
+*.kutt.to CNAME .
 labs.to CNAME .
 *.labs.to CNAME .
 learn.to CNAME .

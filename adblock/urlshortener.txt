@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 18 Mar 2026 03:34 UTC
-! Version: 2026.0318.0334.42
+! Last modified: 18 Mar 2026 09:34 UTC
+! Version: 2026.0318.0934.55
 ! Syntax: AdBlock
-! Number of entries: 9948
+! Number of entries: 9945
 !
 ||0.gp^
 ||00m.in^
@@ -4139,6 +4139,7 @@
 ||kuta.ir^
 ||kutlink.com^
 ||kutt.in^
+||kutt.to^
 ||kuttify.com^
 ||kuty.us^
 ||kuxey.com^
@@ -9815,7 +9816,6 @@
 ||zapurl.me^
 ||zapurl.net^
 ||zapurls.com^
-||zaq.be^
 ||zarnecka.com^
 ||zass.to^
 ||zaya.io^
@@ -9900,8 +9900,6 @@
 ||znz.kr^
 ||zo.cm^
 ||zobzob.com^
-||link.zodia.studio^
-||tiny.zodia.studio^
 ||zoho.to^
 ||bio.zoluu.co^
 ||zom.ink^
@@ -9964,5 +9962,4 @@
 ||zz-tw.co^
 ||zz3.co^
 ||zzb.bz^
-||zzlinks.com^
 ||zzu.info^

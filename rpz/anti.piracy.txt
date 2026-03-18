@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773809640 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773831180 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 18 Mar 2026 04:54 UTC
-; Version: 2026.0318.0454.56
+; Last modified: 18 Mar 2026 10:53 UTC
+; Version: 2026.0318.1053.35
 ; Syntax: RPZ
-; Number of entries: 24240
+; Number of entries: 24284
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -520,6 +520,8 @@ smtp-relay.odysseylabel.com.au CNAME .
 *.smtp-relay.odysseylabel.com.au CNAME .
 9kmovies.auction CNAME .
 *.9kmovies.auction CNAME .
+kinox.auction CNAME .
+*.kinox.auction CNAME .
 pobreflix.auction CNAME .
 *.pobreflix.auction CNAME .
 streamingcommunity.auction CNAME .
@@ -1386,6 +1388,8 @@ streamingcommunity.capital CNAME .
 *.streamingcommunity.capital CNAME .
 hdmovie2.cards CNAME .
 *.hdmovie2.cards CNAME .
+kinox.cards CNAME .
+*.kinox.cards CNAME .
 moviesmod.cards CNAME .
 *.moviesmod.cards CNAME .
 twimg.cards CNAME .
@@ -1414,6 +1418,8 @@ hdmovie2.casa CNAME .
 *.hdmovie2.casa CNAME .
 juraganfilm.casa CNAME .
 *.juraganfilm.casa CNAME .
+kinox.casa CNAME .
+*.kinox.casa CNAME .
 streamingcommunityz.casa CNAME .
 *.streamingcommunityz.casa CNAME .
 tamilblasters.casa CNAME .
@@ -1922,6 +1928,8 @@ seriesflix.cfd CNAME .
 *.seriesflix.cfd CNAME .
 streamingcommunityz.cfd CNAME .
 *.streamingcommunityz.cfd CNAME .
+streamsworld.cfd CNAME .
+*.streamsworld.cfd CNAME .
 watchmovieshd.cfd CNAME .
 *.watchmovieshd.cfd CNAME .
 yesmovies.cfd CNAME .
@@ -5592,6 +5600,8 @@ kinoukr.com CNAME .
 *.kinoukr.com CNAME .
 kinovezha.com CNAME .
 *.kinovezha.com CNAME .
+kinoxx.com CNAME .
+*.kinoxx.com CNAME .
 kitsrun.com CNAME .
 *.kitsrun.com CNAME .
 kkooralives.com CNAME .
@@ -8856,6 +8866,8 @@ filmpertutti.cyou CNAME .
 *.filmpertutti.cyou CNAME .
 hdmovie2.cyou CNAME .
 *.hdmovie2.cyou CNAME .
+kinox-movie2k.cyou CNAME .
+*.kinox-movie2k.cyou CNAME .
 netmirror.cyou CNAME .
 *.netmirror.cyou CNAME .
 sportsurgenfl.cyou CNAME .
@@ -9686,6 +9698,8 @@ mkvcinemas.fit CNAME .
 *.mkvcinemas.fit CNAME .
 pelisflix20.fit CNAME .
 *.pelisflix20.fit CNAME .
+sportagoals.fit CNAME .
+*.sportagoals.fit CNAME .
 streaming-community.fit CNAME .
 *.streaming-community.fit CNAME .
 streamingcommunity.fit CNAME .
@@ -10346,8 +10360,6 @@ skymovieshd.guru CNAME .
 *.skymovieshd.guru CNAME .
 streamingcommunityz.guru CNAME .
 *.streamingcommunityz.guru CNAME .
-ygg.guru CNAME .
-*.ygg.guru CNAME .
 hdmovie2.gy CNAME .
 *.hdmovie2.gy CNAME .
 9kmovies.hair CNAME .
@@ -12428,6 +12440,10 @@ guardaserie.lol CNAME .
 *.guardaserie.lol CNAME .
 kinox.lol CNAME .
 *.kinox.lol CNAME .
+kinox-to.lol CNAME .
+*.kinox-to.lol CNAME .
+kinoxtv.lol CNAME .
+*.kinoxtv.lol CNAME .
 movies.levrx.lol CNAME .
 *.movies.levrx.lol CNAME .
 limetorrents.lol CNAME .
@@ -15550,6 +15566,8 @@ katmoviehd.nl CNAME .
 *.katmoviehd.nl CNAME .
 keygens.nl CNAME .
 *.keygens.nl CNAME .
+kinox.nl CNAME .
+*.kinox.nl CNAME .
 prestige.minimafia.nl CNAME .
 *.prestige.minimafia.nl CNAME .
 private.minimafia.nl CNAME .
@@ -15904,6 +15922,18 @@ keepvid.online CNAME .
 *.keepvid.online CNAME .
 kinogo.online CNAME .
 *.kinogo.online CNAME .
+kinoxanko.online CNAME .
+*.kinoxanko.online CNAME .
+kinoxevom.online CNAME .
+*.kinoxevom.online CNAME .
+kinoxfilme.online CNAME .
+*.kinoxfilme.online CNAME .
+kinoxsg.online CNAME .
+*.kinoxsg.online CNAME .
+kinoxsite.online CNAME .
+*.kinoxsite.online CNAME .
+kinoxsu.online CNAME .
+*.kinoxsu.online CNAME .
 knigaudio.online CNAME .
 *.knigaudio.online CNAME .
 leftist.online CNAME .
@@ -17804,6 +17834,8 @@ xtremetv.org CNAME .
 *.xtremetv.org CNAME .
 xxxadulttorrent.org CNAME .
 *.xxxadulttorrent.org CNAME .
+yalla-shootx.org CNAME .
+*.yalla-shootx.org CNAME .
 yaplukon.org CNAME .
 *.yaplukon.org CNAME .
 yesmovies.org CNAME .
@@ -18698,8 +18730,6 @@ wtftrackr.pw CNAME .
 *.wtftrackr.pw CNAME .
 x360club.pw CNAME .
 *.x360club.pw CNAME .
-xbit.pw CNAME .
-*.xbit.pw CNAME .
 xzone.pw CNAME .
 *.xzone.pw CNAME .
 altadefinizionegratis.qpon CNAME .
@@ -19664,6 +19694,8 @@ world4ufree.sale CNAME .
 *.world4ufree.sale CNAME .
 hdmovie2.salon CNAME .
 *.hdmovie2.salon CNAME .
+kinox.salon CNAME .
+*.kinox.salon CNAME .
 9kmovies.sarl CNAME .
 *.9kmovies.sarl CNAME .
 worldfree4u.sarl CNAME .
@@ -20106,6 +20138,16 @@ italia-film.site CNAME .
 *.italia-film.site CNAME .
 juraganfilm.site CNAME .
 *.juraganfilm.site CNAME .
+kinox1k.site CNAME .
+*.kinox1k.site CNAME .
+kinox77k.site CNAME .
+*.kinox77k.site CNAME .
+kinox7k.site CNAME .
+*.kinox7k.site CNAME .
+kinox8k.site CNAME .
+*.kinox8k.site CNAME .
+kinoxacureseriay.site CNAME .
+*.kinoxacureseriay.site CNAME .
 kiosfilm21.site CNAME .
 *.kiosfilm21.site CNAME .
 tracker.kitaujisub.site CNAME .
@@ -21544,8 +21586,6 @@ yesmovies.to CNAME .
 *.yesmovies.to CNAME .
 yflix.to CNAME .
 *.yflix.to CNAME .
-ymovies.to CNAME .
-*.ymovies.to CNAME .
 yts.to CNAME .
 *.yts.to CNAME .
 zer0day.to CNAME .
@@ -23210,6 +23250,8 @@ guardaserie.website CNAME .
 *.guardaserie.website CNAME .
 instasave.website CNAME .
 *.instasave.website CNAME .
+kinox.website CNAME .
+*.kinox.website CNAME .
 multimovies.website CNAME .
 *.multimovies.website CNAME .
 piratebay.website CNAME .
@@ -23374,6 +23416,8 @@ igram.world CNAME .
 *.igram.world CNAME .
 ilgeniodellostreaming.world CNAME .
 *.ilgeniodellostreaming.world CNAME .
+kinox.world CNAME .
+*.kinox.world CNAME .
 net3lix.world CNAME .
 *.net3lix.world CNAME .
 pirateproxy.world CNAME .

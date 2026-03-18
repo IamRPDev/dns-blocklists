@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773810000 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773831540 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 18 Mar 2026 05:00 UTC
-; Version: 2026.0318.0500.50
+; Last modified: 18 Mar 2026 10:59 UTC
+; Version: 2026.0318.1059.35
 ; Syntax: RPZ
-; Number of entries: 33302
+; Number of entries: 33278
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -3101,8 +3101,6 @@ zhangdong25.cn CNAME .
 *.zhangdong25.cn CNAME .
 zjavr.cn CNAME .
 *.zjavr.cn CNAME .
-oh.zjhmz.cn CNAME .
-*.oh.zjhmz.cn CNAME .
 skibidiboi333.zjhmz.cn CNAME .
 *.skibidiboi333.zjhmz.cn CNAME .
 dns.zzuhacker.cn CNAME .
@@ -15403,8 +15401,6 @@ xn--zuup71g88ae4i.com CNAME .
 *.xn--zuup71g88ae4i.com CNAME .
 xn--zwwa296b.com CNAME .
 *.xn--zwwa296b.com CNAME .
-xomadns.com CNAME .
-*.xomadns.com CNAME .
 xonlrnrujxbx.com CNAME .
 *.xonlrnrujxbx.com CNAME .
 xorbiadns.com CNAME .
@@ -17133,8 +17129,6 @@ poobungus.ydns.eu CNAME .
 *.poobungus.ydns.eu CNAME .
 rammer3-haihu-bynyanko.ydns.eu CNAME .
 *.rammer3-haihu-bynyanko.ydns.eu CNAME .
-vdska-pl.ydns.eu CNAME .
-*.vdska-pl.ydns.eu CNAME .
 zougloub.eu CNAME .
 *.zougloub.eu CNAME .
 dns.expert CNAME .
@@ -20519,8 +20513,6 @@ nop.mobi CNAME .
 *.nop.mobi CNAME .
 surfeasy.mobi CNAME .
 *.surfeasy.mobi CNAME .
-xite.mobi CNAME .
-*.xite.mobi CNAME .
 yiyo.mobi CNAME .
 *.yiyo.mobi CNAME .
 doh.aaaab3n.moe CNAME .
@@ -24463,10 +24455,6 @@ yyssr.net CNAME .
 *.yyssr.net CNAME .
 dns.daemon.za.net CNAME .
 *.dns.daemon.za.net CNAME .
-auroramo.zanity.net CNAME .
-*.auroramo.zanity.net CNAME .
-auroramo1.zanity.net CNAME .
-*.auroramo1.zanity.net CNAME .
 dupepower.zanity.net CNAME .
 *.dupepower.zanity.net CNAME .
 zatoga.net CNAME .
@@ -25515,20 +25503,14 @@ xblu4dblhhb.online CNAME .
 *.xblu4dblhhb.online CNAME .
 xbsjssr.online CNAME .
 *.xbsjssr.online CNAME .
-xcinmdm5r0yvvcutn5xgms.online CNAME .
-*.xcinmdm5r0yvvcutn5xgms.online CNAME .
 xqctecxwha.online CNAME .
 *.xqctecxwha.online CNAME .
 xvmess.online CNAME .
 *.xvmess.online CNAME .
 xvrhlzcfzt5ej5ze.online CNAME .
 *.xvrhlzcfzt5ej5ze.online CNAME .
-y4vkjoj41kg.online CNAME .
-*.y4vkjoj41kg.online CNAME .
 ybqjaguuii0obex4w.online CNAME .
 *.ybqjaguuii0obex4w.online CNAME .
-yin2zqcdtzoj5.online CNAME .
-*.yin2zqcdtzoj5.online CNAME .
 yoeu47e.online CNAME .
 *.yoeu47e.online CNAME .
 yrpr48mox1f0iv1.online CNAME .
@@ -25553,8 +25535,6 @@ zhknia0azrek.online CNAME .
 *.zhknia0azrek.online CNAME .
 zkcfi3szz.online CNAME .
 *.zkcfi3szz.online CNAME .
-zksa8tcw0xcokir32vgq.online CNAME .
-*.zksa8tcw0xcokir32vgq.online CNAME .
 zwskk3lczgjwug3hzpd.online CNAME .
 *.zwskk3lczgjwug3hzpd.online CNAME .
 zxhybrol.online CNAME .
@@ -27447,10 +27427,6 @@ xn--9kqy4sc0nx11app1a.org CNAME .
 *.xn--9kqy4sc0nx11app1a.org CNAME .
 xn--9kqz4x.org CNAME .
 *.xn--9kqz4x.org CNAME .
-securely.com.xn--d1aqf.org CNAME .
-*.securely.com.xn--d1aqf.org CNAME .
-securly.com.xn--d1aqf.org CNAME .
-*.securly.com.xn--d1aqf.org CNAME .
 xn--e5x71fzvjmna.org CNAME .
 *.xn--e5x71fzvjmna.org CNAME .
 xn--fiqs8sa4195d.org CNAME .
