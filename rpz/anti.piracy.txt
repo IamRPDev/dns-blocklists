@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773874320 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773917460 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 18 Mar 2026 22:52 UTC
-; Version: 2026.0318.2252.00
+; Last modified: 19 Mar 2026 10:51 UTC
+; Version: 2026.0319.1051.43
 ; Syntax: RPZ
-; Number of entries: 24282
+; Number of entries: 24288
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -390,6 +390,8 @@ hdmovie2.archi CNAME .
 *.hdmovie2.archi CNAME .
 streamingcommunityz.archi CNAME .
 *.streamingcommunityz.archi CNAME .
+1tamilmv.army CNAME .
+*.1tamilmv.army CNAME .
 9kmovies.army CNAME .
 *.9kmovies.army CNAME .
 aaa.army CNAME .
@@ -1926,8 +1928,6 @@ seriesflix.cfd CNAME .
 *.seriesflix.cfd CNAME .
 streamingcommunityz.cfd CNAME .
 *.streamingcommunityz.cfd CNAME .
-streamsworld.cfd CNAME .
-*.streamsworld.cfd CNAME .
 watchmovieshd.cfd CNAME .
 *.watchmovieshd.cfd CNAME .
 yesmovies.cfd CNAME .
@@ -4736,6 +4736,8 @@ filmstreamingx1.com CNAME .
 *.filmstreamingx1.com CNAME .
 filmyone.com CNAME .
 *.filmyone.com CNAME .
+filmzevkim.com CNAME .
+*.filmzevkim.com CNAME .
 filmzie.com CNAME .
 *.filmzie.com CNAME .
 nunflix-firebase.firebaseapp.com CNAME .
@@ -8100,6 +8102,8 @@ vegamovies6.com CNAME .
 *.vegamovies6.com CNAME .
 vegamovles.com CNAME .
 *.vegamovles.com CNAME .
+veidtr.com CNAME .
+*.veidtr.com CNAME .
 veoble.com CNAME .
 *.veoble.com CNAME .
 verpeliculasultra.com CNAME .
@@ -24224,6 +24228,8 @@ vegamovies.yoga CNAME .
 *.vegamovies.yoga CNAME .
 hdmovie2.yokohama CNAME .
 *.hdmovie2.yokohama CNAME .
+allmovieland.you CNAME .
+*.allmovieland.you CNAME .
 hdmovie2.you CNAME .
 *.hdmovie2.you CNAME .
 weflix.you CNAME .

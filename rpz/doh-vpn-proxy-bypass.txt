@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773831540 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773917820 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 18 Mar 2026 10:59 UTC
-; Version: 2026.0318.1059.35
+; Last modified: 19 Mar 2026 10:57 UTC
+; Version: 2026.0319.1057.37
 ; Syntax: RPZ
-; Number of entries: 33278
+; Number of entries: 33280
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -29303,6 +29303,8 @@ dns.unitynetwork.ru CNAME .
 *.dns.unitynetwork.ru CNAME .
 coolguy.uzhi.ru CNAME .
 *.coolguy.uzhi.ru CNAME .
+v0dka.ru CNAME .
+*.v0dka.ru CNAME .
 valnira.ru CNAME .
 *.valnira.ru CNAME .
 vasiliysoldatkin.ru CNAME .
