@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773917460 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773960660 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 19 Mar 2026 10:51 UTC
-; Version: 2026.0319.1051.43
+; Last modified: 19 Mar 2026 22:51 UTC
+; Version: 2026.0319.2251.45
 ; Syntax: RPZ
-; Number of entries: 24288
+; Number of entries: 24292
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -6172,6 +6172,8 @@ nanniesofgreenhills.com CNAME .
 *.nanniesofgreenhills.com CNAME .
 tracker.nanyangpt.com CNAME .
 *.tracker.nanyangpt.com CNAME .
+nartlof.com CNAME .
+*.nartlof.com CNAME .
 natorrent.com CNAME .
 *.natorrent.com CNAME .
 naturalbd.com CNAME .
@@ -14788,6 +14790,8 @@ repack-igruha.net CNAME .
 *.repack-igruha.net CNAME .
 repackov.net CNAME .
 *.repackov.net CNAME .
+pybittrack.retiolus.net CNAME .
+*.pybittrack.retiolus.net CNAME .
 revanced.net CNAME .
 *.revanced.net CNAME .
 revdl.net CNAME .

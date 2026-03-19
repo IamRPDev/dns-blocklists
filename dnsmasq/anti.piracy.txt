@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Mar 2026 10:51 UTC
-# Version: 2026.0319.1051.43
+# Last modified: 19 Mar 2026 22:51 UTC
+# Version: 2026.0319.2251.45
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 12144
+# Number of entries: 12146
 #
 local=/tracker.guguan.000.pe/
 local=/003396815.xyz/
@@ -7075,6 +7075,7 @@ local=/nanniesofgreenhills.com/
 local=/www.tracker.nano-net.ro/
 local=/nantong101.ru/
 local=/tracker.nanyangpt.com/
+local=/nartlof.com/
 local=/natorrent.com/
 local=/natsumi.fun/
 local=/nattawat.org/
@@ -8375,6 +8376,7 @@ local=/tracker.rescuecrew7.com/
 local=/torrent.resonatingmedia.com/
 local=/respawn.ca/
 local=/cdn.retget.ru/
+local=/pybittrack.retiolus.net/
 local=/retrogamechampion.com/
 local=/retrogametalk.com/
 local=/retrostic.com/

@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773917460 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773960600 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 19 Mar 2026 10:51 UTC
-; Version: 2026.0319.1051.18
+; Last modified: 19 Mar 2026 22:50 UTC
+; Version: 2026.0319.2250.48
 ; Syntax: RPZ
-; Number of entries: 97582
+; Number of entries: 97574
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -13142,8 +13142,6 @@ mcw88vi.club CNAME .
 *.mcw88vi.club CNAME .
 merkurslots.club CNAME .
 *.merkurslots.club CNAME .
-nusa188.club CNAME .
-*.nusa188.club CNAME .
 nustarcasino.club CNAME .
 *.nustarcasino.club CNAME .
 nustarcasinoapk.club CNAME .
@@ -24302,8 +24300,6 @@ bkkgaming88.com CNAME .
 *.bkkgaming88.com CNAME .
 bkmbet.com CNAME .
 *.bkmbet.com CNAME .
-bkooi.com CNAME .
-*.bkooi.com CNAME .
 bl55casinobet.com CNAME .
 *.bl55casinobet.com CNAME .
 blacjogos.com CNAME .
@@ -34190,8 +34186,6 @@ casinos-ohne-5-sekunden-regel.eu.com CNAME .
 *.casinos-ohne-5-sekunden-regel.eu.com CNAME .
 casinos-ohne-lizenz-de.eu.com CNAME .
 *.casinos-ohne-lizenz-de.eu.com CNAME .
-casinos-online-osterreich.eu.com CNAME .
-*.casinos-online-osterreich.eu.com CNAME .
 casinosenzadocumentimigliori.eu.com CNAME .
 *.casinosenzadocumentimigliori.eu.com CNAME .
 casinosindni.eu.com CNAME .
@@ -93814,8 +93808,6 @@ f168.us CNAME .
 *.f168.us CNAME .
 financedata.us CNAME .
 *.financedata.us CNAME .
-free-slots.us CNAME .
-*.free-slots.us CNAME .
 fun88vn.us CNAME .
 *.fun88vn.us CNAME .
 getzoot.us CNAME .

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Mar 2026 10:51 UTC
-# Version: 2026.0319.1051.18
+# Last modified: 19 Mar 2026 22:50 UTC
+# Version: 2026.0319.2250.48
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 48791
+# Number of entries: 48787
 #
 local=/0-casino.com/
 local=/000-online-casino.com/
@@ -9829,7 +9829,6 @@ local=/bking88bets.com/
 local=/bkkgaming88.com/
 local=/bkkslots.site/
 local=/bkmbet.com/
-local=/bkooi.com/
 local=/bl55casinobet.com/
 local=/blacjogos.com/
 local=/black-diamond-casino-australia.com/
@@ -20598,7 +20597,6 @@ local=/casinos-en-ligne-suisse.eu.com/
 local=/casinos-internacionales.eu.com/
 local=/casinos-ohne-5-sekunden-regel.eu.com/
 local=/casinos-ohne-lizenz-de.eu.com/
-local=/casinos-online-osterreich.eu.com/
 local=/casinosenzadocumentimigliori.eu.com/
 local=/casinosindni.eu.com/
 local=/casinositekorea2026.eu.com/
@@ -22039,7 +22037,6 @@ local=/free-joycasino.cc/
 local=/free-online-casinos.net/
 local=/free-slots.eu/
 local=/free-slots.games/
-local=/free-slots.us/
 local=/free-slots-no-download.com/
 local=/free-spin-casino.club/
 local=/free-spin-casino-nz.com/
@@ -33577,7 +33574,6 @@ local=/nuhunslotsedap.store/
 local=/nummus.casino/
 local=/nuovicasino.it/
 local=/nuovicasino777.com/
-local=/nusa188.club/
 local=/nusa77a.click/
 local=/nusescholars.com/
 local=/nustarcasino.click/
