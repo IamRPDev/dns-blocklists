@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 18 Mar 2026 10:07 UTC
-# Version: 2026.0318.1007.34
+# Last modified: 20 Mar 2026 04:07 UTC
+# Version: 2026.0320.0407.45
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1269
+# Number of entries: 1250
 #
 *.000a.de
 *.000space.com
@@ -38,7 +38,6 @@
 *.114.at
 *.115.at
 *.125mb.com
-*.126.com
 *.12n.de
 *.131.at
 *.135.it
@@ -53,7 +52,6 @@
 *.1apps.com
 *.1asphost.com
 *.1colony.com
-*.1fr1.net
 *.1freewebspace.com
 *.1hwy.com
 *.1shop.de
@@ -148,7 +146,6 @@
 *.abstellen.de
 *.abwechslungsreiches.de
 *.ac6.de
-*.actifforum.com
 *.admarketlocation.com
 *.aeza.network
 *.africafull.top
@@ -156,7 +153,6 @@
 *.ahlamountada.com
 *.airground.club
 *.al6.de
-*.alboompro.com
 *.all.lc
 *.allemal.de
 *.als-geschenk.de
@@ -203,7 +199,6 @@
 *.batcave.net
 *.bcz.com
 *.be.gp
-*.beepworld.de
 *.beepworld.it
 *.beget.tech
 *.begins.de
@@ -239,7 +234,6 @@
 *.blogia.com
 *.blogmaster.net
 *.blogmonster.de
-*.blogsidea.com
 *.blogsky.com
 *.blogspot.ae
 *.blogspot.al
@@ -292,7 +286,6 @@
 *.blogspot.ug
 *.blogzet.com
 *.bo.gp
-*.bokee.com
 *.bookmark.com
 *.boxmail.biz
 *.boxmode.io
@@ -566,14 +559,10 @@
 *.for-ladys.de
 *.formbuddy.com
 *.forum.lc
-*.forum2jeux.com
 *.forum2x2.ru
 *.forum7.de
 *.forumactif.com
 *.forumactif.org
-*.forumattivo.com
-*.forumieren.com
-*.forumieren.de
 *.forumotion.com
 *.fotos.lc
 *.fr.gp
@@ -613,7 +602,6 @@
 *.freewha.com
 *.freezoka.net
 *.freightinternationalservices.com
-*.frenchboard.com
 *.friendcircles.com
 *.fuer-alle.de
 *.fuer-profis.de
@@ -667,7 +655,6 @@
 *.homemarker.com
 *.homepage.cx
 *.homepage.lc
-*.homestead.com
 *.hop.ru
 *.host.sk
 *.hostedforfree.com
@@ -759,7 +746,6 @@
 *.k.gp
 *.k1.cx
 *.kann-helfen.de
-*.kataweb.it
 *.keepfree.de
 *.kilu.at
 *.kilu.biz
@@ -844,7 +830,6 @@
 *.my3gb.com
 *.myartsonline.com
 *.mybb.pw
-*.mybb.ru
 *.myblogvoice.com
 *.mybluehost.me
 *.mybluehostin.me
@@ -907,7 +892,6 @@
 *.own-free-website.com
 *.ozq.de
 *.p.gp
-*.pacbell.net
 *.page.tl
 *.page-suspension.net
 *.page4.me
@@ -1077,7 +1061,6 @@
 *.tiiny.host
 *.tilda.ws
 *.timeforchangecounselling.com
-*.tinyblogging.com
 *.tld.cc
 *.tmweb.ru
 *.tokyoca.top
@@ -1093,7 +1076,6 @@
 *.trend.in
 *.tribalpages.com
 *.tripod.com
-*.ttblogs.com
 *.turbo.site
 *.turkish.lc
 *.tuxfamily.org
@@ -1174,7 +1156,6 @@
 *.webadorsite.com
 *.webatu.com
 *.webblog24.de
-*.webblogg.se
 *.webcindario.com
 *.webflow.io
 *.webgarden.com

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Mar 2026 09:28 UTC
-# Version: 2026.0319.0928.42
+# Last modified: 20 Mar 2026 03:30 UTC
+# Version: 2026.0320.0330.30
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 54822
+# Number of entries: 54823
 #
 *.0.beer
 *.0.club
@@ -33918,6 +33918,7 @@
 *.miscutbiomes.shop
 *.miscworkshops.com
 *.miserable-range.com
+*.miserableart.pro
 *.miserablegarage.com
 *.miserablenobody.com
 *.miserly-apple.pro

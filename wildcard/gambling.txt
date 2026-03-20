@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Mar 2026 22:47 UTC
-# Version: 2026.0319.2247.40
+# Last modified: 20 Mar 2026 04:51 UTC
+# Version: 2026.0320.0451.00
 # Syntax: Domains Wildcard (without subdomains)
 # Number of entries: 205156
 #
@@ -67444,7 +67444,6 @@
 *.bingoslots.site
 *.bingospirit.com
 *.bingostreet.com
-*.bingostreetcasinonodeposit.click
 *.bingosupport.org
 *.bingosys.net
 *.bingoterms.com
@@ -79934,6 +79933,7 @@
 *.casinoloofr.com
 *.casinoloot.io
 *.casinolooter.com
+*.casinoloots.com
 *.casinoloots.site
 *.casinoloots81.com
 *.casinolotoru.xyz
