@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 20 Mar 2026 15:53 UTC
-# Version: 2026.0320.1553.34
+# Last modified: 20 Mar 2026 21:28 UTC
+# Version: 2026.0320.2128.07
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 54807
+# Number of entries: 54808
 #
 local=/0.beer/
 local=/0.club/
@@ -47244,6 +47244,7 @@ local=/tardtodtimpi.com/
 local=/targeta41.net/
 local=/targetingnow.com/
 local=/targetmatch.co/
+local=/targetpilothermichermic.com/
 local=/targetpoint.com/
 local=/targetspot.com/
 local=/targhe.info/

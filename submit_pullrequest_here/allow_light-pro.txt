@@ -1,5 +1,9 @@
 # Unblocking for relaxed and balanced lists (non-aggressive) only.
 
+# https://github.com/hagezi/dns-blocklists/issues/9460
+crash-reports.mozilla.com
+crash-stats.mozilla.org
+
 # https://github.com/hagezi/dns-blocklists/issues/9285
 p16-ad-site-sign-sg.tiktokcdn.com
 p16-ad-site-sign-sg.tiktokcdn.com.edgesuite.net
