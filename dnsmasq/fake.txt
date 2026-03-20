@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 20 Mar 2026 09:30 UTC
-# Version: 2026.0320.0930.49
+# Last modified: 20 Mar 2026 16:17 UTC
+# Version: 2026.0320.1617.04
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14394
+# Number of entries: 14395
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -8463,6 +8463,7 @@ local=/milanowood.de/
 local=/milaravibes.de/
 local=/milea-wien.at/
 local=/milentech.com/
+local=/millaura.com/
 local=/milleis-bk.com/
 local=/milleniumchain.com/
 local=/millioncrystal.com/

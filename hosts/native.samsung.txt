@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Mar 2026 15:09 UTC
-# Version: 2026.0311.1509.48
+# Last modified: 20 Mar 2026 16:15 UTC
+# Version: 2026.0320.1615.46
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 269
+# Number of entries: 271
 #
 0.0.0.0 samsung-com.112.2o7.net
 0.0.0.0 metric.account-samsung.com
@@ -186,6 +186,7 @@
 0.0.0.0 go2.samsungads.com
 0.0.0.0 rtb-config.samsungads.com
 0.0.0.0 tvp-ads-log.samsungads.com
+0.0.0.0 tvp-interactive-ad.samsungads.com
 0.0.0.0 www.samsungads.com
 0.0.0.0 samsungallstore.com
 0.0.0.0 egs.samsungallstore.com
@@ -199,6 +200,7 @@
 0.0.0.0 acr-in-prd.samsungcloud.tv
 0.0.0.0 acr-kr-prd.samsungcloud.tv
 0.0.0.0 acr-mx-prd.samsungcloud.tv
+0.0.0.0 acr-nz-prd.samsungcloud.tv
 0.0.0.0 acr-us-prd.samsungcloud.tv
 0.0.0.0 acr0.samsungcloudsolution.com
 0.0.0.0 devicelog.samsungcloudsolution.net

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 27 Feb 2026 16:13 UTC
-# Version: 2026.0227.1613.03
+# Last modified: 20 Mar 2026 16:13 UTC
+# Version: 2026.0320.1613.10
 # Syntax: Hosts compressed (9 per line, including possible subdomains)
-# Number of entries: 26
+# Number of entries: 28
 #
 0.0.0.0 vhs.wwstat.com.eo.unicomcdn.com.cn adxlog-adnet.vivo.com.cn az.appstore.vivo.com.cn appstore-trace-h5sdk.vivo.com.cn dsplog-adnet.vivo.com.cn trace-h5sdk.vivo.com.cn tracking-adnet.vivo.com.cn vhs.wwstat.com.ctdns.cn trackercollect.ddxq.mobi
 0.0.0.0 trackerfeed.ddxq.mobi vhs.wwstat.com.eo.dnse0.com ads-api.vivo.com asia-abeacdataonrt-stsdk.vivoglobal.com asia-abeacdataort-stsdk.vivoglobal.com asia-ad-mkt-vivofs.vivoglobal.com asia-adlog.vivoglobal.com asia-adsjssdk.vivoglobal.com asia-album-api.vivoglobal.com
@@ -35,4 +35,6 @@
 0.0.0.0 sca-vcode-api.vivoglobal.com sca-vcode-od.vivoglobal.com sca-vcode-or.vivoglobal.com sg-cfg-stsdk.vivoglobal.com stsdk.vivoglobal.com onrt.stsdk.vivoglobal.com ort.stsdk.vivoglobal.com pnrt.stsdk.vivoglobal.com prt.stsdk.vivoglobal.com
 0.0.0.0 tr-album-api.vivoglobal.com tr-cota.vivoglobal.com tr-domaincfg.vivoglobal.com tr-err-up.vivoglobal.com tr-gdpr-vgc-datacenter.vivoglobal.com tr-onrt-stsdk.vivoglobal.com tr-ort-stsdk.vivoglobal.com tr-p.vivoglobal.com tr-romsp-unifyconfig.vivoglobal.com
 0.0.0.0 tr-st-sl.vivoglobal.com tr-st-sysupgrade.vivoglobal.com tr-stsdk.vivoglobal.com tr-sysupgrade-api.vivoglobal.com tr-timesync.vivoglobal.com tr-vcode-api.vivoglobal.com tr-vcode-od.vivoglobal.com tr-vcode-or.vivoglobal.com tr-weather.vivoglobal.com
-0.0.0.0 err.up.vivoglobal.com xn-ex-adreq-asa-c5b.vivoglobal.com zasc-cota.vivoglobal.com zasc-vcode-od.vivoglobal.com h4g3z1-native.vivo.web.app vhs.wwstat.com 
+0.0.0.0 uk-timesync.vivoglobal.com err.up.vivoglobal.com xn-ex-adreq-asa-c5b.vivoglobal.com za-p.vivoglobal.com zasc-cota.vivoglobal.com zasc-domaincfg.vivoglobal.com zasc-err-up.vivoglobal.com zasc-onrt-stsdk.vivoglobal.com zasc-ort-stsdk.vivoglobal.com
+0.0.0.0 zasc-pnrt-stsdk.vivoglobal.com zasc-romsp-unifyconfig.vivoglobal.com zasc-st-sl.vivoglobal.com zasc-stsdk.vivoglobal.com zasc-timesync.vivoglobal.com zasc-vcode-api.vivoglobal.com zasc-vcode-od.vivoglobal.com zasc-vcode-or.vivoglobal.com h4g3z1-native.vivo.web.app
+0.0.0.0 vhs.wwstat.com 

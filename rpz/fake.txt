@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773999000 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1774023420 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 20 Mar 2026 09:30 UTC
-; Version: 2026.0320.0930.49
+; Last modified: 20 Mar 2026 16:17 UTC
+; Version: 2026.0320.1617.04
 ; Syntax: RPZ
-; Number of entries: 28788
+; Number of entries: 28790
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -11092,6 +11092,8 @@ mikewatch2.com CNAME .
 *.mikewatch2.com CNAME .
 milentech.com CNAME .
 *.milentech.com CNAME .
+millaura.com CNAME .
+*.millaura.com CNAME .
 milleis-bk.com CNAME .
 *.milleis-bk.com CNAME .
 milleniumchain.com CNAME .

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 13 Mar 2026 16:09 UTC
-# Version: 2026.0313.1609.30
+# Last modified: 20 Mar 2026 16:07 UTC
+# Version: 2026.0320.1607.57
 # Syntax: Domains (without subdomains)
-# Number of entries: 318
+# Number of entries: 319
 #
 aan.amazon.co.jp
 aan.amazon.co.uk
@@ -210,6 +210,7 @@ maws-aax-apse-rtb-adx.amazon-adsystem.com
 maws-aax-apse-rtb.amazon-adsystem.com
 maws-aax-eu-rtb-adx.amazon-adsystem.com
 maws-aax-eu-rtb.amazon-adsystem.com
+maws-aax-eu.amazon-adsystem.com
 maws-aax-fe-sin.amazon-adsystem.com
 maws-aax-fe.amazon-adsystem.com
 maws-aax-us-east-rtb-adx.amazon-adsystem.com

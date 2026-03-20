@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773241740 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1774023300 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Samsung Tracker DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 11 Mar 2026 15:09 UTC
-; Version: 2026.0311.1509.48
+; Last modified: 20 Mar 2026 16:15 UTC
+; Version: 2026.0320.1615.46
 ; Syntax: RPZ
-; Number of entries: 394
+; Number of entries: 396
 ;
 h4g3z1-native.samsung.web.app CNAME .
 *.h4g3z1-native.samsung.web.app CNAME .
@@ -406,5 +406,7 @@ acr-kr-prd.samsungcloud.tv CNAME .
 *.acr-kr-prd.samsungcloud.tv CNAME .
 acr-mx-prd.samsungcloud.tv CNAME .
 *.acr-mx-prd.samsungcloud.tv CNAME .
+acr-nz-prd.samsungcloud.tv CNAME .
+*.acr-nz-prd.samsungcloud.tv CNAME .
 acr-us-prd.samsungcloud.tv CNAME .
 *.acr-us-prd.samsungcloud.tv CNAME .

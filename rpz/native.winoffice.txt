@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773418200 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1774022880 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Windows/Office Tracker DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 13 Mar 2026 16:10 UTC
-; Version: 2026.0313.1610.14
+; Last modified: 20 Mar 2026 16:08 UTC
+; Version: 2026.0320.1608.41
 ; Syntax: RPZ
-; Number of entries: 766
+; Number of entries: 770
 ;
 h4g3z1-native.winoffice.web.app CNAME .
 *.h4g3z1-native.winoffice.web.app CNAME .
@@ -596,6 +596,8 @@ t-ring-s.msedge.net CNAME .
 *.t-ring-s.msedge.net CNAME .
 t-ring-s2.msedge.net CNAME .
 *.t-ring-s2.msedge.net CNAME .
+t-ring-trafficshield.msedge.net CNAME .
+*.t-ring-trafficshield.msedge.net CNAME .
 t-s1-ring.msedge.net CNAME .
 *.t-s1-ring.msedge.net CNAME .
 win10-trt.msedge.net CNAME .
@@ -750,6 +752,8 @@ ffg-analyticsk3nvxfne4dp4s.servicebus.windows.net CNAME .
 *.ffg-analyticsk3nvxfne4dp4s.servicebus.windows.net CNAME .
 hme-live-loganalytics-namespace.servicebus.windows.net CNAME .
 *.hme-live-loganalytics-namespace.servicebus.windows.net CNAME .
+hme-uat-loganalytics-namespace.servicebus.windows.net CNAME .
+*.hme-uat-loganalytics-namespace.servicebus.windows.net CNAME .
 nexxtv-events.servicebus.windows.net CNAME .
 *.nexxtv-events.servicebus.windows.net CNAME .
 ppm-licensingtelemetry.servicebus.windows.net CNAME .

@@ -1240,6 +1240,13 @@
       }
     },
     {
+      "PK": "hme-uat-loganalytics-namespace.servicebus.windows.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "i1.services.social.microsoft.com",
       "action": {
         "do": 0,
@@ -2501,6 +2508,13 @@
     },
     {
       "PK": "t-ring-s.msedge.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "t-ring-trafficshield.msedge.net",
       "action": {
         "do": 0,
         "status": 1

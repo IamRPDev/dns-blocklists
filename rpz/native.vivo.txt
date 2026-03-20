@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1772208780 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1774023180 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Vivo Tracker DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 27 Feb 2026 16:13 UTC
-; Version: 2026.0227.1613.03
+; Last modified: 20 Mar 2026 16:13 UTC
+; Version: 2026.0320.1613.10
 ; Syntax: RPZ
-; Number of entries: 454
+; Number of entries: 480
 ;
 h4g3z1-native.vivo.web.app CNAME .
 *.h4g3z1-native.vivo.web.app CNAME .
@@ -454,14 +454,40 @@ tr-vcode-or.vivoglobal.com CNAME .
 *.tr-vcode-or.vivoglobal.com CNAME .
 tr-weather.vivoglobal.com CNAME .
 *.tr-weather.vivoglobal.com CNAME .
+uk-timesync.vivoglobal.com CNAME .
+*.uk-timesync.vivoglobal.com CNAME .
 err.up.vivoglobal.com CNAME .
 *.err.up.vivoglobal.com CNAME .
 xn-ex-adreq-asa-c5b.vivoglobal.com CNAME .
 *.xn-ex-adreq-asa-c5b.vivoglobal.com CNAME .
+za-p.vivoglobal.com CNAME .
+*.za-p.vivoglobal.com CNAME .
 zasc-cota.vivoglobal.com CNAME .
 *.zasc-cota.vivoglobal.com CNAME .
+zasc-domaincfg.vivoglobal.com CNAME .
+*.zasc-domaincfg.vivoglobal.com CNAME .
+zasc-err-up.vivoglobal.com CNAME .
+*.zasc-err-up.vivoglobal.com CNAME .
+zasc-onrt-stsdk.vivoglobal.com CNAME .
+*.zasc-onrt-stsdk.vivoglobal.com CNAME .
+zasc-ort-stsdk.vivoglobal.com CNAME .
+*.zasc-ort-stsdk.vivoglobal.com CNAME .
+zasc-pnrt-stsdk.vivoglobal.com CNAME .
+*.zasc-pnrt-stsdk.vivoglobal.com CNAME .
+zasc-romsp-unifyconfig.vivoglobal.com CNAME .
+*.zasc-romsp-unifyconfig.vivoglobal.com CNAME .
+zasc-st-sl.vivoglobal.com CNAME .
+*.zasc-st-sl.vivoglobal.com CNAME .
+zasc-stsdk.vivoglobal.com CNAME .
+*.zasc-stsdk.vivoglobal.com CNAME .
+zasc-timesync.vivoglobal.com CNAME .
+*.zasc-timesync.vivoglobal.com CNAME .
+zasc-vcode-api.vivoglobal.com CNAME .
+*.zasc-vcode-api.vivoglobal.com CNAME .
 zasc-vcode-od.vivoglobal.com CNAME .
 *.zasc-vcode-od.vivoglobal.com CNAME .
+zasc-vcode-or.vivoglobal.com CNAME .
+*.zasc-vcode-or.vivoglobal.com CNAME .
 vhs.wwstat.com CNAME .
 *.vhs.wwstat.com CNAME .
 trackercollect.ddxq.mobi CNAME .

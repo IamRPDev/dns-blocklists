@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773417540 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1774022280 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's safesearch not supported DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 13 Mar 2026 15:59 UTC
-; Version: 2026.0313.1559.34
+; Last modified: 20 Mar 2026 15:58 UTC
+; Version: 2026.0320.1558.19
 ; Syntax: RPZ
-; Number of entries: 428
+; Number of entries: 424
 ;
 search.femboy.ad CNAME .
 *.search.femboy.ad CNAME .
@@ -84,8 +84,6 @@ gogoprivate.com CNAME .
 *.gogoprivate.com CNAME .
 hmsearx.h0meserver.com CNAME .
 *.hmsearx.h0meserver.com CNAME .
-searx.joshcenters.com CNAME .
-*.searx.joshcenters.com CNAME .
 lukol.com CNAME .
 *.lukol.com CNAME .
 lycos.com CNAME .
@@ -386,8 +384,6 @@ nova.rambler.ru CNAME .
 *.nova.rambler.ru CNAME .
 searx.ru CNAME .
 *.searx.ru CNAME .
-searx.run CNAME .
-*.searx.run CNAME .
 search.darkness.services CNAME .
 *.search.darkness.services CNAME .
 searx.nixnet.services CNAME .

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 20 Mar 2026 10:48 UTC
-# Version: 2026.0320.1048.51
+# Last modified: 20 Mar 2026 16:04 UTC
+# Version: 2026.0320.1604.16
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 95356
+# Number of entries: 95354
 #
 local=/0-casino.com/
 local=/0-casino.info/
@@ -47873,7 +47873,6 @@ local=/cryptocasinonokyc.hu.net/
 local=/fastpayoutcasinos.hu.net/
 local=/nieuweonlinecasino.hu.net/
 local=/nieuweonlinecasinos.hu.net/
-local=/no-kyc-casinos.hu.net/
 local=/nokyccryptocasino.hu.net/
 local=/robocat-casino.hu.net/
 local=/schweizercasino.hu.net/
@@ -55680,7 +55679,6 @@ local=/lietuvosonlinekazino.com/
 local=/life-kentcasino.com/
 local=/lifeandbraincasino.de/
 local=/lifecasino.club/
-local=/lifelessonsforlittleones.com/
 local=/lifemirror.net/
 local=/lifepokerstore.com/
 local=/lifestylefitnessbd.com/

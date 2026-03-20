@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 20 Mar 2026 10:50 UTC
-# Version: 2026.0320.1050.11
+# Last modified: 20 Mar 2026 16:05 UTC
+# Version: 2026.0320.1605.45
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 46646
+# Number of entries: 46644
 #
 *.0-casino.com
 *.000-online-casino.com
@@ -24172,7 +24172,6 @@
 *.fastpayoutcasinos.hu.net
 *.nieuweonlinecasino.hu.net
 *.nieuweonlinecasinos.hu.net
-*.no-kyc-casinos.hu.net
 *.nokyccryptocasino.hu.net
 *.robocat-casino.hu.net
 *.schweizercasino.hu.net
@@ -27803,7 +27802,6 @@
 *.lienketcacuoc.com
 *.lietuvosonlinekazino.com
 *.life-kentcasino.com
-*.lifelessonsforlittleones.com
 *.lifetimecasinos.com
 *.liga-stavok.com
 *.liga365.com

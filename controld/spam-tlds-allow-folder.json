@@ -316,6 +316,13 @@
       }
     },
     {
+      "PK": "antiphishing.biz",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "apollo.fyi",
       "action": {
         "do": 1,

@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773977400 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1774021980 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Pop-Up Ads DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 20 Mar 2026 03:30 UTC
-; Version: 2026.0320.0330.30
+; Last modified: 20 Mar 2026 15:53 UTC
+; Version: 2026.0320.1553.34
 ; Syntax: RPZ
-; Number of entries: 109646
+; Number of entries: 109614
 ;
 bonzai.ad CNAME .
 *.bonzai.ad CNAME .
@@ -24772,38 +24772,24 @@ app-slash.co.com CNAME .
 *.app-slash.co.com CNAME .
 app-trust.co.com CNAME .
 *.app-trust.co.com CNAME .
-bankplus.co.com CNAME .
-*.bankplus.co.com CNAME .
 buff163.co.com CNAME .
 *.buff163.co.com CNAME .
 coinomi.co.com CNAME .
 *.coinomi.co.com CNAME .
-convergepay.co.com CNAME .
-*.convergepay.co.com CNAME .
 en-trust.co.com CNAME .
 *.en-trust.co.com CNAME .
 face-it.co.com CNAME .
 *.face-it.co.com CNAME .
-first-horizon.co.com CNAME .
-*.first-horizon.co.com CNAME .
 galixwallet.co.com CNAME .
 *.galixwallet.co.com CNAME .
 go-trust.co.com CNAME .
 *.go-trust.co.com CNAME .
-join-slash.co.com CNAME .
-*.join-slash.co.com CNAME .
-myprepaidcenter-app.co.com CNAME .
-*.myprepaidcenter-app.co.com CNAME .
-payhawk.co.com CNAME .
-*.payhawk.co.com CNAME .
 paytrace-app.co.com CNAME .
 *.paytrace-app.co.com CNAME .
 qroxlwallet.co.com CNAME .
 *.qroxlwallet.co.com CNAME .
 skinsmonkey.co.com CNAME .
 *.skinsmonkey.co.com CNAME .
-skrill-app.co.com CNAME .
-*.skrill-app.co.com CNAME .
 slash-ap.co.com CNAME .
 *.slash-ap.co.com CNAME .
 slash-on.co.com CNAME .
@@ -24812,8 +24798,6 @@ spendesk.co.com CNAME .
 *.spendesk.co.com CNAME .
 trastwallet.co.com CNAME .
 *.trastwallet.co.com CNAME .
-treasury-simmonsbank.co.com CNAME .
-*.treasury-simmonsbank.co.com CNAME .
 trust-download.co.com CNAME .
 *.trust-download.co.com CNAME .
 trustwallett.co.com CNAME .
@@ -33274,8 +33258,6 @@ ly.evensbarilla.com CNAME .
 *.ly.evensbarilla.com CNAME .
 event-experiment.com CNAME .
 *.event-experiment.com CNAME .
-event-redeem.com CNAME .
-*.event-redeem.com CNAME .
 eventfulpitcher.com CNAME .
 *.eventfulpitcher.com CNAME .
 eventsbritaingrocery.com CNAME .
@@ -81562,8 +81544,6 @@ host3.live CNAME .
 *.host3.live CNAME .
 hostingfile.live CNAME .
 *.hostingfile.live CNAME .
-hydrax.live CNAME .
-*.hydrax.live CNAME .
 ipbet66.live CNAME .
 *.ipbet66.live CNAME .
 jp24tv.live CNAME .
@@ -82292,8 +82272,6 @@ pclk.name CNAME .
 *.pclk.name CNAME .
 routes.name CNAME .
 *.routes.name CNAME .
-simpleswap.name CNAME .
-*.simpleswap.name CNAME .
 thanksgivingdelights.name CNAME .
 *.thanksgivingdelights.name CNAME .
 unix789.name CNAME .
@@ -83628,8 +83606,6 @@ chaipoaveb.net CNAME .
 *.chaipoaveb.net CNAME .
 chandlerexpertadvisorygroup.net CNAME .
 *.chandlerexpertadvisorygroup.net CNAME .
-changenovv.net CNAME .
-*.changenovv.net CNAME .
 chatdating.net CNAME .
 *.chatdating.net CNAME .
 chattdating.net CNAME .
@@ -83736,8 +83712,6 @@ cliquesteria.net CNAME .
 *.cliquesteria.net CNAME .
 mycu.socu.com.cdn.cloudflare.net CNAME .
 *.mycu.socu.com.cdn.cloudflare.net CNAME .
-d135aysof2oufc.cloudfront.net CNAME .
-*.d135aysof2oufc.cloudfront.net CNAME .
 d1rnejrnt2c4br.cloudfront.net CNAME .
 *.d1rnejrnt2c4br.cloudfront.net CNAME .
 d2jycu2xjxmle1.cloudfront.net CNAME .
@@ -85640,8 +85614,6 @@ nangooroamsoo.net CNAME .
 *.nangooroamsoo.net CNAME .
 nanroom.net CNAME .
 *.nanroom.net CNAME .
-natadecoco.net CNAME .
-*.natadecoco.net CNAME .
 naughtyfications.net CNAME .
 *.naughtyfications.net CNAME .
 nauzaphoay.net CNAME .
@@ -94508,8 +94480,6 @@ ntvk1.ru CNAME .
 *.ntvk1.ru CNAME .
 nurul-islam.ru CNAME .
 *.nurul-islam.ru CNAME .
-nyfinance.ru CNAME .
-*.nyfinance.ru CNAME .
 octobre.ru CNAME .
 *.octobre.ru CNAME .
 odnaknopka.ru CNAME .
@@ -104630,8 +104600,6 @@ trohycv.top CNAME .
 *.trohycv.top CNAME .
 truthsurview.top CNAME .
 *.truthsurview.top CNAME .
-tryrichleads.top CNAME .
-*.tryrichleads.top CNAME .
 ttdgbh.top CNAME .
 *.ttdgbh.top CNAME .
 77it32it41it25520it-itstring.cx.tubes-dl.top CNAME .

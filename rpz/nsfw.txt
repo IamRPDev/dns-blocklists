@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1774003920 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1774028040 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's NSFW DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 20 Mar 2026 10:52 UTC
-; Version: 2026.0320.1052.43
+; Last modified: 20 Mar 2026 17:34 UTC
+; Version: 2026.0320.1734.26
 ; Syntax: RPZ
-; Number of entries: 146548
+; Number of entries: 146530
 ;
 britneyspears.ac CNAME .
 *.britneyspears.ac CNAME .
@@ -26060,6 +26060,8 @@ cinepornogratis.com CNAME .
 *.cinepornogratis.com CNAME .
 cinesavant.com CNAME .
 *.cinesavant.com CNAME .
+cinitube.com CNAME .
+*.cinitube.com CNAME .
 cinnasticks.com CNAME .
 *.cinnasticks.com CNAME .
 cinqe.com CNAME .
@@ -31474,8 +31476,6 @@ emilfigueroa.com CNAME .
 *.emilfigueroa.com CNAME .
 emilfominstestsite1.com CNAME .
 *.emilfominstestsite1.com CNAME .
-emilianoestilistaunisex.com CNAME .
-*.emilianoestilistaunisex.com CNAME .
 emiliejouvet.com CNAME .
 *.emiliejouvet.com CNAME .
 emilymarilyn.com CNAME .
@@ -34820,8 +34820,6 @@ ficklokal.com CNAME .
 *.ficklokal.com CNAME .
 fickpension.com CNAME .
 *.fickpension.com CNAME .
-ficksuche.com CNAME .
-*.ficksuche.com CNAME .
 fickverein.com CNAME .
 *.fickverein.com CNAME .
 fickzeit.com CNAME .
@@ -46492,8 +46490,6 @@ jjupdates.com CNAME .
 *.jjupdates.com CNAME .
 jjxxxf.com CNAME .
 *.jjxxxf.com CNAME .
-jjxxxw.com CNAME .
-*.jjxxxw.com CNAME .
 jjzzsextou.com CNAME .
 *.jjzzsextou.com CNAME .
 jk7sextou.com CNAME .
@@ -52122,8 +52118,6 @@ mega3xxx.com CNAME .
 *.mega3xxx.com CNAME .
 mega555kq55fhfcnyidonion.com CNAME .
 *.mega555kq55fhfcnyidonion.com CNAME .
-mega69.com CNAME .
-*.mega69.com CNAME .
 megaboobsgirls.com CNAME .
 *.megaboobsgirls.com CNAME .
 megacadr.com CNAME .
@@ -65182,8 +65176,6 @@ radvideo.com CNAME .
 *.radvideo.com CNAME .
 radyocanakkale.com CNAME .
 *.radyocanakkale.com CNAME .
-raehart.com CNAME .
-*.raehart.com CNAME .
 rafaelasexto.com CNAME .
 *.rafaelasexto.com CNAME .
 rafian.com CNAME .
@@ -73814,8 +73806,6 @@ streamingwhore.com CNAME .
 *.streamingwhore.com CNAME .
 streamlivesex.com CNAME .
 *.streamlivesex.com CNAME .
-streammom.com CNAME .
-*.streammom.com CNAME .
 streampornsite.com CNAME .
 *.streampornsite.com CNAME .
 streamray.com CNAME .
@@ -111110,8 +111100,6 @@ pornozoo.net CNAME .
 *.pornozoo.net CNAME .
 pornpaysites.net CNAME .
 *.pornpaysites.net CNAME .
-pornphoto.net CNAME .
-*.pornphoto.net CNAME .
 pornpic.net CNAME .
 *.pornpic.net CNAME .
 pornpile.net CNAME .
@@ -122714,8 +122702,6 @@ kuloodporne.pl CNAME .
 *.kuloodporne.pl CNAME .
 maparciwn.pl CNAME .
 *.maparciwn.pl CNAME .
-mature.pl CNAME .
-*.mature.pl CNAME .
 matures.pl CNAME .
 *.matures.pl CNAME .
 milf.pl CNAME .
@@ -135014,8 +135000,6 @@ minisex.top CNAME .
 *.minisex.top CNAME .
 missav123.top CNAME .
 *.missav123.top CNAME .
-mixixxx69.top CNAME .
-*.mixixxx69.top CNAME .
 mixxx18.top CNAME .
 *.mixxx18.top CNAME .
 mobileporn.top CNAME .
@@ -145756,8 +145740,6 @@ sileescortlar.xyz CNAME .
 *.sileescortlar.xyz CNAME .
 silifkeeskort.xyz CNAME .
 *.silifkeeskort.xyz CNAME .
-simixxxx6.xyz CNAME .
-*.simixxxx6.xyz CNAME .
 sincaneskort.xyz CNAME .
 *.sincaneskort.xyz CNAME .
 sisliescortgo.xyz CNAME .

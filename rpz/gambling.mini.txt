@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1774003800 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1774022700 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 20 Mar 2026 10:50 UTC
-; Version: 2026.0320.1050.11
+; Last modified: 20 Mar 2026 16:05 UTC
+; Version: 2026.0320.1605.45
 ; Syntax: RPZ
-; Number of entries: 93292
+; Number of entries: 93288
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -41338,8 +41338,6 @@ lietuvosonlinekazino.com CNAME .
 *.lietuvosonlinekazino.com CNAME .
 life-kentcasino.com CNAME .
 *.life-kentcasino.com CNAME .
-lifelessonsforlittleones.com CNAME .
-*.lifelessonsforlittleones.com CNAME .
 lifetimecasinos.com CNAME .
 *.lifetimecasinos.com CNAME .
 liga-stavok.com CNAME .
@@ -70588,8 +70586,6 @@ nieuweonlinecasino.hu.net CNAME .
 *.nieuweonlinecasino.hu.net CNAME .
 nieuweonlinecasinos.hu.net CNAME .
 *.nieuweonlinecasinos.hu.net CNAME .
-no-kyc-casinos.hu.net CNAME .
-*.no-kyc-casinos.hu.net CNAME .
 nokyccryptocasino.hu.net CNAME .
 *.nokyccryptocasino.hu.net CNAME .
 robocat-casino.hu.net CNAME .

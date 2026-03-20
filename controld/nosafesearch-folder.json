@@ -1030,13 +1030,6 @@
       }
     },
     {
-      "PK": "searx.joshcenters.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "searx.lavatech.top",
       "action": {
         "do": 0,
@@ -1206,13 +1199,6 @@
     },
     {
       "PK": "searx.ru",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "searx.run",
       "action": {
         "do": 0,
         "status": 1

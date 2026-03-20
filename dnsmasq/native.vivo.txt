@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 27 Feb 2026 16:13 UTC
-# Version: 2026.0227.1613.03
+# Last modified: 20 Mar 2026 16:13 UTC
+# Version: 2026.0320.1613.10
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 227
+# Number of entries: 240
 #
 local=/vhs.wwstat.com.eo.unicomcdn.com.cn/
 local=/adxlog-adnet.vivo.com.cn/
@@ -231,9 +231,22 @@ local=/tr-vcode-api.vivoglobal.com/
 local=/tr-vcode-od.vivoglobal.com/
 local=/tr-vcode-or.vivoglobal.com/
 local=/tr-weather.vivoglobal.com/
+local=/uk-timesync.vivoglobal.com/
 local=/err.up.vivoglobal.com/
 local=/xn-ex-adreq-asa-c5b.vivoglobal.com/
+local=/za-p.vivoglobal.com/
 local=/zasc-cota.vivoglobal.com/
+local=/zasc-domaincfg.vivoglobal.com/
+local=/zasc-err-up.vivoglobal.com/
+local=/zasc-onrt-stsdk.vivoglobal.com/
+local=/zasc-ort-stsdk.vivoglobal.com/
+local=/zasc-pnrt-stsdk.vivoglobal.com/
+local=/zasc-romsp-unifyconfig.vivoglobal.com/
+local=/zasc-st-sl.vivoglobal.com/
+local=/zasc-stsdk.vivoglobal.com/
+local=/zasc-timesync.vivoglobal.com/
+local=/zasc-vcode-api.vivoglobal.com/
 local=/zasc-vcode-od.vivoglobal.com/
+local=/zasc-vcode-or.vivoglobal.com/
 local=/h4g3z1-native.vivo.web.app/
 local=/vhs.wwstat.com/

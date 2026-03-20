@@ -336,6 +336,13 @@
       }
     },
     {
+      "PK": "antiphishing.biz",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.apartments",
       "action": {
         "do": 0,

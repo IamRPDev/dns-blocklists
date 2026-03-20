@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Mar 2026 15:09 UTC
-# Version: 2026.0311.1509.48
+# Last modified: 20 Mar 2026 16:15 UTC
+# Version: 2026.0320.1615.46
 # Syntax: Domains (without subdomains)
-# Number of entries: 197
+# Number of entries: 198
 #
 samsung-com.112.2o7.net
 metric.account-samsung.com
@@ -131,6 +131,7 @@ acr-eu-prd.samsungcloud.tv
 acr-in-prd.samsungcloud.tv
 acr-kr-prd.samsungcloud.tv
 acr-mx-prd.samsungcloud.tv
+acr-nz-prd.samsungcloud.tv
 acr-us-prd.samsungcloud.tv
 acr0.samsungcloudsolution.com
 devicelog.samsungcloudsolution.net

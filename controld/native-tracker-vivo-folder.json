@@ -1548,6 +1548,13 @@
       }
     },
     {
+      "PK": "uk-timesync.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "vhs.wwstat.com",
       "action": {
         "do": 0,
@@ -1583,6 +1590,13 @@
       }
     },
     {
+      "PK": "za-p.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "zasc-cota.vivoglobal.com",
       "action": {
         "do": 0,
@@ -1590,7 +1604,84 @@
       }
     },
     {
+      "PK": "zasc-domaincfg.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "zasc-err-up.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "zasc-onrt-stsdk.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "zasc-ort-stsdk.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "zasc-pnrt-stsdk.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "zasc-romsp-unifyconfig.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "zasc-stsdk.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "zasc-st-sl.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "zasc-timesync.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "zasc-vcode-api.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "zasc-vcode-od.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "zasc-vcode-or.vivoglobal.com",
       "action": {
         "do": 0,
         "status": 1

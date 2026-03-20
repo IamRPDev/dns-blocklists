@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 13 Mar 2026 16:13 UTC
-# Version: 2026.0313.1613.12
+# Last modified: 20 Mar 2026 16:11 UTC
+# Version: 2026.0320.1611.43
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1708
+# Number of entries: 1726
 #
 0.0.0.0 alphonso.tv
 0.0.0.0 acpwdoni13.alphonso.tv
@@ -34,6 +34,7 @@
 0.0.0.0 budwoc80.alphonso.tv
 0.0.0.0 burmsde90.alphonso.tv
 0.0.0.0 bwezic7.alphonso.tv
+0.0.0.0 bxcpvyl4.alphonso.tv
 0.0.0.0 bzgjx81.alphonso.tv
 0.0.0.0 ccxspcacy49.alphonso.tv
 0.0.0.0 cdgzrfrcrk9.alphonso.tv
@@ -68,6 +69,7 @@
 0.0.0.0 ebgyjue7.alphonso.tv
 0.0.0.0 ecbmtltfbu47.alphonso.tv
 0.0.0.0 edqsadx4.alphonso.tv
+0.0.0.0 eekghd98.alphonso.tv
 0.0.0.0 efovduk59.alphonso.tv
 0.0.0.0 egmfuqki23.alphonso.tv
 0.0.0.0 ennef96.alphonso.tv
@@ -228,8 +230,10 @@
 0.0.0.0 eu-prov-lb.alphonso.tv
 0.0.0.0 eu-prov2.alphonso.tv
 0.0.0.0 eyndphse57.alphonso.tv
+0.0.0.0 favann0.alphonso.tv
 0.0.0.0 fdaobvh8.alphonso.tv
 0.0.0.0 fddan03.alphonso.tv
+0.0.0.0 fhkex91.alphonso.tv
 0.0.0.0 fjzlz5.alphonso.tv
 0.0.0.0 fkflly0.alphonso.tv
 0.0.0.0 fltqq84.alphonso.tv
@@ -247,16 +251,19 @@
 0.0.0.0 gyatn07.alphonso.tv
 0.0.0.0 gynwosmqlg1.alphonso.tv
 0.0.0.0 hbdmwkefy8.alphonso.tv
+0.0.0.0 hlrztkztfe5.alphonso.tv
 0.0.0.0 hoekqq1.alphonso.tv
 0.0.0.0 hooftnl76.alphonso.tv
 0.0.0.0 hrnwnuobza7.alphonso.tv
 0.0.0.0 hsfhfh95.alphonso.tv
 0.0.0.0 htzypautm19.alphonso.tv
 0.0.0.0 hvqjcycemh5.alphonso.tv
+0.0.0.0 hzcecjl9.alphonso.tv
 0.0.0.0 hzcjehtc7.alphonso.tv
 0.0.0.0 ibniwvetq1.alphonso.tv
 0.0.0.0 icoxpv90.alphonso.tv
 0.0.0.0 idkjv31.alphonso.tv
+0.0.0.0 ieufd1.alphonso.tv
 0.0.0.0 insights.alphonso.tv
 0.0.0.0 ioaoyyl3.alphonso.tv
 0.0.0.0 iqzjhctm4.alphonso.tv
@@ -268,6 +275,7 @@
 0.0.0.0 jfrqba0.alphonso.tv
 0.0.0.0 jgqioypx31.alphonso.tv
 0.0.0.0 jiniqgj4.alphonso.tv
+0.0.0.0 jkxthjq85.alphonso.tv
 0.0.0.0 jmbiescta34.alphonso.tv
 0.0.0.0 jokeg7.alphonso.tv
 0.0.0.0 jqqqiife69.alphonso.tv
@@ -538,6 +546,7 @@
 0.0.0.0 lbrgfl89.alphonso.tv
 0.0.0.0 lcrrqcz39.alphonso.tv
 0.0.0.0 lditca63.alphonso.tv
+0.0.0.0 lfzdqsvwx8.alphonso.tv
 0.0.0.0 lglbfle6.alphonso.tv
 0.0.0.0 lizmjtlnix16.alphonso.tv
 0.0.0.0 ljjsajcuwf67.alphonso.tv
@@ -561,12 +570,14 @@
 0.0.0.0 mopezmv99.alphonso.tv
 0.0.0.0 mpfml72.alphonso.tv
 0.0.0.0 mrhcmybeao1.alphonso.tv
+0.0.0.0 mutnc1.alphonso.tv
 0.0.0.0 mwuvclbed2.alphonso.tv
 0.0.0.0 myjfricv2.alphonso.tv
 0.0.0.0 naassttei6.alphonso.tv
 0.0.0.0 nbacc1.alphonso.tv
 0.0.0.0 nhundu5.alphonso.tv
 0.0.0.0 nmjvt6.alphonso.tv
+0.0.0.0 nqzwjhj7.alphonso.tv
 0.0.0.0 ntkfbsqfxy2.alphonso.tv
 0.0.0.0 ntmonou0.alphonso.tv
 0.0.0.0 nxlfrrqk07.alphonso.tv
@@ -604,17 +615,20 @@
 0.0.0.0 prov-geo-aws.alphonso.tv
 0.0.0.0 prov-lb.alphonso.tv
 0.0.0.0 prov-lg.alphonso.tv
+0.0.0.0 pwojexjma1.alphonso.tv
 0.0.0.0 qarawx1.alphonso.tv
 0.0.0.0 qcduuw89.alphonso.tv
 0.0.0.0 qdlmwrluk95.alphonso.tv
 0.0.0.0 qhaciv57.alphonso.tv
 0.0.0.0 qinvc14.alphonso.tv
+0.0.0.0 qwugshbh08.alphonso.tv
 0.0.0.0 rbdkfs9.alphonso.tv
 0.0.0.0 rdewdwf27.alphonso.tv
 0.0.0.0 rdshz5.alphonso.tv
 0.0.0.0 rgmlwyv40.alphonso.tv
 0.0.0.0 rhdpmaamx36.alphonso.tv
 0.0.0.0 rldmdjb95.alphonso.tv
+0.0.0.0 rlhfiwgg16.alphonso.tv
 0.0.0.0 rvahs48.alphonso.tv
 0.0.0.0 rxcxlnkoij6.alphonso.tv
 0.0.0.0 rymckhd6.alphonso.tv
@@ -1136,6 +1150,7 @@
 0.0.0.0 ugiys71.alphonso.tv
 0.0.0.0 ujdcipvr0.alphonso.tv
 0.0.0.0 ujuyhix2.alphonso.tv
+0.0.0.0 ujzkkj8.alphonso.tv
 0.0.0.0 uk-ad-inserter.alphonso.tv
 0.0.0.0 ulahboe0.alphonso.tv
 0.0.0.0 unosey64.alphonso.tv
@@ -1144,6 +1159,7 @@
 0.0.0.0 upgldtmgz08.alphonso.tv
 0.0.0.0 uwysugvwcb5.alphonso.tv
 0.0.0.0 uzfsfnxy61.alphonso.tv
+0.0.0.0 valkxt74.alphonso.tv
 0.0.0.0 vbpfpbmodz9.alphonso.tv
 0.0.0.0 vewxchtqs1.alphonso.tv
 0.0.0.0 vfqtgvx0.alphonso.tv
@@ -1180,6 +1196,7 @@
 0.0.0.0 xrxtkwnz4.alphonso.tv
 0.0.0.0 xsbyyik52.alphonso.tv
 0.0.0.0 xwoveqhs3.alphonso.tv
+0.0.0.0 xxpaz5.alphonso.tv
 0.0.0.0 ycqniap3.alphonso.tv
 0.0.0.0 ycveqoogp09.alphonso.tv
 0.0.0.0 ygebzkorfi7.alphonso.tv
@@ -1197,6 +1214,7 @@
 0.0.0.0 zmepmwhey7.alphonso.tv
 0.0.0.0 zpvvb87.alphonso.tv
 0.0.0.0 zqsyp37.alphonso.tv
+0.0.0.0 zsqnv4.alphonso.tv
 0.0.0.0 zsrznel7.alphonso.tv
 0.0.0.0 ztbiazom15.alphonso.tv
 0.0.0.0 zumqanh0.alphonso.tv
