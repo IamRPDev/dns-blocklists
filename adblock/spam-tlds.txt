@@ -10,8 +10,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 20 Mar 2026 15:44 UTC
-! Version: 2026.0320.1544.33
+! Last modified: 20 Mar 2026 21:42 UTC
+! Version: 2026.0320.2142.36
 ! Syntax: AdGuard
 ! Number of latin TLDs: 285 - punycode TLDs: 151
 !
@@ -92,7 +92,7 @@
 ||*.dpdns.org^
 ||*.eco^$denyallow=auk.eco|elli.eco|mer.eco|play.eco
 ||*.edu.eu^
-||*.energy^$denyallow=bigdig.energy|octopus.energy
+||*.energy^$denyallow=bigdig.energy|eonnext-kraken.energy|octopus.energy
 ||*.engineer^
 ||*.enterprises^
 ||*.equipment^$denyallow=biqu.equipment
