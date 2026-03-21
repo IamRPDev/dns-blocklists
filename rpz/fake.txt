@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1774023420 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1774085460 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 20 Mar 2026 16:17 UTC
-; Version: 2026.0320.1617.04
+; Last modified: 21 Mar 2026 09:31 UTC
+; Version: 2026.0321.0931.44
 ; Syntax: RPZ
-; Number of entries: 28790
+; Number of entries: 28800
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -2384,6 +2384,8 @@ antepmobilya.com CNAME .
 *.antepmobilya.com CNAME .
 anticipatei.com CNAME .
 *.anticipatei.com CNAME .
+anuraclo.com CNAME .
+*.anuraclo.com CNAME .
 any-trades.com CNAME .
 *.any-trades.com CNAME .
 anzugeshop.com CNAME .
@@ -7410,8 +7412,6 @@ gearshifted.com CNAME .
 *.gearshifted.com CNAME .
 geldvision.com CNAME .
 *.geldvision.com CNAME .
-gelmalls.com CNAME .
-*.gelmalls.com CNAME .
 gemhearingaids.com CNAME .
 *.gemhearingaids.com CNAME .
 gemoneo.com CNAME .
@@ -9790,6 +9790,8 @@ kobaltoutlet.com CNAME .
 *.kobaltoutlet.com CNAME .
 kobe-voitore.com CNAME .
 *.kobe-voitore.com CNAME .
+kochand.com CNAME .
+*.kochand.com CNAME .
 kochutensilienprofi.com CNAME .
 *.kochutensilienprofi.com CNAME .
 koel--schuhe.com CNAME .
@@ -15920,6 +15922,8 @@ tevasuomi.com CNAME .
 *.tevasuomi.com CNAME .
 teveogermany.com CNAME .
 *.teveogermany.com CNAME .
+teveoproducts.com CNAME .
+*.teveoproducts.com CNAME .
 texsatelsac.com CNAME .
 *.texsatelsac.com CNAME .
 textileproductss.com CNAME .
@@ -18860,6 +18864,8 @@ borrelioseweb.de CNAME .
 *.borrelioseweb.de CNAME .
 boxx-container.de CNAME .
 *.boxx-container.de CNAME .
+bozzer.de CNAME .
+*.bozzer.de CNAME .
 bp-analytics.de CNAME .
 *.bp-analytics.de CNAME .
 bp-heizoel.de CNAME .
@@ -24784,8 +24790,6 @@ sofialucasjoyeria.es CNAME .
 *.sofialucasjoyeria.es CNAME .
 todo-para-camping-caravans.es CNAME .
 *.todo-para-camping-caravans.es CNAME .
-4u2ride.eu CNAME .
-*.4u2ride.eu CNAME .
 akku-staubsauger.eu CNAME .
 *.akku-staubsauger.eu CNAME .
 ntqcp9y.amapolaproject.eu CNAME .
@@ -25162,6 +25166,8 @@ asfinet.info CNAME .
 *.asfinet.info CNAME .
 bitfinancial.info CNAME .
 *.bitfinancial.info CNAME .
+bybitbaltic.info CNAME .
+*.bybitbaltic.info CNAME .
 eqrragxt.info CNAME .
 *.eqrragxt.info CNAME .
 eurobitx.info CNAME .
@@ -27058,6 +27064,8 @@ fritzboxtech.shop CNAME .
 *.fritzboxtech.shop CNAME .
 fuwamof.shop CNAME .
 *.fuwamof.shop CNAME .
+fxrikg.shop CNAME .
+*.fxrikg.shop CNAME .
 gaborshoesoutlet.shop CNAME .
 *.gaborshoesoutlet.shop CNAME .
 gadgetladen.shop CNAME .
@@ -27414,6 +27422,8 @@ micaraapop.shop CNAME .
 *.micaraapop.shop CNAME .
 milopuzzle.shop CNAME .
 *.milopuzzle.shop CNAME .
+misterwatch.shop CNAME .
+*.misterwatch.shop CNAME .
 mlcodwhz.shop CNAME .
 *.mlcodwhz.shop CNAME .
 moancd.shop CNAME .

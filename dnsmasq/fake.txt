@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 20 Mar 2026 16:17 UTC
-# Version: 2026.0320.1617.04
+# Last modified: 21 Mar 2026 09:31 UTC
+# Version: 2026.0321.0931.44
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14395
+# Number of entries: 14400
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -62,7 +62,6 @@ local=/365pills.com/
 local=/3d-printing.store/
 local=/3racingparts.com/
 local=/4rxofficial.com/
-local=/4u2ride.eu/
 local=/5-drugs.com/
 local=/52magicdownload.com/
 local=/52magicdownloads.com/
@@ -604,6 +603,7 @@ local=/antenaschile.cl/
 local=/antepmobilya.com/
 local=/anticipatei.com/
 local=/antobi-shop.de/
+local=/anuraclo.com/
 local=/any-trades.com/
 local=/anyvibe.de/
 local=/anzugeshop.com/
@@ -1736,6 +1736,7 @@ local=/boxinvesting.com/
 local=/boxspringpro.com/
 local=/boxx-container.de/
 local=/bozok.at/
+local=/bozzer.de/
 local=/bp-analytics.de/
 local=/bp-direct.com/
 local=/bp-heizoel.de/
@@ -1942,6 +1943,7 @@ local=/bxrlin.de/
 local=/by-annameyer.de/
 local=/by-emmamuller.de/
 local=/by-olana.com/
+local=/bybitbaltic.info/
 local=/bydeia.com/
 local=/byilse.de/
 local=/bylola-store.de/
@@ -4791,6 +4793,7 @@ local=/fxcmanagement.com/
 local=/fxlivecrypto-option.net/
 local=/fxnovus.com/
 local=/fxpoint.co/
+local=/fxrikg.shop/
 local=/fxsep.com/
 local=/fyebuy.com/
 local=/fynixia.com/
@@ -4978,7 +4981,6 @@ local=/gebuhr-tech.de/
 local=/geflowing.de/
 local=/gelbente.de/
 local=/geldvision.com/
-local=/gelmalls.com/
 local=/gemhearingaids.com/
 local=/gemoneo.com/
 local=/generic4all-global.com/
@@ -7197,6 +7199,7 @@ local=/kobaltoutlet.com/
 local=/kobanga.de/
 local=/kobe-voitore.com/
 local=/koch-handel24.de/
+local=/kochand.com/
 local=/kochbucd.de/
 local=/kochenbackenneu.de/
 local=/kochenstein.de/
@@ -8504,6 +8507,7 @@ local=/missomajewellery.com/
 local=/missor.top/
 local=/misterhaushalt.de/
 local=/misterlamp.de/
+local=/misterwatch.shop/
 local=/miswimbest.com/
 local=/mitchellandness-de.com/
 local=/mitrueshop.com/
@@ -12547,6 +12551,7 @@ local=/teveo-germany.de/
 local=/teveoaustria.at/
 local=/teveogermany.com/
 local=/teveoosterreich.at/
+local=/teveoproducts.com/
 local=/tewango.de/
 local=/texsatelsac.com/
 local=/textileproductss.com/

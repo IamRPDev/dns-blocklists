@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 20 Mar 2026 10:56 UTC
-! Version: 2026.0320.1056.29
+! Last modified: 21 Mar 2026 10:58 UTC
+! Version: 2026.0321.1058.11
 ! Syntax: AdBlock
-! Number of entries: 1130
+! Number of entries: 1133
 !
 ||003153.xyz^
 ||ns.00dani.me^
@@ -315,6 +315,7 @@
 ||coe01.dnscry.pt^
 ||cph01.dnscry.pt^
 ||cpt01.dnscry.pt^
+||cpt02.dnscry.pt^
 ||cvt01.dnscry.pt^
 ||den01.dnscry.pt^
 ||dtw01.dnscry.pt^
@@ -354,6 +355,7 @@
 ||nue01.dnscry.pt^
 ||nyc01.dnscry.pt^
 ||omr01.dnscry.pt^
+||par01.dnscry.pt^
 ||pdx01.dnscry.pt^
 ||phl01.dnscry.pt^
 ||phx01.dnscry.pt^
@@ -1059,6 +1061,7 @@
 ||dns.twnic.tw^
 ||dns.txq.life^
 ||typaza.com^
+||dot.ublockdns.com^
 ||my.ublockdns.com^
 ||dns.umbrella.com^
 ||doh.umbrella.com^
