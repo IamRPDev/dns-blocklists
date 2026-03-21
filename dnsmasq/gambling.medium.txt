@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 Mar 2026 16:51 UTC
-# Version: 2026.0321.1651.34
+# Last modified: 21 Mar 2026 22:53 UTC
+# Version: 2026.0321.2253.06
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 91911
+# Number of entries: 91912
 #
 local=/0-casino.com/
 local=/0-casino.info/
@@ -20411,6 +20411,7 @@ local=/cartolabet.bet/
 local=/cartoonfile.net/
 local=/carvalhopg.com/
 local=/cas.casino/
+local=/cas-uk.com/
 local=/casa-pariurilor-casino.com/
 local=/casabet-casino-au.com/
 local=/casabet2.co/

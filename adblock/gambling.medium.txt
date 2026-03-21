@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 21 Mar 2026 16:51 UTC
-! Version: 2026.0321.1651.34
+! Last modified: 21 Mar 2026 22:53 UTC
+! Version: 2026.0321.2253.06
 ! Syntax: AdBlock
-! Number of entries: 91911
+! Number of entries: 91912
 !
 ||0-casino.com^
 ||0-casino.info^
@@ -20412,6 +20412,7 @@
 ||cartoonfile.net^
 ||carvalhopg.com^
 ||cas.casino^
+||cas-uk.com^
 ||casa-pariurilor-casino.com^
 ||casabet-casino-au.com^
 ||casabet2.co^
