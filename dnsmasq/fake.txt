@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 Mar 2026 09:31 UTC
-# Version: 2026.0321.0931.44
+# Last modified: 21 Mar 2026 15:32 UTC
+# Version: 2026.0321.1532.39
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14400
+# Number of entries: 14412
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -61,6 +61,7 @@ local=/365careprime.com/
 local=/365pills.com/
 local=/3d-printing.store/
 local=/3racingparts.com/
+local=/4k-iptv-direct.com/
 local=/4rxofficial.com/
 local=/5-drugs.com/
 local=/52magicdownload.com/
@@ -92,6 +93,7 @@ local=/aacreek-ranch.de/
 local=/aaronallen.top/
 local=/aatrailers.de/
 local=/abbigliamentoscarpe.com/
+local=/abbott-tech.net/
 local=/abcbinaire.com/
 local=/abdeckplanenmotor.com/
 local=/abeautybuffet.com/
@@ -2735,6 +2737,7 @@ local=/crocsuruguay.net/
 local=/crokdalien.com/
 local=/crop-bytes.com/
 local=/crossfitsuomi.co/
+local=/crown-vintage.de/
 local=/crownet.com/
 local=/crownno.com/
 local=/crugo.de/
@@ -2911,6 +2914,7 @@ local=/davinci-wear.com/
 local=/davishop.de/
 local=/dawahandel.de/
 local=/daysgiftrewards.com/
+local=/daytoday-deals.com/
 local=/dazalle.com/
 local=/dbackdrop.de/
 local=/dbestbrands.com/
@@ -3245,6 +3249,7 @@ local=/digi-markets.de/
 local=/digipoint.org/
 local=/digipulse.online/
 local=/digisingl.ru/
+local=/digital-beast.tech/
 local=/digital-starten.com/
 local=/digitalakku.de/
 local=/digitalheizer.de/
@@ -4070,6 +4075,7 @@ local=/everlastosterreich.at/
 local=/everlodge.io/
 local=/evermily.com/
 local=/evershape.at/
+local=/everyday-outdoor.de/
 local=/everyknives.com/
 local=/everyswimsuit.com/
 local=/evisas.travel/
@@ -7347,6 +7353,8 @@ local=/kurzhantelnshop.com/
 local=/kuscheltiereteddys.com/
 local=/kwardany.com/
 local=/kwikkards.com/
+local=/kx-tools.uk/
+local=/kxhm-store.com/
 local=/kyma-store.de/
 local=/kynaz10fashion.com/
 local=/kynubeauty.de/
@@ -11723,6 +11731,7 @@ local=/smartbuyglasses.at/
 local=/smartcookgear.com/
 local=/smartelampen.com/
 local=/smartelektroshop.com/
+local=/smarthauswerk.com/
 local=/smartheizer.de/
 local=/smartheizoel.de/
 local=/smarthitzen.de/
@@ -12156,6 +12165,7 @@ local=/strausseu-vip-online.shop/
 local=/strawberryjamshop.com/
 local=/strawberrymilkshop.com/
 local=/streakk.io/
+local=/stream4k-tv.pro/
 local=/streetforlife.com/
 local=/streetsynergies.com/
 local=/streibl-garten24.de/
@@ -13572,6 +13582,7 @@ local=/vinissage.de/
 local=/vinospezial.com/
 local=/vinsimo.com/
 local=/vinsrougesboutique.com/
+local=/vintage-watch-hub.com/
 local=/vintageladies.de/
 local=/vintaro.de/
 local=/vintedreselling.eu/
@@ -14037,6 +14048,7 @@ local=/wohlrab-handel.de/
 local=/wohn-perle.de/
 local=/wohndekode.com/
 local=/wohnelektro.com/
+local=/wohnenrabatt.com/
 local=/wohngartenshop.de/
 local=/wohnkuchede.com/
 local=/wohnlichkeiterschaffen.com/

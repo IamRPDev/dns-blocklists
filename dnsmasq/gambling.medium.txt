@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 Mar 2026 10:49 UTC
-# Version: 2026.0321.1049.59
+# Last modified: 21 Mar 2026 16:51 UTC
+# Version: 2026.0321.1651.34
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 91914
+# Number of entries: 91911
 #
 local=/0-casino.com/
 local=/0-casino.info/
@@ -42079,7 +42079,6 @@ local=/gamepokeronlinebet.com/
 local=/gamepokervn.com/
 local=/gameroc.com/
 local=/gamersbets.com/
-local=/games-1xbet-casino.ru/
 local=/games-casino-vavada-1.cfd/
 local=/games-casinoz.site/
 local=/games-dezhoupokerl.com/
@@ -47163,7 +47162,6 @@ local=/lemoncasino-bonus.info.pl/
 local=/lemoncasino-official.info.pl/
 local=/yep-casino.info.pl/
 local=/info-1win-poker.ru/
-local=/info-1xbet-casino.ru/
 local=/info-casino.online/
 local=/info-casino-bn.com/
 local=/info-squad777.site/
@@ -84312,7 +84310,6 @@ local=/twinscasino-fr.com/
 local=/twinspires.com/
 local=/twinstatescleanenergylink.com/
 local=/twinwinslots.ca/
-local=/twistedbulb.com/
 local=/twistedpoker.com/
 local=/twitchcasino.org/
 local=/twittermoneybot.com/

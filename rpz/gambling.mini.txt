@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1774090260 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1774111980 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 21 Mar 2026 10:51 UTC
-; Version: 2026.0321.1051.39
+; Last modified: 21 Mar 2026 16:53 UTC
+; Version: 2026.0321.1653.14
 ; Syntax: RPZ
-; Number of entries: 87434
+; Number of entries: 87428
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -53552,8 +53552,6 @@ twinspires.com CNAME .
 *.twinspires.com CNAME .
 twinstatescleanenergylink.com CNAME .
 *.twinstatescleanenergylink.com CNAME .
-twistedbulb.com CNAME .
-*.twistedbulb.com CNAME .
 twittermoneybot.com CNAME .
 *.twittermoneybot.com CNAME .
 two-up-casino-au.com CNAME .
@@ -75634,8 +75632,6 @@ fxmag.ru CNAME .
 *.fxmag.ru CNAME .
 fxmail.ru CNAME .
 *.fxmail.ru CNAME .
-games-1xbet-casino.ru CNAME .
-*.games-1xbet-casino.ru CNAME .
 getx-casino-77.ru CNAME .
 *.getx-casino-77.ru CNAME .
 getx-casino-amp10.ru CNAME .
@@ -75672,8 +75668,6 @@ incognitopoker.ru CNAME .
 *.incognitopoker.ru CNAME .
 info-1win-poker.ru CNAME .
 *.info-1win-poker.ru CNAME .
-info-1xbet-casino.ru CNAME .
-*.info-1xbet-casino.ru CNAME .
 irwin-casino-smart4.ru CNAME .
 *.irwin-casino-smart4.ru CNAME .
 jvspincasinobonus.ru CNAME .

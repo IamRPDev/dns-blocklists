@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1774090440 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1774112100 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's NSFW DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 21 Mar 2026 10:54 UTC
-; Version: 2026.0321.1054.12
+; Last modified: 21 Mar 2026 16:55 UTC
+; Version: 2026.0321.1655.28
 ; Syntax: RPZ
-; Number of entries: 145852
+; Number of entries: 145828
 ;
 britneyspears.ac CNAME .
 *.britneyspears.ac CNAME .
@@ -16924,8 +16924,6 @@ americaninternationalbusexchange.com CNAME .
 *.americaninternationalbusexchange.com CNAME .
 americanmednews.com CNAME .
 *.americanmednews.com CNAME .
-americanporngames.com CNAME .
-*.americanporngames.com CNAME .
 americansexcontacts.com CNAME .
 *.americansexcontacts.com CNAME .
 americanswinger.com CNAME .
@@ -17172,6 +17170,8 @@ analteenspornstars.com CNAME .
 *.analteenspornstars.com CNAME .
 analtherapyxxx.com CNAME .
 *.analtherapyxxx.com CNAME .
+analtoptube.com CNAME .
+*.analtoptube.com CNAME .
 analtrixxx.com CNAME .
 *.analtrixxx.com CNAME .
 analtwink.com CNAME .
@@ -25000,8 +25000,6 @@ cdnxxx.com CNAME .
 *.cdnxxx.com CNAME .
 cdsissy.com CNAME .
 *.cdsissy.com CNAME .
-cdxxxw.com CNAME .
-*.cdxxxw.com CNAME .
 cearalynch.com CNAME .
 *.cearalynch.com CNAME .
 cece88.com CNAME .
@@ -25822,8 +25820,6 @@ christymack.com CNAME .
 *.christymack.com CNAME .
 chronicillnessexplained.com CNAME .
 *.chronicillnessexplained.com CNAME .
-chrysosperma.com CNAME .
-*.chrysosperma.com CNAME .
 chubbyams.com CNAME .
 *.chubbyams.com CNAME .
 chubbyandfat.com CNAME .
@@ -31042,8 +31038,6 @@ ekbxxx.com CNAME .
 *.ekbxxx.com CNAME .
 ekcgayrimenkultr.com CNAME .
 *.ekcgayrimenkultr.com CNAME .
-ekramuzzaman.com CNAME .
-*.ekramuzzaman.com CNAME .
 eksvideos.com CNAME .
 *.eksvideos.com CNAME .
 ektachopra.com CNAME .
@@ -34692,8 +34686,6 @@ filmeporno2.com CNAME .
 *.filmeporno2.com CNAME .
 filmepornoerotico.com CNAME .
 *.filmepornoerotico.com CNAME .
-filmepornohd.com CNAME .
-*.filmepornohd.com CNAME .
 filmepornoroz.com CNAME .
 *.filmepornoroz.com CNAME .
 filmepornotari.com CNAME .
@@ -38254,8 +38246,6 @@ gaysforcongress.com CNAME .
 *.gaysforcongress.com CNAME .
 gaysfuckguys.com CNAME .
 *.gaysfuckguys.com CNAME .
-gayshack.com CNAME .
-*.gayshack.com CNAME .
 gayshawn.com CNAME .
 *.gayshawn.com CNAME .
 gayshortfilms.com CNAME .
@@ -40056,8 +40046,6 @@ gspotgirl.com CNAME .
 *.gspotgirl.com CNAME .
 gta6porn.com CNAME .
 *.gta6porn.com CNAME .
-gtporn.com CNAME .
-*.gtporn.com CNAME .
 gtsex.com CNAME .
 *.gtsex.com CNAME .
 guangdongvideo.com CNAME .
@@ -40172,8 +40160,6 @@ gutiziak.com CNAME .
 *.gutiziak.com CNAME .
 guttersexcel.com CNAME .
 *.guttersexcel.com CNAME .
-gutversteckt.com CNAME .
-*.gutversteckt.com CNAME .
 guxxxta.com CNAME .
 *.guxxxta.com CNAME .
 guy2gay.com CNAME .
@@ -54700,8 +54686,6 @@ mysexualsecret.com CNAME .
 *.mysexualsecret.com CNAME .
 mysexvideotube.com CNAME .
 *.mysexvideotube.com CNAME .
-mysexworld.com CNAME .
-*.mysexworld.com CNAME .
 mysexyaigirl.com CNAME .
 *.mysexyaigirl.com CNAME .
 mysexycamera.com CNAME .
@@ -73052,8 +73036,6 @@ spookytgp.com CNAME .
 *.spookytgp.com CNAME .
 sportsexecs.com CNAME .
 *.sportsexecs.com CNAME .
-sportsexotic.com CNAME .
-*.sportsexotic.com CNAME .
 sportsexpressvb.com CNAME .
 *.sportsexpressvb.com CNAME .
 sportsheets.com CNAME .
@@ -127610,8 +127592,6 @@ xxxread.ru CNAME .
 *.xxxread.ru CNAME .
 xxxsoskakrasnoarmeysk.ru CNAME .
 *.xxxsoskakrasnoarmeysk.ru CNAME .
-xxxsugar.ru CNAME .
-*.xxxsugar.ru CNAME .
 xxxtime.ru CNAME .
 *.xxxtime.ru CNAME .
 xxxviptavda.ru CNAME .
@@ -130700,8 +130680,6 @@ gigporno.site CNAME .
 *.gigporno.site CNAME .
 girlhorsesex.site CNAME .
 *.girlhorsesex.site CNAME .
-gloogle.site CNAME .
-*.gloogle.site CNAME .
 gujaratisex.site CNAME .
 *.gujaratisex.site CNAME .
 hayvanliporno.site CNAME .
@@ -132512,8 +132490,6 @@ vitrinecursosexpert.store CNAME .
 *.vitrinecursosexpert.store CNAME .
 vralixxx.store CNAME .
 *.vralixxx.store CNAME .
-vuivemoingay.store CNAME .
-*.vuivemoingay.store CNAME .
 whispermcoveo.store CNAME .
 *.whispermcoveo.store CNAME .
 xchina.store CNAME .

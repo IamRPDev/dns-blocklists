@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1774085460 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1774107120 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 21 Mar 2026 09:31 UTC
-; Version: 2026.0321.0931.44
+; Last modified: 21 Mar 2026 15:32 UTC
+; Version: 2026.0321.1532.39
 ; Syntax: RPZ
-; Number of entries: 28800
+; Number of entries: 28824
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -1732,6 +1732,8 @@ eoutlet.2023shoponline.com CNAME .
 *.365pills.com CNAME .
 3racingparts.com CNAME .
 *.3racingparts.com CNAME .
+4k-iptv-direct.com CNAME .
+*.4k-iptv-direct.com CNAME .
 4rxofficial.com CNAME .
 *.4rxofficial.com CNAME .
 5-drugs.com CNAME .
@@ -5054,6 +5056,8 @@ davinci-wear.com CNAME .
 *.davinci-wear.com CNAME .
 daysgiftrewards.com CNAME .
 *.daysgiftrewards.com CNAME .
+daytoday-deals.com CNAME .
+*.daytoday-deals.com CNAME .
 dazalle.com CNAME .
 *.dazalle.com CNAME .
 dbestbrands.com CNAME .
@@ -9930,6 +9934,8 @@ kwardany.com CNAME .
 *.kwardany.com CNAME .
 kwikkards.com CNAME .
 *.kwikkards.com CNAME .
+kxhm-store.com CNAME .
+*.kxhm-store.com CNAME .
 kynaz10fashion.com CNAME .
 *.kynaz10fashion.com CNAME .
 laamcom.com CNAME .
@@ -14964,6 +14970,8 @@ smartelampen.com CNAME .
 *.smartelampen.com CNAME .
 smartelektroshop.com CNAME .
 *.smartelektroshop.com CNAME .
+smarthauswerk.com CNAME .
+*.smarthauswerk.com CNAME .
 smartinvestsas.com CNAME .
 *.smartinvestsas.com CNAME .
 smartkochen.com CNAME .
@@ -17194,6 +17202,8 @@ vinsimo.com CNAME .
 *.vinsimo.com CNAME .
 vinsrougesboutique.com CNAME .
 *.vinsrougesboutique.com CNAME .
+vintage-watch-hub.com CNAME .
+*.vintage-watch-hub.com CNAME .
 vionicmexico.com CNAME .
 *.vionicmexico.com CNAME .
 vionicshoesportugal.com CNAME .
@@ -17650,6 +17660,8 @@ wohndekode.com CNAME .
 *.wohndekode.com CNAME .
 wohnelektro.com CNAME .
 *.wohnelektro.com CNAME .
+wohnenrabatt.com CNAME .
+*.wohnenrabatt.com CNAME .
 wohnkuchede.com CNAME .
 *.wohnkuchede.com CNAME .
 wohnlichkeiterschaffen.com CNAME .
@@ -19236,6 +19248,8 @@ crispischuhe.de CNAME .
 *.crispischuhe.de CNAME .
 locations.crocs.de CNAME .
 *.locations.crocs.de CNAME .
+crown-vintage.de CNAME .
+*.crown-vintage.de CNAME .
 crugo.de CNAME .
 *.crugo.de CNAME .
 cryptex-online.de CNAME .
@@ -19860,6 +19874,8 @@ evans-online.de CNAME .
 *.evans-online.de CNAME .
 evelline.de CNAME .
 *.evelline.de CNAME .
+everyday-outdoor.de CNAME .
+*.everyday-outdoor.de CNAME .
 evo-cleaner.de CNAME .
 *.evo-cleaner.de CNAME .
 evolgrafix.de CNAME .
@@ -25474,6 +25490,8 @@ virtualmall.my CNAME .
 *.24med.net CNAME .
 365-pharm.net CNAME .
 *.365-pharm.net CNAME .
+abbott-tech.net CNAME .
+*.abbott-tech.net CNAME .
 accsmarket.net CNAME .
 *.accsmarket.net CNAME .
 allsaintsportugal.net CNAME .
@@ -26654,6 +26672,8 @@ solostove.pro CNAME .
 *.solostove.pro CNAME .
 stableprocapital.pro CNAME .
 *.stableprocapital.pro CNAME .
+stream4k-tv.pro CNAME .
+*.stream4k-tv.pro CNAME .
 svd24.pro CNAME .
 *.svd24.pro CNAME .
 tangent-capital.pro CNAME .
@@ -28344,6 +28364,8 @@ applified.tech CNAME .
 *.applified.tech CNAME .
 autoled.tech CNAME .
 *.autoled.tech CNAME .
+digital-beast.tech CNAME .
+*.digital-beast.tech CNAME .
 gamebyte.tech CNAME .
 *.gamebyte.tech CNAME .
 installateur.prs247.tech CNAME .
@@ -28602,6 +28624,8 @@ teddith.co.uk CNAME .
 *.teddith.co.uk CNAME .
 deluxeskin.uk CNAME .
 *.deluxeskin.uk CNAME .
+kx-tools.uk CNAME .
+*.kx-tools.uk CNAME .
 mia-boutique.uk CNAME .
 *.mia-boutique.uk CNAME .
 skygateholding.uk CNAME .
