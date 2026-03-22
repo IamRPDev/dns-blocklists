@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1774174260 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1774217880 43200 3600 86400 300
   NS  localhost.
 ;
 1.0.218.230.rpz-ip CNAME .
@@ -38794,6 +38794,7 @@ $TTL 300
 89.35.90.24.rpz-ip CNAME .
 89.36.136.24.rpz-ip CNAME .
 89.36.141.24.rpz-ip CNAME .
+89.37.136.24.rpz-ip CNAME .
 89.37.214.212.rpz-ip CNAME .
 89.37.96.24.rpz-ip CNAME .
 89.38.240.24.rpz-ip CNAME .
@@ -39744,6 +39745,7 @@ $TTL 300
 93.114.51.24.rpz-ip CNAME .
 93.114.52.23.rpz-ip CNAME .
 93.114.54.24.rpz-ip CNAME .
+93.114.55.24.rpz-ip CNAME .
 93.114.58.23.rpz-ip CNAME .
 93.114.99.24.rpz-ip CNAME .
 93.115.59.24.rpz-ip CNAME .

@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1774171980 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1774215120 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Pop-Up Ads DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 22 Mar 2026 09:33 UTC
-; Version: 2026.0322.0933.00
+; Last modified: 22 Mar 2026 21:32 UTC
+; Version: 2026.0322.2132.58
 ; Syntax: RPZ
-; Number of entries: 109618
+; Number of entries: 109624
 ;
 bonzai.ad CNAME .
 *.bonzai.ad CNAME .
@@ -31448,6 +31448,8 @@ aa.dyakishdefraud.com CNAME .
 *.aa.dyakishdefraud.com CNAME .
 cz.dyedmurders.com CNAME .
 *.cz.dyedmurders.com CNAME .
+dyiket.com CNAME .
+*.dyiket.com CNAME .
 dyingforecast.com CNAME .
 *.dyingforecast.com CNAME .
 dyl88m88.com CNAME .
@@ -93930,6 +93932,8 @@ wz.spoorerlethied.qpon CNAME .
 *.wz.spoorerlethied.qpon CNAME .
 stintsimpious.qpon CNAME .
 *.stintsimpious.qpon CNAME .
+sufiunlust.qpon CNAME .
+*.sufiunlust.qpon CNAME .
 yd.taikunpistia.qpon CNAME .
 *.yd.taikunpistia.qpon CNAME .
 tanitehigh.qpon CNAME .
@@ -95200,6 +95204,8 @@ fleckedching.shop CNAME .
 *.fleckedching.shop CNAME .
 flintyboons.shop CNAME .
 *.flintyboons.shop CNAME .
+flyerscongius.shop CNAME .
+*.flyerscongius.shop CNAME .
 flyeryodels.shop CNAME .
 *.flyeryodels.shop CNAME .
 db.focusedrcd.shop CNAME .

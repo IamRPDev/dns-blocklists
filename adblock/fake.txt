@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 22 Mar 2026 09:35 UTC
-! Version: 2026.0322.0935.31
+! Last modified: 22 Mar 2026 21:35 UTC
+! Version: 2026.0322.2135.26
 ! Syntax: AdBlock
-! Number of entries: 14421
+! Number of entries: 14417
 !
 ||01broker.com^
 ||01crypto.com^
@@ -435,7 +435,6 @@
 ||alphaleteosterreich.at^
 ||alphaletesuomi.com^
 ||alphaluxury.de^
-||alphamile-shop.com^
 ||alphamuscle.is^
 ||alphaskin.de^
 ||alphastocking.com^
@@ -1346,6 +1345,7 @@
 ||bestclothes.club^
 ||bestdealtoday.net^
 ||bestdrugstore247.com^
+||beste-anhaenger.de^
 ||beste-gardinen.de^
 ||beste-motorrad.com^
 ||besteangebote24.de^
@@ -2403,6 +2403,7 @@
 ||dolomite.co.at^
 ||drscholls.co.za^
 ||duneshoesouthafrica.co.za^
+||ecompinnacle.co.uk^
 ||fred-perry.co.at^
 ||garcia.co.at^
 ||gopro.co.at^
@@ -2441,7 +2442,6 @@
 ||uggs.co.at^
 ||vanss.co.at^
 ||wilson.co.at^
-||xaradigitals.co.uk^
 ||yeezys.co.at^
 ||yeti-southafrica.co.za^
 ||co-bot.ltd^
@@ -2737,7 +2737,6 @@
 ||crokdalien.com^
 ||crop-bytes.com^
 ||crossfitsuomi.co^
-||crown-vintage-uk.com^
 ||crownet.com^
 ||crownno.com^
 ||crugo.de^
@@ -3658,6 +3657,7 @@
 ||elbschein.de^
 ||eleclc.com^
 ||elecmassage.fr^
+||elecmore.com^
 ||electric-b2c.com^
 ||electricianpowertools.com^
 ||electrics-appliance.com^
@@ -4033,6 +4033,7 @@
 ||europeangeneric.com^
 ||europeannewstoday.com^
 ||europeanpharm.net^
+||europecapitalmarkets.com^
 ||europharmacy.net^
 ||europharmacyonline.com^
 ||europharms.com^
@@ -5390,7 +5391,6 @@
 ||greenwichwelpenhaus.de^
 ||greermy.com^
 ||greesioun.com^
-||greltor-deals.net^
 ||gretasparwelt.de^
 ||gridautopecas.com^
 ||grill-markt.com^
@@ -8221,7 +8221,6 @@
 ||mbel-setsprize.com^
 ||mbike-jena.de^
 ||mbkauf.com^
-||mbspoint.com^
 ||mbtwien.at^
 ||mc-bau.at^
 ||mc-brennholz.com^
@@ -9408,7 +9407,6 @@
 ||nyfolk.de^
 ||nylsinv.com^
 ||nze.com^
-||o2-support-portal.net^
 ||oakdalerotary.org^
 ||oakprimefinance.com^
 ||obagroup.site^
@@ -10890,6 +10888,7 @@
 ||ricemly.com^
 ||richardkellenbergerlaw.com^
 ||richardtea.eu^
+||richmond365.com^
 ||richter-uhren.de^
 ||richterwwt.com^
 ||rick-kanzlei.de^
@@ -11209,7 +11208,6 @@
 ||samsonitedeutschland.de^
 ||samsonitexdeutschland.de^
 ||fr.samtradefx.com^
-||sanakhushbo-retail.com^
 ||sandalenhausschuhe.com^
 ||sandgo.shop^
 ||sandkasteelinvesting.pro^
@@ -12932,6 +12930,7 @@
 ||trade-pro.io^
 ||trade-shop.online^
 ||trade-x.net^
+||tradealles.com^
 ||tradecapital.net^
 ||tradecapital24.com^
 ||tradecircle.org^
@@ -13834,7 +13833,6 @@
 ||wearbreeze.de^
 ||wearebrew-en.com^
 ||wearekinglife.com^
-||wearnock-uk.com^
 ||wearnwatt.de^
 ||wearstudios.com^
 ||weathergaugesstore.com^
@@ -13859,7 +13857,6 @@
 ||webmremedies.com^
 ||dogiweb.webnode.it^
 ||mes-scpi-de-gre-a-gre.webnode.fr^
-||webs-invention.com^
 ||webseite.de^
 ||webseite-gratis.com^
 ||websterjamesprofessionalcorp.com^
@@ -14383,7 +14380,6 @@
 ||zilool.com^
 ||zimmerpflanzens.com^
 ||zimtahorn.de^
-||zingowriterx-shop.com^
 ||zinniafolkartsdeeu.shop^
 ||zinpp.com^
 ||zinsacm.com^

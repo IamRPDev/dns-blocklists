@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1774172100 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1774215300 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 22 Mar 2026 09:35 UTC
-; Version: 2026.0322.0935.31
+; Last modified: 22 Mar 2026 21:35 UTC
+; Version: 2026.0322.2135.26
 ; Syntax: RPZ
-; Number of entries: 28842
+; Number of entries: 28834
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -2192,8 +2192,6 @@ alphaforgood.com CNAME .
 *.alphaforgood.com CNAME .
 alphaletesuomi.com CNAME .
 *.alphaletesuomi.com CNAME .
-alphamile-shop.com CNAME .
-*.alphamile-shop.com CNAME .
 alphastocking.com CNAME .
 *.alphastocking.com CNAME .
 alpinamalende.com CNAME .
@@ -4848,8 +4846,6 @@ crokdalien.com CNAME .
 *.crokdalien.com CNAME .
 crop-bytes.com CNAME .
 *.crop-bytes.com CNAME .
-crown-vintage-uk.com CNAME .
-*.crown-vintage-uk.com CNAME .
 crownet.com CNAME .
 *.crownet.com CNAME .
 crownno.com CNAME .
@@ -5906,6 +5902,8 @@ elbasforst.com CNAME .
 *.elbasforst.com CNAME .
 eleclc.com CNAME .
 *.eleclc.com CNAME .
+elecmore.com CNAME .
+*.elecmore.com CNAME .
 electric-b2c.com CNAME .
 *.electric-b2c.com CNAME .
 electricianpowertools.com CNAME .
@@ -6342,6 +6340,8 @@ europeangeneric.com CNAME .
 *.europeangeneric.com CNAME .
 europeannewstoday.com CNAME .
 *.europeannewstoday.com CNAME .
+europecapitalmarkets.com CNAME .
+*.europecapitalmarkets.com CNAME .
 europharmacyonline.com CNAME .
 *.europharmacyonline.com CNAME .
 europharms.com CNAME .
@@ -10858,8 +10858,6 @@ mbel-setsprize.com CNAME .
 *.mbel-setsprize.com CNAME .
 mbkauf.com CNAME .
 *.mbkauf.com CNAME .
-mbspoint.com CNAME .
-*.mbspoint.com CNAME .
 mc-brennholz.com CNAME .
 *.mc-brennholz.com CNAME .
 mccoyn.com CNAME .
@@ -13996,6 +13994,8 @@ ricemly.com CNAME .
 *.ricemly.com CNAME .
 richardkellenbergerlaw.com CNAME .
 *.richardkellenbergerlaw.com CNAME .
+richmond365.com CNAME .
+*.richmond365.com CNAME .
 richterwwt.com CNAME .
 *.richterwwt.com CNAME .
 rideessence.com CNAME .
@@ -14354,8 +14354,6 @@ sammlerliebe.com CNAME .
 *.sammlerliebe.com CNAME .
 fr.samtradefx.com CNAME .
 *.fr.samtradefx.com CNAME .
-sanakhushbo-retail.com CNAME .
-*.sanakhushbo-retail.com CNAME .
 sandalenhausschuhe.com CNAME .
 *.sandalenhausschuhe.com CNAME .
 sanitaerbox.com CNAME .
@@ -16416,6 +16414,8 @@ trade-call.com CNAME .
 *.trade-call.com CNAME .
 trade-mbitm.com CNAME .
 *.trade-mbitm.com CNAME .
+tradealles.com CNAME .
+*.tradealles.com CNAME .
 tradecapital24.com CNAME .
 *.tradecapital24.com CNAME .
 tradect.com CNAME .
@@ -17440,8 +17440,6 @@ wearebrew-en.com CNAME .
 *.wearebrew-en.com CNAME .
 wearekinglife.com CNAME .
 *.wearekinglife.com CNAME .
-wearnock-uk.com CNAME .
-*.wearnock-uk.com CNAME .
 wearstudios.com CNAME .
 *.wearstudios.com CNAME .
 weathergaugesstore.com CNAME .
@@ -17464,8 +17462,6 @@ webinar-universe.com CNAME .
 *.webinar-universe.com CNAME .
 webmremedies.com CNAME .
 *.webmremedies.com CNAME .
-webs-invention.com CNAME .
-*.webs-invention.com CNAME .
 webseite-gratis.com CNAME .
 *.webseite-gratis.com CNAME .
 websterjamesprofessionalcorp.com CNAME .
@@ -18048,8 +18044,6 @@ zilool.com CNAME .
 *.zilool.com CNAME .
 zimmerpflanzens.com CNAME .
 *.zimmerpflanzens.com CNAME .
-zingowriterx-shop.com CNAME .
-*.zingowriterx-shop.com CNAME .
 zinpp.com CNAME .
 *.zinpp.com CNAME .
 zinsacm.com CNAME .
@@ -18764,6 +18758,8 @@ best-garden24.de CNAME .
 *.best-garden24.de CNAME .
 best-grow.de CNAME .
 *.best-grow.de CNAME .
+beste-anhaenger.de CNAME .
+*.beste-anhaenger.de CNAME .
 beste-gardinen.de CNAME .
 *.beste-gardinen.de CNAME .
 besteangebote24.de CNAME .
@@ -25744,8 +25740,6 @@ graskaufen.net CNAME .
 *.graskaufen.net CNAME .
 greenthin.net CNAME .
 *.greenthin.net CNAME .
-greltor-deals.net CNAME .
-*.greltor-deals.net CNAME .
 gutes-angebot.net CNAME .
 *.gutes-angebot.net CNAME .
 gymplaza.net CNAME .
@@ -25962,8 +25956,6 @@ novarixtrader.net CNAME .
 *.novarixtrader.net CNAME .
 nur-hier.net CNAME .
 *.nur-hier.net CNAME .
-o2-support-portal.net CNAME .
-*.o2-support-portal.net CNAME .
 officeway.net CNAME .
 *.officeway.net CNAME .
 oldcrow.net CNAME .
@@ -28618,6 +28610,8 @@ birmingha.co.uk CNAME .
 *.birmingha.co.uk CNAME .
 bulksellmart.co.uk CNAME .
 *.bulksellmart.co.uk CNAME .
+ecompinnacle.co.uk CNAME .
+*.ecompinnacle.co.uk CNAME .
 hildathelabel.co.uk CNAME .
 *.hildathelabel.co.uk CNAME .
 homegymsupply.co.uk CNAME .
@@ -28638,8 +28632,6 @@ presale.spacepay.co.uk CNAME .
 *.presale.spacepay.co.uk CNAME .
 teddith.co.uk CNAME .
 *.teddith.co.uk CNAME .
-xaradigitals.co.uk CNAME .
-*.xaradigitals.co.uk CNAME .
 deluxeskin.uk CNAME .
 *.deluxeskin.uk CNAME .
 mia-boutique.uk CNAME .

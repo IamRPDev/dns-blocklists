@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 22 Mar 2026 09:33 UTC
-# Version: 2026.0322.0933.00
+# Last modified: 22 Mar 2026 21:32 UTC
+# Version: 2026.0322.2132.58
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 54809
+# Number of entries: 54812
 #
 local=/0.beer/
 local=/0.club/
@@ -19126,6 +19126,7 @@ local=/dydynight.org/
 local=/cz.dyedmurders.com/
 local=/dyefejywztloj.store/
 local=/dygrupo.xyz/
+local=/dyiket.com/
 local=/dyingforecast.com/
 local=/ro.dykagegemini.shop/
 local=/dykcrgourwilq.space/
@@ -22265,6 +22266,7 @@ local=/flyads1.com/
 local=/flyassets.com/
 local=/flybymobile.com/
 local=/flyerfuzzy.com/
+local=/flyerscongius.shop/
 local=/flyerseafood.com/
 local=/flyersquare.com/
 local=/flyeryodels.shop/
@@ -46511,6 +46513,7 @@ local=/suffixsemitram.com/
 local=/suffocatefont.com/
 local=/suffocatefried.com/
 local=/suffocateinnhandling.com/
+local=/sufiunlust.qpon/
 local=/suftoajachi.com/
 local=/sugarboxxx.net/
 local=/sugarchurch.com/

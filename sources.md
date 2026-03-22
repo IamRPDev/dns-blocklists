@@ -246,6 +246,7 @@ https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/suspici
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/suspicious/onion.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/suspicious/port_proxy.txt
 https://raw.githubusercontent.com/stamparm/maltrail/refs/heads/master/trails/static/malicious/browser_locker.txt
+https://raw.githubusercontent.com/stamparm/maltrail/refs/heads/master/trails/static/malware/apt_kun3.txt
 https://raw.githubusercontent.com/stamparm/maltrail/refs/heads/master/trails/static/malware/apt_unc6691.txt
 https://raw.githubusercontent.com/stamparm/maltrail/refs/heads/master/trails/static/malware/fakeapp.txt
 https://raw.githubusercontent.com/stamparm/maltrail/refs/heads/master/trails/static/malware/santa.txt
