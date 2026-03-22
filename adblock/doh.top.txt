@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 21 Mar 2026 10:58 UTC
-! Version: 2026.0321.1058.11
+! Last modified: 22 Mar 2026 11:08 UTC
+! Version: 2026.0322.1108.48
 ! Syntax: AdBlock
-! Number of entries: 1133
+! Number of entries: 1136
 !
 ||003153.xyz^
 ||ns.00dani.me^
@@ -136,6 +136,7 @@
 ||adguard.bitteeinbyte.de^
 ||dns-tls.bitwiseshift.net^
 ||doh.blahdns.com^
+||doh-ch.blahdns.com^
 ||doh-de.blahdns.com^
 ||doh-fi.blahdns.com^
 ||doh-jp.blahdns.com^
@@ -508,6 +509,7 @@
 ||gibblets.top^
 ||dns.ginovs.nl^
 ||dns.girino.org^
+||doh.ptqy.gitv.tv^
 ||glacius.top^
 ||dns.glf.wtf^
 ||dns.api.globus.org^
@@ -1017,6 +1019,7 @@
 ||dns.szpadel.ovh^
 ||dns.t-ipnet.de^
 ||dns.t53.de^
+||httpdns.danuoyi.tbcache.com^
 ||tecdrive.site^
 ||dns1.techeasy.org^
 ||dns1.techniverse.net^

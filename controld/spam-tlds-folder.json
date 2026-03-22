@@ -883,6 +883,13 @@
       }
     },
     {
+      "PK": "*.hl.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.homes",
       "action": {
         "do": 0,

@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 Mar 2026 22:54 UTC
-# Version: 2026.0321.2254.47
+# Last modified: 22 Mar 2026 11:02 UTC
+# Version: 2026.0322.1102.41
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 12147
 #
@@ -476,6 +476,7 @@ local=/abrase.beer/
 local=/abrokegamer.com/
 local=/abv-media.ru/
 local=/ac-market.org/
+local=/acermovies.fun/
 local=/acetorrents.net/
 local=/acg.rip/
 local=/bt.acg.gg/
@@ -1259,7 +1260,6 @@ local=/bdixtorrent.com/
 local=/bdlan.net/
 local=/bdlivezone.com/
 local=/bdmovies.net/
-local=/bdremux.club/
 local=/bdspeed.com/
 local=/bdtv.live/
 local=/bdupload.asia/

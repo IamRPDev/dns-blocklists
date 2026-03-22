@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1774128720 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1774172100 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 21 Mar 2026 21:32 UTC
-; Version: 2026.0321.2132.24
+; Last modified: 22 Mar 2026 09:35 UTC
+; Version: 2026.0322.0935.31
 ; Syntax: RPZ
-; Number of entries: 28808
+; Number of entries: 28842
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -2192,6 +2192,8 @@ alphaforgood.com CNAME .
 *.alphaforgood.com CNAME .
 alphaletesuomi.com CNAME .
 *.alphaletesuomi.com CNAME .
+alphamile-shop.com CNAME .
+*.alphamile-shop.com CNAME .
 alphastocking.com CNAME .
 *.alphastocking.com CNAME .
 alpinamalende.com CNAME .
@@ -4122,8 +4124,6 @@ canvasvista.com CNAME .
 *.canvasvista.com CNAME .
 capacityk.com CNAME .
 *.capacityk.com CNAME .
-capatee.com CNAME .
-*.capatee.com CNAME .
 capexgo.com CNAME .
 *.capexgo.com CNAME .
 capital-coins.com CNAME .
@@ -4848,6 +4848,8 @@ crokdalien.com CNAME .
 *.crokdalien.com CNAME .
 crop-bytes.com CNAME .
 *.crop-bytes.com CNAME .
+crown-vintage-uk.com CNAME .
+*.crown-vintage-uk.com CNAME .
 crownet.com CNAME .
 *.crownet.com CNAME .
 crownno.com CNAME .
@@ -6268,8 +6270,6 @@ eu-class.com CNAME .
 *.eu-class.com CNAME .
 eu-first.com CNAME .
 *.eu-first.com CNAME .
-eu-pharmacy-online.com CNAME .
-*.eu-pharmacy-online.com CNAME .
 eu-pillstore.com CNAME .
 *.eu-pillstore.com CNAME .
 eu-sezane.com CNAME .
@@ -7614,6 +7614,8 @@ getyourtreatmentshere.com CNAME .
 *.getyourtreatmentshere.com CNAME .
 gexchain.com CNAME .
 *.gexchain.com CNAME .
+gfi-hold.com CNAME .
+*.gfi-hold.com CNAME .
 gfmtrader.com CNAME .
 *.gfmtrader.com CNAME .
 gfore-suomi.com CNAME .
@@ -8994,6 +8996,8 @@ implsgather.com CNAME .
 *.implsgather.com CNAME .
 importstoree.com CNAME .
 *.importstoree.com CNAME .
+imtisaltradersltd.com CNAME .
+*.imtisaltradersltd.com CNAME .
 inador.com CNAME .
 *.inador.com CNAME .
 inauguratei.com CNAME .
@@ -10854,6 +10858,8 @@ mbel-setsprize.com CNAME .
 *.mbel-setsprize.com CNAME .
 mbkauf.com CNAME .
 *.mbkauf.com CNAME .
+mbspoint.com CNAME .
+*.mbspoint.com CNAME .
 mc-brennholz.com CNAME .
 *.mc-brennholz.com CNAME .
 mccoyn.com CNAME .
@@ -11030,6 +11036,8 @@ messer-online-de.com CNAME .
 *.messer-online-de.com CNAME .
 messerladen.com CNAME .
 *.messerladen.com CNAME .
+messerserie.com CNAME .
+*.messerserie.com CNAME .
 messgerateprofi.com CNAME .
 *.messgerateprofi.com CNAME .
 messtechnikfull.com CNAME .
@@ -11170,6 +11178,8 @@ mizunode.com CNAME .
 *.mizunode.com CNAME .
 mizunosaleportugal.com CNAME .
 *.mizunosaleportugal.com CNAME .
+mjolnex-ltd.com CNAME .
+*.mjolnex-ltd.com CNAME .
 mjonessb.com CNAME .
 *.mjonessb.com CNAME .
 mkc-invest.com CNAME .
@@ -13352,6 +13362,8 @@ pranaclothingcanada.com CNAME .
 *.pranaclothingcanada.com CNAME .
 prashanti-baumarkt.com CNAME .
 *.prashanti-baumarkt.com CNAME .
+prazisemesser.com CNAME .
+*.prazisemesser.com CNAME .
 prdictorehad.com CNAME .
 *.prdictorehad.com CNAME .
 precidion.com CNAME .
@@ -14342,6 +14354,8 @@ sammlerliebe.com CNAME .
 *.sammlerliebe.com CNAME .
 fr.samtradefx.com CNAME .
 *.fr.samtradefx.com CNAME .
+sanakhushbo-retail.com CNAME .
+*.sanakhushbo-retail.com CNAME .
 sandalenhausschuhe.com CNAME .
 *.sandalenhausschuhe.com CNAME .
 sanitaerbox.com CNAME .
@@ -17240,6 +17254,8 @@ vitalismoemi.com CNAME .
 *.vitalismoemi.com CNAME .
 vivagopro.com CNAME .
 *.vivagopro.com CNAME .
+vivaiacollection.com CNAME .
+*.vivaiacollection.com CNAME .
 vivaiaschuhe.com CNAME .
 *.vivaiaschuhe.com CNAME .
 vivaiaschweiz.com CNAME .
@@ -17424,6 +17440,8 @@ wearebrew-en.com CNAME .
 *.wearebrew-en.com CNAME .
 wearekinglife.com CNAME .
 *.wearekinglife.com CNAME .
+wearnock-uk.com CNAME .
+*.wearnock-uk.com CNAME .
 wearstudios.com CNAME .
 *.wearstudios.com CNAME .
 weathergaugesstore.com CNAME .
@@ -17446,6 +17464,8 @@ webinar-universe.com CNAME .
 *.webinar-universe.com CNAME .
 webmremedies.com CNAME .
 *.webmremedies.com CNAME .
+webs-invention.com CNAME .
+*.webs-invention.com CNAME .
 webseite-gratis.com CNAME .
 *.webseite-gratis.com CNAME .
 websterjamesprofessionalcorp.com CNAME .
@@ -18028,6 +18048,8 @@ zilool.com CNAME .
 *.zilool.com CNAME .
 zimmerpflanzens.com CNAME .
 *.zimmerpflanzens.com CNAME .
+zingowriterx-shop.com CNAME .
+*.zingowriterx-shop.com CNAME .
 zinpp.com CNAME .
 *.zinpp.com CNAME .
 zinsacm.com CNAME .
@@ -22984,6 +23006,8 @@ qredhaus.de CNAME .
 *.qredhaus.de CNAME .
 quadrals.de CNAME .
 *.quadrals.de CNAME .
+qualishopde.de CNAME .
+*.qualishopde.de CNAME .
 quordlepuzzles.de CNAME .
 *.quordlepuzzles.de CNAME .
 ra-rick.de CNAME .
@@ -25418,6 +25442,8 @@ investing-in.ltd CNAME .
 *.investing-in.ltd CNAME .
 mirainvestments.ltd CNAME .
 *.mirainvestments.ltd CNAME .
+novaprimemarkets.ltd CNAME .
+*.novaprimemarkets.ltd CNAME .
 pacificgroup.ltd CNAME .
 *.pacificgroup.ltd CNAME .
 realdigital.ltd CNAME .
@@ -25718,6 +25744,8 @@ graskaufen.net CNAME .
 *.graskaufen.net CNAME .
 greenthin.net CNAME .
 *.greenthin.net CNAME .
+greltor-deals.net CNAME .
+*.greltor-deals.net CNAME .
 gutes-angebot.net CNAME .
 *.gutes-angebot.net CNAME .
 gymplaza.net CNAME .
@@ -25934,6 +25962,8 @@ novarixtrader.net CNAME .
 *.novarixtrader.net CNAME .
 nur-hier.net CNAME .
 *.nur-hier.net CNAME .
+o2-support-portal.net CNAME .
+*.o2-support-portal.net CNAME .
 officeway.net CNAME .
 *.officeway.net CNAME .
 oldcrow.net CNAME .
@@ -28608,12 +28638,16 @@ presale.spacepay.co.uk CNAME .
 *.presale.spacepay.co.uk CNAME .
 teddith.co.uk CNAME .
 *.teddith.co.uk CNAME .
+xaradigitals.co.uk CNAME .
+*.xaradigitals.co.uk CNAME .
 deluxeskin.uk CNAME .
 *.deluxeskin.uk CNAME .
 mia-boutique.uk CNAME .
 *.mia-boutique.uk CNAME .
 skygateholding.uk CNAME .
 *.skygateholding.uk CNAME .
+whiteacehealthcare.uk CNAME .
+*.whiteacehealthcare.uk CNAME .
 airtickt.us CNAME .
 *.airtickt.us CNAME .
 algopro.us CNAME .

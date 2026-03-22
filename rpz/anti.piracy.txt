@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1774133640 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1774177320 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,8 +9,8 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 21 Mar 2026 22:54 UTC
-; Version: 2026.0321.2254.47
+; Last modified: 22 Mar 2026 11:02 UTC
+; Version: 2026.0322.1102.41
 ; Syntax: RPZ
 ; Number of entries: 24294
 ;
@@ -2254,8 +2254,6 @@ baixar.club CNAME .
 *.baixar.club CNAME .
 bdfun.club CNAME .
 *.bdfun.club CNAME .
-bdremux.club CNAME .
-*.bdremux.club CNAME .
 tracker.brokenstones.club CNAME .
 *.tracker.brokenstones.club CNAME .
 tracker.btschool.club CNAME .
@@ -9998,6 +9996,8 @@ vegamovies.frl CNAME .
 *.1337x.fun CNAME .
 9kmovies.fun CNAME .
 *.9kmovies.fun CNAME .
+acermovies.fun CNAME .
+*.acermovies.fun CNAME .
 actrue.fun CNAME .
 *.actrue.fun CNAME .
 altadefinizionegratis.fun CNAME .

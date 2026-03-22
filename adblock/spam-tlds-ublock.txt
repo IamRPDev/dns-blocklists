@@ -11,10 +11,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 20 Mar 2026 21:42 UTC
-! Version: 2026.0320.2142.36
+! Last modified: 22 Mar 2026 11:09 UTC
+! Version: 2026.0322.1109.46
 ! Syntax: uBlock
-! Number of latin TLDs: 285 - punycode TLDs: 151
+! Number of latin TLDs: 286 - punycode TLDs: 151
 !
 ||actor^$doc
 ||africa^$doc,domain=~nation.africa
@@ -141,6 +141,7 @@
 ||health^$doc,domain=~sca.health
 ||healthcare^$doc,domain=~severance.healthcare
 ||help^$doc,domain=~crisp.help|~fastmail.help|~gorgias.help|~kustomer.help|~pixiv.help
+||hl.cn^$doc
 ||homes^$doc,domain=~stremio.homes
 ||hot^$doc,domain=~minecraft.hot
 ||house^$doc,domain=~lanparty.house|~nature.house
