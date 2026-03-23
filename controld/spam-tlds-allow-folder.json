@@ -5174,6 +5174,13 @@
       }
     },
     {
+      "PK": "starlightnet.work",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "static.pub",
       "action": {
         "do": 1,

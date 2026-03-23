@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1774263420 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1774285020 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's NSFW DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 23 Mar 2026 10:57 UTC
-; Version: 2026.0323.1057.20
+; Last modified: 23 Mar 2026 16:57 UTC
+; Version: 2026.0323.1657.06
 ; Syntax: RPZ
-; Number of entries: 148672
+; Number of entries: 148668
 ;
 britneyspears.ac CNAME .
 *.britneyspears.ac CNAME .
@@ -5648,8 +5648,6 @@ porntube.ca CNAME .
 *.porntube.ca CNAME .
 rabaisextreme.ca CNAME .
 *.rabaisextreme.ca CNAME .
-revengepornisacrime.ca CNAME .
-*.revengepornisacrime.ca CNAME .
 secretsofasexworker.ca CNAME .
 *.secretsofasexworker.ca CNAME .
 serenitycox.ca CNAME .
@@ -15094,6 +15092,8 @@ adultcamsuk.com CNAME .
 *.adultcamsuk.com CNAME .
 adultcamsworld.com CNAME .
 *.adultcamsworld.com CNAME .
+adultcamtube.com CNAME .
+*.adultcamtube.com CNAME .
 adultcamuni.com CNAME .
 *.adultcamuni.com CNAME .
 adultcaption.com CNAME .
@@ -20306,8 +20306,6 @@ barbaranitke.com CNAME .
 *.barbaranitke.com CNAME .
 barbiehouse69.com CNAME .
 *.barbiehouse69.com CNAME .
-barcelona-street.com CNAME .
-*.barcelona-street.com CNAME .
 barclayspartnerfinanceeligibility.com CNAME .
 *.barclayspartnerfinanceeligibility.com CNAME .
 barcodepedia.com CNAME .
@@ -31560,8 +31558,6 @@ editions-gayan.com CNAME .
 *.editions-gayan.com CNAME .
 editionslaborintus.com CNAME .
 *.editionslaborintus.com CNAME .
-edpartsexpress.com CNAME .
-*.edpartsexpress.com CNAME .
 edpowers.com CNAME .
 *.edpowers.com CNAME .
 edpride.com CNAME .
@@ -46646,8 +46642,6 @@ javsemi.com CNAME .
 *.javsemi.com CNAME .
 javseven.com CNAME .
 *.javseven.com CNAME .
-javsex18.com CNAME .
-*.javsex18.com CNAME .
 javsexfree.com CNAME .
 *.javsexfree.com CNAME .
 javsexxx.com CNAME .
@@ -66522,8 +66516,6 @@ red-head-porn.com CNAME .
 *.red-head-porn.com CNAME .
 red-movies.com CNAME .
 *.red-movies.com CNAME .
-red-sex-love.com CNAME .
-*.red-sex-love.com CNAME .
 redamateurtube.com CNAME .
 *.redamateurtube.com CNAME .
 redbled.com CNAME .
@@ -68202,10 +68194,6 @@ savitabhabhivideos.com CNAME .
 *.savitabhabhivideos.com CNAME .
 savorybabes.com CNAME .
 *.savorybabes.com CNAME .
-savytskaadult.com CNAME .
-*.savytskaadult.com CNAME .
-savytskaxxx.com CNAME .
-*.savytskaxxx.com CNAME .
 sawstory.com CNAME .
 *.sawstory.com CNAME .
 sawyersexcavating.com CNAME .
@@ -80980,6 +80968,8 @@ usedcarspermianbasin.com CNAME .
 *.usedcarspermianbasin.com CNAME .
 usedirtybird.com CNAME .
 *.usedirtybird.com CNAME .
+usedpanties.com CNAME .
+*.usedpanties.com CNAME .
 usefetish.com CNAME .
 *.usefetish.com CNAME .
 useindian.com CNAME .
@@ -83648,6 +83638,8 @@ wkbilibili.com CNAME .
 *.wkbilibili.com CNAME .
 wmmporn.com CNAME .
 *.wmmporn.com CNAME .
+wmpslic.com CNAME .
+*.wmpslic.com CNAME .
 wmyporn.com CNAME .
 *.wmyporn.com CNAME .
 wnacg.com CNAME .
@@ -85040,8 +85032,6 @@ xnxxvideohot.com CNAME .
 *.xnxxvideohot.com CNAME .
 xnxxvideoporn.com CNAME .
 *.xnxxvideoporn.com CNAME .
-xnxxwatch.com CNAME .
-*.xnxxwatch.com CNAME .
 xnxxx.com CNAME .
 *.xnxxx.com CNAME .
 xnxxx-cdn.com CNAME .
@@ -87528,6 +87518,8 @@ youpornpro.com CNAME .
 *.youpornpro.com CNAME .
 youpornxxxx.com CNAME .
 *.youpornxxxx.com CNAME .
+youpron.com CNAME .
+*.youpron.com CNAME .
 your-daily-girl.com CNAME .
 *.your-daily-girl.com CNAME .
 youramateurporn.com CNAME .
@@ -89110,6 +89102,8 @@ c-date.de CNAME .
 *.c-date.de CNAME .
 callsex.de CNAME .
 *.callsex.de CNAME .
+cam4.de CNAME .
+*.cam4.de CNAME .
 carpartsexpress.de CNAME .
 *.carpartsexpress.de CNAME .
 libs.casinonet.de CNAME .
@@ -106952,6 +106946,8 @@ nudism.name CNAME .
 *.nudism.name CNAME .
 orgasm.name CNAME .
 *.orgasm.name CNAME .
+oxtubep1.name CNAME .
+*.oxtubep1.name CNAME .
 pmotor5.name CNAME .
 *.pmotor5.name CNAME .
 porn4tube.name CNAME .
@@ -107260,8 +107256,6 @@ abmilf.net CNAME .
 *.abmilf.net CNAME .
 aboutporno.net CNAME .
 *.aboutporno.net CNAME .
-absolutefaith.net CNAME .
-*.absolutefaith.net CNAME .
 abuelascalientes.net CNAME .
 *.abuelascalientes.net CNAME .
 accessexpress.net CNAME .
@@ -147154,6 +147148,8 @@ nazilliescortlar.xyz CNAME .
 *.nazilliescortlar.xyz CNAME .
 new-porn.xyz CNAME .
 *.new-porn.xyz CNAME .
+newdoll.xyz CNAME .
+*.newdoll.xyz CNAME .
 newheredigitaltoys.xyz CNAME .
 *.newheredigitaltoys.xyz CNAME .
 newporn.xyz CNAME .

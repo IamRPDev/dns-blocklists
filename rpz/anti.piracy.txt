@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1774263300 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1774284900 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,8 +9,8 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 23 Mar 2026 10:55 UTC
-; Version: 2026.0323.1055.26
+; Last modified: 23 Mar 2026 16:55 UTC
+; Version: 2026.0323.1655.16
 ; Syntax: RPZ
 ; Number of entries: 24362
 ;
@@ -8408,6 +8408,8 @@ wovietv.com CNAME .
 *.wovietv.com CNAME .
 wow-films.com CNAME .
 *.wow-films.com CNAME .
+wowhdmovie.com CNAME .
+*.wowhdmovie.com CNAME .
 wowroms.com CNAME .
 *.wowroms.com CNAME .
 wpp-fansubs.com CNAME .
@@ -10422,6 +10424,8 @@ hdmovie2.health CNAME .
 *.hdmovie2.health CNAME .
 altadefinizionegratis.help CNAME .
 *.altadefinizionegratis.help CNAME .
+cb01new.help CNAME .
+*.cb01new.help CNAME .
 cineblog001.help CNAME .
 *.cineblog001.help CNAME .
 filmywap.help CNAME .
@@ -14524,6 +14528,8 @@ movieseriestv.net CNAME .
 *.movieseriestv.net CNAME .
 movieserver.net CNAME .
 *.movieserver.net CNAME .
+moviesfb.net CNAME .
+*.moviesfb.net CNAME .
 moviesjoy.net CNAME .
 *.moviesjoy.net CNAME .
 moviesleech.net CNAME .
@@ -20212,8 +20218,6 @@ mobiletvshows.site CNAME .
 *.mobiletvshows.site CNAME .
 modestme.site CNAME .
 *.modestme.site CNAME .
-moviedokan.site CNAME .
-*.moviedokan.site CNAME .
 moviego.site CNAME .
 *.moviego.site CNAME .
 mp3flac.site CNAME .
@@ -21722,8 +21726,6 @@ buddyfly.top CNAME .
 *.buddyfly.top CNAME .
 cikava-ideya.top CNAME .
 *.cikava-ideya.top CNAME .
-cineblog001.top CNAME .
-*.cineblog001.top CNAME .
 cineblog01.top CNAME .
 *.cineblog01.top CNAME .
 clb22.top CNAME .
@@ -24090,8 +24092,6 @@ mahsunsports14.xyz CNAME .
 *.mahsunsports14.xyz CNAME .
 mahsunsports15.xyz CNAME .
 *.mahsunsports15.xyz CNAME .
-mahsunsports16.xyz CNAME .
-*.mahsunsports16.xyz CNAME .
 maxseries.xyz CNAME .
 *.maxseries.xyz CNAME .
 tracker.memelords.xyz CNAME .

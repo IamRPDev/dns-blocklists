@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 23 Mar 2026 10:55 UTC
-# Version: 2026.0323.1055.26
+# Last modified: 23 Mar 2026 16:55 UTC
+# Version: 2026.0323.1655.16
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 12181
 #
@@ -1870,6 +1870,7 @@ local=/cb01.ws/
 local=/cb01.xyz/
 local=/cb01.yachts/
 local=/cb01new.center/
+local=/cb01new.help/
 local=/cb01official.community/
 local=/cb01uno.com/
 local=/cb01uno.download/
@@ -1984,7 +1985,6 @@ local=/cineblog001.site/
 local=/cineblog001.skin/
 local=/cineblog001.stream/
 local=/cineblog001.today/
-local=/cineblog001.top/
 local=/cineblog001.vip/
 local=/cineblog01.agency/
 local=/cineblog01.bid/
@@ -6339,7 +6339,6 @@ local=/mahsunsports12.xyz/
 local=/mahsunsports13.xyz/
 local=/mahsunsports14.xyz/
 local=/mahsunsports15.xyz/
-local=/mahsunsports16.xyz/
 local=/mainstreams.pro/
 local=/majomparade.com/
 local=/malacka.com/
@@ -6796,7 +6795,6 @@ local=/moviedokan.my/
 local=/moviedokan.net/
 local=/moviedokan.quest/
 local=/moviedokan.sbs/
-local=/moviedokan.site/
 local=/moviedokan.us/
 local=/moviedom.live/
 local=/moviedream.ws/
@@ -6857,6 +6855,7 @@ local=/moviesdvdr.co/
 local=/moviesdvdr.com/
 local=/movieseriestv.net/
 local=/movieserver.net/
+local=/moviesfb.net/
 local=/moviesfever.org/
 local=/moviesflixcc.com/
 local=/moviesfoundonline.com/
@@ -11719,6 +11718,7 @@ local=/wotaku.wiki/
 local=/wovietv.com/
 local=/wow-films.com/
 local=/wowebook.org/
+local=/wowhdmovie.com/
 local=/wowroms.com/
 local=/wpp-fansubs.com/
 local=/wqsky.com/

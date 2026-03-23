@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 20 Mar 2026 16:06 UTC
-# Version: 2026.0320.1606.11
+# Last modified: 23 Mar 2026 12:23 UTC
+# Version: 2026.0323.1223.22
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 889
+# Number of entries: 888
 #
 *.2ch.org
 *.4cdn.org
@@ -863,7 +863,6 @@
 *.vk.link
 *.vk.me
 *.vk.ru
-*.vkcache.com
 *.vkgo.app
 *.vklive.app
 *.vkmessenger.app

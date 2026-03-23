@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 23 Mar 2026 09:36 UTC
-# Version: 2026.0323.0936.05
+# Last modified: 23 Mar 2026 15:37 UTC
+# Version: 2026.0323.1537.01
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14178
+# Number of entries: 14180
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -4850,6 +4850,7 @@ local=/gartenbnke.com/
 local=/gartendekoprada.de/
 local=/gartendo.de/
 local=/gartenesstisch.com/
+local=/gartenfarbewelt.com/
 local=/gartenflamme24.de/
 local=/gartenfreunde-murrhardt.de/
 local=/gartengeraete-shop.de/
@@ -8571,6 +8572,7 @@ local=/monsieur-pharmacien.com/
 local=/monsoonosterreich.at/
 local=/monsroyales.com/
 local=/monsterboxofficial.com/
+local=/montageanziehen.com/
 local=/montanahudson.com/
 local=/montblancsale.de/
 local=/monteconsale.at/

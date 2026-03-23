@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1774258560 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1774280220 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 23 Mar 2026 09:36 UTC
-; Version: 2026.0323.0936.05
+; Last modified: 23 Mar 2026 15:37 UTC
+; Version: 2026.0323.1537.01
 ; Syntax: RPZ
-; Number of entries: 28356
+; Number of entries: 28360
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -7224,6 +7224,8 @@ gartenbnke.com CNAME .
 *.gartenbnke.com CNAME .
 gartenesstisch.com CNAME .
 *.gartenesstisch.com CNAME .
+gartenfarbewelt.com CNAME .
+*.gartenfarbewelt.com CNAME .
 gartenhausmodern.com CNAME .
 *.gartenhausmodern.com CNAME .
 gartenil.com CNAME .
@@ -11160,6 +11162,8 @@ monsroyales.com CNAME .
 *.monsroyales.com CNAME .
 monsterboxofficial.com CNAME .
 *.monsterboxofficial.com CNAME .
+montageanziehen.com CNAME .
+*.montageanziehen.com CNAME .
 montanahudson.com CNAME .
 *.montanahudson.com CNAME .
 monthlyi.com CNAME .
