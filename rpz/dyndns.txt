@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773788340 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1774263600 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's DynDNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 17 Mar 2026 22:59 UTC
-; Version: 2026.0317.2259.53
+; Last modified: 23 Mar 2026 11:00 UTC
+; Version: 2026.0323.1100.29
 ; Syntax: RPZ
-; Number of entries: 2964
+; Number of entries: 2956
 ;
 120v.ac CNAME .
 *.120v.ac CNAME .
@@ -798,8 +798,6 @@ heroinewarrior.com CNAME .
 *.heroinewarrior.com CNAME .
 hijaxdesigns.com CNAME .
 *.hijaxdesigns.com CNAME .
-hiprinter.com CNAME .
-*.hiprinter.com CNAME .
 hitremixes.com CNAME .
 *.hitremixes.com CNAME .
 hobby-site.com CNAME .
@@ -1180,8 +1178,6 @@ organiccrap.com CNAME .
 *.organiccrap.com CNAME .
 otzo.com CNAME .
 *.otzo.com CNAME .
-oumage.com CNAME .
-*.oumage.com CNAME .
 ourhobby.com CNAME .
 *.ourhobby.com CNAME .
 partycenteronline.com CNAME .
@@ -1364,8 +1360,6 @@ synoserver.com CNAME .
 *.synoserver.com CNAME .
 sysadminetworks.com CNAME .
 *.sysadminetworks.com CNAME .
-system-ns.com CNAME .
-*.system-ns.com CNAME .
 tallison.com CNAME .
 *.tallison.com CNAME .
 tamaragibson.com CNAME .
@@ -2328,8 +2322,6 @@ auraria.org CNAME .
 *.auraria.org CNAME .
 authorizeddns.org CNAME .
 *.authorizeddns.org CNAME .
-awiki.org CNAME .
-*.awiki.org CNAME .
 bagus.org CNAME .
 *.bagus.org CNAME .
 barbaforte.org CNAME .

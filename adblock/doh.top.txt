@@ -7,8 +7,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 22 Mar 2026 11:08 UTC
-! Version: 2026.0322.1108.48
+! Last modified: 23 Mar 2026 11:01 UTC
+! Version: 2026.0323.1101.25
 ! Syntax: AdBlock
 ! Number of entries: 1136
 !
@@ -60,6 +60,7 @@
 ||dns-family.adguard.com^
 ||dns-unfiltered.adguard.com^
 ||adguard-dns.com^
+||dns.adnull.com^
 ||adguard.adrianofrongillo.ovh^
 ||affcdn.net^
 ||ahadns.net^
@@ -519,7 +520,6 @@
 ||dns.api.staging.globuscs.info^
 ||dns.api.test.globuscs.info^
 ||agh.gloom.nexus^
-||dns.glorydns.com^
 ||moph.go.th^
 ||privacydns.go6lab.si^
 ||doh-primary-pool.goodbyegambling.com^
@@ -665,7 +665,6 @@
 ||yarp.lefolgoc.net^
 ||br.servers.legat.ml^
 ||externalmobiel.lekdijk.online^
-||lelux.fi^
 ||dns.lepilleur.com^
 ||dns.lermer.nl^
 ||lesuo.top^
@@ -1078,6 +1077,7 @@
 ||dns.koala.us.to^
 ||adfree.usableprivacy.net^
 ||v.recipes^
+||v0dka.ru^
 ||dns.vaioswolke.xyz^
 ||doh.valscosmos.com^
 ||tor.vasi.li^

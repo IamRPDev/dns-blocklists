@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Mar 2026 22:59 UTC
-# Version: 2026.0317.2259.53
+# Last modified: 23 Mar 2026 11:00 UTC
+# Version: 2026.0323.1100.29
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1482
+# Number of entries: 1478
 #
 local=/0000000000000000000000.com/
 local=/0x.no/
@@ -99,7 +99,6 @@ local=/authorizeddns.org/
 local=/authorizeddns.us/
 local=/autoipset.com/
 local=/avandns.com/
-local=/awiki.org/
 local=/ax.lt/
 local=/b0tnet.com/
 local=/b33r.us/
@@ -660,7 +659,6 @@ local=/hicam.net/
 local=/hiddencorner.org/
 local=/hijaxdesigns.com/
 local=/hin.tw/
-local=/hiprinter.com/
 local=/his.name/
 local=/hitremixes.com/
 local=/hldns.ru/
@@ -1115,7 +1113,6 @@ local=/limit.org.uk/
 local=/organiccrap.com/
 local=/orskkino.ru/
 local=/otzo.com/
-local=/oumage.com/
 local=/ourhobby.com/
 local=/ownip.net/
 local=/packeting.eu/
@@ -1333,7 +1330,6 @@ local=/synology-diskstation.de/
 local=/synology-ds.de/
 local=/synoserver.com/
 local=/sysadminetworks.com/
-local=/system-ns.com/
 local=/systes.net/
 local=/sytes.net/
 local=/tallison.com/

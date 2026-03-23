@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773979620 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1774260600 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 20 Mar 2026 04:07 UTC
-; Version: 2026.0320.0407.45
+; Last modified: 23 Mar 2026 10:10 UTC
+; Version: 2026.0323.1010.40
 ; Syntax: RPZ
-; Number of entries: 2500
+; Number of entries: 2494
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -442,8 +442,6 @@ byethost9.com CNAME .
 *.byethost9.com CNAME .
 cabanova.com CNAME .
 *.cabanova.com CNAME .
-caixa-soportecliente.com CNAME .
-*.caixa-soportecliente.com CNAME .
 canalblog.com CNAME .
 *.canalblog.com CNAME .
 cbkgardens.com CNAME .
@@ -528,10 +526,6 @@ enterprisedeliveries.com CNAME .
 *.enterprisedeliveries.com CNAME .
 epizy.com CNAME .
 *.epizy.com CNAME .
-es-bbvacliente-movil.com CNAME .
-*.es-bbvacliente-movil.com CNAME .
-es-caixamovil-clientes.com CNAME .
-*.es-caixamovil-clientes.com CNAME .
 event-redeem.com CNAME .
 *.event-redeem.com CNAME .
 events-games.com CNAME .

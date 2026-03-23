@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 20 Mar 2026 04:07 UTC
-# Version: 2026.0320.0407.45
+# Last modified: 23 Mar 2026 10:10 UTC
+# Version: 2026.0323.1010.40
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1250
+# Number of entries: 1247
 #
 local=/000a.de/
 local=/000space.com/
@@ -331,7 +331,6 @@ local=/c.pl/
 local=/c0.pl/
 local=/ca.gp/
 local=/cabanova.com/
-local=/caixa-soportecliente.com/
 local=/canalblog.com/
 local=/canva.site/
 local=/carrd.co/
@@ -508,8 +507,6 @@ local=/eo3.de/
 local=/epizy.com/
 local=/erlegen.de/
 local=/es.gp/
-local=/es-bbvacliente-movil.com/
-local=/es-caixamovil-clientes.com/
 local=/esel.in/
 local=/eshop-ya.life/
 local=/eu.cm/

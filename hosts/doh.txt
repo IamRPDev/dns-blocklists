@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Mar 2026 10:56 UTC
-# Version: 2026.0319.1056.59
+# Last modified: 23 Mar 2026 11:00 UTC
+# Version: 2026.0323.1100.58
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3952
+# Number of entries: 3948
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -224,6 +224,7 @@
 0.0.0.0 family.adguarddns.com
 0.0.0.0 unfiltered.adguarddns.com
 0.0.0.0 admir21.ru
+0.0.0.0 dns.adnull.com
 0.0.0.0 dns.adrianlam.com
 0.0.0.0 adguard.adrianofrongillo.ovh
 0.0.0.0 y3suyx0cg2lewi2dmn.advaitghaisas.in
@@ -1447,7 +1448,6 @@
 0.0.0.0 tungdnsne.duckdns.org
 0.0.0.0 unixfox.duckdns.org
 0.0.0.0 wired-guardian.duckdns.org
-0.0.0.0 wisehomeguard.duckdns.org
 0.0.0.0 workcavestl.duckdns.org
 0.0.0.0 x-o-x.duckdns.org
 0.0.0.0 x861g.duckdns.org
@@ -1760,7 +1760,6 @@
 0.0.0.0 dns.api.staging.globuscs.info
 0.0.0.0 dns.api.test.globuscs.info
 0.0.0.0 agh.gloom.nexus
-0.0.0.0 dns.glorydns.com
 0.0.0.0 dns.glsoft.ai
 0.0.0.0 dns.gnb09.id
 0.0.0.0 moph.go.th
@@ -2087,8 +2086,6 @@
 0.0.0.0 apidns.kwd.inkuai.com
 0.0.0.0 httpdns.kwd.inkuai.com
 0.0.0.0 ad.innet.id
-0.0.0.0 inoainoa.fun
-0.0.0.0 www.inoainoa.fun
 0.0.0.0 inpssh.online
 0.0.0.0 www.inpssh.online
 0.0.0.0 qlf-doh.inria.fr
@@ -2348,7 +2345,6 @@
 0.0.0.0 br.servers.legat.ml
 0.0.0.0 externalmobiel.lekdijk.online
 0.0.0.0 sndkcuf.lekun.me
-0.0.0.0 lelux.fi
 0.0.0.0 dns.lepilleur.com
 0.0.0.0 dns.lermer.nl
 0.0.0.0 lesuo.top

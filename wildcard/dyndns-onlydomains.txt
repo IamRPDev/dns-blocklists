@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Mar 2026 22:59 UTC
-# Version: 2026.0317.2259.53
+# Last modified: 23 Mar 2026 11:00 UTC
+# Version: 2026.0323.1100.29
 # Syntax: Domains (without subdomains)
-# Number of entries: 1482
+# Number of entries: 1478
 #
 0000000000000000000000.com
 0x.no
@@ -99,7 +99,6 @@ authorizeddns.org
 authorizeddns.us
 autoipset.com
 avandns.com
-awiki.org
 ax.lt
 b0tnet.com
 b33r.us
@@ -660,7 +659,6 @@ hicam.net
 hiddencorner.org
 hijaxdesigns.com
 hin.tw
-hiprinter.com
 his.name
 hitremixes.com
 hldns.ru
@@ -1115,7 +1113,6 @@ limit.org.uk
 organiccrap.com
 orskkino.ru
 otzo.com
-oumage.com
 ourhobby.com
 ownip.net
 packeting.eu
@@ -1333,7 +1330,6 @@ synology-diskstation.de
 synology-ds.de
 synoserver.com
 sysadminetworks.com
-system-ns.com
 systes.net
 sytes.net
 tallison.com

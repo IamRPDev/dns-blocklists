@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Mar 2026 10:56 UTC
-# Version: 2026.0319.1056.59
+# Last modified: 23 Mar 2026 11:00 UTC
+# Version: 2026.0323.1100.58
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3489
+# Number of entries: 3486
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -201,6 +201,7 @@ local=/dns.adguarddns.com/
 local=/family.adguarddns.com/
 local=/unfiltered.adguarddns.com/
 local=/admir21.ru/
+local=/dns.adnull.com/
 local=/dns.adrianlam.com/
 local=/adguard.adrianofrongillo.ovh/
 local=/y3suyx0cg2lewi2dmn.advaitghaisas.in/
@@ -1215,7 +1216,6 @@ local=/tuandns.duckdns.org/
 local=/tungdnsne.duckdns.org/
 local=/unixfox.duckdns.org/
 local=/wired-guardian.duckdns.org/
-local=/wisehomeguard.duckdns.org/
 local=/workcavestl.duckdns.org/
 local=/x-o-x.duckdns.org/
 local=/x861g.duckdns.org/
@@ -1516,7 +1516,6 @@ local=/dns.api.sandbox.globuscs.info/
 local=/dns.api.staging.globuscs.info/
 local=/dns.api.test.globuscs.info/
 local=/agh.gloom.nexus/
-local=/dns.glorydns.com/
 local=/dns.glsoft.ai/
 local=/dns.gnb09.id/
 local=/moph.go.th/
@@ -1787,7 +1786,6 @@ local=/ingenmannsland.online/
 local=/apidns.kwd.inkuai.com/
 local=/httpdns.kwd.inkuai.com/
 local=/ad.innet.id/
-local=/inoainoa.fun/
 local=/inpssh.online/
 local=/qlf-doh.inria.fr/
 local=/premiumtier-network.instadart.net/
@@ -2033,7 +2031,6 @@ local=/yarp.lefolgoc.net/
 local=/br.servers.legat.ml/
 local=/externalmobiel.lekdijk.online/
 local=/sndkcuf.lekun.me/
-local=/lelux.fi/
 local=/dns.lepilleur.com/
 local=/dns.lermer.nl/
 local=/lesuo.top/
