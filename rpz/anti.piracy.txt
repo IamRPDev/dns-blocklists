@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1774284900 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1774349580 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 23 Mar 2026 16:55 UTC
-; Version: 2026.0323.1655.16
+; Last modified: 24 Mar 2026 10:53 UTC
+; Version: 2026.0324.1053.23
 ; Syntax: RPZ
-; Number of entries: 24362
+; Number of entries: 24368
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -8872,6 +8872,8 @@ crichd.cyou CNAME .
 *.crichd.cyou CNAME .
 dldokan.cyou CNAME .
 *.dldokan.cyou CNAME .
+doilybeguine.cyou CNAME .
+*.doilybeguine.cyou CNAME .
 eurostreaming.cyou CNAME .
 *.eurostreaming.cyou CNAME .
 film-pertutti.cyou CNAME .
@@ -12204,6 +12206,8 @@ bobd.live CNAME .
 *.bobd.live CNAME .
 bossbd.live CNAME .
 *.bossbd.live CNAME .
+bstreams.live CNAME .
+*.bstreams.live CNAME .
 btmulu.live CNAME .
 *.btmulu.live CNAME .
 cb01.live CNAME .
@@ -14466,6 +14470,8 @@ megabitnetwork.net CNAME .
 *.megabitnetwork.net CNAME .
 megahfilmeshd.net CNAME .
 *.megahfilmeshd.net CNAME .
+megakino2.net CNAME .
+*.megakino2.net CNAME .
 megatorrentshd.net CNAME .
 *.megatorrentshd.net CNAME .
 mejortorrent1.net CNAME .

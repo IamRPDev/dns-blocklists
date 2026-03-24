@@ -6070,6 +6070,13 @@
       }
     },
     {
+      "PK": "wmars.party",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "wmg.click",
       "action": {
         "do": 1,

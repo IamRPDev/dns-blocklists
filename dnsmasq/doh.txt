@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 23 Mar 2026 11:00 UTC
-# Version: 2026.0323.1100.58
+# Last modified: 24 Mar 2026 10:59 UTC
+# Version: 2026.0324.1059.01
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3486
+# Number of entries: 3490
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -912,6 +912,10 @@ local=/doh.dns4all.eu/
 local=/dns4eu.online/
 local=/dns4me.net/
 local=/adguard-koe.dns64.de/
+local=/srv01.dns64.de/
+local=/srv02.dns64.de/
+local=/srv03.dns64.de/
+local=/srv04.dns64.de/
 local=/dns8.org/
 local=/dnsbunker.org/
 local=/ns1.recursive.dnsbycomodo.com/

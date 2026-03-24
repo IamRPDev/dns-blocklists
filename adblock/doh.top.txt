@@ -7,8 +7,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 23 Mar 2026 11:01 UTC
-! Version: 2026.0323.1101.25
+! Last modified: 24 Mar 2026 10:59 UTC
+! Version: 2026.0324.1059.29
 ! Syntax: AdBlock
 ! Number of entries: 1136
 !
@@ -137,7 +137,6 @@
 ||adguard.bitteeinbyte.de^
 ||dns-tls.bitwiseshift.net^
 ||doh.blahdns.com^
-||doh-ch.blahdns.com^
 ||doh-de.blahdns.com^
 ||doh-fi.blahdns.com^
 ||doh-jp.blahdns.com^
@@ -302,6 +301,9 @@
 ||doh.dns4all.eu^
 ||dns4eu.online^
 ||dns4me.net^
+||srv01.dns64.de^
+||srv02.dns64.de^
+||srv04.dns64.de^
 ||dns8.org^
 ||dnsbunker.org^
 ||ns1.recursive.dnsbycomodo.com^
@@ -510,7 +512,6 @@
 ||gibblets.top^
 ||dns.ginovs.nl^
 ||dns.girino.org^
-||doh.ptqy.gitv.tv^
 ||glacius.top^
 ||dns.glf.wtf^
 ||dns.api.globus.org^
@@ -1018,7 +1019,6 @@
 ||dns.szpadel.ovh^
 ||dns.t-ipnet.de^
 ||dns.t53.de^
-||httpdns.danuoyi.tbcache.com^
 ||tecdrive.site^
 ||dns1.techeasy.org^
 ||dns1.techniverse.net^

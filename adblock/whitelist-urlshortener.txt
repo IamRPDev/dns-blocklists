@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 23 Mar 2026 09:37 UTC
-! Version: 2026.0323.0937.56
+! Last modified: 24 Mar 2026 09:36 UTC
+! Version: 2026.0324.0936.27
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -637,6 +637,7 @@
 @@||alias.live^
 @@||aliasurlshortener.com^
 @@||alibuy.live^
+@@||alice-w.com^
 @@||alicedeals.com^
 @@||alie.kr^
 @@||alien-traffic.com^
@@ -3163,6 +3164,7 @@
 @@||gourl.me^
 @@||gourl.onl^
 @@||gourl.us^
+@@||gov.tw^
 @@||go.gov.sg^
 @@||go.vic.gov.au^
 @@||govhub.me^
@@ -5332,6 +5334,7 @@
 @@||myt.ms^
 @@||mytat.me^
 @@||mytbg.life^
+@@||mytci.net^
 @@||mytd.cc^
 @@||mytrib.com^
 @@||bio.mytsi.org^
@@ -9450,6 +9453,7 @@
 @@||x.co^
 @@||x.gd^
 @@||x.nu^
+@@||x.se^
 @@||x-i.me^
 @@||x-shrtn.com^
 @@||x10.mx^

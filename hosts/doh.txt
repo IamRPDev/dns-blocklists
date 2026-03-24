@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 23 Mar 2026 11:00 UTC
-# Version: 2026.0323.1100.58
+# Last modified: 24 Mar 2026 10:59 UTC
+# Version: 2026.0324.1059.01
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3948
+# Number of entries: 3952
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -1095,6 +1095,10 @@
 0.0.0.0 us01.dns4me.net
 0.0.0.0 us02.dns4me.net
 0.0.0.0 adguard-koe.dns64.de
+0.0.0.0 srv01.dns64.de
+0.0.0.0 srv02.dns64.de
+0.0.0.0 srv03.dns64.de
+0.0.0.0 srv04.dns64.de
 0.0.0.0 dns8.org
 0.0.0.0 dnsbunker.org
 0.0.0.0 ns1.recursive.dnsbycomodo.com

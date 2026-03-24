@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1774258620 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1774344960 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 23 Mar 2026 09:37 UTC
-; Version: 2026.0323.0937.56
+; Last modified: 24 Mar 2026 09:36 UTC
+; Version: 2026.0324.0936.27
 ; Syntax: RPZ
-; Number of entries: 19816
+; Number of entries: 19824
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -3325,6 +3325,8 @@ link.alfamonkey.com CNAME .
 *.link.alfamonkey.com CNAME .
 aliasurlshortener.com CNAME .
 *.aliasurlshortener.com CNAME .
+alice-w.com CNAME .
+*.alice-w.com CNAME .
 alicedeals.com CNAME .
 *.alicedeals.com CNAME .
 alien-traffic.com CNAME .
@@ -15193,6 +15195,8 @@ myminiurl.net CNAME .
 *.myminiurl.net CNAME .
 myshortlink.net CNAME .
 *.myshortlink.net CNAME .
+mytci.net CNAME .
+*.mytci.net CNAME .
 ne1.net CNAME .
 *.ne1.net CNAME .
 neexulro.net CNAME .
@@ -17319,6 +17323,8 @@ whoel.se CNAME .
 *.whoel.se CNAME .
 wi.se CNAME .
 *.wi.se CNAME .
+x.se CNAME .
+*.x.se CNAME .
 baidam.services CNAME .
 *.baidam.services CNAME .
 usf.services CNAME .
@@ -18705,6 +18711,8 @@ fetnet.tw CNAME .
 *.fetnet.tw CNAME .
 gmj.tw CNAME .
 *.gmj.tw CNAME .
+gov.tw CNAME .
+*.gov.tw CNAME .
 ibf.tw CNAME .
 *.ibf.tw CNAME .
 kham.tw CNAME .

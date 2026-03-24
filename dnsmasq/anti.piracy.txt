@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 23 Mar 2026 16:55 UTC
-# Version: 2026.0323.1655.16
+# Last modified: 24 Mar 2026 10:53 UTC
+# Version: 2026.0324.1053.23
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 12181
+# Number of entries: 12184
 #
 local=/003396815.xyz/
 local=/004430.xyz/
@@ -1646,6 +1646,7 @@ local=/brrip720p.com/
 local=/brupload.net/
 local=/bs.to/
 local=/bstgms4y.com/
+local=/bstreams.live/
 local=/bstsrs.in/
 local=/bstsrs.one/
 local=/bt-chat.com/
@@ -2873,6 +2874,7 @@ local=/dodear.com/
 local=/dodi-repacks.site/
 local=/dognzb.cr/
 local=/doile378vtt.com/
+local=/doilybeguine.cyou/
 local=/tracker.doko.moe/
 local=/dokumen.pub/
 local=/dokumentalne.net/
@@ -6501,6 +6503,7 @@ local=/megakino1.vip/
 local=/megakino1.watch/
 local=/megakino1.ws/
 local=/megakino2.com/
+local=/megakino2.net/
 local=/megakinox.top/
 local=/megamanmaker.com/
 local=/megamodapk.com/

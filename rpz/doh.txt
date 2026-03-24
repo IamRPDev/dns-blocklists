@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1774263600 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1774349940 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 23 Mar 2026 11:00 UTC
-; Version: 2026.0323.1100.58
+; Last modified: 24 Mar 2026 10:59 UTC
+; Version: 2026.0324.1059.01
 ; Syntax: RPZ
-; Number of entries: 6972
+; Number of entries: 6980
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -2067,6 +2067,14 @@ secure-dns.dns-ga.de CNAME .
 *.secure-dns.dns-ga.de CNAME .
 adguard-koe.dns64.de CNAME .
 *.adguard-koe.dns64.de CNAME .
+srv01.dns64.de CNAME .
+*.srv01.dns64.de CNAME .
+srv02.dns64.de CNAME .
+*.srv02.dns64.de CNAME .
+srv03.dns64.de CNAME .
+*.srv03.dns64.de CNAME .
+srv04.dns64.de CNAME .
+*.srv04.dns64.de CNAME .
 dnsforge.de CNAME .
 *.dnsforge.de CNAME .
 dns.dnshome.de CNAME .

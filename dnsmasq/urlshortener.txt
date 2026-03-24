@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 23 Mar 2026 09:37 UTC
-# Version: 2026.0323.0937.56
+# Last modified: 24 Mar 2026 09:36 UTC
+# Version: 2026.0324.0936.27
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9908
+# Number of entries: 9912
 #
 local=/0.gp/
 local=/00m.in/
@@ -645,6 +645,7 @@ local=/ali.onl/
 local=/alias.live/
 local=/aliasurlshortener.com/
 local=/alibuy.live/
+local=/alice-w.com/
 local=/alicedeals.com/
 local=/alie.kr/
 local=/alien-traffic.com/
@@ -3189,6 +3190,7 @@ local=/gourl.gr/
 local=/gourl.me/
 local=/gourl.onl/
 local=/gourl.us/
+local=/gov.tw/
 local=/go.gov.sg/
 local=/go.vic.gov.au/
 local=/govhub.me/
@@ -5384,6 +5386,7 @@ local=/mysurveys.pro/
 local=/myt.ms/
 local=/mytat.me/
 local=/mytbg.life/
+local=/mytci.net/
 local=/mytd.cc/
 local=/mytrib.com/
 local=/bio.mytsi.org/
@@ -9533,6 +9536,7 @@ local=/wz.my/
 local=/x.co/
 local=/x.gd/
 local=/x.nu/
+local=/x.se/
 local=/x-i.me/
 local=/x-shrtn.com/
 local=/x10.mx/
