@@ -1,6 +1,12 @@
 # Unblocking for all lists (relaxed, balanced, aggressive and strict)
 # Domains to be removed from the light, normal, pro, pro++ and ultimate list. Also from the fake, popupads and tif.
 
+# https://github.com/hagezi/dns-blocklists/issues/9491
+www.lzk.hl.cn
+
+# https://github.com/hagezi/dns-blocklists/issues/9492
+cnbj1.fds.api.xiaomi.com
+
 # Google Wallet - breaks adding PKPASS files
 # Find My Device - breaks adding/sharing trackers
 # https://github.com/hagezi/dns-blocklists/issues/2900#issuecomment-4067376648

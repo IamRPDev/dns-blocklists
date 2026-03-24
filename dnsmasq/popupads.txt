@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 23 Mar 2026 09:33 UTC
-# Version: 2026.0323.0933.38
+# Last modified: 24 Mar 2026 17:52 UTC
+# Version: 2026.0324.1752.10
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 54145
+# Number of entries: 54148
 #
 local=/0.beer/
 local=/0.club/
@@ -7044,6 +7044,7 @@ local=/afishamedia.net/
 local=/afkwa.com/
 local=/aflam.info/
 local=/aflam.io/
+local=/afloatawenotion.com/
 local=/afloatconcentratesanctify.com/
 local=/afloatpantplayer.com/
 local=/afm01.com/
@@ -31035,6 +31036,7 @@ local=/livecams.com/
 local=/livechatinctest.com/
 local=/livecom.tech/
 local=/livedashboardkit.info/
+local=/livedjeopardizeemotion.com/
 local=/livedskateraisin.com/
 local=/liveelectricco.net/
 local=/livegeaster.shop/
@@ -45425,6 +45427,7 @@ local=/ca.starwank.com/
 local=/nl.starwank.com/
 local=/sk.starwank.com/
 local=/stat-rock.com/
+local=/statautos.com/
 local=/statcamp.net/
 local=/statedoutdoorssaucepan.com/
 local=/statehousefinder.com/

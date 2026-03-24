@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 Mar 2026 10:52 UTC
-# Version: 2026.0324.1052.57
+# Last modified: 24 Mar 2026 19:15 UTC
+# Version: 2026.0324.1915.03
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 51878
+# Number of entries: 51874
 #
 local=/0-bdmbet.com/
 local=/0-casino.com/
@@ -9184,7 +9184,6 @@ local=/betsmove-resmi-site.vip/
 local=/betsmove-resmi-sitesi.vip/
 local=/betsmove-sayfa.vip/
 local=/betsmove1.top/
-local=/betsmove761.co/
 local=/betsmovebonus10.com/
 local=/betsmovebonus9.com/
 local=/betsmoveresmigiris.vip/
@@ -26722,7 +26721,6 @@ local=/cryptocasinonokyc.hu.net/
 local=/fastpayoutcasinos.hu.net/
 local=/nieuweonlinecasinos.hu.net/
 local=/nokyccryptocasino.hu.net/
-local=/nongamstopcasinouk.hu.net/
 local=/sgcasinomagyar.hu.net/
 local=/slotravecasino.hu.net/
 local=/topnokyccryptocasinos.hu.net/
@@ -47588,7 +47586,6 @@ local=/monopolycasinos.uk.com/
 local=/mrluck-casino.uk.com/
 local=/newonlinecasinonotongamstop.uk.net/
 local=/newukcasinoswithoutgamstop.uk.com/
-local=/nocrukscasinos.uk.com/
 local=/nocrukscasinos.uk.net/
 local=/nokycbitcoincasinosau.uk.com/
 local=/nokyccasinoshub.uk.com/
@@ -48127,7 +48124,6 @@ local=/nogamcasinoonline.us.com/
 local=/oceancasino.us.com/
 local=/onlinecasinoslotsnow.us.org/
 local=/onlinecasinosnogamestop.us.com/
-local=/onlinecasinosnogamstop.us.org/
 local=/onlinecasinosohneoasis.us.com/
 local=/onlinecasinostate.us.org/
 local=/onlinepokersites.us.org/

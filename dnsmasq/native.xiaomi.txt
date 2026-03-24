@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Mar 2026 16:38 UTC
-# Version: 2026.0305.1638.37
+# Last modified: 24 Mar 2026 17:16 UTC
+# Version: 2026.0324.1716.05
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 354
+# Number of entries: 353
 #
 local=/traffic-media.co.uk/
 local=/mistat.india.xiaomi.com.edgesuite.net/
@@ -168,7 +168,6 @@ local=/global-ad-extranet-pri-azpn.alb.xiaomi.com/
 local=/global-ad-intl-pri-alisgp.alb.xiaomi.com/
 local=/awssgp0-files.fds.api.xiaomi.com/
 local=/cdn.fds.api.xiaomi.com/
-local=/cnbj1.fds.api.xiaomi.com/
 local=/awsusor0-cdn.fds-ssl.api.xiaomi.com/
 local=/cdn.fds-ssl.api.xiaomi.com/
 local=/mibi.api.xiaomi.com/

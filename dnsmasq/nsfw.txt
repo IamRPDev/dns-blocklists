@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 Mar 2026 10:55 UTC
-# Version: 2026.0324.1055.15
+# Last modified: 24 Mar 2026 19:17 UTC
+# Version: 2026.0324.1917.56
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 74103
 #
@@ -10070,6 +10070,7 @@ local=/boundanna.com/
 local=/boundanna.net/
 local=/boundheat.com/
 local=/boundhub.com/
+local=/boundjocks.com/
 local=/boundkathy-friends.com/
 local=/boundstories.net/
 local=/boutiqueintime.fr/
@@ -10177,7 +10178,6 @@ local=/boyzshop.com/
 local=/boyztube.com/
 local=/bozgayrimenkul.com/
 local=/boztopia.com/
-local=/bpolyticsexpertsagency.com/
 local=/bporn.mobi/
 local=/bporncity.com/
 local=/bpornd.com/
@@ -20750,7 +20750,6 @@ local=/etuber.com/
 local=/etuber.mobi/
 local=/1xxx.eu.cc/
 local=/2xxx.eu.cc/
-local=/520xxx.eu.cc/
 local=/8xxx.eu.cc/
 local=/aisex.eu.cc/
 local=/bergayskn.eu.cc/
@@ -25945,6 +25944,7 @@ local=/gayworld.be/
 local=/gayworldhd.com/
 local=/gayworldnews.org/
 local=/gayworldp.com/
+local=/gayx.com/
 local=/gayx.pw/
 local=/gayxfans.com/
 local=/gayxgay.click/
@@ -26203,7 +26203,6 @@ local=/getfleshy.com/
 local=/getflixxx.com/
 local=/getforge.io/
 local=/getfreexxx.com/
-local=/getgaynz.com/
 local=/getgaysexhot.com/
 local=/getgaysexhot.info/
 local=/getgimp.com/
@@ -30802,12 +30801,13 @@ local=/hw-area.com/
 local=/hwazen.com/
 local=/hwszxxxpqu.cyou/
 local=/hwworld.ru/
+local=/hxani.com/
 local=/hxcpp112.com/
+local=/hxhani.com/
 local=/hxhxsextou.com/
 local=/hxxx85.com/
 local=/hxxx86.com/
 local=/hxxxsp.com/
-local=/hxxxxx.com/
 local=/hxxxy.xyz/
 local=/hybing.com/
 local=/hybridashtangayoga.com/

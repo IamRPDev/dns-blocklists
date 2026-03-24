@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1774349520 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1774379700 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 24 Mar 2026 10:52 UTC
-; Version: 2026.0324.1052.57
+; Last modified: 24 Mar 2026 19:15 UTC
+; Version: 2026.0324.1915.03
 ; Syntax: RPZ
-; Number of entries: 103756
+; Number of entries: 103748
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -14130,8 +14130,6 @@ betskorgiris.co CNAME .
 *.betskorgiris.co CNAME .
 betsmove-adres.co CNAME .
 *.betsmove-adres.co CNAME .
-betsmove761.co CNAME .
-*.betsmove761.co CNAME .
 betsson.co CNAME .
 *.betsson.co CNAME .
 bharatbet11.co CNAME .
@@ -59892,8 +59890,6 @@ mrluck-casino.uk.com CNAME .
 *.mrluck-casino.uk.com CNAME .
 newukcasinoswithoutgamstop.uk.com CNAME .
 *.newukcasinoswithoutgamstop.uk.com CNAME .
-nocrukscasinos.uk.com CNAME .
-*.nocrukscasinos.uk.com CNAME .
 nokycbitcoincasinosau.uk.com CNAME .
 *.nokycbitcoincasinosau.uk.com CNAME .
 nokyccasinoshub.uk.com CNAME .
@@ -75934,8 +75930,6 @@ nieuweonlinecasinos.hu.net CNAME .
 *.nieuweonlinecasinos.hu.net CNAME .
 nokyccryptocasino.hu.net CNAME .
 *.nokyccryptocasino.hu.net CNAME .
-nongamstopcasinouk.hu.net CNAME .
-*.nongamstopcasinouk.hu.net CNAME .
 sgcasinomagyar.hu.net CNAME .
 *.sgcasinomagyar.hu.net CNAME .
 slotravecasino.hu.net CNAME .
@@ -83362,8 +83356,6 @@ mildcasino.us.org CNAME .
 *.mildcasino.us.org CNAME .
 onlinecasinoslotsnow.us.org CNAME .
 *.onlinecasinoslotsnow.us.org CNAME .
-onlinecasinosnogamstop.us.org CNAME .
-*.onlinecasinosnogamstop.us.org CNAME .
 onlinecasinostate.us.org CNAME .
 *.onlinecasinostate.us.org CNAME .
 onlinepokersites.us.org CNAME .

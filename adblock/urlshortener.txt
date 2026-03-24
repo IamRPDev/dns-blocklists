@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 24 Mar 2026 09:36 UTC
-! Version: 2026.0324.0936.27
+! Last modified: 24 Mar 2026 17:56 UTC
+! Version: 2026.0324.1756.19
 ! Syntax: AdBlock
-! Number of entries: 9912
+! Number of entries: 9913
 !
 ||0.gp^
 ||00m.in^
@@ -1566,6 +1566,7 @@
 ||cfre.in^
 ||cga.marketing^
 ||cga.social^
+||cgatx.com^
 ||cgrp.io^
 ||cgvoice.live^
 ||ch.run^

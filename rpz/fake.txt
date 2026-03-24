@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1774344840 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1774374840 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 24 Mar 2026 09:34 UTC
-; Version: 2026.0324.0934.36
+; Last modified: 24 Mar 2026 17:54 UTC
+; Version: 2026.0324.1754.35
 ; Syntax: RPZ
-; Number of entries: 28408
+; Number of entries: 28412
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -20732,6 +20732,8 @@ holzlangbau.de CNAME .
 *.holzlangbau.de CNAME .
 holzqualitat.de CNAME .
 *.holzqualitat.de CNAME .
+holzsofort.de CNAME .
+*.holzsofort.de CNAME .
 holzstreif.de CNAME .
 *.holzstreif.de CNAME .
 holzvomland.de CNAME .
@@ -26134,6 +26136,8 @@ ntischoolpune.org CNAME .
 *.ntischoolpune.org CNAME .
 oakdalerotary.org CNAME .
 *.oakdalerotary.org CNAME .
+obsidian-group.org CNAME .
+*.obsidian-group.org CNAME .
 ohssl.org CNAME .
 *.ohssl.org CNAME .
 onlinekamagrastore.org CNAME .

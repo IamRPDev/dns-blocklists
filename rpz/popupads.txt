@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1774258380 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1774374720 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Pop-Up Ads DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 23 Mar 2026 09:33 UTC
-; Version: 2026.0323.0933.38
+; Last modified: 24 Mar 2026 17:52 UTC
+; Version: 2026.0324.1752.10
 ; Syntax: RPZ
-; Number of entries: 108290
+; Number of entries: 108296
 ;
 bonzai.ad CNAME .
 *.bonzai.ad CNAME .
@@ -14130,6 +14130,8 @@ afisapo.com CNAME .
 *.afisapo.com CNAME .
 afkwa.com CNAME .
 *.afkwa.com CNAME .
+afloatawenotion.com CNAME .
+*.afloatawenotion.com CNAME .
 afloatconcentratesanctify.com CNAME .
 *.afloatconcentratesanctify.com CNAME .
 afloatpantplayer.com CNAME .
@@ -46676,6 +46678,8 @@ livecams.com CNAME .
 *.livecams.com CNAME .
 livechatinctest.com CNAME .
 *.livechatinctest.com CNAME .
+livedjeopardizeemotion.com CNAME .
+*.livedjeopardizeemotion.com CNAME .
 livedskateraisin.com CNAME .
 *.livedskateraisin.com CNAME .
 crmacd.livejasmin.com CNAME .
@@ -65264,6 +65268,8 @@ sk.starwank.com CNAME .
 *.sk.starwank.com CNAME .
 stat-rock.com CNAME .
 *.stat-rock.com CNAME .
+statautos.com CNAME .
+*.statautos.com CNAME .
 statedoutdoorssaucepan.com CNAME .
 *.statedoutdoorssaucepan.com CNAME .
 statehousefinder.com CNAME .

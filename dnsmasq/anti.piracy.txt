@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 Mar 2026 10:53 UTC
-# Version: 2026.0324.1053.23
+# Last modified: 24 Mar 2026 19:15 UTC
+# Version: 2026.0324.1915.46
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 12184
+# Number of entries: 12185
 #
 local=/003396815.xyz/
 local=/004430.xyz/
@@ -10260,6 +10260,7 @@ local=/toros.co/
 local=/torproxy.org/
 local=/torr9.com/
 local=/torr9.xyz/
+local=/tracker.torr9.net/
 local=/torrage.info/
 local=/torrends.to/
 local=/torrent.ai/

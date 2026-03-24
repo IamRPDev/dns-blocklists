@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1772728680 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1774372560 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Xiaomi Tracker DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 05 Mar 2026 16:38 UTC
-; Version: 2026.0305.1638.37
+; Last modified: 24 Mar 2026 17:16 UTC
+; Version: 2026.0324.1716.05
 ; Syntax: RPZ
-; Number of entries: 708
+; Number of entries: 706
 ;
 h4g3z1-native.xiaomi.web.app CNAME .
 *.h4g3z1-native.xiaomi.web.app CNAME .
@@ -274,8 +274,6 @@ awssgp0-files.fds.api.xiaomi.com CNAME .
 *.awssgp0-files.fds.api.xiaomi.com CNAME .
 cdn.fds.api.xiaomi.com CNAME .
 *.cdn.fds.api.xiaomi.com CNAME .
-cnbj1.fds.api.xiaomi.com CNAME .
-*.cnbj1.fds.api.xiaomi.com CNAME .
 awsusor0-cdn.fds-ssl.api.xiaomi.com CNAME .
 *.awsusor0-cdn.fds-ssl.api.xiaomi.com CNAME .
 cdn.fds-ssl.api.xiaomi.com CNAME .

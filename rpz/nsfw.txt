@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1774349700 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1774379820 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's NSFW DNS Blocklist
@@ -9,8 +9,8 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 24 Mar 2026 10:55 UTC
-; Version: 2026.0324.1055.15
+; Last modified: 24 Mar 2026 19:17 UTC
+; Version: 2026.0324.1917.56
 ; Syntax: RPZ
 ; Number of entries: 148206
 ;
@@ -6670,8 +6670,6 @@ escortrankings.cc CNAME .
 *.1xxx.eu.cc CNAME .
 2xxx.eu.cc CNAME .
 *.2xxx.eu.cc CNAME .
-520xxx.eu.cc CNAME .
-*.520xxx.eu.cc CNAME .
 8xxx.eu.cc CNAME .
 *.8xxx.eu.cc CNAME .
 aisex.eu.cc CNAME .
@@ -23338,6 +23336,8 @@ boundheat.com CNAME .
 *.boundheat.com CNAME .
 boundhub.com CNAME .
 *.boundhub.com CNAME .
+boundjocks.com CNAME .
+*.boundjocks.com CNAME .
 boundkathy-friends.com CNAME .
 *.boundkathy-friends.com CNAME .
 bovinesexclub.com CNAME .
@@ -23494,8 +23494,6 @@ bozgayrimenkul.com CNAME .
 *.bozgayrimenkul.com CNAME .
 boztopia.com CNAME .
 *.boztopia.com CNAME .
-bpolyticsexpertsagency.com CNAME .
-*.bpolyticsexpertsagency.com CNAME .
 bporncity.com CNAME .
 *.bporncity.com CNAME .
 bpornd.com CNAME .
@@ -39054,6 +39052,8 @@ gayworldhd.com CNAME .
 *.gayworldhd.com CNAME .
 gayworldp.com CNAME .
 *.gayworldp.com CNAME .
+gayx.com CNAME .
+*.gayx.com CNAME .
 gayxfans.com CNAME .
 *.gayxfans.com CNAME .
 gayxhub.com CNAME .
@@ -39340,8 +39340,6 @@ getflixxx.com CNAME .
 *.getflixxx.com CNAME .
 getfreexxx.com CNAME .
 *.getfreexxx.com CNAME .
-getgaynz.com CNAME .
-*.getgaynz.com CNAME .
 getgaysexhot.com CNAME .
 *.getgaysexhot.com CNAME .
 getgimp.com CNAME .
@@ -44194,8 +44192,12 @@ hw-area.com CNAME .
 *.hw-area.com CNAME .
 hwazen.com CNAME .
 *.hwazen.com CNAME .
+hxani.com CNAME .
+*.hxani.com CNAME .
 hxcpp112.com CNAME .
 *.hxcpp112.com CNAME .
+hxhani.com CNAME .
+*.hxhani.com CNAME .
 hxhxsextou.com CNAME .
 *.hxhxsextou.com CNAME .
 hxxx85.com CNAME .
@@ -44204,8 +44206,6 @@ hxxx86.com CNAME .
 *.hxxx86.com CNAME .
 hxxxsp.com CNAME .
 *.hxxxsp.com CNAME .
-hxxxxx.com CNAME .
-*.hxxxxx.com CNAME .
 hybing.com CNAME .
 *.hybing.com CNAME .
 hybridashtangayoga.com CNAME .
