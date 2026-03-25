@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1774452840 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1774474500 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Pop-Up Ads DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 25 Mar 2026 15:34 UTC
-; Version: 2026.0325.1534.20
+; Last modified: 25 Mar 2026 21:35 UTC
+; Version: 2026.0325.2135.38
 ; Syntax: RPZ
-; Number of entries: 108300
+; Number of entries: 108298
 ;
 bonzai.ad CNAME .
 *.bonzai.ad CNAME .
@@ -31334,8 +31334,6 @@ eclkmpbn.com CNAME .
 *.eclkmpbn.com CNAME .
 eclkmpsa.com CNAME .
 *.eclkmpsa.com CNAME .
-ecomicrolab.com CNAME .
-*.ecomicrolab.com CNAME .
 ecommercecall.com CNAME .
 *.ecommercecall.com CNAME .
 economicalathlete.com CNAME .
@@ -93958,6 +93956,8 @@ zn.dulcitybloods.shop CNAME .
 *.zn.dulcitybloods.shop CNAME .
 dt.duplettoosh.shop CNAME .
 *.dt.duplettoosh.shop CNAME .
+dutiesvijay.shop CNAME .
+*.dutiesvijay.shop CNAME .
 dwaiblycab.shop CNAME .
 *.dwaiblycab.shop CNAME .
 ro.dykagegemini.shop CNAME .
@@ -107642,8 +107642,6 @@ maoeoa.xyz CNAME .
 *.maoeoa.xyz CNAME .
 marion-solutions.xyz CNAME .
 *.marion-solutions.xyz CNAME .
-masaxe.xyz CNAME .
-*.masaxe.xyz CNAME .
 meinecv.xyz CNAME .
 *.meinecv.xyz CNAME .
 mejxamor.xyz CNAME .

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Mar 2026 15:34 UTC
-# Version: 2026.0325.1534.20
+# Last modified: 25 Mar 2026 21:35 UTC
+# Version: 2026.0325.2135.38
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 54150
+# Number of entries: 54149
 #
 local=/0.beer/
 local=/0.club/
@@ -18786,6 +18786,7 @@ local=/dutabuz.com/
 local=/dutalonflameer.com/
 local=/dutchmadameraised.com/
 local=/dutftuaz.icu/
+local=/dutiesvijay.shop/
 local=/dutifuldatabase.com/
 local=/dutorterraom.com/
 local=/dutyfalteroats.com/
@@ -19115,7 +19116,6 @@ local=/eclkmpsa.com/
 local=/eclnqdlbtgokj.site/
 local=/eclvgswxvthwx.space/
 local=/ecoedgeinnovations.xyz/
-local=/ecomicrolab.com/
 local=/ecommercecall.com/
 local=/economicalathlete.com/
 local=/economicaldashcentral.com/
@@ -32473,7 +32473,6 @@ local=/yqmgx.marvelousdate.com/
 local=/marxistneeps.com/
 local=/marylanddating.com/
 local=/masakeku.com/
-local=/masaxe.xyz/
 local=/masbpi.com/
 local=/mascaraoathdisappearance.com/
 local=/mascaraowners.com/

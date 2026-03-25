@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 Mar 2026 17:56 UTC
-# Version: 2026.0324.1756.19
+# Last modified: 25 Mar 2026 21:40 UTC
+# Version: 2026.0325.2140.00
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9913
+# Number of entries: 9914
 #
 local=/0.gp/
 local=/00m.in/
@@ -1085,6 +1085,7 @@ local=/biaotee.top/
 local=/biastonu.com/
 local=/bibl.es/
 local=/bidly.cc/
+local=/bigbigwinjiliwin63.online/
 local=/bigcc.cc/
 local=/go.bigdomain.my/
 local=/bigfi.sh/
