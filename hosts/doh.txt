@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 Mar 2026 10:59 UTC
-# Version: 2026.0324.1059.01
+# Last modified: 25 Mar 2026 11:05 UTC
+# Version: 2026.0325.1105.53
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3952
+# Number of entries: 3953
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -1302,6 +1302,7 @@
 0.0.0.0 seoul.dnsovertor.cc
 0.0.0.0 dnspod.com
 0.0.0.0 dnssilo.top
+0.0.0.0 dns.dnssilo.top
 0.0.0.0 bilidon.dnsuser.info
 0.0.0.0 ns.dnsviewer.org
 0.0.0.0 adblock-dot.dnswarden.com

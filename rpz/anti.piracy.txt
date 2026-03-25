@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1774379700 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1774436400 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 24 Mar 2026 19:15 UTC
-; Version: 2026.0324.1915.46
+; Last modified: 25 Mar 2026 11:00 UTC
+; Version: 2026.0325.1100.27
 ; Syntax: RPZ
-; Number of entries: 24370
+; Number of entries: 24386
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -2280,6 +2280,8 @@ vidstrm.cloud CNAME .
 *.vidstrm.cloud CNAME .
 yesmovies.cloud CNAME .
 *.yesmovies.cloud CNAME .
+10hitmovies.club CNAME .
+*.10hitmovies.club CNAME .
 123files.club CNAME .
 *.123files.club CNAME .
 123netflix.club CNAME .
@@ -2830,6 +2832,8 @@ tracker.0x7c0.com CNAME .
 *.1080-kino.com CNAME .
 10drives.com CNAME .
 *.10drives.com CNAME .
+10hitmovies.com CNAME .
+*.10hitmovies.com CNAME .
 10mbit.com CNAME .
 *.10mbit.com CNAME .
 123-hd.com CNAME .
@@ -5030,6 +5034,8 @@ gbwhatspro.com CNAME .
 *.gbwhatspro.com CNAME .
 tracker.gcvchp.com CNAME .
 *.tracker.gcvchp.com CNAME .
+gd8lebaran.com CNAME .
+*.gd8lebaran.com CNAME .
 gdtorrent.com CNAME .
 *.gdtorrent.com CNAME .
 gendou.com CNAME .
@@ -9686,6 +9692,8 @@ bollyflix.fish CNAME .
 *.bollyflix.fish CNAME .
 hdmovie2.fish CNAME .
 *.hdmovie2.fish CNAME .
+10hitmovies.fit CNAME .
+*.10hitmovies.fit CNAME .
 9kmovies.fit CNAME .
 *.9kmovies.fit CNAME .
 altadefinizionegratis.fit CNAME .
@@ -10424,6 +10432,8 @@ vegamovies.haus CNAME .
 *.vegamovies.haus CNAME .
 hdmovie2.health CNAME .
 *.hdmovie2.health CNAME .
+10hitmovies.help CNAME .
+*.10hitmovies.help CNAME .
 altadefinizionegratis.help CNAME .
 *.altadefinizionegratis.help CNAME .
 cb01new.help CNAME .
@@ -11932,6 +11942,8 @@ tantifilm.land CNAME .
 *.tantifilm.land CNAME .
 vegamovies.land CNAME .
 *.vegamovies.land CNAME .
+10hitmovies.lat CNAME .
+*.10hitmovies.lat CNAME .
 altadefinizione.lat CNAME .
 *.altadefinizione.lat CNAME .
 cb01.lat CNAME .
@@ -12444,6 +12456,8 @@ tantifilm.locker CNAME .
 *.tantifilm.locker CNAME .
 vegamovies.locker CNAME .
 *.vegamovies.locker CNAME .
+10hitmovies.lol CNAME .
+*.10hitmovies.lol CNAME .
 andydayz.lol CNAME .
 *.andydayz.lol CNAME .
 bestwish.lol CNAME .
@@ -15722,6 +15736,8 @@ hdmovie2.observer CNAME .
 *.hdmovie2.observer CNAME .
 wookafr.observer CNAME .
 *.wookafr.observer CNAME .
+10hitmovies.one CNAME .
+*.10hitmovies.one CNAME .
 ahoy.one CNAME .
 *.ahoy.one CNAME .
 altadefinizione.one CNAME .

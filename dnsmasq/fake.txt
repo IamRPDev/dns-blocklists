@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 Mar 2026 17:54 UTC
-# Version: 2026.0324.1754.35
+# Last modified: 25 Mar 2026 09:37 UTC
+# Version: 2026.0325.0937.55
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14206
+# Number of entries: 14220
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -548,6 +548,7 @@ local=/angelnentdecken.com/
 local=/angelnmitchell.com/
 local=/angelzubehoerladen.com/
 local=/angusz.com/
+local=/anhaenger-geraete.com/
 local=/anhaenger-von-thule.de/
 local=/anhaengerkauf24.com/
 local=/anhaengermarkt.com/
@@ -610,6 +611,7 @@ local=/apex.exchange/
 local=/apex-trade.capital/
 local=/apexflora.com/
 local=/apharmacie.com/
+local=/aphroditecards.com/
 local=/apkwell.com/
 local=/aplschuhe.at/
 local=/aplschuhe.com/
@@ -1280,6 +1282,7 @@ local=/berlinmusiccraft.com/
 local=/berlinmusicscores.com/
 local=/berlinoutletshop.com/
 local=/berlinpieces.com/
+local=/berlinrideservice.com/
 local=/berlinsprime.de/
 local=/berlinstil.de/
 local=/berlinwoch.com/
@@ -2447,6 +2450,7 @@ local=/coinmarketfeed.net/
 local=/coinmoh.com/
 local=/coinnova.eu/
 local=/coinspayworld.com/
+local=/coinstancy.com/
 local=/cokimnsi.shop/
 local=/colbertcap.com/
 local=/cold-rp.de/
@@ -2684,6 +2688,7 @@ local=/crazyer.shop/
 local=/crazygames.shop/
 local=/creamairs.com/
 local=/creammusicava.shop/
+local=/creamywear.com/
 local=/creatableshop.com/
 local=/createwithbuy.com/
 local=/creativegameplay.com/
@@ -4168,6 +4173,7 @@ local=/familiarn.com/
 local=/familienbegleiterin.de/
 local=/familienmobil24.de/
 local=/familienschatze.com/
+local=/familienzug.ch/
 local=/familo.net/
 local=/family-drugs.net/
 local=/family-pills.com/
@@ -4561,6 +4567,7 @@ local=/forextradition.com/
 local=/formalot.com/
 local=/formanacupuncture.com/
 local=/formationy.com/
+local=/formeri.shop/
 local=/fornialegnaaccessori.com/
 local=/forschwerk.com/
 local=/forstwirtschaftsholz.com/
@@ -9109,6 +9116,7 @@ local=/nhltrikotde.com/
 local=/nholz.com/
 local=/niaboutique.de/
 local=/nice02.com/
+local=/nicedoc.co/
 local=/nicekune.com/
 local=/niceokno.shop/
 local=/nichespares.com/
@@ -10548,6 +10556,7 @@ local=/rasenroboter-shop.com/
 local=/rasenshop24.com/
 local=/rasentrak.com/
 local=/rastrillo.de/
+local=/rastuxor.at/
 local=/ratataur.com/
 local=/rattmmotor.shop/
 local=/rattzekatz.com/
@@ -11919,6 +11928,7 @@ local=/stelcore-retail24.de/
 local=/stella-zurich.com/
 local=/stellapet.xyz/
 local=/stellennavigator.com/
+local=/stelonira.com/
 local=/stephanie-gustai.de/
 local=/stepscorner.com/
 local=/stereoswitch.de/
@@ -12089,6 +12099,7 @@ local=/summer-island.de/
 local=/summerknock.de/
 local=/summers4sale.com/
 local=/summervibes.de/
+local=/summit.io/
 local=/summitmoments.com/
 local=/summitray.com/
 local=/sun-market.eu/
@@ -13430,6 +13441,7 @@ local=/vitalgesund.at/
 local=/vitalismoemi.com/
 local=/vivagopro.com/
 local=/vivaiabuty.pl/
+local=/vivaiacollection.com/
 local=/vivaiaschuhe.at/
 local=/vivaiaschuhe.com/
 local=/vivaiaschuhe.de/
@@ -13842,6 +13854,7 @@ local=/wlinme.com/
 local=/wloom.com/
 local=/wmbra.de/
 local=/wmshoe.net/
+local=/wnwzxocb.shop/
 local=/wobeg.com/
 local=/wodnationgearava.shop/
 local=/wodstand.de/
@@ -14195,6 +14208,7 @@ local=/zoomil.de/
 local=/zoomoption.com/
 local=/zooroyalde.com/
 local=/zoralia.de/
+local=/zorilenta.com/
 local=/zotatees.com/
 local=/zova.at/
 local=/zubehorfahrrad.com/

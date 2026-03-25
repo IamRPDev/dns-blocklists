@@ -1,5 +1,19 @@
 # Unblocking for relaxed, balanced and aggressive (pro++) lists only
 
+# https://github.com/hagezi/dns-Blocklists/issues/9493
+p16-ad-site-sign-sg.tiktokcdn.com
+p16-ad-site-sign-sg.tiktokcdn.com.edgesuite.net
+p19-ad-site-sign-sg.tiktokcdn.com
+
+# https://github.com/hagezi/dns-Blocklists/issues/6645
+p16-tiktok-ads-sg.tiktokcdn.com
+p16-tiktok-ads-sg.tiktokcdn.com.edgesuite.net
+p16-tiktok-ads-sg.tiktokcdn.com.bytegeo.akadns.net
+
+# https://github.com/hagezi/dns-blocklists/issues/7702
+p16-ad-sg.tiktokcdn.com
+p16-ad-sg.tiktokcdn.com.edgesuite.net
+
 # https://github.com/hagezi/dns-blocklists/issues/9215
 api.applicationinsights.azure.com
 api.monitor.azure.com

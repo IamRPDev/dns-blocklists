@@ -284,15 +284,6 @@ httpdns-push.heytapmobile.com
 cdn.dynamicyield.com
 st.dynamicyield.com
 
-# https://github.com/hagezi/dns-Blocklists/issues/6645
-p16-tiktok-ads-sg.tiktokcdn.com
-p16-tiktok-ads-sg.tiktokcdn.com.edgesuite.net
-p16-tiktok-ads-sg.tiktokcdn.com.bytegeo.akadns.net
-
-# https://github.com/hagezi/dns-blocklists/issues/7702
-p16-ad-sg.tiktokcdn.com
-p16-ad-sg.tiktokcdn.com.edgesuite.net
-
 # https://github.com/hagezi/dns-blocklists/issues/6611
 monitoring.*.amazonaws.com
 logs.*.amazonaws.com

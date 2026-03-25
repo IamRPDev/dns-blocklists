@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 Mar 2026 19:15 UTC
-# Version: 2026.0324.1915.46
+# Last modified: 25 Mar 2026 11:00 UTC
+# Version: 2026.0325.1100.27
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 12185
+# Number of entries: 12193
 #
 local=/003396815.xyz/
 local=/004430.xyz/
@@ -79,6 +79,13 @@ local=/101istp.ru/
 local=/1080-kino.com/
 local=/10drives.com/
 local=/10hitmovies.click/
+local=/10hitmovies.club/
+local=/10hitmovies.com/
+local=/10hitmovies.fit/
+local=/10hitmovies.help/
+local=/10hitmovies.lat/
+local=/10hitmovies.lol/
+local=/10hitmovies.one/
 local=/10kol.tv/
 local=/10mbit.com/
 local=/111movies.net/
@@ -4405,6 +4412,7 @@ local=/gbwhatspro.com/
 local=/m.gcao.net/
 local=/tracker.gcrenwp.top/
 local=/tracker.gcvchp.com/
+local=/gd8lebaran.com/
 local=/gdekino.me/
 local=/tracker.gdp.pw/
 local=/gdplayer.to/
