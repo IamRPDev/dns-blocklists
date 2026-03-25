@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Mar 2026 09:35 UTC
-# Version: 2026.0325.0935.12
+# Last modified: 25 Mar 2026 15:34 UTC
+# Version: 2026.0325.1534.20
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 54148
+# Number of entries: 54150
 #
 local=/0.beer/
 local=/0.club/
@@ -20914,6 +20914,7 @@ local=/fantabro.com/
 local=/fantasia-menard.com/
 local=/fantasiavashi.com/
 local=/fantasies-girls.com/
+local=/fantasticcommunity.com/
 local=/fantasticfishapp.com/
 local=/do.fantastindents.com/
 local=/fantasy4dating.net/
@@ -21959,6 +21960,7 @@ local=/flushpersist.com/
 local=/fluslay.xyz/
 local=/flusoprano.com/
 local=/flustered-contest.pro/
+local=/flusteredexam.com/
 local=/flusteredmiddle.com/
 local=/qgjmaw.fluterlove.com/
 local=/qgjmaw.fluterlove.net/
@@ -32724,7 +32726,6 @@ local=/mbsrv2.com/
 local=/mbsspads.com/
 local=/mbvlmx.com/
 local=/mbvlmz.com/
-local=/mbvndisplay.site/
 local=/mbvndspl1.pro/
 local=/mbvsm.com/
 local=/mc-aoyama.com/
@@ -38829,6 +38830,7 @@ local=/xk.poldertourer.com/
 local=/policeair.com/
 local=/policycounsel.org/
 local=/policyessentialsuperhero.com/
+local=/polished-hook.com/
 local=/polishedfolly.com/
 local=/polishedplay.pro/
 local=/polishsimilarlybutcher.com/

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Mar 2026 10:58 UTC
-# Version: 2026.0325.1058.05
+# Last modified: 25 Mar 2026 16:55 UTC
+# Version: 2026.0325.1655.09
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 98445
+# Number of entries: 98450
 #
 local=/0-bdmbet.com/
 local=/0-casino.com/
@@ -361,6 +361,7 @@ local=/0ye.casino/
 local=/0yu.casino/
 local=/1-1xmirror.com/
 local=/1-ace-casino-india.com/
+local=/1-billionairespin69.com/
 local=/1-deposit-casino.xyz/
 local=/1-dollar-deposit-casinos.com/
 local=/1-h-win-casino2.ru/
@@ -33232,7 +33233,6 @@ local=/onlinecasinoprofy.co.uk/
 local=/onlinecasinoreports.co.ee/
 local=/onlinecasinoreviews.co.uk/
 local=/onlinecasinos.co.uk/
-local=/onlinecasinosbestincanada.co.com/
 local=/onlinecasinosbuitenland.co.com/
 local=/onlinecasinositesaustralia.co.com/
 local=/onlinecasinoskiwi.co.nz/
@@ -38310,7 +38310,6 @@ local=/doubledowncasinoca.com/
 local=/doublehit.casino/
 local=/doublestar.sk/
 local=/doublestarcasino.top/
-local=/doublesweetnesscakery.com/
 local=/doubleucasino.com/
 local=/doublewinvegasfortuneslotsau.vip/
 local=/doublewinvegasfortuneslotsbr.vip/
@@ -38990,7 +38989,6 @@ local=/duckysinocasino.live/
 local=/dudaone.com/
 local=/dudascasino.com/
 local=/dude-spin-casino.fi/
-local=/dudebets.com/
 local=/dudespin.com/
 local=/dudespin-4436.com/
 local=/dudespin-casino.bet/
@@ -79392,7 +79390,15 @@ local=/robloxrobuxhack.online/
 local=/robo-cat-casino.net/
 local=/robo-catcasino.fr/
 local=/robobet1.com/
+local=/robobet13.com/
+local=/robobet14.com/
+local=/robobet15.com/
+local=/robobet16.com/
+local=/robobet18.com/
+local=/robobet22.com/
+local=/robobet26.com/
 local=/robobet3.com/
+local=/robobet9.com/
 local=/robobinjaitoto.store/
 local=/robocat.casino/
 local=/robocat.com/
@@ -87534,7 +87540,6 @@ local=/takbetcasinocanada.org/
 local=/takeawayslots.com/
 local=/takebonus.com/
 local=/takemyexams.online/
-local=/takeprofit.live/
 local=/takeuchikobetsu.net/
 local=/takimag.com/
 local=/talimaju.icu/

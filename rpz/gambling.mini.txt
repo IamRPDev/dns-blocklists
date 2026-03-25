@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1774436340 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1774457820 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 25 Mar 2026 10:59 UTC
-; Version: 2026.0325.1059.58
+; Last modified: 25 Mar 2026 16:57 UTC
+; Version: 2026.0325.1657.13
 ; Syntax: RPZ
-; Number of entries: 101534
+; Number of entries: 101536
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -29836,8 +29836,6 @@ onlinecasinonogamstop.co.com CNAME .
 *.onlinecasinonogamstop.co.com CNAME .
 onlinecasinonoverificationkorea.co.com CNAME .
 *.onlinecasinonoverificationkorea.co.com CNAME .
-onlinecasinosbestincanada.co.com CNAME .
-*.onlinecasinosbestincanada.co.com CNAME .
 onlinecasinosbuitenland.co.com CNAME .
 *.onlinecasinosbuitenland.co.com CNAME .
 onlinecasinositesaustralia.co.com CNAME .
@@ -32000,8 +31998,6 @@ doubledowncasino2.com CNAME .
 *.doubledowncasino2.com CNAME .
 doubledowncasinoca.com CNAME .
 *.doubledowncasinoca.com CNAME .
-doublesweetnesscakery.com CNAME .
-*.doublesweetnesscakery.com CNAME .
 doubleucasino.com CNAME .
 *.doubleucasino.com CNAME .
 download1xbet.com CNAME .
@@ -32260,8 +32256,6 @@ ducatitogel889.com CNAME .
 *.ducatitogel889.com CNAME .
 dudaone.com CNAME .
 *.dudaone.com CNAME .
-dudebets.com CNAME .
-*.dudebets.com CNAME .
 dudespin.com CNAME .
 *.dudespin.com CNAME .
 dudespin-4436.com CNAME .
@@ -52242,6 +52236,16 @@ robertchasegallery.com CNAME .
 *.robertchasegallery.com CNAME .
 robin-roo-casino-australia.com CNAME .
 *.robin-roo-casino-australia.com CNAME .
+robobet15.com CNAME .
+*.robobet15.com CNAME .
+robobet16.com CNAME .
+*.robobet16.com CNAME .
+robobet18.com CNAME .
+*.robobet18.com CNAME .
+robobet22.com CNAME .
+*.robobet22.com CNAME .
+robobet26.com CNAME .
+*.robobet26.com CNAME .
 robocat.com CNAME .
 *.robocat.com CNAME .
 robocat-3321.com CNAME .
@@ -71336,8 +71340,6 @@ starcasino.live CNAME .
 *.starcasino.live CNAME .
 ta777.live CNAME .
 *.ta777.live CNAME .
-takeprofit.live CNAME .
-*.takeprofit.live CNAME .
 tg777.live CNAME .
 *.tg777.live CNAME .
 tiger-casino.live CNAME .

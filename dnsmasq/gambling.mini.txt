@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Mar 2026 10:59 UTC
-# Version: 2026.0325.1059.58
+# Last modified: 25 Mar 2026 16:57 UTC
+# Version: 2026.0325.1657.13
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 50767
+# Number of entries: 50768
 #
 local=/0-bdmbet.com/
 local=/0-casino.com/
@@ -17362,7 +17362,6 @@ local=/onlinecasinonogamstop.co.com/
 local=/onlinecasinonoverificationkorea.co.com/
 local=/onlinecasinoreports.co.ee/
 local=/onlinecasinos.co.uk/
-local=/onlinecasinosbestincanada.co.com/
 local=/onlinecasinosbuitenland.co.com/
 local=/onlinecasinositesaustralia.co.com/
 local=/onlinecasinoskiwi.co.nz/
@@ -20096,7 +20095,6 @@ local=/doubledowncasinoca.com/
 local=/doublehit.casino/
 local=/doublestar.sk/
 local=/doublestarcasino.top/
-local=/doublesweetnesscakery.com/
 local=/doubleucasino.com/
 local=/doublewinvegasfortuneslotsau.vip/
 local=/doublewinvegasfortuneslotsbr.vip/
@@ -20415,7 +20413,6 @@ local=/duckdicecasino.co/
 local=/duckyluck.ag/
 local=/duckysinocasino.live/
 local=/dudaone.com/
-local=/dudebets.com/
 local=/dudespin.com/
 local=/dudespin-4436.com/
 local=/dudespin-casino.bet/
@@ -40708,6 +40705,11 @@ local=/roaring21.com/
 local=/robertchasegallery.com/
 local=/robin-roo-casino-australia.com/
 local=/robo-cat-casino.net/
+local=/robobet15.com/
+local=/robobet16.com/
+local=/robobet18.com/
+local=/robobet22.com/
+local=/robobet26.com/
 local=/robocat.com/
 local=/robocat-3321.com/
 local=/robocat-5249.com/
@@ -44943,7 +44945,6 @@ local=/takabet15.com/
 local=/takarakuji-official.jp/
 local=/takbet.com/
 local=/takebonus.com/
-local=/takeprofit.live/
 local=/takeuchikobetsu.net/
 local=/takimag.com/
 local=/talismania.com/

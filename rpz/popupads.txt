@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1774431300 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1774452840 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Pop-Up Ads DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 25 Mar 2026 09:35 UTC
-; Version: 2026.0325.0935.12
+; Last modified: 25 Mar 2026 15:34 UTC
+; Version: 2026.0325.1534.20
 ; Syntax: RPZ
-; Number of entries: 108296
+; Number of entries: 108300
 ;
 bonzai.ad CNAME .
 *.bonzai.ad CNAME .
@@ -33732,6 +33732,8 @@ fantasiavashi.com CNAME .
 *.fantasiavashi.com CNAME .
 fantasies-girls.com CNAME .
 *.fantasies-girls.com CNAME .
+fantasticcommunity.com CNAME .
+*.fantasticcommunity.com CNAME .
 fantasticfishapp.com CNAME .
 *.fantasticfishapp.com CNAME .
 do.fantastindents.com CNAME .
@@ -35156,6 +35158,8 @@ flushpersist.com CNAME .
 *.flushpersist.com CNAME .
 flusoprano.com CNAME .
 *.flusoprano.com CNAME .
+flusteredexam.com CNAME .
+*.flusteredexam.com CNAME .
 flusteredmiddle.com CNAME .
 *.flusteredmiddle.com CNAME .
 qgjmaw.fluterlove.com CNAME .
@@ -56538,6 +56542,8 @@ policeair.com CNAME .
 *.policeair.com CNAME .
 policyessentialsuperhero.com CNAME .
 *.policyessentialsuperhero.com CNAME .
+polished-hook.com CNAME .
+*.polished-hook.com CNAME .
 polishedfolly.com CNAME .
 *.polishedfolly.com CNAME .
 polishsimilarlybutcher.com CNAME .
@@ -96110,8 +96116,6 @@ matimati.site CNAME .
 *.matimati.site CNAME .
 maya15.site CNAME .
 *.maya15.site CNAME .
-mbvndisplay.site CNAME .
-*.mbvndisplay.site CNAME .
 mciipgsntyqok.site CNAME .
 *.mciipgsntyqok.site CNAME .
 mcxuorwlaqtyd.site CNAME .
