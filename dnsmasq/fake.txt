@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Mar 2026 09:37 UTC
-# Version: 2026.0325.0937.55
+# Last modified: 26 Mar 2026 09:37 UTC
+# Version: 2026.0326.0937.03
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14220
+# Number of entries: 14227
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -669,6 +669,7 @@ local=/aquamarinashopde.com/
 local=/aquarienbedarf.com/
 local=/aquarisonlineshop.de/
 local=/aquariumopt.com/
+local=/aquascapers-galerie.com/
 local=/aquasportkleidung.com/
 local=/aquavibespro.com/
 local=/aquinoexpress.com/
@@ -2999,6 +3000,8 @@ local=/degussa-goldhandel.tv/
 local=/shop.degussa-goldhandel.de/
 local=/degussa-goldhandel-de.to/
 local=/degussa-onlineshop.de/
+local=/degussa-page.de/
+local=/degussaonline.de/
 local=/dehaag-tech.de/
 local=/deharaldsoldieava.shop/
 local=/dehaushaltszentrum.com/
@@ -3203,6 +3206,7 @@ local=/diestrumpfmacherava.shop/
 local=/dietdiney.com/
 local=/dietreviews4you.com/
 local=/dietrich-garten.de/
+local=/diezeitmitmedien.com/
 local=/difcinvestment.world/
 local=/diferencialautopecas.com/
 local=/diffusoriacusticisorgenti.com/
@@ -5772,6 +5776,7 @@ local=/heizoel-station.com/
 local=/heizoel-tankstelle.de/
 local=/heizoel-versand.net/
 local=/heizoel-versorgt.de/
+local=/heizoel24-aktuell.com/
 local=/heizoel24-preise.com/
 local=/heizoel24h.de/
 local=/heizoelblitz.com/
@@ -6062,6 +6067,7 @@ local=/holzqualitat.de/
 local=/holzsofort.de/
 local=/holzstreif.de/
 local=/holzti.com/
+local=/holzundwerkzeug-bestequalitat.de/
 local=/holzvomland.de/
 local=/holzweihnachtswelt.com/
 local=/holzwerkzeugekaufen.com/
@@ -8743,6 +8749,7 @@ local=/musikgeschaft.com/
 local=/musikhaus-neumann.de/
 local=/musikinstrumente-profi.com/
 local=/musiknotenmarkt.com/
+local=/musikprofi.com/
 local=/musikstrings.com/
 local=/musikwelt-lindner.de/
 local=/musiqueonline.com/
@@ -11661,6 +11668,7 @@ local=/sola-mode.de/
 local=/solancie.com/
 local=/solandis.com/
 local=/solanex.de/
+local=/solanik.de/
 local=/solanix.de/
 local=/solanzo.de/
 local=/solar-energie24.com/
@@ -13441,7 +13449,6 @@ local=/vitalgesund.at/
 local=/vitalismoemi.com/
 local=/vivagopro.com/
 local=/vivaiabuty.pl/
-local=/vivaiacollection.com/
 local=/vivaiaschuhe.at/
 local=/vivaiaschuhe.com/
 local=/vivaiaschuhe.de/

@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1774431420 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1774517820 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 25 Mar 2026 09:37 UTC
-; Version: 2026.0325.0937.55
+; Last modified: 26 Mar 2026 09:37 UTC
+; Version: 2026.0326.0937.03
 ; Syntax: RPZ
-; Number of entries: 28440
+; Number of entries: 28454
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -2462,6 +2462,8 @@ aquarienbedarf.com CNAME .
 *.aquarienbedarf.com CNAME .
 aquariumopt.com CNAME .
 *.aquariumopt.com CNAME .
+aquascapers-galerie.com CNAME .
+*.aquascapers-galerie.com CNAME .
 aquasportkleidung.com CNAME .
 *.aquasportkleidung.com CNAME .
 aquavibespro.com CNAME .
@@ -5368,6 +5370,8 @@ dietdiney.com CNAME .
 *.dietdiney.com CNAME .
 dietreviews4you.com CNAME .
 *.dietreviews4you.com CNAME .
+diezeitmitmedien.com CNAME .
+*.diezeitmitmedien.com CNAME .
 diferencialautopecas.com CNAME .
 *.diferencialautopecas.com CNAME .
 diffusoriacusticisorgenti.com CNAME .
@@ -8244,6 +8248,8 @@ heizoel-solutions.com CNAME .
 *.heizoel-solutions.com CNAME .
 heizoel-station.com CNAME .
 *.heizoel-station.com CNAME .
+heizoel24-aktuell.com CNAME .
+*.heizoel24-aktuell.com CNAME .
 heizoel24-preise.com CNAME .
 *.heizoel24-preise.com CNAME .
 heizoelblitz.com CNAME .
@@ -11364,6 +11370,8 @@ musikinstrumente-profi.com CNAME .
 *.musikinstrumente-profi.com CNAME .
 musiknotenmarkt.com CNAME .
 *.musiknotenmarkt.com CNAME .
+musikprofi.com CNAME .
+*.musikprofi.com CNAME .
 musikstrings.com CNAME .
 *.musikstrings.com CNAME .
 musiqueonline.com CNAME .
@@ -17012,8 +17020,6 @@ vitalismoemi.com CNAME .
 *.vitalismoemi.com CNAME .
 vivagopro.com CNAME .
 *.vivagopro.com CNAME .
-vivaiacollection.com CNAME .
-*.vivaiacollection.com CNAME .
 vivaiaschuhe.com CNAME .
 *.vivaiaschuhe.com CNAME .
 vivaiaschweiz.com CNAME .
@@ -19114,6 +19120,10 @@ shop.degussa-goldhandel.de CNAME .
 *.shop.degussa-goldhandel.de CNAME .
 degussa-onlineshop.de CNAME .
 *.degussa-onlineshop.de CNAME .
+degussa-page.de CNAME .
+*.degussa-page.de CNAME .
+degussaonline.de CNAME .
+*.degussaonline.de CNAME .
 dehaag-tech.de CNAME .
 *.dehaag-tech.de CNAME .
 dehiking.de CNAME .
@@ -20758,6 +20768,8 @@ holzsofort.de CNAME .
 *.holzsofort.de CNAME .
 holzstreif.de CNAME .
 *.holzstreif.de CNAME .
+holzundwerkzeug-bestequalitat.de CNAME .
+*.holzundwerkzeug-bestequalitat.de CNAME .
 holzvomland.de CNAME .
 *.holzvomland.de CNAME .
 homado.de CNAME .
@@ -23302,6 +23314,8 @@ sola-mode.de CNAME .
 *.sola-mode.de CNAME .
 solanex.de CNAME .
 *.solanex.de CNAME .
+solanik.de CNAME .
+*.solanik.de CNAME .
 solanix.de CNAME .
 *.solanix.de CNAME .
 solanzo.de CNAME .

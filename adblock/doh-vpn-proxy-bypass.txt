@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 25 Mar 2026 23:08 UTC
-! Version: 2026.0325.2308.12
+! Last modified: 26 Mar 2026 11:02 UTC
+! Version: 2026.0326.1102.31
 ! Syntax: AdBlock
-! Number of entries: 16812
+! Number of entries: 16809
 !
 ||000000555.xyz^
 ||ss.0001.xyz^
@@ -1539,7 +1539,6 @@
 ||152.53.36.82.backname.io^
 ||144.217.77.9.backname.io^
 ||92-38-177-17.backname.io^
-||backyard.vn^
 ||bacloudjichang.com^
 ||frogeh.bacongamz.net^
 ||franzosen.bad.mn^
@@ -8363,7 +8362,6 @@
 ||doh.jeroenhd.nl^
 ||host.jerry-lee.uk^
 ||dns.jerryw.cn^
-||jessehome.xyz^
 ||jet-noria.ru^
 ||jetbean.com^
 ||jetnoria.ru^
@@ -15413,7 +15411,6 @@
 ||solve.piano.wirich.com^
 ||adguard.wirimij.nl^
 ||wiseghostapp.com^
-||wisoslab.com^
 ||dns3.wistarip.com^
 ||withdrawfrog.space^
 ||withoutdns.com^

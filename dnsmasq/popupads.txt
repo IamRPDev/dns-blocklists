@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Mar 2026 21:35 UTC
-# Version: 2026.0325.2135.38
+# Last modified: 26 Mar 2026 09:34 UTC
+# Version: 2026.0326.0934.37
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 54149
+# Number of entries: 54150
 #
 local=/0.beer/
 local=/0.club/
@@ -32204,6 +32204,7 @@ local=/mainexclkdir.com/
 local=/mainfeeding.com/
 local=/maingunpowder.com/
 local=/mainhoki.live/
+local=/mainlubeice.com/
 local=/mainlyconvertbonus.com/
 local=/mainos.pro/
 local=/mainroll.com/
@@ -41957,6 +41958,7 @@ local=/rloteria.com/
 local=/rlrsfxkewwgww.site/
 local=/rlsnntgffqnli.online/
 local=/rludahcaewkfd.online/
+local=/rm358.com/
 local=/rmaticalacm.info/
 local=/rmb-trf.net/
 local=/rmbalnswelwcp.online/
@@ -51640,7 +51642,6 @@ local=/wiltinfume.com/
 local=/wiltiqkc.com/
 local=/wimproamjail.com/
 local=/wimxvpcbsfhyz.store/
-local=/win-bidding.com/
 local=/win32diskimager.org/
 local=/llmmad.win4chance.com/
 local=/xbqqzj.win4chance.com/

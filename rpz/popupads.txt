@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1774474500 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1774517640 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Pop-Up Ads DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 25 Mar 2026 21:35 UTC
-; Version: 2026.0325.2135.38
+; Last modified: 26 Mar 2026 09:34 UTC
+; Version: 2026.0326.0934.37
 ; Syntax: RPZ
-; Number of entries: 108298
+; Number of entries: 108300
 ;
 bonzai.ad CNAME .
 *.bonzai.ad CNAME .
@@ -48106,6 +48106,8 @@ mainfeeding.com CNAME .
 *.mainfeeding.com CNAME .
 maingunpowder.com CNAME .
 *.maingunpowder.com CNAME .
+mainlubeice.com CNAME .
+*.mainlubeice.com CNAME .
 mainlyconvertbonus.com CNAME .
 *.mainlyconvertbonus.com CNAME .
 mainroll.com CNAME .
@@ -60606,6 +60608,8 @@ rlcdn.com CNAME .
 *.rlcdn.com CNAME .
 rloteria.com CNAME .
 *.rloteria.com CNAME .
+rm358.com CNAME .
+*.rm358.com CNAME .
 rmcxyfqbm.com CNAME .
 *.rmcxyfqbm.com CNAME .
 rmhfrtnd.com CNAME .
@@ -73140,8 +73144,6 @@ wiltiqkc.com CNAME .
 *.wiltiqkc.com CNAME .
 wimproamjail.com CNAME .
 *.wimproamjail.com CNAME .
-win-bidding.com CNAME .
-*.win-bidding.com CNAME .
 llmmad.win4chance.com CNAME .
 *.llmmad.win4chance.com CNAME .
 xbqqzj.win4chance.com CNAME .

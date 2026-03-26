@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1774480080 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1774522920 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 25 Mar 2026 23:08 UTC
-; Version: 2026.0325.2308.12
+; Last modified: 26 Mar 2026 11:02 UTC
+; Version: 2026.0326.1102.31
 ; Syntax: RPZ
-; Number of entries: 33624
+; Number of entries: 33618
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -14105,8 +14105,6 @@ solve.piano.wirich.com CNAME .
 *.solve.piano.wirich.com CNAME .
 wiseghostapp.com CNAME .
 *.wiseghostapp.com CNAME .
-wisoslab.com CNAME .
-*.wisoslab.com CNAME .
 dns3.wistarip.com CNAME .
 *.dns3.wistarip.com CNAME .
 withoutdns.com CNAME .
@@ -31969,8 +31967,6 @@ yahagi.vip CNAME .
 *.yahagi.vip CNAME .
 adb.aiec.vn CNAME .
 *.adb.aiec.vn CNAME .
-backyard.vn CNAME .
-*.backyard.vn CNAME .
 gurgle.kalbas.com.vn CNAME .
 *.gurgle.kalbas.com.vn CNAME .
 agh.amber.edu.vn CNAME .
@@ -32897,8 +32893,6 @@ tj.jamesxue.xyz CNAME .
 *.tj.jamesxue.xyz CNAME .
 px.jarnus.xyz CNAME .
 *.px.jarnus.xyz CNAME .
-jessehome.xyz CNAME .
-*.jessehome.xyz CNAME .
 jialeconvertv.xyz CNAME .
 *.jialeconvertv.xyz CNAME .
 jitudh.xyz CNAME .
