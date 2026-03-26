@@ -251,6 +251,7 @@ https://raw.githubusercontent.com/stamparm/maltrail/refs/heads/master/trails/sta
 https://raw.githubusercontent.com/stamparm/maltrail/refs/heads/master/trails/static/malware/apt_unc6691.txt
 https://raw.githubusercontent.com/stamparm/maltrail/refs/heads/master/trails/static/malware/fakeapp.txt
 https://raw.githubusercontent.com/stamparm/maltrail/refs/heads/master/trails/static/malware/santa.txt
+https://raw.githubusercontent.com/stamparm/maltrail/refs/heads/master/trails/static/malware/silverfox.txt
 https://raw.githubusercontent.com/stamparm/maltrail/refs/heads/master/trails/static/suspicious/android_pua.txt
 https://raw.githubusercontent.com/stamparm/maltrail/refs/heads/master/trails/static/suspicious/pua.txt
 https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts

@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1774263600 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1774561560 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's DynDNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 23 Mar 2026 11:00 UTC
-; Version: 2026.0323.1100.29
+; Last modified: 26 Mar 2026 21:46 UTC
+; Version: 2026.0326.2146.29
 ; Syntax: RPZ
-; Number of entries: 2956
+; Number of entries: 2960
 ;
 120v.ac CNAME .
 *.120v.ac CNAME .
@@ -1798,6 +1798,8 @@ soon.it CNAME .
 *.soon.it CNAME .
 undo.it CNAME .
 *.undo.it CNAME .
+ad.jp CNAME .
+*.ad.jp CNAME .
 dob.jp CNAME .
 *.dob.jp CNAME .
 gally.jp CNAME .
@@ -2306,6 +2308,8 @@ remotecam.nu CNAME .
 *.remotecam.nu CNAME .
 cloudns.nz CNAME .
 *.cloudns.nz CNAME .
+3322.org CNAME .
+*.3322.org CNAME .
 688.org CNAME .
 *.688.org CNAME .
 accesscam.org CNAME .

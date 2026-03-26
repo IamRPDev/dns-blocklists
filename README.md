@@ -312,7 +312,7 @@ A blocklist for blocking Malware, Cryptojacking, Scam, Spam and Phishing. Blocks
 > This blocklist is very large and may cause high memory usage depending on your ad blocker.          
 > For a more resource-friendly option, consider using the medium or mini versions.
                
-**Entries:** 832057 domains/hosts - 92451 compressed hosts - 748711 compressed domains
+**Entries:** 831757 domains/hosts - 92418 compressed hosts - 731805 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -516,7 +516,7 @@ A blocklist for blocking dynamic DNS services to protect against malicious use i
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 1478 compressed domains
+**Entries:** 1480 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|

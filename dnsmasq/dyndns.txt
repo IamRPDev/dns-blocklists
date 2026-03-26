@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 23 Mar 2026 11:00 UTC
-# Version: 2026.0323.1100.29
+# Last modified: 26 Mar 2026 21:46 UTC
+# Version: 2026.0326.2146.29
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1478
+# Number of entries: 1480
 #
 local=/0000000000000000000000.com/
 local=/0x.no/
@@ -29,6 +29,7 @@ local=/2waky.com/
 local=/3-a.net/
 local=/32-b.it/
 local=/3322.net/
+local=/3322.org/
 local=/360digit.com/
 local=/3dxtras.com/
 local=/3n.cc/
@@ -55,6 +56,7 @@ local=/abmetalmecanica.com/
 local=/access.ly/
 local=/accesscam.org/
 local=/acmetoy.com/
+local=/ad.jp/
 local=/adagio.tw/
 local=/dyn.addr.tools/
 local=/afraid.org/
