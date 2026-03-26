@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Mar 2026 09:34 UTC
-# Version: 2026.0326.0934.37
+# Last modified: 26 Mar 2026 15:33 UTC
+# Version: 2026.0326.1533.59
 # Syntax: Domains (without subdomains)
-# Number of entries: 54150
+# Number of entries: 54151
 #
 0.beer
 0.club
@@ -42497,6 +42497,7 @@ rusnews.biz
 russianfreedom.com
 rustdesk.io
 rustdesk.pl
+plus.rustfacepunch.com
 rustlenear.com
 rusty-platform.com
 rustyact.pro

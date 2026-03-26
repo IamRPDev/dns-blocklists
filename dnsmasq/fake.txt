@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Mar 2026 09:37 UTC
-# Version: 2026.0326.0937.03
+# Last modified: 26 Mar 2026 15:36 UTC
+# Version: 2026.0326.1536.29
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14227
+# Number of entries: 14228
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -9826,6 +9826,7 @@ local=/panamajackdeutschland.de/
 local=/panamajackonline.sk/
 local=/panamajackwien.at/
 local=/panbrennholz.de/
+local=/panda-financial.com/
 local=/pandabrokersvip.com/
 local=/pandaliebedeeu.shop/
 local=/pandora-at.at/
