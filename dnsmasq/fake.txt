@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Mar 2026 15:36 UTC
-# Version: 2026.0326.1536.29
+# Last modified: 27 Mar 2026 09:39 UTC
+# Version: 2026.0327.0939.43
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14228
+# Number of entries: 14238
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -318,6 +318,7 @@ local=/alfa-aesar.fr/
 local=/alfakherstore.de/
 local=/alfcasino1.com/
 local=/alfdever.com/
+local=/alfiag.cfd/
 local=/alfinanz.ch/
 local=/alfonline.de/
 local=/alfonsa.de/
@@ -2230,7 +2231,6 @@ local=/chicwells.de/
 local=/childsafetyseat-shop.com/
 local=/chillgod.com/
 local=/chilllady.com/
-local=/china-hifi-audio.com/
 local=/chinesecanadianvoice.ca/
 local=/chooseridge.com/
 local=/chordiom.com/
@@ -4233,6 +4233,7 @@ local=/de.fashvia.shop/
 local=/fasonberlin.de/
 local=/fast-fatbike.com/
 local=/fasteastbv.com/
+local=/fastenergy24.com/
 local=/fastenerk.com/
 local=/fasteupills.shop/
 local=/fastforextradelab.com/
@@ -4739,6 +4740,7 @@ local=/futuregolds.com/
 local=/futurmarket.com/
 local=/fuwamof.shop/
 local=/fvkiwanis.org/
+local=/fwertty.shop/
 local=/fx-vantage.com/
 local=/fxandco.com/
 local=/fxcapitalbank.com/
@@ -6310,6 +6312,7 @@ local=/ignitionmodelcars.com/
 local=/igona.de/
 local=/igotit.top/
 local=/ihforex.com/
+local=/ihljpbdo.shop/
 local=/ihrbedarf.com/
 local=/ihremed.de/
 local=/ihrepotenzmittel.de/
@@ -8312,6 +8315,7 @@ local=/mercator.direct/
 local=/mercedes-parts-and-more.de/
 local=/mercimunich.de/
 local=/mergpath.com/
+local=/meridianunitedholdingsnet.digital/
 local=/meritdeteno.com/
 local=/merlin-apotheke.com/
 local=/merlin-kinderladen.com/
@@ -8411,6 +8415,7 @@ local=/mineralsglobal.com/
 local=/mineralsolutions.de/
 local=/miniflix.de/
 local=/minimalsurvival.com/
+local=/miningrid.com/
 local=/mininomade.de/
 local=/miniwelpenparadies.com/
 local=/minosec.com/
@@ -9111,6 +9116,7 @@ local=/next-bricks.com/
 local=/next-neu.de/
 local=/nextbinary.com/
 local=/nextcareerflow.online/
+local=/nextchain.at/
 local=/nextgenglobalenterprise45.cc/
 local=/nextproconnect.online/
 local=/nexus-reputation.com/
@@ -10092,6 +10098,7 @@ local=/pitvipersunglassesnz.com/
 local=/pixelkatze.de/
 local=/pixulovesk.click/
 local=/pk.toys/
+local=/placidco.com/
 local=/planeoboden.com/
 local=/planetebike24.de/
 local=/planetoption.net/
@@ -11111,6 +11118,7 @@ local=/sarahravengb.com/
 local=/saramaud.com/
 local=/sarasarade.shop/
 local=/sardinenbarberlinava.shop/
+local=/sarlcresmar.com/
 local=/sarvamits.com/
 local=/saskiabader.de/
 local=/satisfiedfurniture.com/
@@ -14186,6 +14194,7 @@ local=/zieglerzurich.ch/
 local=/zigaretten-bestellen.net/
 local=/zigaretten-steuerfrei-bestellen.com/
 local=/zigber.com/
+local=/zignalor.at/
 local=/zigoff.de/
 local=/zilool.com/
 local=/zimmerpflanzens.com/
@@ -14237,4 +14246,5 @@ local=/zweirad-dach.de/
 local=/zwergspitzpomeranian.com/
 local=/zybux.shop/
 local=/zynexorai.at/
+local=/zyphorbit.at/
 local=/zyphorbit-at.com/

@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1774522560 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1774610220 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 26 Mar 2026 10:56 UTC
-; Version: 2026.0326.1056.37
+; Last modified: 27 Mar 2026 11:17 UTC
+; Version: 2026.0327.1117.46
 ; Syntax: RPZ
-; Number of entries: 24386
+; Number of entries: 24398
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -950,6 +950,8 @@ ebookee.biz CNAME .
 *.ebookee.biz CNAME .
 emiz.biz CNAME .
 *.emiz.biz CNAME .
+eonmovies.biz CNAME .
+*.eonmovies.biz CNAME .
 eurostreaming.biz CNAME .
 *.eurostreaming.biz CNAME .
 filmesviatorrents.biz CNAME .
@@ -5648,6 +5650,8 @@ komikcast03.com CNAME .
 *.komikcast03.com CNAME .
 kooralivs.com CNAME .
 *.kooralivs.com CNAME .
+koraonline-yallashoot.com CNAME .
+*.koraonline-yallashoot.com CNAME .
 kraytracker.com CNAME .
 *.kraytracker.com CNAME .
 ktorrents.com CNAME .
@@ -9636,6 +9640,8 @@ streamingcommunity.family CNAME .
 *.streamingcommunity.family CNAME .
 vegamovies.family CNAME .
 *.vegamovies.family CNAME .
+animesama.fan CNAME .
+*.animesama.fan CNAME .
 cny.fan CNAME .
 *.cny.fan CNAME .
 dood.fan CNAME .
@@ -12946,6 +12952,8 @@ movies123-online.me CNAME .
 *.movies123-online.me CNAME .
 moviesnipipay.me CNAME .
 *.moviesnipipay.me CNAME .
+moviesque.me CNAME .
+*.moviesque.me CNAME .
 mp3skull.me CNAME .
 *.mp3skull.me CNAME .
 nelion.me CNAME .
@@ -18076,6 +18084,8 @@ btsow.pics CNAME .
 *.btsow.pics CNAME .
 casacinema.pics CNAME .
 *.casacinema.pics CNAME .
+cb0101.pics CNAME .
+*.cb0101.pics CNAME .
 cineblog001.pics CNAME .
 *.cineblog001.pics CNAME .
 eurostreamings.pics CNAME .
@@ -18112,6 +18122,8 @@ hdhub4u.pictures CNAME .
 *.hdhub4u.pictures CNAME .
 altadefinizione.pink CNAME .
 *.altadefinizione.pink CNAME .
+dontorrent.pink CNAME .
+*.dontorrent.pink CNAME .
 eurostreaming.pink CNAME .
 *.eurostreaming.pink CNAME .
 guardaserie.pink CNAME .

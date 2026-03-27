@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 27 Mar 2026 03:36 UTC
-! Version: 2026.0327.0336.45
+! Last modified: 27 Mar 2026 09:37 UTC
+! Version: 2026.0327.0937.03
 ! Syntax: AdBlock
-! Number of entries: 53284
+! Number of entries: 53290
 !
 ||0.beer^
 ||0.club^
@@ -16290,7 +16290,6 @@
 ||dao-ascu.top^
 ||dao-asdk.cc^
 ||dao-asdk.vip^
-||dao-ase.cc^
 ||dao-ase.vip^
 ||dao-asen.bond^
 ||dao-asi.cc^
@@ -16308,7 +16307,6 @@
 ||dao-assion.icu^
 ||dao-asuui.icu^
 ||dao-asvisu.icu^
-||dao-post.icu^
 ||daoao.icu^
 ||daoas-en.bond^
 ||daoasa.cyou^
@@ -31559,6 +31557,7 @@
 ||maddencleaverimplore.com^
 ||maddencrumble.com^
 ||maddeningpowder.com^
+||maddenwiped.com^
 ||maddiecrush.com^
 ||maddxybuztane.space^
 ||madebabysittingimperturbable.com^
@@ -46749,14 +46748,20 @@
 ||ads.tmdlead.com^
 ||tmdqlk.top^
 ||aomenxinpujing.baijiale.tmdss.com^
-||bocaiwang.tmdss.com^
+||aomenwangshangduchangwangzhi.bocaiwang.tmdss.com^
+||hongzuyishi.bocaiwang.tmdss.com^
+||huangmazhiboba.bocaiwang.tmdss.com^
+||mengtekaluoyulewang.bocaiwang.tmdss.com^
+||tianduguojiyulehuisuo.bocaiwang.tmdss.com^
 ||dubowangyeyouxi.tmdss.com^
 ||duboyouxijipojiefangfa.tmdss.com^
 ||feilvbintaiyangcheng77suncjty.tmdss.com^
 ||jishibifenwang.tmdss.com^
 ||liboguojiyule.tmdss.com^
 ||ligaoyulecheng.tmdss.com^
-||yulecheng.tmdss.com^
+||boebaiyulecheng.yulecheng.tmdss.com^
+||huangguanzhengwangyounajige.yulecheng.tmdss.com^
+||huanqiuyulecheng.yulecheng.tmdss.com^
 ||tmfjas.com^
 ||tmfngnuqxzpux.online^
 ||tmll1.com^
@@ -51143,6 +51148,7 @@
 ||woncherish.com^
 ||wondefulapplend.com^
 ||wondenthaitings.org^
+||wonderadblock.com^
 ||wonderful-day.club^
 ||wonderful-sector.pro^
 ||wonderfulborder.com^

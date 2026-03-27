@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1774539360 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1774604340 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 26 Mar 2026 15:36 UTC
-; Version: 2026.0326.1536.29
+; Last modified: 27 Mar 2026 09:39 UTC
+; Version: 2026.0327.0939.43
 ; Syntax: RPZ
-; Number of entries: 28456
+; Number of entries: 28476
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -674,6 +674,8 @@ nemanex.at CNAME .
 *.nemanex.at CNAME .
 neu-akku.at CNAME .
 *.neu-akku.at CNAME .
+nextchain.at CNAME .
+*.nextchain.at CNAME .
 ninelife.at CNAME .
 *.ninelife.at CNAME .
 nms-stmichael.at CNAME .
@@ -1048,12 +1050,16 @@ ysolara.at CNAME .
 *.ysolara.at CNAME .
 z-designz.at CNAME .
 *.z-designz.at CNAME .
+zignalor.at CNAME .
+*.zignalor.at CNAME .
 zinzendorf-mode.at CNAME .
 *.zinzendorf-mode.at CNAME .
 zova.at CNAME .
 *.zova.at CNAME .
 zynexorai.at CNAME .
 *.zynexorai.at CNAME .
+zyphorbit.at CNAME .
+*.zyphorbit.at CNAME .
 ozkart.com.au CNAME .
 *.ozkart.com.au CNAME .
 xqnail.com.au CNAME .
@@ -1288,6 +1294,8 @@ xmb.cc CNAME .
 *.xmb.cc CNAME .
 ilumina.center CNAME .
 *.ilumina.center CNAME .
+alfiag.cfd CNAME .
+*.alfiag.cfd CNAME .
 urbanstepzone.cfd CNAME .
 *.urbanstepzone.cfd CNAME .
 adafashion.ch CNAME .
@@ -4362,8 +4370,6 @@ chillgod.com CNAME .
 *.chillgod.com CNAME .
 chilllady.com CNAME .
 *.chilllady.com CNAME .
-china-hifi-audio.com CNAME .
-*.china-hifi-audio.com CNAME .
 chooseridge.com CNAME .
 *.chooseridge.com CNAME .
 chordiom.com CNAME .
@@ -6564,6 +6570,8 @@ fast-fatbike.com CNAME .
 *.fast-fatbike.com CNAME .
 fasteastbv.com CNAME .
 *.fasteastbv.com CNAME .
+fastenergy24.com CNAME .
+*.fastenergy24.com CNAME .
 fastenerk.com CNAME .
 *.fastenerk.com CNAME .
 fastforextradelab.com CNAME .
@@ -11012,6 +11020,8 @@ mineralsglobal.com CNAME .
 *.mineralsglobal.com CNAME .
 minimalsurvival.com CNAME .
 *.minimalsurvival.com CNAME .
+miningrid.com CNAME .
+*.miningrid.com CNAME .
 miniwelpenparadies.com CNAME .
 *.miniwelpenparadies.com CNAME .
 minosec.com CNAME .
@@ -13054,6 +13064,8 @@ pitviperosterreich.com CNAME .
 *.pitviperosterreich.com CNAME .
 pitvipersunglassesnz.com CNAME .
 *.pitvipersunglassesnz.com CNAME .
+placidco.com CNAME .
+*.placidco.com CNAME .
 planeoboden.com CNAME .
 *.planeoboden.com CNAME .
 plants-stores.com CNAME .
@@ -14222,6 +14234,8 @@ sarahravengb.com CNAME .
 *.sarahravengb.com CNAME .
 saramaud.com CNAME .
 *.saramaud.com CNAME .
+sarlcresmar.com CNAME .
+*.sarlcresmar.com CNAME .
 sarvamits.com CNAME .
 *.sarvamits.com CNAME .
 satisfiedfurniture.com CNAME .
@@ -24488,6 +24502,8 @@ groupenterprisevision.digital CNAME .
 *.groupenterprisevision.digital CNAME .
 macro1wo-rks.digital CNAME .
 *.macro1wo-rks.digital CNAME .
+meridianunitedholdingsnet.digital CNAME .
+*.meridianunitedholdingsnet.digital CNAME .
 produtosachados.digital CNAME .
 *.produtosachados.digital CNAME .
 prozesswerk.digital CNAME .
@@ -26752,6 +26768,8 @@ fritzboxtech.shop CNAME .
 *.fritzboxtech.shop CNAME .
 fuwamof.shop CNAME .
 *.fuwamof.shop CNAME .
+fwertty.shop CNAME .
+*.fwertty.shop CNAME .
 fxrikg.shop CNAME .
 *.fxrikg.shop CNAME .
 gaborshoesoutlet.shop CNAME .
@@ -26892,6 +26910,8 @@ hundvonedenstoreava.shop CNAME .
 *.hundvonedenstoreava.shop CNAME .
 icelandichorse.shop CNAME .
 *.icelandichorse.shop CNAME .
+ihljpbdo.shop CNAME .
+*.ihljpbdo.shop CNAME .
 incude.shop CNAME .
 *.incude.shop CNAME .
 ingridemil.shop CNAME .

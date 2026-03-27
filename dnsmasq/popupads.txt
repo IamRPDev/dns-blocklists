@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 27 Mar 2026 03:36 UTC
-# Version: 2026.0327.0336.45
+# Last modified: 27 Mar 2026 09:37 UTC
+# Version: 2026.0327.0937.03
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 53284
+# Number of entries: 53290
 #
 local=/0.beer/
 local=/0.club/
@@ -16289,7 +16289,6 @@ local=/dao-as.xyz/
 local=/dao-ascu.top/
 local=/dao-asdk.cc/
 local=/dao-asdk.vip/
-local=/dao-ase.cc/
 local=/dao-ase.vip/
 local=/dao-asen.bond/
 local=/dao-asi.cc/
@@ -16307,7 +16306,6 @@ local=/dao-ass.vip/
 local=/dao-assion.icu/
 local=/dao-asuui.icu/
 local=/dao-asvisu.icu/
-local=/dao-post.icu/
 local=/daoao.icu/
 local=/daoas-en.bond/
 local=/daoasa.cyou/
@@ -31558,6 +31556,7 @@ local=/maddenbride.com/
 local=/maddencleaverimplore.com/
 local=/maddencrumble.com/
 local=/maddeningpowder.com/
+local=/maddenwiped.com/
 local=/maddiecrush.com/
 local=/maddxybuztane.space/
 local=/madebabysittingimperturbable.com/
@@ -46748,14 +46747,20 @@ local=/tmbzzscswoyir.space/
 local=/ads.tmdlead.com/
 local=/tmdqlk.top/
 local=/aomenxinpujing.baijiale.tmdss.com/
-local=/bocaiwang.tmdss.com/
+local=/aomenwangshangduchangwangzhi.bocaiwang.tmdss.com/
+local=/hongzuyishi.bocaiwang.tmdss.com/
+local=/huangmazhiboba.bocaiwang.tmdss.com/
+local=/mengtekaluoyulewang.bocaiwang.tmdss.com/
+local=/tianduguojiyulehuisuo.bocaiwang.tmdss.com/
 local=/dubowangyeyouxi.tmdss.com/
 local=/duboyouxijipojiefangfa.tmdss.com/
 local=/feilvbintaiyangcheng77suncjty.tmdss.com/
 local=/jishibifenwang.tmdss.com/
 local=/liboguojiyule.tmdss.com/
 local=/ligaoyulecheng.tmdss.com/
-local=/yulecheng.tmdss.com/
+local=/boebaiyulecheng.yulecheng.tmdss.com/
+local=/huangguanzhengwangyounajige.yulecheng.tmdss.com/
+local=/huanqiuyulecheng.yulecheng.tmdss.com/
 local=/tmfjas.com/
 local=/tmfngnuqxzpux.online/
 local=/tmll1.com/
@@ -51142,6 +51147,7 @@ local=/wonbiotik.com/
 local=/woncherish.com/
 local=/wondefulapplend.com/
 local=/wondenthaitings.org/
+local=/wonderadblock.com/
 local=/wonderful-day.club/
 local=/wonderful-sector.pro/
 local=/wonderfulborder.com/

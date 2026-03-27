@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Mar 2026 10:56 UTC
-# Version: 2026.0326.1056.37
+# Last modified: 27 Mar 2026 11:17 UTC
+# Version: 2026.0327.1117.46
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 12193
+# Number of entries: 12199
 #
 local=/003396815.xyz/
 local=/004430.xyz/
@@ -886,6 +886,7 @@ local=/animerush.tv/
 local=/animes.so/
 local=/torrents.animes-bg.com/
 local=/animesalt.ac/
+local=/animesama.fan/
 local=/animeshow.tv/
 local=/animesim.com/
 local=/animesimple.com/
@@ -1877,6 +1878,7 @@ local=/cb01.world/
 local=/cb01.ws/
 local=/cb01.xyz/
 local=/cb01.yachts/
+local=/cb0101.pics/
 local=/cb01new.center/
 local=/cb01new.help/
 local=/cb01official.community/
@@ -2899,6 +2901,7 @@ local=/dontorrent.info/
 local=/dontorrent.org/
 local=/dontorrent.phd/
 local=/dontorrent.photos/
+local=/dontorrent.pink/
 local=/dontorrent.promo/
 local=/dontorrents.com/
 local=/dontorrents.org/
@@ -3303,6 +3306,7 @@ local=/enstream.co/
 local=/enxf.net/
 local=/eogli.org/
 local=/eolbd.com/
+local=/eonmovies.biz/
 local=/eonmovies.fit/
 local=/eonmovies.fun/
 local=/eonmovies.live/
@@ -5957,6 +5961,7 @@ local=/koora365.io/
 local=/kooralivs.com/
 local=/kopedafotor75.shop/
 local=/kora4live.net/
+local=/koraonline-yallashoot.com/
 local=/home.kray.pw/
 local=/kraytracker.com/
 local=/ktorrents.com/
@@ -6898,6 +6903,7 @@ local=/moviesmod.town/
 local=/moviesnation.courses/
 local=/moviesnipipay.me/
 local=/moviespur.info/
+local=/moviesque.me/
 local=/moviestape.net/
 local=/moviestars.to/
 local=/moviestowatch.cc/
