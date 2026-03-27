@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 20 Mar 2026 16:13 UTC
-# Version: 2026.0320.1613.10
+# Last modified: 27 Mar 2026 16:15 UTC
+# Version: 2026.0327.1615.15
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 240
+# Number of entries: 241
 #
 local=/vhs.wwstat.com.eo.unicomcdn.com.cn/
 local=/adxlog-adnet.vivo.com.cn/
@@ -57,6 +57,7 @@ local=/asia-vcode-od.vivoglobal.com/
 local=/asia-vcode-or.vivoglobal.com/
 local=/asia-vpushonrt-stsdk.vivoglobal.com/
 local=/asia-vpushort-stsdk.vivoglobal.com/
+local=/au-vcode-od.vivoglobal.com/
 local=/br-p.vivoglobal.com/
 local=/cl-vcode-od.vivoglobal.com/
 local=/cname-ali-asia-stsdk.vivoglobal.com/

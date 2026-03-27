@@ -2017,13 +2017,6 @@
       }
     },
     {
-      "PK": "gdtot.dad",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
       "PK": "geekchic.shop",
       "action": {
         "do": 1,
@@ -5315,6 +5308,13 @@
     },
     {
       "PK": "swing.vision",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "swipein.restaurant",
       "action": {
         "do": 1,
         "status": 1

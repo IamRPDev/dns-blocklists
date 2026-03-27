@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 27 Mar 2026 09:37 UTC
-# Version: 2026.0327.0937.03
+# Last modified: 27 Mar 2026 15:55 UTC
+# Version: 2026.0327.1555.44
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 53290
+# Number of entries: 53285
 #
 local=/0.beer/
 local=/0.club/
@@ -46747,20 +46747,14 @@ local=/tmbzzscswoyir.space/
 local=/ads.tmdlead.com/
 local=/tmdqlk.top/
 local=/aomenxinpujing.baijiale.tmdss.com/
-local=/aomenwangshangduchangwangzhi.bocaiwang.tmdss.com/
-local=/hongzuyishi.bocaiwang.tmdss.com/
-local=/huangmazhiboba.bocaiwang.tmdss.com/
-local=/mengtekaluoyulewang.bocaiwang.tmdss.com/
-local=/tianduguojiyulehuisuo.bocaiwang.tmdss.com/
+local=/bocaiwang.tmdss.com/
 local=/dubowangyeyouxi.tmdss.com/
 local=/duboyouxijipojiefangfa.tmdss.com/
 local=/feilvbintaiyangcheng77suncjty.tmdss.com/
 local=/jishibifenwang.tmdss.com/
 local=/liboguojiyule.tmdss.com/
 local=/ligaoyulecheng.tmdss.com/
-local=/boebaiyulecheng.yulecheng.tmdss.com/
-local=/huangguanzhengwangyounajige.yulecheng.tmdss.com/
-local=/huanqiuyulecheng.yulecheng.tmdss.com/
+local=/yulecheng.tmdss.com/
 local=/tmfjas.com/
 local=/tmfngnuqxzpux.online/
 local=/tmll1.com/
@@ -51245,6 +51239,7 @@ local=/worse-mine.com/
 local=/qb.worsencabaan.com/
 local=/worshippers.store/
 local=/worst-message.pro/
+local=/worst-parent.pro/
 local=/worst-recognition.pro/
 local=/worstbreath.pro/
 local=/worstvoice.com/

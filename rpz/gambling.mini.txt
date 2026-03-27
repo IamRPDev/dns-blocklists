@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1774610160 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1774627620 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 27 Mar 2026 11:16 UTC
-; Version: 2026.0327.1116.58
+; Last modified: 27 Mar 2026 16:07 UTC
+; Version: 2026.0327.1607.28
 ; Syntax: RPZ
-; Number of entries: 106950
+; Number of entries: 106956
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -21404,6 +21404,8 @@ b9casino8.com CNAME .
 *.b9casino8.com CNAME .
 b9casinomalaysia.com CNAME .
 *.b9casinomalaysia.com CNAME .
+b9m9v6.com CNAME .
+*.b9m9v6.com CNAME .
 baabet.com CNAME .
 *.baabet.com CNAME .
 baanphanan.com CNAME .
@@ -46462,6 +46464,8 @@ motorcasino215.com CNAME .
 *.motorcasino215.com CNAME .
 motorcasino291.com CNAME .
 *.motorcasino291.com CNAME .
+motorcasino537.com CNAME .
+*.motorcasino537.com CNAME .
 motorcasino564.com CNAME .
 *.motorcasino564.com CNAME .
 motorcasino640.com CNAME .
@@ -48304,6 +48308,8 @@ ok88casinobet.com CNAME .
 *.ok88casinobet.com CNAME .
 ok8w.com CNAME .
 *.ok8w.com CNAME .
+ok9a9.com CNAME .
+*.ok9a9.com CNAME .
 ok9aa.com CNAME .
 *.ok9aa.com CNAME .
 ok9casino.com CNAME .
@@ -60366,6 +60372,8 @@ untung4db.com CNAME .
 *.untung4db.com CNAME .
 untung4dx.com CNAME .
 *.untung4dx.com CNAME .
+unvg4.com CNAME .
+*.unvg4.com CNAME .
 uoo77.com CNAME .
 *.uoo77.com CNAME .
 uoq7pokerdom.com CNAME .
@@ -68216,8 +68224,6 @@ trino-casino.fr CNAME .
 *.trino-casino.fr CNAME .
 trinocasino-fr.fr CNAME .
 *.trinocasino-fr.fr CNAME .
-tron-casino.fr CNAME .
-*.tron-casino.fr CNAME .
 true-luckcasino.fr CNAME .
 *.true-luckcasino.fr CNAME .
 unibet.fr CNAME .
@@ -68550,6 +68556,8 @@ vivarocasino.ga CNAME .
 *.077.game CNAME .
 27.game CNAME .
 *.27.game CNAME .
+55vip.game CNAME .
+*.55vip.game CNAME .
 85f.game CNAME .
 *.85f.game CNAME .
 88s.game CNAME .
@@ -76658,8 +76666,6 @@ casinoswithoutkycpro.gb.net CNAME .
 *.casinoswithoutkycpro.gb.net CNAME .
 casinoswithoutselfexclusion.gb.net CNAME .
 *.casinoswithoutselfexclusion.gb.net CNAME .
-cazeuscasino.gb.net CNAME .
-*.cazeuscasino.gb.net CNAME .
 independentcasinos.gb.net CNAME .
 *.independentcasinos.gb.net CNAME .
 mcwcasino.gb.net CNAME .

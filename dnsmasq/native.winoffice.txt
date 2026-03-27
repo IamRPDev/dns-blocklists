@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 20 Mar 2026 16:08 UTC
-# Version: 2026.0320.1608.41
+# Last modified: 27 Mar 2026 16:10 UTC
+# Version: 2026.0327.1610.37
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 385
+# Number of entries: 384
 #
 local=/c-bingapis-com.dual-a-0034.a-msedge.net/
 local=/measure.office.com.akamaized.net/
@@ -30,7 +30,6 @@ local=/live.applicationinsights.azure.cn/
 local=/inference-app-gateway.eastus2.cloudapp.azure.com/
 local=/inference-app-gateway.koreacentral.cloudapp.azure.com/
 local=/inference-app-gateway.northeurope.cloudapp.azure.com/
-local=/azsc-edge-bingads-westeurope.westeurope.cloudapp.azure.com/
 local=/collector.azure.cn/
 local=/js.monitor.azure.com/
 local=/adsdkpreprod.azureedge.net/

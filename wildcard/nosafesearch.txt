@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 20 Mar 2026 15:58 UTC
-# Version: 2026.0320.1558.19
+# Last modified: 27 Mar 2026 16:00 UTC
+# Version: 2026.0327.1600.09
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 212
+# Number of entries: 211
 #
 *.search.0xcb.dev
 *.search.0xgingi.com
@@ -48,7 +48,6 @@
 *.websearch.excite.co.jp
 *.searx.com.au
 *.search.cronobox.one
-*.searx.cthd.icu
 *.searxng.cups.moe
 *.searx.daetalytica.io
 *.search.darkness.services

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 27 Mar 2026 11:15 UTC
-# Version: 2026.0327.1115.20
+# Last modified: 27 Mar 2026 16:06 UTC
+# Version: 2026.0327.1606.17
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 101639
+# Number of entries: 101645
 #
 local=/0-bdmbet.com/
 local=/0-casino.com/
@@ -6318,6 +6318,7 @@ local=/55qq2.com/
 local=/55rioslots.com/
 local=/55slots.online/
 local=/55spinmama86.com/
+local=/55vip.game/
 local=/55vip777.com/
 local=/55vv10.com/
 local=/55ww4444.com/
@@ -9545,6 +9546,7 @@ local=/8live.mobi/
 local=/8live.run/
 local=/8llbets.org/
 local=/8lotsbets.com/
+local=/8lqnux.com/
 local=/8mbets.biz/
 local=/8mbets.top/
 local=/8mbets-games.com/
@@ -13997,6 +13999,7 @@ local=/b9casino1.org/
 local=/b9casino7.com/
 local=/b9casino8.com/
 local=/b9casinomalaysia.com/
+local=/b9m9v6.com/
 local=/ba0.casino/
 local=/ba7r.biz/
 local=/baabet.com/
@@ -14586,6 +14589,7 @@ local=/bapak-hoki.site/
 local=/bape168.com/
 local=/bapetogel.buzz/
 local=/baq.casino/
+local=/bar777.bet/
 local=/barabet78.site/
 local=/barakhoki.org/
 local=/barasuara-id.site/
@@ -47789,7 +47793,6 @@ local=/casinosnotongamban.gb.net/
 local=/casinosohneoasissperre.gb.net/
 local=/casinoswithoutkycpro.gb.net/
 local=/casinoswithoutselfexclusion.gb.net/
-local=/cazeuscasino.gb.net/
 local=/independentcasinos.gb.net/
 local=/jackpotjillcasino.gb.net/
 local=/mcwcasino.gb.net/
@@ -66675,6 +66678,7 @@ local=/motorcasino208.com/
 local=/motorcasino215.com/
 local=/motorcasino291.com/
 local=/motorcasino5000.com/
+local=/motorcasino537.com/
 local=/motorcasino564.com/
 local=/motorcasino640.com/
 local=/motorcasino658.com/
@@ -70139,6 +70143,7 @@ local=/ok9-casino.online/
 local=/ok917.vip/
 local=/ok988.vip/
 local=/ok999.me/
+local=/ok9a9.com/
 local=/ok9aa.com/
 local=/ok9bets.org/
 local=/ok9casino.com/
@@ -92850,7 +92855,6 @@ local=/trixs-casino.ru/
 local=/trixx-casino.ru/
 local=/trl.casino/
 local=/trochoivuaclub.online/
-local=/tron-casino.fr/
 local=/troncasino.ca/
 local=/troncasino.org/
 local=/troncasino-uk.com/
@@ -94244,6 +94248,7 @@ local=/untar4d.info/
 local=/untung4d88.com/
 local=/untung4db.com/
 local=/untung4dx.com/
+local=/unvg4.com/
 local=/uoo77.com/
 local=/uoobets.vip/
 local=/uoocasino.vip/
@@ -97383,6 +97388,7 @@ local=/vponlinecasino.com/
 local=/vprognoze.ru/
 local=/vpslots.org/
 local=/vpslots.us/
+local=/vq150gc.com/
 local=/vq5.casino/
 local=/vqc.casino/
 local=/vqqmt.com/

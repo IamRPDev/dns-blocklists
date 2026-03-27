@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 27 Mar 2026 11:16 UTC
-# Version: 2026.0327.1116.58
+# Last modified: 27 Mar 2026 16:07 UTC
+# Version: 2026.0327.1607.28
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 53475
+# Number of entries: 53478
 #
 local=/0-bdmbet.com/
 local=/00.game/
@@ -3484,6 +3484,7 @@ local=/55qq1.com/
 local=/55qq2.com/
 local=/55slots.online/
 local=/55spinmama86.com/
+local=/55vip.game/
 local=/55vip777.com/
 local=/55vv10.com/
 local=/55ww97.com/
@@ -7585,6 +7586,7 @@ local=/b984499.com/
 local=/b9casino7.com/
 local=/b9casino8.com/
 local=/b9casinomalaysia.com/
+local=/b9m9v6.com/
 local=/baabet.com/
 local=/baanphanan.com/
 local=/baazigar.world/
@@ -25612,7 +25614,6 @@ local=/casinosnotongamban.gb.net/
 local=/casinosohneoasissperre.gb.net/
 local=/casinoswithoutkycpro.gb.net/
 local=/casinoswithoutselfexclusion.gb.net/
-local=/cazeuscasino.gb.net/
 local=/independentcasinos.gb.net/
 local=/mcwcasino.gb.net/
 local=/nejlepsionlinecasino.gb.net/
@@ -35309,6 +35310,7 @@ local=/motor657.casino/
 local=/motor701.casino/
 local=/motorcasino215.com/
 local=/motorcasino291.com/
+local=/motorcasino537.com/
 local=/motorcasino564.com/
 local=/motorcasino640.com/
 local=/motorcasino983.com/
@@ -37211,6 +37213,7 @@ local=/ok8w.com/
 local=/ok917.vip/
 local=/ok988.vip/
 local=/ok999.me/
+local=/ok9a9.com/
 local=/ok9aa.com/
 local=/ok9casino.com/
 local=/ok9casinobet.com/
@@ -48846,7 +48849,6 @@ local=/trivelabet.com/
 local=/trivelabetcasino.dk/
 local=/trivelabetcasino-dk.dk/
 local=/trochoivuaclub.online/
-local=/tron-casino.fr/
 local=/troncasino-uk.com/
 local=/troopbets.com/
 local=/tropez-casino.net/
@@ -49622,6 +49624,7 @@ local=/unslotspace.digital/
 local=/untar4d.info/
 local=/untung4db.com/
 local=/untung4dx.com/
+local=/unvg4.com/
 local=/uoo77.com/
 local=/uoobets.vip/
 local=/uoocasino.vip/

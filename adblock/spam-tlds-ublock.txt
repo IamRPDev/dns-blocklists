@@ -11,8 +11,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 24 Mar 2026 17:17 UTC
-! Version: 2026.0324.1717.37
+! Last modified: 27 Mar 2026 16:13 UTC
+! Version: 2026.0327.1613.53
 ! Syntax: uBlock
 ! Number of latin TLDs: 286 - punycode TLDs: 151
 !
@@ -75,7 +75,7 @@
 ||courses^$doc
 ||credit^$doc
 ||cyou^$doc,domain=~hammertime.cyou|~prometko.cyou
-||dad^$doc,domain=~daily.dad|~dear.dad|~gdflix.dad|~gdtot.dad|~rad.dad
+||dad^$doc,domain=~daily.dad|~dear.dad|~gdflix.dad|~rad.dad
 ||dance^$doc
 ||date^$doc,domain=~endoflife.date
 ||dating^$doc,domain=~boo.dating|~breeze.dating|~gaudi.dating
@@ -228,7 +228,7 @@
 ||rent^$doc,domain=~srv.rent
 ||repair^$doc
 ||rest^$doc,domain=~insomnia.rest|~nect.rest
-||restaurant^$doc,domain=~moyos.restaurant|~vecchioamore.restaurant
+||restaurant^$doc,domain=~moyos.restaurant|~swipein.restaurant|~vecchioamore.restaurant
 ||review^$doc
 ||reviews^$doc
 ||rich^$doc

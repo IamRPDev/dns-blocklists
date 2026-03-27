@@ -1135,6 +1135,13 @@
       }
     },
     {
+      "PK": "log32-normal-useastred.tiktokv.eu",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "log32-normal-zr.tiktokv.com",
       "action": {
         "do": 0,
@@ -2592,6 +2599,27 @@
     },
     {
       "PK": "p16-ad.byteoversea.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "p16-tiktok-ads-sg.tiktokcdn.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "p16-tiktok-ads-sg.tiktokcdn.com.bytegeo.akadns.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "p16-tiktok-ads-sg.tiktokcdn.com.edgesuite.net",
       "action": {
         "do": 0,
         "status": 1

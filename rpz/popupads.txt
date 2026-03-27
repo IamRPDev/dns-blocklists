@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1774604220 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1774626900 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Pop-Up Ads DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 27 Mar 2026 09:37 UTC
-; Version: 2026.0327.0937.03
+; Last modified: 27 Mar 2026 15:55 UTC
+; Version: 2026.0327.1555.44
 ; Syntax: RPZ
-; Number of entries: 106580
+; Number of entries: 106570
 ;
 bonzai.ad CNAME .
 *.bonzai.ad CNAME .
@@ -67034,16 +67034,8 @@ ads.tmdlead.com CNAME .
 *.ads.tmdlead.com CNAME .
 aomenxinpujing.baijiale.tmdss.com CNAME .
 *.aomenxinpujing.baijiale.tmdss.com CNAME .
-aomenwangshangduchangwangzhi.bocaiwang.tmdss.com CNAME .
-*.aomenwangshangduchangwangzhi.bocaiwang.tmdss.com CNAME .
-hongzuyishi.bocaiwang.tmdss.com CNAME .
-*.hongzuyishi.bocaiwang.tmdss.com CNAME .
-huangmazhiboba.bocaiwang.tmdss.com CNAME .
-*.huangmazhiboba.bocaiwang.tmdss.com CNAME .
-mengtekaluoyulewang.bocaiwang.tmdss.com CNAME .
-*.mengtekaluoyulewang.bocaiwang.tmdss.com CNAME .
-tianduguojiyulehuisuo.bocaiwang.tmdss.com CNAME .
-*.tianduguojiyulehuisuo.bocaiwang.tmdss.com CNAME .
+bocaiwang.tmdss.com CNAME .
+*.bocaiwang.tmdss.com CNAME .
 dubowangyeyouxi.tmdss.com CNAME .
 *.dubowangyeyouxi.tmdss.com CNAME .
 duboyouxijipojiefangfa.tmdss.com CNAME .
@@ -67056,12 +67048,8 @@ liboguojiyule.tmdss.com CNAME .
 *.liboguojiyule.tmdss.com CNAME .
 ligaoyulecheng.tmdss.com CNAME .
 *.ligaoyulecheng.tmdss.com CNAME .
-boebaiyulecheng.yulecheng.tmdss.com CNAME .
-*.boebaiyulecheng.yulecheng.tmdss.com CNAME .
-huangguanzhengwangyounajige.yulecheng.tmdss.com CNAME .
-*.huangguanzhengwangyounajige.yulecheng.tmdss.com CNAME .
-huanqiuyulecheng.yulecheng.tmdss.com CNAME .
-*.huanqiuyulecheng.yulecheng.tmdss.com CNAME .
+yulecheng.tmdss.com CNAME .
+*.yulecheng.tmdss.com CNAME .
 tmfjas.com CNAME .
 *.tmfjas.com CNAME .
 tmll1.com CNAME .
@@ -90980,6 +90968,8 @@ worried-difference.pro CNAME .
 *.worried-difference.pro CNAME .
 worst-message.pro CNAME .
 *.worst-message.pro CNAME .
+worst-parent.pro CNAME .
+*.worst-parent.pro CNAME .
 worst-recognition.pro CNAME .
 *.worst-recognition.pro CNAME .
 worstbreath.pro CNAME .

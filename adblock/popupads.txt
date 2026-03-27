@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 27 Mar 2026 09:37 UTC
-! Version: 2026.0327.0937.03
+! Last modified: 27 Mar 2026 15:55 UTC
+! Version: 2026.0327.1555.44
 ! Syntax: AdBlock
-! Number of entries: 53290
+! Number of entries: 53285
 !
 ||0.beer^
 ||0.club^
@@ -46748,20 +46748,14 @@
 ||ads.tmdlead.com^
 ||tmdqlk.top^
 ||aomenxinpujing.baijiale.tmdss.com^
-||aomenwangshangduchangwangzhi.bocaiwang.tmdss.com^
-||hongzuyishi.bocaiwang.tmdss.com^
-||huangmazhiboba.bocaiwang.tmdss.com^
-||mengtekaluoyulewang.bocaiwang.tmdss.com^
-||tianduguojiyulehuisuo.bocaiwang.tmdss.com^
+||bocaiwang.tmdss.com^
 ||dubowangyeyouxi.tmdss.com^
 ||duboyouxijipojiefangfa.tmdss.com^
 ||feilvbintaiyangcheng77suncjty.tmdss.com^
 ||jishibifenwang.tmdss.com^
 ||liboguojiyule.tmdss.com^
 ||ligaoyulecheng.tmdss.com^
-||boebaiyulecheng.yulecheng.tmdss.com^
-||huangguanzhengwangyounajige.yulecheng.tmdss.com^
-||huanqiuyulecheng.yulecheng.tmdss.com^
+||yulecheng.tmdss.com^
 ||tmfjas.com^
 ||tmfngnuqxzpux.online^
 ||tmll1.com^
@@ -51246,6 +51240,7 @@
 ||qb.worsencabaan.com^
 ||worshippers.store^
 ||worst-message.pro^
+||worst-parent.pro^
 ||worst-recognition.pro^
 ||worstbreath.pro^
 ||worstvoice.com^
