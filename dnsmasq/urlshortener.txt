@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Mar 2026 21:40 UTC
-# Version: 2026.0325.2140.00
+# Last modified: 27 Mar 2026 03:41 UTC
+# Version: 2026.0327.0341.02
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9914
+# Number of entries: 9916
 #
 local=/0.gp/
 local=/00m.in/
@@ -1094,6 +1094,7 @@ local=/biggiris.link/
 local=/biggo.tw/
 local=/bigolink.com/
 local=/bigurl.io/
+local=/bigwinjiliwin63.online/
 local=/biibly.com/
 local=/billion.run/
 local=/biltiy.com/
@@ -7670,6 +7671,7 @@ local=/spqr.to/
 local=/spr.ly/
 local=/spr.tn/
 local=/sprk.it/
+local=/sprkt.io/
 local=/sproutingdiscipleship.com/
 local=/sproutqr.com/
 local=/sprtsnt.ca/

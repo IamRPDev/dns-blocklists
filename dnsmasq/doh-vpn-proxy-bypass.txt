@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Mar 2026 11:02 UTC
-# Version: 2026.0326.1102.31
+# Last modified: 27 Mar 2026 05:14 UTC
+# Version: 2026.0327.0514.47
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 16809
+# Number of entries: 16810
 #
 local=/000000555.xyz/
 local=/ss.0001.xyz/
@@ -6217,6 +6217,7 @@ local=/dns.fizz.studio/
 local=/resolve.fknw.de/
 local=/flame-vpn.com/
 local=/flamecore.ir/
+local=/flarevpn.digital/
 local=/flashcarder.net/
 local=/flashpull.com/
 local=/flashpush.net/
