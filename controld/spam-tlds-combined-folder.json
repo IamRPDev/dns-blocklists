@@ -5789,6 +5789,13 @@
       }
     },
     {
+      "PK": "prop.cm",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "protomedia.ninja",
       "action": {
         "do": 1,

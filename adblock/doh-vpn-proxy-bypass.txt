@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 28 Mar 2026 11:10 UTC
-! Version: 2026.0328.1110.44
+! Last modified: 28 Mar 2026 20:45 UTC
+! Version: 2026.0328.2045.23
 ! Syntax: AdBlock
-! Number of entries: 16811
+! Number of entries: 16812
 !
 ||000000555.xyz^
 ||ss.0001.xyz^
@@ -6342,6 +6342,7 @@
 ||small-kids.foxgateway.com^
 ||stop-it-now-stop-it-now.foxgateway.com^
 ||we-need-more.foxgateway.com^
+||dns.foximao.cn^
 ||de-f1.foxyfy.net^
 ||dns.foxyfy.net^
 ||es-ma.foxyfy.net^

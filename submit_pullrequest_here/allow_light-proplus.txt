@@ -1,5 +1,9 @@
 # Unblocking for relaxed, balanced and aggressive (pro++) lists only
 
+# https://github.com/hagezi/dns-blocklists/issues/9537
+connect.facebook.com
+connect.facebook.net
+
 # https://github.com/hagezi/dns-Blocklists/issues/9493
 p16-ad-site-sign-sg.tiktokcdn.com
 p16-ad-site-sign-sg.tiktokcdn.com.edgesuite.net

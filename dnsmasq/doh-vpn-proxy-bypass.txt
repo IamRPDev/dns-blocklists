@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 28 Mar 2026 11:10 UTC
-# Version: 2026.0328.1110.44
+# Last modified: 28 Mar 2026 20:45 UTC
+# Version: 2026.0328.2045.23
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 16811
+# Number of entries: 16812
 #
 local=/000000555.xyz/
 local=/ss.0001.xyz/
@@ -6341,6 +6341,7 @@ local=/sena-and-jacob-yap-too-much.foxgateway.com/
 local=/small-kids.foxgateway.com/
 local=/stop-it-now-stop-it-now.foxgateway.com/
 local=/we-need-more.foxgateway.com/
+local=/dns.foximao.cn/
 local=/de-f1.foxyfy.net/
 local=/dns.foxyfy.net/
 local=/es-ma.foxyfy.net/

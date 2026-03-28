@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 28 Mar 2026 11:01 UTC
-# Version: 2026.0328.1101.45
+# Last modified: 28 Mar 2026 20:37 UTC
+# Version: 2026.0328.2037.09
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 100114
+# Number of entries: 100121
 #
 local=/0-bdmbet.com/
 local=/0-casino.com/
@@ -8888,6 +8888,7 @@ local=/871verdecasino45.com/
 local=/8721.casino/
 local=/8724.casino/
 local=/872thwin.com/
+local=/874betpuan.com/
 local=/8775.casino/
 local=/8777.casino/
 local=/8787betsi.com/
@@ -17082,7 +17083,6 @@ local=/betsafepo.com/
 local=/betsafes.org/
 local=/betsafesports.com/
 local=/betsafeturkey.com/
-local=/betsaga.live/
 local=/betsaida.pl/
 local=/betsaidastudio.com/
 local=/betsaker.com/
@@ -19696,6 +19696,7 @@ local=/bob-casino.sk/
 local=/bob-casino-deutschland.com/
 local=/bob-casinos-canada.com/
 local=/bobabetpro.xyz/
+local=/bobatoto333.com/
 local=/bobatutu.com/
 local=/bobby-casino-australia.com/
 local=/bobby-casino-deutschland.com/
@@ -32489,6 +32490,7 @@ local=/cicakwinslot.shop/
 local=/ciclone.bet/
 local=/cidercasino.com/
 local=/cidukjp.online/
+local=/cielitoyoga.com/
 local=/cig.casino/
 local=/cimfpanama2024.com/
 local=/cinderellaslots.net/
@@ -51222,6 +51224,7 @@ local=/hokibonus.org/
 local=/hokicasino.com/
 local=/hokicasino88.com/
 local=/hokicasino88.org/
+local=/hokiforfun.com/
 local=/hokigacor.online/
 local=/hokigacor.xyz/
 local=/hokijoss.team/
@@ -53541,6 +53544,7 @@ local=/jackdom182.casino/
 local=/jackdom259.casino/
 local=/jackdomcasino.com/
 local=/jackdomcasino.org/
+local=/cash.jackgabung.com/
 local=/jackie-jackpot.casino/
 local=/jackiejackpot.com/
 local=/jackiejackpotcasino.com/
@@ -58631,7 +58635,6 @@ local=/legzo-casino.ru/
 local=/legzo-casino-cbsfry6.ru/
 local=/legzo-casino-deutschland.com/
 local=/legzo-casino-do-amp.ru/
-local=/legzo-casino-dobr-amp.ru/
 local=/legzo-casino-faunia3.ru/
 local=/legzo-casino-for-amp.ru/
 local=/legzo-casino-gvard-amp.ru/
@@ -64204,6 +64207,7 @@ local=/meritcasinogiris.net/
 local=/meritcasinoquarter.shop/
 local=/meritcasinostudio.shop/
 local=/meritcasinoworks.shop/
+local=/meritiking1671.com/
 local=/meritkadrescasinogir.com/
 local=/meritking-casino-erisim.com/
 local=/meritking-casino1.com/
@@ -64213,6 +64217,7 @@ local=/meritking-giris.casino/
 local=/meritking-guncelcasino.com/
 local=/meritking1651.com/
 local=/meritking1652.com/
+local=/meritking2701.com/
 local=/meritkingadreslercasino.com/
 local=/meritkingcasinomvip.com/
 local=/meritkingcasinoreg.online/
@@ -71871,6 +71876,7 @@ local=/paraverenslotsaatleri.top/
 local=/pardejokercasino.com/
 local=/paretoedgepoker.com/
 local=/parfumjigong.xyz/
+local=/parfutoria.com/
 local=/pari.ru/
 local=/pari-betting.com/
 local=/pari-match-br.com/
@@ -77698,6 +77704,7 @@ local=/pussy888.website/
 local=/pusulabets.net/
 local=/pusulabets1078.com/
 local=/pusulabetsgiris.vip/
+local=/pusulabett1085.com/
 local=/putaranhariini.site/
 local=/putarlagi.com/
 local=/putriemas.xyz/

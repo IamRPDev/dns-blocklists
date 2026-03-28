@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 28 Mar 2026 11:03 UTC
-# Version: 2026.0328.1103.53
+# Last modified: 28 Mar 2026 20:38 UTC
+# Version: 2026.0328.2038.30
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 52065
+# Number of entries: 52070
 #
 local=/0-bdmbet.com/
 local=/00.game/
@@ -4835,6 +4835,7 @@ local=/86bets.vc/
 local=/86k.casino/
 local=/86z.casino/
 local=/8721.casino/
+local=/874betpuan.com/
 local=/8775.casino/
 local=/878it.casino/
 local=/87aa87.com/
@@ -9242,7 +9243,6 @@ local=/betsafe-norge.com/
 local=/betsafenorge.com/
 local=/betsafepo.com/
 local=/betsafeturkey.com/
-local=/betsaga.live/
 local=/betsaker.com/
 local=/betsala11.com/
 local=/betsale.shop/
@@ -10543,6 +10543,7 @@ local=/boaboa-casino.fi/
 local=/boatctr.com/
 local=/bob-bets.com/
 local=/bob-casino-deutschland.com/
+local=/bobatoto333.com/
 local=/bobatutu.com/
 local=/bobby-casino-australia.com/
 local=/bobby-casino-deutschland.com/
@@ -16899,6 +16900,7 @@ local=/cicakwinjaya.lat/
 local=/cicakwinjaya.online/
 local=/cicakwinslot.shop/
 local=/cidercasino.com/
+local=/cielitoyoga.com/
 local=/cimfpanama2024.com/
 local=/cinderellaslots.net/
 local=/cindraprasasti.com/
@@ -27257,6 +27259,7 @@ local=/hoki138nova.com/
 local=/hoki138upper.com/
 local=/hoki178.id/
 local=/hoki189bos.com/
+local=/hokiforfun.com/
 local=/hokigacor.online/
 local=/hokijoss.team/
 local=/hokimulu.org/
@@ -30820,7 +30823,6 @@ local=/legzo.casino/
 local=/legzo-casino.cloud/
 local=/legzo-casino-cbsfry6.ru/
 local=/legzo-casino-do-amp.ru/
-local=/legzo-casino-dobr-amp.ru/
 local=/legzo-casino-faunia3.ru/
 local=/legzo-casino-for-amp.ru/
 local=/legzo-casino-gvard-amp.ru/
@@ -33591,12 +33593,14 @@ local=/meritcasinogiris.net/
 local=/meritcasinoquarter.shop/
 local=/meritcasinostudio.shop/
 local=/meritcasinoworks.shop/
+local=/meritiking1671.com/
 local=/meritkadrescasinogir.com/
 local=/meritking-casino-erisim.com/
 local=/meritking-casinoadres.com/
 local=/meritking-casinorehberi2026.com/
 local=/meritking-giris.casino/
 local=/meritking-guncelcasino.com/
+local=/meritking2701.com/
 local=/meritkingcasinos.com/
 local=/meritlimancasino364.com/
 local=/meritlimancasino365.com/
@@ -40520,6 +40524,7 @@ local=/pussy888.store/
 local=/pussy888.website/
 local=/pusulabets.net/
 local=/pusulabets1078.com/
+local=/pusulabett1085.com/
 local=/putarlagi.com/
 local=/pvbet.com/
 local=/pvlu.org/

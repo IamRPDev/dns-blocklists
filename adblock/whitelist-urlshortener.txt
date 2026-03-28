@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 27 Mar 2026 03:41 UTC
-! Version: 2026.0327.0341.02
+! Last modified: 28 Mar 2026 19:14 UTC
+! Version: 2026.0328.1914.39
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -4563,6 +4563,8 @@
 @@||linkutama.app^
 @@||linkverified.net^
 @@||linkverkorten.com^
+@@||linkvertise.com^
+@@||linkvertise.net^
 @@||linkvip88.org^
 @@||linkvp.com^
 @@||linkvs.com^

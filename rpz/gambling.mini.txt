@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1774695780 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1774730280 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 28 Mar 2026 11:03 UTC
-; Version: 2026.0328.1103.53
+; Last modified: 28 Mar 2026 20:38 UTC
+; Version: 2026.0328.2038.30
 ; Syntax: RPZ
-; Number of entries: 104130
+; Number of entries: 104140
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -18016,6 +18016,8 @@ images.6929183.com CNAME .
 *.8673bets.com CNAME .
 868.com CNAME .
 *.868.com CNAME .
+874betpuan.com CNAME .
+*.874betpuan.com CNAME .
 87aa87.com CNAME .
 *.87aa87.com CNAME .
 87casinobossy13.com CNAME .
@@ -23780,6 +23782,8 @@ bob-bets.com CNAME .
 *.bob-bets.com CNAME .
 bob-casino-deutschland.com CNAME .
 *.bob-casino-deutschland.com CNAME .
+bobatoto333.com CNAME .
+*.bobatoto333.com CNAME .
 bobatutu.com CNAME .
 *.bobatutu.com CNAME .
 bobby-casino-australia.com CNAME .
@@ -29028,6 +29032,8 @@ chutbets.com CNAME .
 *.chutbets.com CNAME .
 cidercasino.com CNAME .
 *.cidercasino.com CNAME .
+cielitoyoga.com CNAME .
+*.cielitoyoga.com CNAME .
 cimfpanama2024.com CNAME .
 *.cimfpanama2024.com CNAME .
 cindraprasasti.com CNAME .
@@ -38068,6 +38074,8 @@ hoki138upper.com CNAME .
 *.hoki138upper.com CNAME .
 hoki189bos.com CNAME .
 *.hoki189bos.com CNAME .
+hokiforfun.com CNAME .
+*.hokiforfun.com CNAME .
 hokipedia77.com CNAME .
 *.hokipedia77.com CNAME .
 hokislot88.com CNAME .
@@ -43936,6 +43944,8 @@ meritcasino874.com CNAME .
 *.meritcasino874.com CNAME .
 meritcasino875.com CNAME .
 *.meritcasino875.com CNAME .
+meritiking1671.com CNAME .
+*.meritiking1671.com CNAME .
 meritkadrescasinogir.com CNAME .
 *.meritkadrescasinogir.com CNAME .
 meritking-casino-erisim.com CNAME .
@@ -43946,6 +43956,8 @@ meritking-casinorehberi2026.com CNAME .
 *.meritking-casinorehberi2026.com CNAME .
 meritking-guncelcasino.com CNAME .
 *.meritking-guncelcasino.com CNAME .
+meritking2701.com CNAME .
+*.meritking2701.com CNAME .
 meritkingcasinos.com CNAME .
 *.meritkingcasinos.com CNAME .
 meritlimancasino364.com CNAME .
@@ -50146,6 +50158,8 @@ pushdigit.com CNAME .
 *.pushdigit.com CNAME .
 pusulabets1078.com CNAME .
 *.pusulabets1078.com CNAME .
+pusulabett1085.com CNAME .
+*.pusulabett1085.com CNAME .
 putarlagi.com CNAME .
 *.putarlagi.com CNAME .
 pvbet.com CNAME .
@@ -70354,8 +70368,6 @@ bestcasino-jackpot.live CNAME .
 *.bestcasino-jackpot.live CNAME .
 bets3.live CNAME .
 *.bets3.live CNAME .
-betsaga.live CNAME .
-*.betsaga.live CNAME .
 betshet.live CNAME .
 *.betshet.live CNAME .
 betski.live CNAME .
@@ -85302,8 +85314,6 @@ legzo-casino-cbsfry6.ru CNAME .
 *.legzo-casino-cbsfry6.ru CNAME .
 legzo-casino-do-amp.ru CNAME .
 *.legzo-casino-do-amp.ru CNAME .
-legzo-casino-dobr-amp.ru CNAME .
-*.legzo-casino-dobr-amp.ru CNAME .
 legzo-casino-faunia3.ru CNAME .
 *.legzo-casino-faunia3.ru CNAME .
 legzo-casino-for-amp.ru CNAME .

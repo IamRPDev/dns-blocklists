@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 28 Mar 2026 11:10 UTC
-# Version: 2026.0328.1110.01
+# Last modified: 28 Mar 2026 20:44 UTC
+# Version: 2026.0328.2044.40
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3491
+# Number of entries: 3492
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -1418,6 +1418,7 @@ local=/jp193.flyzhouyc.win/
 local=/st.flyzhouyc.win/
 local=/yin.flyzhouyc.win/
 local=/gateway.fomichev.cloud/
+local=/dns.foximao.cn/
 local=/de-f1.foxyfy.net/
 local=/dns.foxyfy.net/
 local=/es-ma.foxyfy.net/
