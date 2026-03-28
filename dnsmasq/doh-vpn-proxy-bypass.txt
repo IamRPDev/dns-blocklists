@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 27 Mar 2026 05:14 UTC
-# Version: 2026.0327.0514.47
+# Last modified: 28 Mar 2026 11:10 UTC
+# Version: 2026.0328.1110.44
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 16810
+# Number of entries: 16811
 #
 local=/000000555.xyz/
 local=/ss.0001.xyz/
@@ -9463,6 +9463,7 @@ local=/luyuyunjichang.com/
 local=/luzubu.com/
 local=/lvejbaqzj4v1xupusybd.online/
 local=/dns.lvl-network.de/
+local=/dns.lvolland.fr/
 local=/ly-1.net/
 local=/lyfesinks.com/
 local=/lynxvpn.com/

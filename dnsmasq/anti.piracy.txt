@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 27 Mar 2026 11:17 UTC
-# Version: 2026.0327.1117.46
+# Last modified: 28 Mar 2026 11:04 UTC
+# Version: 2026.0328.1104.35
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 12199
+# Number of entries: 12200
 #
 local=/003396815.xyz/
 local=/004430.xyz/
@@ -8719,6 +8719,7 @@ local=/seedoff.net/
 local=/seedpeer.com/
 local=/seedpeer.eu/
 local=/seedpeer.me/
+local=/seedpeer.net/
 local=/seedr.cc/
 local=/seehd.co/
 local=/seehd.nl/

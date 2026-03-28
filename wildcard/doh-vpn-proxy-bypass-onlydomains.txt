@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 27 Mar 2026 05:14 UTC
-# Version: 2026.0327.0514.47
+# Last modified: 28 Mar 2026 11:10 UTC
+# Version: 2026.0328.1110.44
 # Syntax: Domains (without subdomains)
-# Number of entries: 16810
+# Number of entries: 16811
 #
 000000555.xyz
 ss.0001.xyz
@@ -9463,6 +9463,7 @@ luyuyunjichang.com
 luzubu.com
 lvejbaqzj4v1xupusybd.online
 dns.lvl-network.de
+dns.lvolland.fr
 ly-1.net
 lyfesinks.com
 lynxvpn.com

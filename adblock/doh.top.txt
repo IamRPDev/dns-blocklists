@@ -7,15 +7,16 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 25 Mar 2026 11:06 UTC
-! Version: 2026.0325.1106.30
+! Last modified: 28 Mar 2026 11:10 UTC
+! Version: 2026.0328.1110.31
 ! Syntax: AdBlock
-! Number of entries: 1136
+! Number of entries: 1138
 !
 ||003153.xyz^
 ||ns.00dani.me^
 ||0ms.dev^
 ||dns.0ooo.icu^
+||sg.101818.xyz^
 ||123000123.xyz^
 ||dns.13evl.com^
 ||httpdns.music.163.com^
@@ -89,6 +90,7 @@
 ||doh.appliedprivacy.net^
 ||dot1.appliedprivacy.net^
 ||dns.aquilenet.fr^
+||arashi.solutions^
 ||doh.archuser.org^
 ||dns.ares-taiwan.com^
 ||dns.arkbotech.com^

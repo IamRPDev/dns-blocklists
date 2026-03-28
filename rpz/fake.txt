@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1774604340 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1774690680 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 27 Mar 2026 09:39 UTC
-; Version: 2026.0327.0939.43
+; Last modified: 28 Mar 2026 09:38 UTC
+; Version: 2026.0328.0938.12
 ; Syntax: RPZ
-; Number of entries: 28476
+; Number of entries: 28478
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -6546,8 +6546,6 @@ farmspain.com CNAME .
 *.farmspain.com CNAME .
 farmtiermarkt.com CNAME .
 *.farmtiermarkt.com CNAME .
-fashican.com CNAME .
-*.fashican.com CNAME .
 fashion-ivora.com CNAME .
 *.fashion-ivora.com CNAME .
 fashionaarmy.com CNAME .
@@ -8926,8 +8924,6 @@ individualm.com CNAME .
 *.individualm.com CNAME .
 individualw.com CNAME .
 *.individualw.com CNAME .
-indonesiahotel24.com CNAME .
-*.indonesiahotel24.com CNAME .
 indoorecofarm.com CNAME .
 *.indoorecofarm.com CNAME .
 industriebauladen.com CNAME .
@@ -10438,6 +10434,8 @@ luuckylinen.com CNAME .
 *.luuckylinen.com CNAME .
 luvyle.com CNAME .
 *.luvyle.com CNAME .
+luxecycleshop.com CNAME .
+*.luxecycleshop.com CNAME .
 luxedore.com CNAME .
 *.luxedore.com CNAME .
 de4.luxedressshop.com CNAME .
@@ -10970,6 +10968,8 @@ mhoptions.com CNAME .
 *.mhoptions.com CNAME .
 michaelis-technik.com CNAME .
 *.michaelis-technik.com CNAME .
+michel-auto-concpt.com CNAME .
+*.michel-auto-concpt.com CNAME .
 michelinsuisse.com CNAME .
 *.michelinsuisse.com CNAME .
 midasmarkt.com CNAME .
@@ -13456,6 +13456,8 @@ purprints.com CNAME .
 *.purprints.com CNAME .
 pv-analyse.com CNAME .
 *.pv-analyse.com CNAME .
+pw-express.com CNAME .
+*.pw-express.com CNAME .
 pyro-effects.com CNAME .
 *.pyro-effects.com CNAME .
 pyro-expression.com CNAME .
@@ -20888,6 +20890,8 @@ idproof.de CNAME .
 *.idproof.de CNAME .
 igona.de CNAME .
 *.igona.de CNAME .
+ihreedelmetallprofis.de CNAME .
+*.ihreedelmetallprofis.de CNAME .
 ihremed.de CNAME .
 *.ihremed.de CNAME .
 ihrepotenzmittel.de CNAME .
@@ -25488,8 +25492,6 @@ hermes-project.net CNAME .
 *.hermes-project.net CNAME .
 herrenpillen.net CNAME .
 *.herrenpillen.net CNAME .
-highlandshotels.net CNAME .
-*.highlandshotels.net CNAME .
 hilfsdienst.net CNAME .
 *.hilfsdienst.net CNAME .
 hotelinphuket.net CNAME .

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 27 Mar 2026 09:39 UTC
-# Version: 2026.0327.0939.43
+# Last modified: 28 Mar 2026 09:38 UTC
+# Version: 2026.0328.0938.12
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14238
+# Number of entries: 14239
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -4214,7 +4214,6 @@ local=/farmakeioellinika24.com/
 local=/farmakeiogr.com/
 local=/farmspain.com/
 local=/farmtiermarkt.com/
-local=/fashican.com/
 local=/fashion-ivora.com/
 local=/fashionaarmy.com/
 local=/fashionablenew.com/
@@ -5957,7 +5956,6 @@ local=/high-quality-model.com/
 local=/highbroker.com/
 local=/highbtcstock.com/
 local=/highjel.com/
-local=/highlandshotels.net/
 local=/highluxury.sk/
 local=/highluxurystore.co/
 local=/hightaurus.io/
@@ -6314,6 +6312,7 @@ local=/igotit.top/
 local=/ihforex.com/
 local=/ihljpbdo.shop/
 local=/ihrbedarf.com/
+local=/ihreedelmetallprofis.de/
 local=/ihremed.de/
 local=/ihrepotenzmittel.de/
 local=/ihrerasenmaher.com/
@@ -6401,7 +6400,6 @@ local=/indicativet.com/
 local=/indigo-investissement.com/
 local=/individualm.com/
 local=/individualw.com/
-local=/indonesiahotel24.com/
 local=/indoorecofarm.com/
 local=/industrie-moebel.eu/
 local=/industriebauladen.com/
@@ -7866,6 +7864,7 @@ local=/luvyle.com/
 local=/luxavita-berlin.de/
 local=/luxde.de/
 local=/luxeberlin.de/
+local=/luxecycleshop.com/
 local=/luxedore.com/
 local=/de4.luxedressshop.com/
 local=/luxefetch.com/
@@ -8369,6 +8368,7 @@ local=/michael-mahr.de/
 local=/michaelis-technik.com/
 local=/michaelkorsberlin.de/
 local=/michaelkorssuisse.net/
+local=/michel-auto-concpt.com/
 local=/michelinsuisse.com/
 local=/mici-tech.de/
 local=/micro-spiele.de/
@@ -10426,6 +10426,7 @@ local=/purprints.net/
 local=/pushup.at/
 local=/pv-analyse.com/
 local=/pvqkcuin.shop/
+local=/pw-express.com/
 local=/pyro-effects.com/
 local=/pyro-expression.com/
 local=/qartelshop.com/
