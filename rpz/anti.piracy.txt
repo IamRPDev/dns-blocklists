@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1774730340 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1774742640 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 28 Mar 2026 20:39 UTC
-; Version: 2026.0328.2039.14
+; Last modified: 29 Mar 2026 00:04 UTC
+; Version: 2026.0329.0004.12
 ; Syntax: RPZ
-; Number of entries: 24590
+; Number of entries: 24576
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -556,8 +556,6 @@ kkiste.autos CNAME .
 *.kkiste.autos CNAME .
 moviedokan.autos CNAME .
 *.moviedokan.autos CNAME .
-moviesmod3.autos CNAME .
-*.moviesmod3.autos CNAME .
 streamingcommunityz.autos CNAME .
 *.streamingcommunityz.autos CNAME .
 yts.autos CNAME .
@@ -1200,8 +1198,6 @@ streamingcommunity.boston CNAME .
 *.streamingcommunity.boston CNAME .
 hdmovie2.bot CNAME .
 *.hdmovie2.bot CNAME .
-moviesmod.bot CNAME .
-*.moviesmod.bot CNAME .
 vegamovies.bot CNAME .
 *.vegamovies.bot CNAME .
 cineblog01.boutique CNAME .
@@ -3976,8 +3972,6 @@ thepiratebay.co.com CNAME .
 *.thepiratebay.co.com CNAME .
 coflix2.com CNAME .
 *.coflix2.com CNAME .
-coflixfr.com CNAME .
-*.coflixfr.com CNAME .
 coflixhd.com CNAME .
 *.coflixhd.com CNAME .
 coldplaybootlegs.com CNAME .
@@ -10154,8 +10148,6 @@ losmovies.fun CNAME .
 *.losmovies.fun CNAME .
 m4ufree.fun CNAME .
 *.m4ufree.fun CNAME .
-moviesmod.fun CNAME .
-*.moviesmod.fun CNAME .
 namako.fun CNAME .
 *.namako.fun CNAME .
 natsumi.fun CNAME .
@@ -11942,8 +11934,6 @@ rapidleech2011.eu.ki CNAME .
 *.rapidleech2011.eu.ki CNAME .
 mkvcinemas.kids CNAME .
 *.mkvcinemas.kids CNAME .
-moviesmod.kids CNAME .
-*.moviesmod.kids CNAME .
 xalaflix.kids CNAME .
 *.xalaflix.kids CNAME .
 1cinevood.kim CNAME .
@@ -19974,8 +19964,6 @@ moviedokan.sbs CNAME .
 *.moviedokan.sbs CNAME .
 movies123.sbs CNAME .
 *.movies123.sbs CNAME .
-moviesmod.sbs CNAME .
-*.moviesmod.sbs CNAME .
 multimovies.sbs CNAME .
 *.multimovies.sbs CNAME .
 netmirror.sbs CNAME .
@@ -24332,8 +24320,6 @@ moviefreak.xyz CNAME .
 *.moviefreak.xyz CNAME .
 movies1234.xyz CNAME .
 *.movies1234.xyz CNAME .
-moviesmod3.xyz CNAME .
-*.moviesmod3.xyz CNAME .
 movieswatch.xyz CNAME .
 *.movieswatch.xyz CNAME .
 mp4moviezhub.xyz CNAME .

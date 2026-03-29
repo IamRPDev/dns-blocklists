@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 28 Mar 2026 20:39 UTC
-# Version: 2026.0328.2039.14
+# Last modified: 29 Mar 2026 00:04 UTC
+# Version: 2026.0329.0004.12
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 12295
+# Number of entries: 12288
 #
 local=/003396815.xyz/
 local=/004430.xyz/
@@ -2253,7 +2253,6 @@ local=/coflix.wiki/
 local=/coflix.zip/
 local=/coflix2.com/
 local=/coflix2.net/
-local=/coflixfr.com/
 local=/coflixhd.com/
 local=/coflixtv.fit/
 local=/coflixtv.lol/
@@ -6923,7 +6922,6 @@ local=/moviesmobile.net/
 local=/moviesmod.bid/
 local=/moviesmod.bio/
 local=/moviesmod.blue/
-local=/moviesmod.bot/
 local=/moviesmod.build/
 local=/moviesmod.cafe/
 local=/moviesmod.cards/
@@ -6934,11 +6932,9 @@ local=/moviesmod.cool/
 local=/moviesmod.day/
 local=/moviesmod.dev/
 local=/moviesmod.forum/
-local=/moviesmod.fun/
 local=/moviesmod.fyi/
 local=/moviesmod.gift/
 local=/moviesmod.how/
-local=/moviesmod.kids/
 local=/moviesmod.kim/
 local=/moviesmod.mom/
 local=/moviesmod.nl/
@@ -6947,7 +6943,6 @@ local=/moviesmod.pink/
 local=/moviesmod.plus/
 local=/moviesmod.red/
 local=/moviesmod.rip/
-local=/moviesmod.sbs/
 local=/moviesmod.singles/
 local=/moviesmod.space/
 local=/moviesmod.store/
@@ -6958,9 +6953,7 @@ local=/moviesmod.video/
 local=/moviesmod.vip/
 local=/moviesmod.wtf/
 local=/moviesmod1.com/
-local=/moviesmod3.autos/
 local=/moviesmod3.shop/
-local=/moviesmod3.xyz/
 local=/moviesmod4u.com/
 local=/moviesmode.org/
 local=/moviesmode.town/

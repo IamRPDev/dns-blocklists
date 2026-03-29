@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 28 Mar 2026 09:38 UTC
-# Version: 2026.0328.0938.12
+# Last modified: 28 Mar 2026 22:37 UTC
+# Version: 2026.0328.2237.17
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14239
+# Number of entries: 14240
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -7861,6 +7861,7 @@ local=/luvinity-berlin.de/
 local=/luvness.de/
 local=/luvori.de/
 local=/luvyle.com/
+local=/luwander.shop/
 local=/luxavita-berlin.de/
 local=/luxde.de/
 local=/luxeberlin.de/
